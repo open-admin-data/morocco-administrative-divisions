@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MA010005_allyene",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Allyene",
+      "en": "Allyene",
+      "slug": "allyene"
+    },
+    "code": {
+      "id": "MA010005_allyene",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010005",
+      "level": 2,
+      "name": {
+        "local": "M diq Fnideq",
+        "en": "M diq Fnideq",
+        "slug": "m-diq-fnideq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010005",
+        "level": 2,
+        "name": {
+          "local": "M diq Fnideq",
+          "en": "M diq Fnideq",
+          "slug": "m-diq-fnideq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93055"
+    ],
+    "geo": {
+      "lat": "35.76",
+      "lon": "-5.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010005_belyounech",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belyounech",
+      "en": "Belyounech",
+      "slug": "belyounech"
+    },
+    "code": {
+      "id": "MA010005_belyounech",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010005",
+      "level": 2,
+      "name": {
+        "local": "M diq Fnideq",
+        "en": "M diq Fnideq",
+        "slug": "m-diq-fnideq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010005",
+        "level": 2,
+        "name": {
+          "local": "M diq Fnideq",
+          "en": "M diq Fnideq",
+          "slug": "m-diq-fnideq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93103"
+    ],
+    "geo": {
+      "lat": "35.76",
+      "lon": "-5.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010005_fnidq",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fnidq",
+      "en": "Fnidq",
+      "slug": "fnidq"
+    },
+    "code": {
+      "id": "MA010005_fnidq",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010005",
+      "level": 2,
+      "name": {
+        "local": "M diq Fnideq",
+        "en": "M diq Fnideq",
+        "slug": "m-diq-fnideq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010005",
+        "level": 2,
+        "name": {
+          "local": "M diq Fnideq",
+          "en": "M diq Fnideq",
+          "slug": "m-diq-fnideq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93100"
+    ],
+    "geo": {
+      "lat": "35.617",
+      "lon": "-5.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010005_martil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Martil",
+      "en": "Martil",
+      "slug": "martil"
+    },
+    "code": {
+      "id": "MA010005_martil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010005",
+      "level": 2,
+      "name": {
+        "local": "M diq Fnideq",
+        "en": "M diq Fnideq",
+        "slug": "m-diq-fnideq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010005",
+        "level": 2,
+        "name": {
+          "local": "M diq Fnideq",
+          "en": "M diq Fnideq",
+          "slug": "m-diq-fnideq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93150"
+    ],
+    "geo": {
+      "lat": "35.457",
+      "lon": "-5.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010005_mdiq",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mdiq",
+      "en": "Mdiq",
+      "slug": "mdiq"
+    },
+    "code": {
+      "id": "MA010005_mdiq",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010005",
+      "level": 2,
+      "name": {
+        "local": "M diq Fnideq",
+        "en": "M diq Fnideq",
+        "slug": "m-diq-fnideq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010005",
+        "level": 2,
+        "name": {
+          "local": "M diq Fnideq",
+          "en": "M diq Fnideq",
+          "slug": "m-diq-fnideq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93200"
+    ],
+    "geo": {
+      "lat": "35.457",
+      "lon": "-5.432"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

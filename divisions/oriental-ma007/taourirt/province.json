@@ -1,0 +1,47 @@
+{
+  "id": "MA007008",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Taourirt",
+    "en": "Taourirt",
+    "slug": "taourirt"
+  },
+  "code": {
+    "id": "MA007008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA007",
+    "level": 1,
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.045",
+    "lon": "-2.796"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "MA001004_aguelmam-azegza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aguelmam Azegza",
+      "en": "Aguelmam Azegza",
+      "slug": "aguelmam-azegza"
+    },
+    "code": {
+      "id": "MA001004_aguelmam-azegza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54013"
+    ],
+    "geo": {
+      "lat": "32.969",
+      "lon": "-5.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_aguelmouss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aguelmouss",
+      "en": "Aguelmouss",
+      "slug": "aguelmouss"
+    },
+    "code": {
+      "id": "MA001004_aguelmouss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54052"
+    ],
+    "geo": {
+      "lat": "33.161",
+      "lon": "-5.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_ain-aicha-ait-saadelli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Aicha Ait Saadelli",
+      "en": "Ain Aicha Ait Saadelli",
+      "slug": "ain-aicha-ait-saadelli"
+    },
+    "code": {
+      "id": "MA001004_ain-aicha-ait-saadelli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54153"
+    ],
+    "geo": {
+      "lat": "32.724",
+      "lon": "-5.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_ait-ishak",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ishak",
+      "en": "Ait Ishak",
+      "slug": "ait-ishak"
+    },
+    "code": {
+      "id": "MA001004_ait-ishak",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54103"
+    ],
+    "geo": {
+      "lat": "32.762",
+      "lon": "-5.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_el-borj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Borj",
+      "en": "El Borj",
+      "slug": "el-borj"
+    },
+    "code": {
+      "id": "MA001004_el-borj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54032"
+    ],
+    "geo": {
+      "lat": "32.969",
+      "lon": "-5.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_el-hammam",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Hammam",
+      "en": "El Hammam",
+      "slug": "el-hammam"
+    },
+    "code": {
+      "id": "MA001004_el-hammam",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54452"
+    ],
+    "geo": {
+      "lat": "33.175",
+      "lon": "-5.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_el-hri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Hri",
+      "en": "El Hri",
+      "slug": "el-hri"
+    },
+    "code": {
+      "id": "MA001004_el-hri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54022"
+    ],
+    "geo": {
+      "lat": "33.161",
+      "lon": "-5.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_el-kebab",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Kebab",
+      "en": "El Kebab",
+      "slug": "el-kebab"
+    },
+    "code": {
+      "id": "MA001004_el-kebab",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54203"
+    ],
+    "geo": {
+      "lat": "32.741",
+      "lon": "-5.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_jbel-aouama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jbel Aouama",
+      "en": "Jbel Aouama",
+      "slug": "jbel-aouama"
+    },
+    "code": {
+      "id": "MA001004_jbel-aouama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54472"
+    ],
+    "geo": {
+      "lat": "32.895",
+      "lon": "-5.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_kaf-nsour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kaf Nsour",
+      "en": "Kaf Nsour",
+      "slug": "kaf-nsour"
+    },
+    "code": {
+      "id": "MA001004_kaf-nsour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54002"
+    ],
+    "geo": {
+      "lat": "33.161",
+      "lon": "-5.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_kerrouchen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kerrouchen",
+      "en": "Kerrouchen",
+      "slug": "kerrouchen"
+    },
+    "code": {
+      "id": "MA001004_kerrouchen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54302"
+    ],
+    "geo": {
+      "lat": "32.796",
+      "lon": "-5.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_moha-ou-hammou-zaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moha Ou Hammou Zaya",
+      "en": "Moha Ou Hammou Zaya",
+      "slug": "moha-ou-hammou-zaya"
+    },
+    "code": {
+      "id": "MA001004_moha-ou-hammou-zaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54014"
+    ],
+    "geo": {
+      "lat": "32.969",
+      "lon": "-5.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_moulay-bouazza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Bouazza",
+      "en": "Moulay Bouazza",
+      "slug": "moulay-bouazza"
+    },
+    "code": {
+      "id": "MA001004_moulay-bouazza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54403"
+    ],
+    "geo": {
+      "lat": "33.005",
+      "lon": "-5.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_mrirt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mrirt",
+      "en": "Mrirt",
+      "slug": "mrirt"
+    },
+    "code": {
+      "id": "MA001004_mrirt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54450"
+    ],
+    "geo": {
+      "lat": "33.175",
+      "lon": "-5.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_ouaoumana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouaoumana",
+      "en": "Ouaoumana",
+      "slug": "ouaoumana"
+    },
+    "code": {
+      "id": "MA001004_ouaoumana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54102"
+    ],
+    "geo": {
+      "lat": "32.71",
+      "lon": "-5.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_oum-rabia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oum Rabia",
+      "en": "Oum Rabia",
+      "slug": "oum-rabia"
+    },
+    "code": {
+      "id": "MA001004_oum-rabia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54473"
+    ],
+    "geo": {
+      "lat": "32.895",
+      "lon": "-5.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_sidi-amar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Amar",
+      "en": "Sidi Amar",
+      "slug": "sidi-amar"
+    },
+    "code": {
+      "id": "MA001004_sidi-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54015"
+    ],
+    "geo": {
+      "lat": "32.969",
+      "lon": "-5.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_sidi-bouabbed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bouabbed",
+      "en": "Sidi Bouabbed",
+      "slug": "sidi-bouabbed"
+    },
+    "code": {
+      "id": "MA001004_sidi-bouabbed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54023"
+    ],
+    "geo": {
+      "lat": "33.161",
+      "lon": "-5.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_sidi-hcine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Hcine",
+      "en": "Sidi Hcine",
+      "slug": "sidi-hcine"
+    },
+    "code": {
+      "id": "MA001004_sidi-hcine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54016"
+    ],
+    "geo": {
+      "lat": "32.969",
+      "lon": "-5.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_sidi-lamine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Lamine",
+      "en": "Sidi Lamine",
+      "slug": "sidi-lamine"
+    },
+    "code": {
+      "id": "MA001004_sidi-lamine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54025"
+    ],
+    "geo": {
+      "lat": "32.969",
+      "lon": "-5.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_sidi-mhamed-ben-mbarek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mhamed Ben Mbarek",
+      "en": "Sidi Mhamed Ben Mbarek",
+      "slug": "sidi-mhamed-ben-mbarek"
+    },
+    "code": {
+      "id": "MA001004_sidi-mhamed-ben-mbarek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54425"
+    ],
+    "geo": {
+      "lat": "32.895",
+      "lon": "-5.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_sidi-yahya-ou-saad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Yahya Ou Saad",
+      "en": "Sidi Yahya Ou Saad",
+      "slug": "sidi-yahya-ou-saad"
+    },
+    "code": {
+      "id": "MA001004_sidi-yahya-ou-saad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54202"
+    ],
+    "geo": {
+      "lat": "32.68",
+      "lon": "-5.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_souk-had-bouhsoussen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Had Bouhsoussen",
+      "en": "Souk Had Bouhsoussen",
+      "slug": "souk-had-bouhsoussen"
+    },
+    "code": {
+      "id": "MA001004_souk-had-bouhsoussen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54402"
+    ],
+    "geo": {
+      "lat": "32.615",
+      "lon": "-6.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_souk-sebt-ait-rahou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Sebt Ait Rahou",
+      "en": "Souk Sebt Ait Rahou",
+      "slug": "souk-sebt-ait-rahou"
+    },
+    "code": {
+      "id": "MA001004_souk-sebt-ait-rahou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54423"
+    ],
+    "geo": {
+      "lat": "32.895",
+      "lon": "-5.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_souk-tnine-ait-boukhayyou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Tnine Ait Boukhayyou",
+      "en": "Souk Tnine Ait Boukhayyou",
+      "slug": "souk-tnine-ait-boukhayyou"
+    },
+    "code": {
+      "id": "MA001004_souk-tnine-ait-boukhayyou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54424"
+    ],
+    "geo": {
+      "lat": "32.895",
+      "lon": "-5.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_tighessaline",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tighessaline",
+      "en": "Tighessaline",
+      "slug": "tighessaline"
+    },
+    "code": {
+      "id": "MA001004_tighessaline",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54003"
+    ],
+    "geo": {
+      "lat": "33.161",
+      "lon": "-5.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001004_tizi-nghachou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizi Nghachou",
+      "en": "Tizi Nghachou",
+      "slug": "tizi-nghachou"
+    },
+    "code": {
+      "id": "MA001004_tizi-nghachou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001004",
+      "level": 2,
+      "name": {
+        "local": "Khenifra",
+        "en": "Khenifra",
+        "slug": "khenifra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001004",
+        "level": 2,
+        "name": {
+          "local": "Khenifra",
+          "en": "Khenifra",
+          "slug": "khenifra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54382"
+    ],
+    "geo": {
+      "lat": "32.969",
+      "lon": "-5.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

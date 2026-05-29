@@ -1,0 +1,47 @@
+{
+  "id": "MA010007",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ouezzane",
+    "en": "Ouezzane",
+    "slug": "ouezzane"
+  },
+  "code": {
+    "id": "MA010007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA010",
+    "level": 1,
+    "name": {
+      "local": "طنجة - تطوان - الحسيمة",
+      "en": "Tangier Tetouan Al Hoceima",
+      "slug": "tangier-tetouan-al-hoceima-ma010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.779",
+    "lon": "-5.471"
+  },
+  "metadata": {},
+  "source": {}
+}

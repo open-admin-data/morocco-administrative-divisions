@@ -1,0 +1,47 @@
+{
+  "id": "MA001003",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Fquih Ben Saleh",
+    "en": "Fquih Ben Saleh",
+    "slug": "fquih-ben-saleh"
+  },
+  "code": {
+    "id": "MA001003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA001",
+    "level": 1,
+    "name": {
+      "local": "بني ملال - خنيفرة",
+      "en": "Beni Mellal Khenifra",
+      "slug": "beni-mellal-khenifra-ma001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA001",
+      "level": 1,
+      "name": {
+        "local": "بني ملال - خنيفرة",
+        "en": "Beni Mellal Khenifra",
+        "slug": "beni-mellal-khenifra-ma001"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.421",
+    "lon": "-6.733"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MA003001",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ouarzazate",
+    "en": "Ouarzazate",
+    "slug": "ouarzazate"
+  },
+  "code": {
+    "id": "MA003001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA003",
+    "level": 1,
+    "name": {
+      "local": "درعة - تافيلالت",
+      "en": "Draa Tafilalet",
+      "slug": "draa-tafilalet-ma003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA003",
+      "level": 1,
+      "name": {
+        "local": "درعة - تافيلالت",
+        "en": "Draa Tafilalet",
+        "slug": "draa-tafilalet-ma003"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.825",
+    "lon": "-7.242"
+  },
+  "metadata": {},
+  "source": {}
+}

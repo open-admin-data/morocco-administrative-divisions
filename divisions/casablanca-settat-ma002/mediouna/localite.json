@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MA002003_aeroport-mohamed-v",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aeroport Mohamed V",
+      "en": "Aeroport Mohamed V",
+      "slug": "aeroport-mohamed-v"
+    },
+    "code": {
+      "id": "MA002003_aeroport-mohamed-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002003",
+      "level": 2,
+      "name": {
+        "local": "Mediouna",
+        "en": "Mediouna",
+        "slug": "mediouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002003",
+        "level": 2,
+        "name": {
+          "local": "Mediouna",
+          "en": "Mediouna",
+          "slug": "mediouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29002"
+    ],
+    "geo": {
+      "lat": "33.505",
+      "lon": "-7.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002003_aeroport-mohamed-v-terminal-2",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aeroport Mohamed V Terminal 2",
+      "en": "Aeroport Mohamed V Terminal 2",
+      "slug": "aeroport-mohamed-v-terminal-2"
+    },
+    "code": {
+      "id": "MA002003_aeroport-mohamed-v-terminal-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002003",
+      "level": 2,
+      "name": {
+        "local": "Mediouna",
+        "en": "Mediouna",
+        "slug": "mediouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002003",
+        "level": 2,
+        "name": {
+          "local": "Mediouna",
+          "en": "Mediouna",
+          "slug": "mediouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29003"
+    ],
+    "geo": {
+      "lat": "33.505",
+      "lon": "-7.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002003_al-majjatia-oulad-taleb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Majjatia Oulad Taleb",
+      "en": "Al Majjatia Oulad Taleb",
+      "slug": "al-majjatia-oulad-taleb"
+    },
+    "code": {
+      "id": "MA002003_al-majjatia-oulad-taleb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002003",
+      "level": 2,
+      "name": {
+        "local": "Mediouna",
+        "en": "Mediouna",
+        "slug": "mediouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002003",
+        "level": 2,
+        "name": {
+          "local": "Mediouna",
+          "en": "Mediouna",
+          "slug": "mediouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29643"
+    ],
+    "geo": {
+      "lat": "33.495",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002003_lahraouyine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lahraouyine",
+      "en": "Lahraouyine",
+      "slug": "lahraouyine"
+    },
+    "code": {
+      "id": "MA002003_lahraouyine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002003",
+      "level": 2,
+      "name": {
+        "local": "Mediouna",
+        "en": "Mediouna",
+        "slug": "mediouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002003",
+        "level": 2,
+        "name": {
+          "local": "Mediouna",
+          "en": "Mediouna",
+          "slug": "mediouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29004"
+    ],
+    "geo": {
+      "lat": "33.505",
+      "lon": "-7.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002003_mediouna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mediouna",
+      "en": "Mediouna",
+      "slug": "mediouna"
+    },
+    "code": {
+      "id": "MA002003_mediouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002003",
+      "level": 2,
+      "name": {
+        "local": "Mediouna",
+        "en": "Mediouna",
+        "slug": "mediouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002003",
+        "level": 2,
+        "name": {
+          "local": "Mediouna",
+          "en": "Mediouna",
+          "slug": "mediouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29490"
+    ],
+    "geo": {
+      "lat": "33.452",
+      "lon": "-7.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002003_oued-hassar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Hassar",
+      "en": "Oued Hassar",
+      "slug": "oued-hassar"
+    },
+    "code": {
+      "id": "MA002003_oued-hassar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002003",
+      "level": 2,
+      "name": {
+        "local": "Mediouna",
+        "en": "Mediouna",
+        "slug": "mediouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002003",
+        "level": 2,
+        "name": {
+          "local": "Mediouna",
+          "en": "Mediouna",
+          "slug": "mediouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29672"
+    ],
+    "geo": {
+      "lat": "33.558",
+      "lon": "-7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002003_tit-mellil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tit Mellil",
+      "en": "Tit Mellil",
+      "slug": "tit-mellil"
+    },
+    "code": {
+      "id": "MA002003_tit-mellil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002003",
+      "level": 2,
+      "name": {
+        "local": "Mediouna",
+        "en": "Mediouna",
+        "slug": "mediouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002003",
+        "level": 2,
+        "name": {
+          "local": "Mediouna",
+          "en": "Mediouna",
+          "slug": "mediouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29640"
+    ],
+    "geo": {
+      "lat": "33.558",
+      "lon": "-7.487"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

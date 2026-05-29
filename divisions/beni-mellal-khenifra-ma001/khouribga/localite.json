@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "MA001005_ain-kicher",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Kicher",
+      "en": "Ain Kicher",
+      "slug": "ain-kicher"
+    },
+    "code": {
+      "id": "MA001005_ain-kicher",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25472"
+    ],
+    "geo": {
+      "lat": "33.062",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_ait-ammar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ammar",
+      "en": "Ait Ammar",
+      "slug": "ait-ammar"
+    },
+    "code": {
+      "id": "MA001005_ait-ammar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25422"
+    ],
+    "geo": {
+      "lat": "33.062",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_arbaa-maadna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Maadna",
+      "en": "Arbaa Maadna",
+      "slug": "arbaa-maadna"
+    },
+    "code": {
+      "id": "MA001005_arbaa-maadna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25372"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_bejaad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bejaad",
+      "en": "Bejaad",
+      "slug": "bejaad"
+    },
+    "code": {
+      "id": "MA001005_bejaad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25060"
+    ],
+    "geo": {
+      "lat": "32.692",
+      "lon": "-6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_bir-mezoui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bir Mezoui",
+      "en": "Bir Mezoui",
+      "slug": "bir-mezoui"
+    },
+    "code": {
+      "id": "MA001005_bir-mezoui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25373"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_bni-smir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Smir",
+      "en": "Bni Smir",
+      "slug": "bni-smir"
+    },
+    "code": {
+      "id": "MA001005_bni-smir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25374"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_bouayache",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouayache",
+      "en": "Bouayache",
+      "slug": "bouayache"
+    },
+    "code": {
+      "id": "MA001005_bouayache",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54352"
+    ],
+    "geo": {
+      "lat": "32.685",
+      "lon": "-4.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_boujniba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boujniba",
+      "en": "Boujniba",
+      "slug": "boujniba"
+    },
+    "code": {
+      "id": "MA001005_boujniba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25100"
+    ],
+    "geo": {
+      "lat": "32.901",
+      "lon": "-6.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_boukhrisse",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boukhrisse",
+      "en": "Boukhrisse",
+      "slug": "boukhrisse"
+    },
+    "code": {
+      "id": "MA001005_boukhrisse",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25072"
+    ],
+    "geo": {
+      "lat": "32.692",
+      "lon": "-6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_boulanouar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boulanouar",
+      "en": "Boulanouar",
+      "slug": "boulanouar"
+    },
+    "code": {
+      "id": "MA001005_boulanouar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25152"
+    ],
+    "geo": {
+      "lat": "32.901",
+      "lon": "-6.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_el-fokra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Fokra",
+      "en": "El Fokra",
+      "slug": "el-fokra"
+    },
+    "code": {
+      "id": "MA001005_el-fokra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25022"
+    ],
+    "geo": {
+      "lat": "32.692",
+      "lon": "-6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_el-gueffaf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Gueffaf",
+      "en": "El Gueffaf",
+      "slug": "el-gueffaf"
+    },
+    "code": {
+      "id": "MA001005_el-gueffaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25202"
+    ],
+    "geo": {
+      "lat": "32.883",
+      "lon": "-6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_had-bni-batao",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Bni Batao",
+      "en": "Had Bni Batao",
+      "slug": "had-bni-batao"
+    },
+    "code": {
+      "id": "MA001005_had-bni-batao",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25252"
+    ],
+    "geo": {
+      "lat": "32.883",
+      "lon": "-6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_hattane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hattane",
+      "en": "Hattane",
+      "slug": "hattane"
+    },
+    "code": {
+      "id": "MA001005_hattane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25300"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_jemaa-oulad-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa Oulad Aissa",
+      "en": "Jemaa Oulad Aissa",
+      "slug": "jemaa-oulad-aissa"
+    },
+    "code": {
+      "id": "MA001005_jemaa-oulad-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25375"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_kasbat-troch",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kasbat Troch",
+      "en": "Kasbat Troch",
+      "slug": "kasbat-troch"
+    },
+    "code": {
+      "id": "MA001005_kasbat-troch",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25376"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_mfassis",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mfassis",
+      "en": "Mfassis",
+      "slug": "mfassis"
+    },
+    "code": {
+      "id": "MA001005_mfassis",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25322"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_oued-zem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Zem",
+      "en": "Oued Zem",
+      "slug": "oued-zem"
+    },
+    "code": {
+      "id": "MA001005_oued-zem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25350"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_oulad-fennane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Fennane",
+      "en": "Oulad Fennane",
+      "slug": "oulad-fennane"
+    },
+    "code": {
+      "id": "MA001005_oulad-fennane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25382"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_oulad-ftata",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ftata",
+      "en": "Oulad Ftata",
+      "slug": "oulad-ftata"
+    },
+    "code": {
+      "id": "MA001005_oulad-ftata",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25423"
+    ],
+    "geo": {
+      "lat": "33.062",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_oulad-gouaouch",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Gouaouch",
+      "en": "Oulad Gouaouch",
+      "slug": "oulad-gouaouch"
+    },
+    "code": {
+      "id": "MA001005_oulad-gouaouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25073"
+    ],
+    "geo": {
+      "lat": "32.692",
+      "lon": "-6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_ouled-abdoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Abdoun",
+      "en": "Ouled Abdoun",
+      "slug": "ouled-abdoun"
+    },
+    "code": {
+      "id": "MA001005_ouled-abdoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25023"
+    ],
+    "geo": {
+      "lat": "32.692",
+      "lon": "-6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_ouled-boughadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Boughadi",
+      "en": "Ouled Boughadi",
+      "slug": "ouled-boughadi"
+    },
+    "code": {
+      "id": "MA001005_ouled-boughadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25402"
+    ],
+    "geo": {
+      "lat": "33.062",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_rouached",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rouached",
+      "en": "Rouached",
+      "slug": "rouached"
+    },
+    "code": {
+      "id": "MA001005_rouached",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25522"
+    ],
+    "geo": {
+      "lat": "32.896",
+      "lon": "-6.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_sebt-beni-yakhlef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Beni Yakhlef",
+      "en": "Sebt Beni Yakhlef",
+      "slug": "sebt-beni-yakhlef"
+    },
+    "code": {
+      "id": "MA001005_sebt-beni-yakhlef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25003"
+    ],
+    "geo": {
+      "lat": "32.692",
+      "lon": "-6.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_sebt-dechra-braksa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Dechra Braksa",
+      "en": "Sebt Dechra Braksa",
+      "slug": "sebt-dechra-braksa"
+    },
+    "code": {
+      "id": "MA001005_sebt-dechra-braksa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25383"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_tachreft",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tachreft",
+      "en": "Tachreft",
+      "slug": "tachreft"
+    },
+    "code": {
+      "id": "MA001005_tachreft",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25452"
+    ],
+    "geo": {
+      "lat": "33.062",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_tleta-beni-zrantil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Beni Zrantil",
+      "en": "Tleta Beni Zrantil",
+      "slug": "tleta-beni-zrantil"
+    },
+    "code": {
+      "id": "MA001005_tleta-beni-zrantil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25272"
+    ],
+    "geo": {
+      "lat": "32.883",
+      "lon": "-6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_tleta-chougrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Chougrane",
+      "en": "Tleta Chougrane",
+      "slug": "tleta-chougrane"
+    },
+    "code": {
+      "id": "MA001005_tleta-chougrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25502"
+    ],
+    "geo": {
+      "lat": "32.896",
+      "lon": "-6.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001005_tleta-gnadiz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Gnadiz",
+      "en": "Tleta Gnadiz",
+      "slug": "tleta-gnadiz"
+    },
+    "code": {
+      "id": "MA001005_tleta-gnadiz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001005",
+      "level": 2,
+      "name": {
+        "local": "Khouribga",
+        "en": "Khouribga",
+        "slug": "khouribga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001005",
+        "level": 2,
+        "name": {
+          "local": "Khouribga",
+          "en": "Khouribga",
+          "slug": "khouribga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25424"
+    ],
+    "geo": {
+      "lat": "33.062",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

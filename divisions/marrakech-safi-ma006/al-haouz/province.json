@@ -1,0 +1,47 @@
+{
+  "id": "MA006001",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Al Haouz",
+    "en": "Al Haouz",
+    "slug": "al-haouz"
+  },
+  "code": {
+    "id": "MA006001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA006",
+    "level": 1,
+    "name": {
+      "local": "مراكش - آسفي",
+      "en": "Marrakech Safi",
+      "slug": "marrakech-safi-ma006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.281",
+    "lon": "-7.925"
+  },
+  "metadata": {},
+  "source": {}
+}

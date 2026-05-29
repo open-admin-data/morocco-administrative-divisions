@@ -1,0 +1,47 @@
+{
+  "id": "MA002003",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mediouna",
+    "en": "Mediouna",
+    "slug": "mediouna"
+  },
+  "code": {
+    "id": "MA002003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA002",
+    "level": 1,
+    "name": {
+      "local": "الدار البيضاء - سطات",
+      "en": "Casablanca Settat",
+      "slug": "casablanca-settat-ma002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.495",
+    "lon": "-7.468"
+  },
+  "metadata": {},
+  "source": {}
+}

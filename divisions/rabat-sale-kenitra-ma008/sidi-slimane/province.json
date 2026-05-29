@@ -1,0 +1,47 @@
+{
+  "id": "MA008007",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sidi Slimane",
+    "en": "Sidi Slimane",
+    "slug": "sidi-slimane"
+  },
+  "code": {
+    "id": "MA008007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA008",
+    "level": 1,
+    "name": {
+      "local": "الرباط - سلا -القنيطرة",
+      "en": "Rabat Sale Kenitra",
+      "slug": "rabat-sale-kenitra-ma008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.287",
+    "lon": "-6.054"
+  },
+  "metadata": {},
+  "source": {}
+}

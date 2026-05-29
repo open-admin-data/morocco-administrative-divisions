@@ -1,0 +1,3082 @@
+[
+  {
+    "id": "MA001001_abachkou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abachkou",
+      "en": "Abachkou",
+      "slug": "abachkou"
+    },
+    "code": {
+      "id": "MA001001_abachkou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22472"
+    ],
+    "geo": {
+      "lat": "31.593",
+      "lon": "-6.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_afourer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Afourer",
+      "en": "Afourer",
+      "slug": "afourer"
+    },
+    "code": {
+      "id": "MA001001_afourer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22052"
+    ],
+    "geo": {
+      "lat": "32.207",
+      "lon": "-6.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_aghbalou-zaouia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aghbalou Zaouia",
+      "en": "Aghbalou Zaouia",
+      "slug": "aghbalou-zaouia"
+    },
+    "code": {
+      "id": "MA001001_aghbalou-zaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22272"
+    ],
+    "geo": {
+      "lat": "32.101",
+      "lon": "-6.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_agoudi-nlkhair",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agoudi Nlkhair",
+      "en": "Agoudi Nlkhair",
+      "slug": "agoudi-nlkhair"
+    },
+    "code": {
+      "id": "MA001001_agoudi-nlkhair",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22013"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-abbas",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Abbas",
+      "en": "Ait Abbas",
+      "slug": "ait-abbas"
+    },
+    "code": {
+      "id": "MA001001_ait-abbas",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22006"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-attab",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Attab",
+      "en": "Ait Attab",
+      "slug": "ait-attab"
+    },
+    "code": {
+      "id": "MA001001_ait-attab",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22102"
+    ],
+    "geo": {
+      "lat": "31.888",
+      "lon": "-6.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-blal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Blal",
+      "en": "Ait Blal",
+      "slug": "ait-blal"
+    },
+    "code": {
+      "id": "MA001001_ait-blal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22322"
+    ],
+    "geo": {
+      "lat": "31.963",
+      "lon": "-6.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-bou-oulli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Bou Oulli",
+      "en": "Ait Bou Oulli",
+      "slug": "ait-bou-oulli"
+    },
+    "code": {
+      "id": "MA001001_ait-bou-oulli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22012"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-majden",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Majden",
+      "en": "Ait Majden",
+      "slug": "ait-majden"
+    },
+    "code": {
+      "id": "MA001001_ait-majden",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22303"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-mazigh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Mazigh",
+      "en": "Ait Mazigh",
+      "slug": "ait-mazigh"
+    },
+    "code": {
+      "id": "MA001001_ait-mazigh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22403"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-mhamed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Mhamed",
+      "en": "Ait Mhamed",
+      "slug": "ait-mhamed"
+    },
+    "code": {
+      "id": "MA001001_ait-mhamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22152"
+    ],
+    "geo": {
+      "lat": "31.888",
+      "lon": "-6.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-ouarda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ouarda",
+      "en": "Ait Ouarda",
+      "slug": "ait-ouarda"
+    },
+    "code": {
+      "id": "MA001001_ait-ouarda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22072"
+    ],
+    "geo": {
+      "lat": "32.111",
+      "lon": "-6.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-oumdis",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Oumdis",
+      "en": "Ait Oumdis",
+      "slug": "ait-oumdis"
+    },
+    "code": {
+      "id": "MA001001_ait-oumdis",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22304"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-taguella",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Taguella",
+      "en": "Ait Taguella",
+      "slug": "ait-taguella"
+    },
+    "code": {
+      "id": "MA001001_ait-taguella",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22572"
+    ],
+    "geo": {
+      "lat": "31.921",
+      "lon": "-6.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-tamejoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Tamejoute",
+      "en": "Ait Tamejoute",
+      "slug": "ait-tamejoute"
+    },
+    "code": {
+      "id": "MA001001_ait-tamejoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22522"
+    ],
+    "geo": {
+      "lat": "31.94",
+      "lon": "-6.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ait-tamlil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Tamlil",
+      "en": "Ait Tamlil",
+      "slug": "ait-tamlil"
+    },
+    "code": {
+      "id": "MA001001_ait-tamlil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22323"
+    ],
+    "geo": {
+      "lat": "31.488",
+      "lon": "-6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_anergui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anergui",
+      "en": "Anergui",
+      "slug": "anergui"
+    },
+    "code": {
+      "id": "MA001001_anergui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22622"
+    ],
+    "geo": {
+      "lat": "32.069",
+      "lon": "-5.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_anzou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anzou",
+      "en": "Anzou",
+      "slug": "anzou"
+    },
+    "code": {
+      "id": "MA001001_anzou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22324"
+    ],
+    "geo": {
+      "lat": "31.693",
+      "lon": "-6.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_arbaa-ou-aoula",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Ou Aoula",
+      "en": "Arbaa Ou Aoula",
+      "slug": "arbaa-ou-aoula"
+    },
+    "code": {
+      "id": "MA001001_arbaa-ou-aoula",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22573"
+    ],
+    "geo": {
+      "lat": "31.884",
+      "lon": "-6.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_arbaa-ouakabli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Ouakabli",
+      "en": "Arbaa Ouakabli",
+      "slug": "arbaa-ouakabli"
+    },
+    "code": {
+      "id": "MA001001_arbaa-ouakabli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22523"
+    ],
+    "geo": {
+      "lat": "31.94",
+      "lon": "-6.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_azilal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azilal",
+      "en": "Azilal",
+      "slug": "azilal"
+    },
+    "code": {
+      "id": "MA001001_azilal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "31.962",
+      "lon": "-6.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_bine-el-ouidane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bine El Ouidane",
+      "en": "Bine El Ouidane",
+      "slug": "bine-el-ouidane"
+    },
+    "code": {
+      "id": "MA001001_bine-el-ouidane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22202"
+    ],
+    "geo": {
+      "lat": "32.11",
+      "lon": "-6.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_bni-ayat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Ayat",
+      "en": "Bni Ayat",
+      "slug": "bni-ayat"
+    },
+    "code": {
+      "id": "MA001001_bni-ayat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22652"
+    ],
+    "geo": {
+      "lat": "32.05",
+      "lon": "-6.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_bni-hassane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Hassane",
+      "en": "Bni Hassane",
+      "slug": "bni-hassane"
+    },
+    "code": {
+      "id": "MA001001_bni-hassane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22372"
+    ],
+    "geo": {
+      "lat": "32.03",
+      "lon": "-6.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_bouantar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouantar",
+      "en": "Bouantar",
+      "slug": "bouantar"
+    },
+    "code": {
+      "id": "MA001001_bouantar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22574"
+    ],
+    "geo": {
+      "lat": "31.744",
+      "lon": "-6.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_bzou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bzou",
+      "en": "Bzou",
+      "slug": "bzou"
+    },
+    "code": {
+      "id": "MA001001_bzou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22250"
+    ],
+    "geo": {
+      "lat": "32.092",
+      "lon": "-7.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_demnate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Demnate",
+      "en": "Demnate",
+      "slug": "demnate"
+    },
+    "code": {
+      "id": "MA001001_demnate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "31.734",
+      "lon": "-7.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_foum-jemaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Foum Jemaa",
+      "en": "Foum Jemaa",
+      "slug": "foum-jemaa"
+    },
+    "code": {
+      "id": "MA001001_foum-jemaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22353"
+    ],
+    "geo": {
+      "lat": "31.962",
+      "lon": "-6.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_igmir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Igmir",
+      "en": "Igmir",
+      "slug": "igmir"
+    },
+    "code": {
+      "id": "MA001001_igmir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22172"
+    ],
+    "geo": {
+      "lat": "31.683",
+      "lon": "-7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_imadahen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imadahen",
+      "en": "Imadahen",
+      "slug": "imadahen"
+    },
+    "code": {
+      "id": "MA001001_imadahen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22273"
+    ],
+    "geo": {
+      "lat": "32.101",
+      "lon": "-6.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_imlil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imlil",
+      "en": "Imlil",
+      "slug": "imlil"
+    },
+    "code": {
+      "id": "MA001001_imlil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22305"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_isseksi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Isseksi",
+      "en": "Isseksi",
+      "slug": "isseksi"
+    },
+    "code": {
+      "id": "MA001001_isseksi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22406"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_khemis-majden",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Majden",
+      "en": "Khemis Majden",
+      "slug": "khemis-majden"
+    },
+    "code": {
+      "id": "MA001001_khemis-majden",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22575"
+    ],
+    "geo": {
+      "lat": "31.843",
+      "lon": "-6.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_moulay-aissa-ben-driss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Aissa Ben Driss",
+      "en": "Moulay Aissa Ben Driss",
+      "slug": "moulay-aissa-ben-driss"
+    },
+    "code": {
+      "id": "MA001001_moulay-aissa-ben-driss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22252"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ouaouizarht",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouaouizarht",
+      "en": "Ouaouizarht",
+      "slug": "ouaouizarht"
+    },
+    "code": {
+      "id": "MA001001_ouaouizarht",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22402"
+    ],
+    "geo": {
+      "lat": "32.159",
+      "lon": "-6.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_ouzoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouzoud",
+      "en": "Ouzoud",
+      "slug": "ouzoud"
+    },
+    "code": {
+      "id": "MA001001_ouzoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22576"
+    ],
+    "geo": {
+      "lat": "32.03",
+      "lon": "-6.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_rfala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rfala",
+      "en": "Rfala",
+      "slug": "rfala"
+    },
+    "code": {
+      "id": "MA001001_rfala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22274"
+    ],
+    "geo": {
+      "lat": "32.101",
+      "lon": "-6.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_sidi-boulkhalf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boulkhalf",
+      "en": "Sidi Boulkhalf",
+      "slug": "sidi-boulkhalf"
+    },
+    "code": {
+      "id": "MA001001_sidi-boulkhalf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22306"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_sidi-yacoub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Yacoub",
+      "en": "Sidi Yacoub",
+      "slug": "sidi-yacoub"
+    },
+    "code": {
+      "id": "MA001001_sidi-yacoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22312"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_skatt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Skatt",
+      "en": "Skatt",
+      "slug": "skatt"
+    },
+    "code": {
+      "id": "MA001001_skatt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22022"
+    ],
+    "geo": {
+      "lat": "31.813",
+      "lon": "-6.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tabannt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabannt",
+      "en": "Tabannt",
+      "slug": "tabannt"
+    },
+    "code": {
+      "id": "MA001001_tabannt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22452"
+    ],
+    "geo": {
+      "lat": "31.652",
+      "lon": "-6.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tabaroucht",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabaroucht",
+      "en": "Tabaroucht",
+      "slug": "tabaroucht"
+    },
+    "code": {
+      "id": "MA001001_tabaroucht",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22405"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tabia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabia",
+      "en": "Tabia",
+      "slug": "tabia"
+    },
+    "code": {
+      "id": "MA001001_tabia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22373"
+    ],
+    "geo": {
+      "lat": "32.03",
+      "lon": "-6.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_taguelft",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taguelft",
+      "en": "Taguelft",
+      "slug": "taguelft"
+    },
+    "code": {
+      "id": "MA001001_taguelft",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22502"
+    ],
+    "geo": {
+      "lat": "32.239",
+      "lon": "-6.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tamda-noumercid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamda Noumercid",
+      "en": "Tamda Noumercid",
+      "slug": "tamda-noumercid"
+    },
+    "code": {
+      "id": "MA001001_tamda-noumercid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22014"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tanannt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanannt",
+      "en": "Tanannt",
+      "slug": "tanannt"
+    },
+    "code": {
+      "id": "MA001001_tanannt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22552"
+    ],
+    "geo": {
+      "lat": "31.863",
+      "lon": "-6.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_taounza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taounza",
+      "en": "Taounza",
+      "slug": "taounza"
+    },
+    "code": {
+      "id": "MA001001_taounza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22122"
+    ],
+    "geo": {
+      "lat": "32.094",
+      "lon": "-6.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tidili-fetouaka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tidili Fetouaka",
+      "en": "Tidili Fetouaka",
+      "slug": "tidili-fetouaka"
+    },
+    "code": {
+      "id": "MA001001_tidili-fetouaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22325"
+    ],
+    "geo": {
+      "lat": "31.693",
+      "lon": "-6.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tiffert-nait-hamza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiffert Nait Hamza",
+      "en": "Tiffert Nait Hamza",
+      "slug": "tiffert-nait-hamza"
+    },
+    "code": {
+      "id": "MA001001_tiffert-nait-hamza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22404"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tifni",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tifni",
+      "en": "Tifni",
+      "slug": "tifni"
+    },
+    "code": {
+      "id": "MA001001_tifni",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22326"
+    ],
+    "geo": {
+      "lat": "31.628",
+      "lon": "-6.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tilougguite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tilougguite",
+      "en": "Tilougguite",
+      "slug": "tilougguite"
+    },
+    "code": {
+      "id": "MA001001_tilougguite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22602"
+    ],
+    "geo": {
+      "lat": "32.03",
+      "lon": "-6.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tislit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tislit",
+      "en": "Tislit",
+      "slug": "tislit"
+    },
+    "code": {
+      "id": "MA001001_tislit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22352"
+    ],
+    "geo": {
+      "lat": "31.979",
+      "lon": "-6.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tisqi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tisqi",
+      "en": "Tisqi",
+      "slug": "tisqi"
+    },
+    "code": {
+      "id": "MA001001_tisqi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22253"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-6.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_tnine-timoulilt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Timoulilt",
+      "en": "Tnine Timoulilt",
+      "slug": "tnine-timoulilt"
+    },
+    "code": {
+      "id": "MA001001_tnine-timoulilt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22702"
+    ],
+    "geo": {
+      "lat": "32.204",
+      "lon": "-6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001001_zaouia-ahensal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Ahensal",
+      "en": "Zaouia Ahensal",
+      "slug": "zaouia-ahensal"
+    },
+    "code": {
+      "id": "MA001001_zaouia-ahensal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001001",
+      "level": 2,
+      "name": {
+        "local": "Azilal",
+        "en": "Azilal",
+        "slug": "azilal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001001",
+        "level": 2,
+        "name": {
+          "local": "Azilal",
+          "en": "Azilal",
+          "slug": "azilal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22002"
+    ],
+    "geo": {
+      "lat": "31.962",
+      "lon": "-6.571"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

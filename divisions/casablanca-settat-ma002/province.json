@@ -1,0 +1,425 @@
+[
+  {
+    "id": "MA002007",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Benslimane",
+      "en": "Benslimane",
+      "slug": "benslimane"
+    },
+    "code": {
+      "id": "MA002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Berrechid",
+      "en": "Berrechid",
+      "slug": "berrechid"
+    },
+    "code": {
+      "id": "MA002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002005",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Casablanca",
+      "en": "Casablanca",
+      "slug": "casablanca"
+    },
+    "code": {
+      "id": "MA002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.567",
+      "lon": "-7.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "El Jadida",
+      "en": "El Jadida",
+      "slug": "el-jadida"
+    },
+    "code": {
+      "id": "MA002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002003",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mediouna",
+      "en": "Mediouna",
+      "slug": "mediouna"
+    },
+    "code": {
+      "id": "MA002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.495",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002006",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mohammedia",
+      "en": "Mohammedia",
+      "slug": "mohammedia"
+    },
+    "code": {
+      "id": "MA002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.616",
+      "lon": "-7.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002004",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nouaceur",
+      "en": "Nouaceur",
+      "slug": "nouaceur"
+    },
+    "code": {
+      "id": "MA002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.409",
+      "lon": "-7.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Settat",
+      "en": "Settat",
+      "slug": "settat"
+    },
+    "code": {
+      "id": "MA002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 63
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sidi Bennour",
+      "en": "Sidi Bennour",
+      "slug": "sidi-bennour"
+    },
+    "code": {
+      "id": "MA002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

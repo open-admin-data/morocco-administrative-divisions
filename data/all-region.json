@@ -1,0 +1,302 @@
+[
+  {
+    "id": "MA001",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "بني ملال - خنيفرة",
+      "en": "Beni Mellal Khenifra",
+      "slug": "beni-mellal-khenifra-ma001"
+    },
+    "code": {
+      "id": "MA001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 5,
+      "localite": 161
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.406",
+      "lon": "-6.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "الدار البيضاء - سطات",
+      "en": "Casablanca Settat",
+      "slug": "casablanca-settat-ma002"
+    },
+    "code": {
+      "id": "MA002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 9,
+      "localite": 180
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.065",
+      "lon": "-7.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "درعة - تافيلالت",
+      "en": "Draa Tafilalet",
+      "slug": "draa-tafilalet-ma003"
+    },
+    "code": {
+      "id": "MA003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 5,
+      "localite": 167
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.287",
+      "lon": "-5.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "فاس - مكناس",
+      "en": "Fez Meknes",
+      "slug": "fez-meknes-ma004"
+    },
+    "code": {
+      "id": "MA004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 9,
+      "localite": 255
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.745",
+      "lon": "-4.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "كلميم - واد نون",
+      "en": "Guelmim Oued Noun",
+      "slug": "guelmim-oued-noun-ma005"
+    },
+    "code": {
+      "id": "MA005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 4,
+      "localite": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.646",
+      "lon": "-10.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "مراكش - آسفي",
+      "en": "Marrakech Safi",
+      "slug": "marrakech-safi-ma006"
+    },
+    "code": {
+      "id": "MA006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 8,
+      "localite": 271
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.8",
+      "lon": "-8.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    },
+    "code": {
+      "id": "MA007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 8,
+      "localite": 142
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.579",
+      "lon": "-2.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "الرباط - سلا -القنيطرة",
+      "en": "Rabat Sale Kenitra",
+      "slug": "rabat-sale-kenitra-ma008"
+    },
+    "code": {
+      "id": "MA008",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 7,
+      "localite": 115
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.082",
+      "lon": "-6.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "سوس - ماسة",
+      "en": "Souss Massa",
+      "slug": "souss-massa-ma009"
+    },
+    "code": {
+      "id": "MA009",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 6,
+      "localite": 216
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.739",
+      "lon": "-8.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010",
+    "level": 1,
+    "level_name": {
+      "local": "جهة",
+      "en": "Region"
+    },
+    "name": {
+      "local": "طنجة - تطوان - الحسيمة",
+      "en": "Tangier Tetouan Al Hoceima",
+      "slug": "tangier-tetouan-al-hoceima-ma010"
+    },
+    "code": {
+      "id": "MA010",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "province": 8,
+      "localite": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.218",
+      "lon": "-5.435"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "MA004001_ain-bida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Bida",
+      "en": "Ain Bida",
+      "slug": "ain-bida"
+    },
+    "code": {
+      "id": "MA004001_ain-bida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004001",
+      "level": 2,
+      "name": {
+        "local": "Fes",
+        "en": "Fes",
+        "slug": "fes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004001",
+        "level": 2,
+        "name": {
+          "local": "Fes",
+          "en": "Fes",
+          "slug": "fes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30045"
+    ],
+    "geo": {
+      "lat": "33.962",
+      "lon": "-4.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004001_le-sais",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Le Sais",
+      "en": "Le Sais",
+      "slug": "le-sais"
+    },
+    "code": {
+      "id": "MA004001_le-sais",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004001",
+      "level": 2,
+      "name": {
+        "local": "Fes",
+        "en": "Fes",
+        "slug": "fes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004001",
+        "level": 2,
+        "name": {
+          "local": "Fes",
+          "en": "Fes",
+          "slug": "fes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30022"
+    ],
+    "geo": {
+      "lat": "33.962",
+      "lon": "-4.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004001_oulad-ettayeb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ettayeb",
+      "en": "Oulad Ettayeb",
+      "slug": "oulad-ettayeb"
+    },
+    "code": {
+      "id": "MA004001_oulad-ettayeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004001",
+      "level": 2,
+      "name": {
+        "local": "Fes",
+        "en": "Fes",
+        "slug": "fes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004001",
+        "level": 2,
+        "name": {
+          "local": "Fes",
+          "en": "Fes",
+          "slug": "fes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30023"
+    ],
+    "geo": {
+      "lat": "34.027",
+      "lon": "-4.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004001_sidi-harazem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Harazem",
+      "en": "Sidi Harazem",
+      "slug": "sidi-harazem"
+    },
+    "code": {
+      "id": "MA004001_sidi-harazem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004001",
+      "level": 2,
+      "name": {
+        "local": "Fes",
+        "en": "Fes",
+        "slug": "fes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004001",
+        "level": 2,
+        "name": {
+          "local": "Fes",
+          "en": "Fes",
+          "slug": "fes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30205"
+    ],
+    "geo": {
+      "lat": "34.027",
+      "lon": "-4.883"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

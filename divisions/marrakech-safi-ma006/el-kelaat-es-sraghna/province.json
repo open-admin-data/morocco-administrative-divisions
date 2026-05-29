@@ -1,0 +1,47 @@
+{
+  "id": "MA006005",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "El Kelaat Es Sraghna",
+    "en": "El Kelaat Es Sraghna",
+    "slug": "el-kelaat-es-sraghna"
+  },
+  "code": {
+    "id": "MA006005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA006",
+    "level": 1,
+    "name": {
+      "local": "مراكش - آسفي",
+      "en": "Marrakech Safi",
+      "slug": "marrakech-safi-ma006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.044",
+    "lon": "-7.384"
+  },
+  "metadata": {},
+  "source": {}
+}

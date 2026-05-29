@@ -1,0 +1,47 @@
+{
+  "id": "MA002007",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Benslimane",
+    "en": "Benslimane",
+    "slug": "benslimane"
+  },
+  "code": {
+    "id": "MA002007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA002",
+    "level": 1,
+    "name": {
+      "local": "الدار البيضاء - سطات",
+      "en": "Casablanca Settat",
+      "slug": "casablanca-settat-ma002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.514",
+    "lon": "-7.059"
+  },
+  "metadata": {},
+  "source": {}
+}

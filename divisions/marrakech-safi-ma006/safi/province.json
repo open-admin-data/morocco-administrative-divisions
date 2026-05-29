@@ -1,0 +1,47 @@
+{
+  "id": "MA006006",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Safi",
+    "en": "Safi",
+    "slug": "safi"
+  },
+  "code": {
+    "id": "MA006006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA006",
+    "level": 1,
+    "name": {
+      "local": "مراكش - آسفي",
+      "en": "Marrakech Safi",
+      "slug": "marrakech-safi-ma006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.25",
+    "lon": "-8.994"
+  },
+  "metadata": {},
+  "source": {}
+}

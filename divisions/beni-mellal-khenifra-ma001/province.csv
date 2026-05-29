@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA001001,Azilal,Azilal,azilal,MA001001,55,31.87,-6.432
+MA001002,Beni Mellal,Beni Mellal,beni-mellal,MA001002,35,32.451,-5.98
+MA001003,Fquih Ben Saleh,Fquih Ben Saleh,fquih-ben-saleh,MA001003,14,32.421,-6.733
+MA001004,Khenifra,Khenifra,khenifra,MA001004,27,32.969,-5.691
+MA001005,Khouribga,Khouribga,khouribga,MA001005,30,32.926,-6.588

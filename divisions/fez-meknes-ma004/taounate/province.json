@@ -1,0 +1,47 @@
+{
+  "id": "MA004008",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Taounate",
+    "en": "Taounate",
+    "slug": "taounate"
+  },
+  "code": {
+    "id": "MA004008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA004",
+    "level": 1,
+    "name": {
+      "local": "فاس - مكناس",
+      "en": "Fez Meknes",
+      "slug": "fez-meknes-ma004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA004",
+      "level": 1,
+      "name": {
+        "local": "فاس - مكناس",
+        "en": "Fez Meknes",
+        "slug": "fez-meknes-ma004"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.441",
+    "lon": "-4.904"
+  },
+  "metadata": {},
+  "source": {}
+}

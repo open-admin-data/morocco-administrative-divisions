@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "MA003004_ait-el-farsi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait El Farsi",
+      "en": "Ait El Farsi",
+      "slug": "ait-el-farsi"
+    },
+    "code": {
+      "id": "MA003004_ait-el-farsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45672"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ait-hani",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Hani",
+      "en": "Ait Hani",
+      "slug": "ait-hani"
+    },
+    "code": {
+      "id": "MA003004_ait-hani",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52122"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ait-ouassif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ouassif",
+      "en": "Ait Ouassif",
+      "slug": "ait-ouassif"
+    },
+    "code": {
+      "id": "MA003004_ait-ouassif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45153"
+    ],
+    "geo": {
+      "lat": "31.317",
+      "lon": "-5.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ait-sedrate-jbel-el-oulia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Sedrate Jbel El Oulia",
+      "en": "Ait Sedrate Jbel El Oulia",
+      "slug": "ait-sedrate-jbel-el-oulia"
+    },
+    "code": {
+      "id": "MA003004_ait-sedrate-jbel-el-oulia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45174"
+    ],
+    "geo": {
+      "lat": "31.419",
+      "lon": "-6.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ait-sedrate-sahl-charkia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Sedrate Sahl Charkia",
+      "en": "Ait Sedrate Sahl Charkia",
+      "slug": "ait-sedrate-sahl-charkia"
+    },
+    "code": {
+      "id": "MA003004_ait-sedrate-sahl-charkia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45223"
+    ],
+    "geo": {
+      "lat": "31.192",
+      "lon": "-6.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ait-sedrate-sahl-el-gharbia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Sedrate Sahl El Gharbia",
+      "en": "Ait Sedrate Sahl El Gharbia",
+      "slug": "ait-sedrate-sahl-el-gharbia"
+    },
+    "code": {
+      "id": "MA003004_ait-sedrate-sahl-el-gharbia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45155"
+    ],
+    "geo": {
+      "lat": "31.317",
+      "lon": "-5.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ait-youl",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Youl",
+      "en": "Ait Youl",
+      "slug": "ait-youl"
+    },
+    "code": {
+      "id": "MA003004_ait-youl",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45173"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_alnif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alnif",
+      "en": "Alnif",
+      "slug": "alnif"
+    },
+    "code": {
+      "id": "MA003004_alnif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52452"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_assoul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assoul",
+      "en": "Assoul",
+      "slug": "assoul"
+    },
+    "code": {
+      "id": "MA003004_assoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52102"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_boumalne-dades",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boumalne Dades",
+      "en": "Boumalne Dades",
+      "slug": "boumalne-dades"
+    },
+    "code": {
+      "id": "MA003004_boumalne-dades",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45150"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_el-kelaa-mgouna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Kelaa Mgouna",
+      "en": "El Kelaa Mgouna",
+      "slug": "el-kelaa-mgouna"
+    },
+    "code": {
+      "id": "MA003004_el-kelaa-mgouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_hssyia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hssyia",
+      "en": "Hssyia",
+      "slug": "hssyia"
+    },
+    "code": {
+      "id": "MA003004_hssyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52473"
+    ],
+    "geo": {
+      "lat": "31.97",
+      "lon": "-4.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ikniouen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ikniouen",
+      "en": "Ikniouen",
+      "slug": "ikniouen"
+    },
+    "code": {
+      "id": "MA003004_ikniouen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45302"
+    ],
+    "geo": {
+      "lat": "31.167",
+      "lon": "-6.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_imider",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imider",
+      "en": "Imider",
+      "slug": "imider"
+    },
+    "code": {
+      "id": "MA003004_imider",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45822"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_khemis-dades",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Dades",
+      "en": "Khemis Dades",
+      "slug": "khemis-dades"
+    },
+    "code": {
+      "id": "MA003004_khemis-dades",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45352"
+    ],
+    "geo": {
+      "lat": "31.167",
+      "lon": "-6.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_msemrir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Msemrir",
+      "en": "Msemrir",
+      "slug": "msemrir"
+    },
+    "code": {
+      "id": "MA003004_msemrir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45452"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_mssici",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mssici",
+      "en": "Mssici",
+      "slug": "mssici"
+    },
+    "code": {
+      "id": "MA003004_mssici",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52474"
+    ],
+    "geo": {
+      "lat": "31.97",
+      "lon": "-4.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_ouaklim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouaklim",
+      "en": "Ouaklim",
+      "slug": "ouaklim"
+    },
+    "code": {
+      "id": "MA003004_ouaklim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45823"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_tarhzoute-nait-atta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tarhzoute Nait Atta",
+      "en": "Tarhzoute Nait Atta",
+      "slug": "tarhzoute-nait-atta"
+    },
+    "code": {
+      "id": "MA003004_tarhzoute-nait-atta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45652"
+    ],
+    "geo": {
+      "lat": "31.352",
+      "lon": "-5.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_tilmi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tilmi",
+      "en": "Tilmi",
+      "slug": "tilmi"
+    },
+    "code": {
+      "id": "MA003004_tilmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45473"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003004_tinghir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tinghir",
+      "en": "Tinghir",
+      "slug": "tinghir"
+    },
+    "code": {
+      "id": "MA003004_tinghir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003004",
+      "level": 2,
+      "name": {
+        "local": "Tinghir",
+        "en": "Tinghir",
+        "slug": "tinghir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003004",
+        "level": 2,
+        "name": {
+          "local": "Tinghir",
+          "en": "Tinghir",
+          "slug": "tinghir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "MA003001_ait-ben-haddou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ben Haddou",
+      "en": "Ait Ben Haddou",
+      "slug": "ait-ben-haddou"
+    },
+    "code": {
+      "id": "MA003001_ait-ben-haddou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45122"
+    ],
+    "geo": {
+      "lat": "31.047",
+      "lon": "-7.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ait-ridi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ridi",
+      "en": "Ait Ridi",
+      "slug": "ait-ridi"
+    },
+    "code": {
+      "id": "MA003001_ait-ridi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45222"
+    ],
+    "geo": {
+      "lat": "30.914",
+      "lon": "-7.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ait-sedrate-jbel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Sedrate Jbel",
+      "en": "Ait Sedrate Jbel",
+      "slug": "ait-sedrate-jbel"
+    },
+    "code": {
+      "id": "MA003001_ait-sedrate-jbel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45172"
+    ],
+    "geo": {
+      "lat": "31.419",
+      "lon": "-6.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ait-sedrate-jbel-el-soufla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Sedrate Jbel El Soufla",
+      "en": "Ait Sedrate Jbel El Soufla",
+      "slug": "ait-sedrate-jbel-el-soufla"
+    },
+    "code": {
+      "id": "MA003001_ait-sedrate-jbel-el-soufla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45154"
+    ],
+    "geo": {
+      "lat": "30.825",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ait-zineb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Zineb",
+      "en": "Ait Zineb",
+      "slug": "ait-zineb"
+    },
+    "code": {
+      "id": "MA003001_ait-zineb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45103"
+    ],
+    "geo": {
+      "lat": "30.825",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_amerzgane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amerzgane",
+      "en": "Amerzgane",
+      "slug": "amerzgane"
+    },
+    "code": {
+      "id": "MA003001_amerzgane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45102"
+    ],
+    "geo": {
+      "lat": "31.044",
+      "lon": "-7.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_anmiter-ounilla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anmiter Ounilla",
+      "en": "Anmiter Ounilla",
+      "slug": "anmiter-ounilla"
+    },
+    "code": {
+      "id": "MA003001_anmiter-ounilla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45273"
+    ],
+    "geo": {
+      "lat": "31.11",
+      "lon": "-7.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_anzal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anzal",
+      "en": "Anzal",
+      "slug": "anzal"
+    },
+    "code": {
+      "id": "MA003001_anzal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45772"
+    ],
+    "geo": {
+      "lat": "30.756",
+      "lon": "-7.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_asdif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asdif",
+      "en": "Asdif",
+      "slug": "asdif"
+    },
+    "code": {
+      "id": "MA003001_asdif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45773"
+    ],
+    "geo": {
+      "lat": "30.409",
+      "lon": "-7.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_aznaguen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aznaguen",
+      "en": "Aznaguen",
+      "slug": "aznaguen"
+    },
+    "code": {
+      "id": "MA003001_aznaguen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45104"
+    ],
+    "geo": {
+      "lat": "30.825",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_bouazzer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouazzer",
+      "en": "Bouazzer",
+      "slug": "bouazzer"
+    },
+    "code": {
+      "id": "MA003001_bouazzer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45774"
+    ],
+    "geo": {
+      "lat": "30.583",
+      "lon": "-7.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_douar-sour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douar Sour",
+      "en": "Douar Sour",
+      "slug": "douar-sour"
+    },
+    "code": {
+      "id": "MA003001_douar-sour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45272"
+    ],
+    "geo": {
+      "lat": "31.11",
+      "lon": "-7.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ghessate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ghessate",
+      "en": "Ghessate",
+      "slug": "ghessate"
+    },
+    "code": {
+      "id": "MA003001_ghessate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45022"
+    ],
+    "geo": {
+      "lat": "30.952",
+      "lon": "-7.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_guernane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guernane",
+      "en": "Guernane",
+      "slug": "guernane"
+    },
+    "code": {
+      "id": "MA003001_guernane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45025"
+    ],
+    "geo": {
+      "lat": "30.952",
+      "lon": "-7.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_idelsane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Idelsane",
+      "en": "Idelsane",
+      "slug": "idelsane"
+    },
+    "code": {
+      "id": "MA003001_idelsane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45522"
+    ],
+    "geo": {
+      "lat": "31.128",
+      "lon": "-6.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ighil-noumgoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ighil Noumgoun",
+      "en": "Ighil Noumgoun",
+      "slug": "ighil-noumgoun"
+    },
+    "code": {
+      "id": "MA003001_ighil-noumgoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45156"
+    ],
+    "geo": {
+      "lat": "30.825",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ighrem-nougdal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ighrem Nougdal",
+      "en": "Ighrem Nougdal",
+      "slug": "ighrem-nougdal"
+    },
+    "code": {
+      "id": "MA003001_ighrem-nougdal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45253"
+    ],
+    "geo": {
+      "lat": "31.232",
+      "lon": "-7.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_imassine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imassine",
+      "en": "Imassine",
+      "slug": "imassine"
+    },
+    "code": {
+      "id": "MA003001_imassine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45523"
+    ],
+    "geo": {
+      "lat": "31.128",
+      "lon": "-6.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_imi-noulaouen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imi Noulaouen",
+      "en": "Imi Noulaouen",
+      "slug": "imi-noulaouen"
+    },
+    "code": {
+      "id": "MA003001_imi-noulaouen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45872"
+    ],
+    "geo": {
+      "lat": "31.4",
+      "lon": "-5.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_imini",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imini",
+      "en": "Imini",
+      "slug": "imini"
+    },
+    "code": {
+      "id": "MA003001_imini",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45123"
+    ],
+    "geo": {
+      "lat": "31.1",
+      "lon": "-7.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_khouzama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khouzama",
+      "en": "Khouzama",
+      "slug": "khouzama"
+    },
+    "code": {
+      "id": "MA003001_khouzama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45775"
+    ],
+    "geo": {
+      "lat": "30.583",
+      "lon": "-7.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_ouisselsate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouisselsate",
+      "en": "Ouisselsate",
+      "slug": "ouisselsate"
+    },
+    "code": {
+      "id": "MA003001_ouisselsate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45105"
+    ],
+    "geo": {
+      "lat": "30.825",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_oussikis-ait-azza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oussikis Ait Azza",
+      "en": "Oussikis Ait Azza",
+      "slug": "oussikis-ait-azza"
+    },
+    "code": {
+      "id": "MA003001_oussikis-ait-azza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45472"
+    ],
+    "geo": {
+      "lat": "31.818",
+      "lon": "-5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_siroua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Siroua",
+      "en": "Siroua",
+      "slug": "siroua"
+    },
+    "code": {
+      "id": "MA003001_siroua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45106"
+    ],
+    "geo": {
+      "lat": "30.825",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_skoura-ahl-al-oust",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Skoura Ahl Al Oust",
+      "en": "Skoura Ahl Al Oust",
+      "slug": "skoura-ahl-al-oust"
+    },
+    "code": {
+      "id": "MA003001_skoura-ahl-al-oust",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45502"
+    ],
+    "geo": {
+      "lat": "31.063",
+      "lon": "-6.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_taberkhachte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taberkhachte",
+      "en": "Taberkhachte",
+      "slug": "taberkhachte"
+    },
+    "code": {
+      "id": "MA003001_taberkhachte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45224"
+    ],
+    "geo": {
+      "lat": "31.192",
+      "lon": "-6.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_tabourahte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabourahte",
+      "en": "Tabourahte",
+      "slug": "tabourahte"
+    },
+    "code": {
+      "id": "MA003001_tabourahte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45023"
+    ],
+    "geo": {
+      "lat": "30.972",
+      "lon": "-7.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_talouet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Talouet",
+      "en": "Talouet",
+      "slug": "talouet"
+    },
+    "code": {
+      "id": "MA003001_talouet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45252"
+    ],
+    "geo": {
+      "lat": "31.232",
+      "lon": "-7.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_tamdakhte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamdakhte",
+      "en": "Tamdakhte",
+      "slug": "tamdakhte"
+    },
+    "code": {
+      "id": "MA003001_tamdakhte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45124"
+    ],
+    "geo": {
+      "lat": "31.073",
+      "lon": "-7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_taznakht",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taznakht",
+      "en": "Taznakht",
+      "slug": "taznakht"
+    },
+    "code": {
+      "id": "MA003001_taznakht",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45750"
+    ],
+    "geo": {
+      "lat": "30.578",
+      "lon": "-7.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_tidli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tidli",
+      "en": "Tidli",
+      "slug": "tidli"
+    },
+    "code": {
+      "id": "MA003001_tidli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45112"
+    ],
+    "geo": {
+      "lat": "30.825",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_tiouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiouine",
+      "en": "Tiouine",
+      "slug": "tiouine"
+    },
+    "code": {
+      "id": "MA003001_tiouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45024"
+    ],
+    "geo": {
+      "lat": "30.932",
+      "lon": "-7.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_toudgha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Toudgha",
+      "en": "Toudgha",
+      "slug": "toudgha"
+    },
+    "code": {
+      "id": "MA003001_toudgha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45824"
+    ],
+    "geo": {
+      "lat": "31.409",
+      "lon": "-5.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_toundoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Toundoute",
+      "en": "Toundoute",
+      "slug": "toundoute"
+    },
+    "code": {
+      "id": "MA003001_toundoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45852"
+    ],
+    "geo": {
+      "lat": "31.265",
+      "lon": "-6.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003001_zaouit-el-bir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouit El Bir",
+      "en": "Zaouit El Bir",
+      "slug": "zaouit-el-bir"
+    },
+    "code": {
+      "id": "MA003001_zaouit-el-bir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003001",
+      "level": 2,
+      "name": {
+        "local": "Ouarzazate",
+        "en": "Ouarzazate",
+        "slug": "ouarzazate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003001",
+        "level": 2,
+        "name": {
+          "local": "Ouarzazate",
+          "en": "Ouarzazate",
+          "slug": "ouarzazate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45372"
+    ],
+    "geo": {
+      "lat": "31.167",
+      "lon": "-6.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

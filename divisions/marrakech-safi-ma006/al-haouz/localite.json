@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "MA006001_abadou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abadou",
+      "en": "Abadou",
+      "slug": "abadou"
+    },
+    "code": {
+      "id": "MA006001_abadou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42072"
+    ],
+    "geo": {
+      "lat": "31.488",
+      "lon": "-7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_aghbalou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aghbalou",
+      "en": "Aghbalou",
+      "slug": "aghbalou"
+    },
+    "code": {
+      "id": "MA006001_aghbalou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42472"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-8.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_aghbar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aghbar",
+      "en": "Aghbar",
+      "slug": "aghbar"
+    },
+    "code": {
+      "id": "MA006001_aghbar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42153"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_aghouatim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aghouatim",
+      "en": "Aghouatim",
+      "slug": "aghouatim"
+    },
+    "code": {
+      "id": "MA006001_aghouatim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42304"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ait-aadel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Aadel",
+      "en": "Ait Aadel",
+      "slug": "ait-aadel"
+    },
+    "code": {
+      "id": "MA006001_ait-aadel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42073"
+    ],
+    "geo": {
+      "lat": "31.61",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ait-faska",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Faska",
+      "en": "Ait Faska",
+      "slug": "ait-faska"
+    },
+    "code": {
+      "id": "MA006001_ait-faska",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42082"
+    ],
+    "geo": {
+      "lat": "31.467",
+      "lon": "-7.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ait-hkim-ait-yzid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Hkim Ait Yzid",
+      "en": "Ait Hkim Ait Yzid",
+      "slug": "ait-hkim-ait-yzid"
+    },
+    "code": {
+      "id": "MA006001_ait-hkim-ait-yzid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42053"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ait-ourir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ourir",
+      "en": "Ait Ourir",
+      "slug": "ait-ourir"
+    },
+    "code": {
+      "id": "MA006001_ait-ourir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42050"
+    ],
+    "geo": {
+      "lat": "31.471",
+      "lon": "-7.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ait-sidi-daoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Sidi Daoud",
+      "en": "Ait Sidi Daoud",
+      "slug": "ait-sidi-daoud"
+    },
+    "code": {
+      "id": "MA006001_ait-sidi-daoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42083"
+    ],
+    "geo": {
+      "lat": "31.635",
+      "lon": "-7.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_amghras",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amghras",
+      "en": "Amghras",
+      "slug": "amghras"
+    },
+    "code": {
+      "id": "MA006001_amghras",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42104"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_amizmiz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amizmiz",
+      "en": "Amizmiz",
+      "slug": "amizmiz"
+    },
+    "code": {
+      "id": "MA006001_amizmiz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42103"
+    ],
+    "geo": {
+      "lat": "31.217",
+      "lon": "-8.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_anougal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anougal",
+      "en": "Anougal",
+      "slug": "anougal"
+    },
+    "code": {
+      "id": "MA006001_anougal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42124"
+    ],
+    "geo": {
+      "lat": "31.137",
+      "lon": "-8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_arbaa-tirhedouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Tirhedouine",
+      "en": "Arbaa Tirhedouine",
+      "slug": "arbaa-tirhedouine"
+    },
+    "code": {
+      "id": "MA006001_arbaa-tirhedouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42074"
+    ],
+    "geo": {
+      "lat": "31.475",
+      "lon": "-7.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_asni",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asni",
+      "en": "Asni",
+      "slug": "asni"
+    },
+    "code": {
+      "id": "MA006001_asni",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42152"
+    ],
+    "geo": {
+      "lat": "31.247",
+      "lon": "-7.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_azgour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azgour",
+      "en": "Azgour",
+      "slug": "azgour"
+    },
+    "code": {
+      "id": "MA006001_azgour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42122"
+    ],
+    "geo": {
+      "lat": "31.137",
+      "lon": "-8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_dar-jamaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Jamaa",
+      "en": "Dar Jamaa",
+      "slug": "dar-jamaa"
+    },
+    "code": {
+      "id": "MA006001_dar-jamaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42105"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ghmate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ghmate",
+      "en": "Ghmate",
+      "slug": "ghmate"
+    },
+    "code": {
+      "id": "MA006001_ghmate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42252"
+    ],
+    "geo": {
+      "lat": "31.421",
+      "lon": "-7.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_had-abadallah-ghiate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Abadallah Ghiate",
+      "en": "Had Abadallah Ghiate",
+      "slug": "had-abadallah-ghiate"
+    },
+    "code": {
+      "id": "MA006001_had-abadallah-ghiate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40066"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_had-zerkten",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Zerkten",
+      "en": "Had Zerkten",
+      "slug": "had-zerkten"
+    },
+    "code": {
+      "id": "MA006001_had-zerkten",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42075"
+    ],
+    "geo": {
+      "lat": "31.445",
+      "lon": "-7.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ighil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ighil",
+      "en": "Ighil",
+      "slug": "ighil"
+    },
+    "code": {
+      "id": "MA006001_ighil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42154"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_igoudar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Igoudar",
+      "en": "Igoudar",
+      "slug": "igoudar"
+    },
+    "code": {
+      "id": "MA006001_igoudar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42402"
+    ],
+    "geo": {
+      "lat": "31.29",
+      "lon": "-8.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_iguerferouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Iguerferouane",
+      "en": "Iguerferouane",
+      "slug": "iguerferouane"
+    },
+    "code": {
+      "id": "MA006001_iguerferouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42054"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ijoukak",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ijoukak",
+      "en": "Ijoukak",
+      "slug": "ijoukak"
+    },
+    "code": {
+      "id": "MA006001_ijoukak",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42155"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_imgdal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imgdal",
+      "en": "Imgdal",
+      "slug": "imgdal"
+    },
+    "code": {
+      "id": "MA006001_imgdal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42172"
+    ],
+    "geo": {
+      "lat": "31.233",
+      "lon": "-8.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_lalla-takarkouste",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lalla Takarkouste",
+      "en": "Lalla Takarkouste",
+      "slug": "lalla-takarkouste"
+    },
+    "code": {
+      "id": "MA006001_lalla-takarkouste",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42202"
+    ],
+    "geo": {
+      "lat": "31.404",
+      "lon": "-8.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_moulay-brahim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Brahim",
+      "en": "Moulay Brahim",
+      "slug": "moulay-brahim"
+    },
+    "code": {
+      "id": "MA006001_moulay-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42174"
+    ],
+    "geo": {
+      "lat": "31.288",
+      "lon": "-7.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ouazguita",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouazguita",
+      "en": "Ouazguita",
+      "slug": "ouazguita"
+    },
+    "code": {
+      "id": "MA006001_ouazguita",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42106"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_ouirgane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouirgane",
+      "en": "Ouirgane",
+      "slug": "ouirgane"
+    },
+    "code": {
+      "id": "MA006001_ouirgane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42173"
+    ],
+    "geo": {
+      "lat": "31.178",
+      "lon": "-8.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_oukaimeden",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oukaimeden",
+      "en": "Oukaimeden",
+      "slug": "oukaimeden"
+    },
+    "code": {
+      "id": "MA006001_oukaimeden",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40273"
+    ],
+    "geo": {
+      "lat": "31.206",
+      "lon": "-7.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_oulad-mtaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Mtaa",
+      "en": "Oulad Mtaa",
+      "slug": "oulad-mtaa"
+    },
+    "code": {
+      "id": "MA006001_oulad-mtaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42112"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_sidi-badhaj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Badhaj",
+      "en": "Sidi Badhaj",
+      "slug": "sidi-badhaj"
+    },
+    "code": {
+      "id": "MA006001_sidi-badhaj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42113"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_sti-fadma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sti Fadma",
+      "en": "Sti Fadma",
+      "slug": "sti-fadma"
+    },
+    "code": {
+      "id": "MA006001_sti-fadma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42303"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_taddart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taddart",
+      "en": "Taddart",
+      "slug": "taddart"
+    },
+    "code": {
+      "id": "MA006001_taddart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42076"
+    ],
+    "geo": {
+      "lat": "31.358",
+      "lon": "-7.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tahanaoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tahanaoute",
+      "en": "Tahanaoute",
+      "slug": "tahanaoute"
+    },
+    "code": {
+      "id": "MA006001_tahanaoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42302"
+    ],
+    "geo": {
+      "lat": "31.352",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tamaguert",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamaguert",
+      "en": "Tamaguert",
+      "slug": "tamaguert"
+    },
+    "code": {
+      "id": "MA006001_tamaguert",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42055"
+    ],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tamazouzte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamazouzte",
+      "en": "Tamazouzte",
+      "slug": "tamazouzte"
+    },
+    "code": {
+      "id": "MA006001_tamazouzte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42272"
+    ],
+    "geo": {
+      "lat": "31.296",
+      "lon": "-7.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tameslouhte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tameslouhte",
+      "en": "Tameslouhte",
+      "slug": "tameslouhte"
+    },
+    "code": {
+      "id": "MA006001_tameslouhte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42312"
+    ],
+    "geo": {
+      "lat": "31.352",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tazzarte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazzarte",
+      "en": "Tazzarte",
+      "slug": "tazzarte"
+    },
+    "code": {
+      "id": "MA006001_tazzarte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42084"
+    ],
+    "geo": {
+      "lat": "31.659",
+      "lon": "-7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tidili-mesfioua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tidili Mesfioua",
+      "en": "Tidili Mesfioua",
+      "slug": "tidili-mesfioua"
+    },
+    "code": {
+      "id": "MA006001_tidili-mesfioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42085"
+    ],
+    "geo": {
+      "lat": "31.466",
+      "lon": "-7.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tizguine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizguine",
+      "en": "Tizguine",
+      "slug": "tizguine"
+    },
+    "code": {
+      "id": "MA006001_tizguine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42102"
+    ],
+    "geo": {
+      "lat": "31.228",
+      "lon": "-8.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tleta-nyacoub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Nyacoub",
+      "en": "Tleta Nyacoub",
+      "slug": "tleta-nyacoub"
+    },
+    "code": {
+      "id": "MA006001_tleta-nyacoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42353"
+    ],
+    "geo": {
+      "lat": "31.352",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_tnine-ourika",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Ourika",
+      "en": "Tnine Ourika",
+      "slug": "tnine-ourika"
+    },
+    "code": {
+      "id": "MA006001_tnine-ourika",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42452"
+    ],
+    "geo": {
+      "lat": "31.311",
+      "lon": "-7.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006001_touama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Touama",
+      "en": "Touama",
+      "slug": "touama"
+    },
+    "code": {
+      "id": "MA006001_touama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006001",
+      "level": 2,
+      "name": {
+        "local": "Al Haouz",
+        "en": "Al Haouz",
+        "slug": "al-haouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006001",
+        "level": 2,
+        "name": {
+          "local": "Al Haouz",
+          "en": "Al Haouz",
+          "slug": "al-haouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42086"
+    ],
+    "geo": {
+      "lat": "31.535",
+      "lon": "-7.493"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

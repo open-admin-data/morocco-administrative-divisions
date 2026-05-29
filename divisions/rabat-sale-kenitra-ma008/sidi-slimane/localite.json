@@ -1,0 +1,618 @@
+[
+  {
+    "id": "MA008007_ameur-chamalia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ameur Chamalia",
+      "en": "Ameur Chamalia",
+      "slug": "ameur-chamalia"
+    },
+    "code": {
+      "id": "MA008007_ameur-chamalia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14206"
+    ],
+    "geo": {
+      "lat": "34.287",
+      "lon": "-6.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_azghar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azghar",
+      "en": "Azghar",
+      "slug": "azghar"
+    },
+    "code": {
+      "id": "MA008007_azghar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14224"
+    ],
+    "geo": {
+      "lat": "34.16",
+      "lon": "-5.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_boumaiz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boumaiz",
+      "en": "Boumaiz",
+      "slug": "boumaiz"
+    },
+    "code": {
+      "id": "MA008007_boumaiz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14203"
+    ],
+    "geo": {
+      "lat": "34.287",
+      "lon": "-6.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_dar-belamri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Belamri",
+      "en": "Dar Belamri",
+      "slug": "dar-belamri"
+    },
+    "code": {
+      "id": "MA008007_dar-belamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14222"
+    ],
+    "geo": {
+      "lat": "34.586",
+      "lon": "-6.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_kceibya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kceibya",
+      "en": "Kceibya",
+      "slug": "kceibya"
+    },
+    "code": {
+      "id": "MA008007_kceibya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14204"
+    ],
+    "geo": {
+      "lat": "34.287",
+      "lon": "-6.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_msaada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "M'Saada",
+      "en": "M'Saada",
+      "slug": "msaada"
+    },
+    "code": {
+      "id": "MA008007_msaada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14046"
+    ],
+    "geo": {
+      "lat": "34.433",
+      "lon": "-6.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_oulad-hcine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Hcine",
+      "en": "Oulad Hcine",
+      "slug": "oulad-hcine"
+    },
+    "code": {
+      "id": "MA008007_oulad-hcine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14205"
+    ],
+    "geo": {
+      "lat": "34.287",
+      "lon": "-6.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_ouled-ben-hammadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Ben Hammadi",
+      "en": "Ouled Ben Hammadi",
+      "slug": "ouled-ben-hammadi"
+    },
+    "code": {
+      "id": "MA008007_ouled-ben-hammadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14225"
+    ],
+    "geo": {
+      "lat": "34.16",
+      "lon": "-5.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_sfafaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sfafaa",
+      "en": "Sfafaa",
+      "slug": "sfafaa"
+    },
+    "code": {
+      "id": "MA008007_sfafaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14223"
+    ],
+    "geo": {
+      "lat": "34.16",
+      "lon": "-5.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_sidi-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Slimane",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane"
+    },
+    "code": {
+      "id": "MA008007_sidi-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14200"
+    ],
+    "geo": {
+      "lat": "34.586",
+      "lon": "-6.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007_sidi-yahya-du-gharb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Yahya Du Gharb",
+      "en": "Sidi Yahya Du Gharb",
+      "slug": "sidi-yahya-du-gharb"
+    },
+    "code": {
+      "id": "MA008007_sidi-yahya-du-gharb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008007",
+      "level": 2,
+      "name": {
+        "local": "Sidi Slimane",
+        "en": "Sidi Slimane",
+        "slug": "sidi-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008007",
+        "level": 2,
+        "name": {
+          "local": "Sidi Slimane",
+          "en": "Sidi Slimane",
+          "slug": "sidi-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14250"
+    ],
+    "geo": {
+      "lat": "34.305",
+      "lon": "-6.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

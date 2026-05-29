@@ -1,0 +1,80 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.province,children_count.localite,zip_codes,geo.lat,geo.lon
+MA001,1,جهة,Region,بني ملال - خنيفرة,Beni Mellal Khenifra,beni-mellal-khenifra-ma001,MA001,,,,,,5,161,,32.406,-6.281
+MA001001,2,إقليم,Province,Azilal,Azilal,azilal,MA001001,,MA001,بني ملال - خنيفرة,Beni Mellal Khenifra,,,55,,31.87,-6.432
+MA001002,2,إقليم,Province,Beni Mellal,Beni Mellal,beni-mellal,MA001002,,MA001,بني ملال - خنيفرة,Beni Mellal Khenifra,,,35,,32.451,-5.98
+MA001003,2,إقليم,Province,Fquih Ben Saleh,Fquih Ben Saleh,fquih-ben-saleh,MA001003,,MA001,بني ملال - خنيفرة,Beni Mellal Khenifra,,,14,,32.421,-6.733
+MA001004,2,إقليم,Province,Khenifra,Khenifra,khenifra,MA001004,,MA001,بني ملال - خنيفرة,Beni Mellal Khenifra,,,27,,32.969,-5.691
+MA001005,2,إقليم,Province,Khouribga,Khouribga,khouribga,MA001005,,MA001,بني ملال - خنيفرة,Beni Mellal Khenifra,,,30,,32.926,-6.588
+MA002,1,جهة,Region,الدار البيضاء - سطات,Casablanca Settat,casablanca-settat-ma002,MA002,,,,,,9,180,,33.065,-7.8
+MA002001,2,إقليم,Province,Berrechid,Berrechid,berrechid,MA002001,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,16,,33.259,-7.615
+MA002002,2,إقليم,Province,El Jadida,El Jadida,el-jadida,MA002002,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,38,,33.074,-8.377
+MA002003,2,إقليم,Province,Mediouna,Mediouna,mediouna,MA002003,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,7,,33.495,-7.468
+MA002004,2,إقليم,Province,Nouaceur,Nouaceur,nouaceur,MA002004,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,7,,33.409,-7.644
+MA002005,2,إقليم,Province,Casablanca,Casablanca,casablanca,MA002005,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,0,,33.567,-7.619
+MA002006,2,إقليم,Province,Mohammedia,Mohammedia,mohammedia,MA002006,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,5,,33.616,-7.374
+MA002007,2,إقليم,Province,Benslimane,Benslimane,benslimane,MA002007,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,21,,33.514,-7.059
+MA002008,2,إقليم,Province,Sidi Bennour,Sidi Bennour,sidi-bennour,MA002008,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,23,,32.589,-8.526
+MA002009,2,إقليم,Province,Settat,Settat,settat,MA002009,,MA002,الدار البيضاء - سطات,Casablanca Settat,,,63,,32.775,-7.498
+MA003,1,جهة,Region,درعة - تافيلالت,Draa Tafilalet,draa-tafilalet-ma003,MA003,,,,,,5,167,,31.287,-5.583
+MA003001,2,إقليم,Province,Ouarzazate,Ouarzazate,ouarzazate,MA003001,,MA003,درعة - تافيلالت,Draa Tafilalet,,,35,,30.825,-7.242
+MA003002,2,إقليم,Province,Errachidia,Errachidia,errachidia,MA003002,,MA003,درعة - تافيلالت,Draa Tafilalet,,,46,,31.133,-4.211
+MA003003,2,إقليم,Province,Midelt,Midelt,midelt,MA003003,,MA003,درعة - تافيلالت,Draa Tafilalet,,,33,,32.491,-4.665
+MA003004,2,إقليم,Province,Tinghir,Tinghir,tinghir,MA003004,,MA003,درعة - تافيلالت,Draa Tafilalet,,,21,,31.317,-5.749
+MA003005,2,إقليم,Province,Zagora,Zagora,zagora,MA003005,,MA003,درعة - تافيلالت,Draa Tafilalet,,,32,,30.314,-5.794
+MA004,1,جهة,Region,فاس - مكناس,Fez Meknes,fez-meknes-ma004,MA004,,,,,,9,255,,33.745,-4.847
+MA004001,2,إقليم,Province,Fes,Fes,fes,MA004001,,MA004,فاس - مكناس,Fez Meknes,,,4,,33.962,-4.909
+MA004002,2,إقليم,Province,Meknes,Meknes,meknes,MA004002,,MA004,فاس - مكناس,Fez Meknes,,,30,,34,-5.498
+MA004003,2,إقليم,Province,El Hajeb,El Hajeb,el-hajeb,MA004003,,MA004,فاس - مكناس,Fez Meknes,,,17,,33.699,-5.493
+MA004004,2,إقليم,Province,Ifrane,Ifrane,ifrane,MA004004,,MA004,فاس - مكناس,Fez Meknes,,,15,,33.353,-5.251
+MA004005,2,إقليم,Province,Boulemane,Boulemane,boulemane,MA004005,,MA004,فاس - مكناس,Fez Meknes,,,33,,33.248,-3.91
+MA004006,2,إقليم,Province,Moulay Yacoub,Moulay Yacoub,moulay-yacoub,MA004006,,MA004,فاس - مكناس,Fez Meknes,,,13,,34.11,-5.005
+MA004007,2,إقليم,Province,Sefrou,Sefrou,sefrou,MA004007,,MA004,فاس - مكناس,Fez Meknes,,,26,,33.793,-4.645
+MA004008,2,إقليم,Province,Taounate,Taounate,taounate,MA004008,,MA004,فاس - مكناس,Fez Meknes,,,60,,34.441,-4.904
+MA004009,2,إقليم,Province,Taza,Taza,taza,MA004009,,MA004,فاس - مكناس,Fez Meknes,,,57,,34.286,-4.154
+MA005,1,جهة,Region,كلميم - واد نون,Guelmim Oued Noun,guelmim-oued-noun-ma005,MA005,,,,,,4,59,,28.646,-10.068
+MA005001,2,إقليم,Province,Assa Zag,Assa Zag,assa-zag,MA005001,,MA005,كلميم - واد نون,Guelmim Oued Noun,,,7,,28.235,-9.537
+MA005002,2,إقليم,Province,Guelmim,Guelmim,guelmim,MA005002,,MA005,كلميم - واد نون,Guelmim Oued Noun,,,29,,28.891,-9.991
+MA005003,2,إقليم,Province,Tan Tan,Tan Tan,tan-tan,MA005003,,MA005,كلميم - واد نون,Guelmim Oued Noun,,,7,,28.21,-11.088
+MA005004,2,إقليم,Province,Sidi Ifni,Sidi Ifni,sidi-ifni,MA005004,,MA005,كلميم - واد نون,Guelmim Oued Noun,,,16,,29.329,-9.759
+MA006,1,جهة,Region,مراكش - آسفي,Marrakech Safi,marrakech-safi-ma006,MA006,,,,,,8,271,,31.8,-8.311
+MA006001,2,إقليم,Province,Al Haouz,Al Haouz,al-haouz,MA006001,,MA006,مراكش - آسفي,Marrakech Safi,,,43,,31.281,-7.925
+MA006002,2,إقليم,Province,Chichaoua,Chichaoua,chichaoua,MA006002,,MA006,مراكش - آسفي,Marrakech Safi,,,36,,31.299,-8.848
+MA006003,2,إقليم,Province,Essaouira,Essaouira,essaouira,MA006003,,MA006,مراكش - آسفي,Marrakech Safi,,,61,,31.363,-9.507
+MA006004,2,إقليم,Province,Marrakech,Marrakech,marrakech,MA006004,,MA006,مراكش - آسفي,Marrakech Safi,,,20,,31.72,-8.154
+MA006005,2,إقليم,Province,El Kelaat Es Sraghna,El Kelaat Es Sraghna,el-kelaat-es-sraghna,MA006005,,MA006,مراكش - آسفي,Marrakech Safi,,,47,,32.044,-7.384
+MA006006,2,إقليم,Province,Safi,Safi,safi,MA006006,,MA006,مراكش - آسفي,Marrakech Safi,,,25,,32.25,-8.994
+MA006007,2,إقليم,Province,Youssoufia,Youssoufia,youssoufia,MA006007,,MA006,مراكش - آسفي,Marrakech Safi,,,13,,32.024,-8.573
+MA006008,2,إقليم,Province,Rhamna,Rhamna,rhamna,MA006008,,MA006,مراكش - آسفي,Marrakech Safi,,,26,,32.218,-8.076
+MA007,1,جهة,Region,الجهة الشرقية,Oriental,oriental-ma007,MA007,,,,,,8,142,,33.579,-2.392
+MA007001,2,إقليم,Province,Oujda Angad,Oujda Angad,oujda-angad,MA007001,,MA007,الجهة الشرقية,Oriental,,,13,,34.668,-2.036
+MA007002,2,إقليم,Province,Berkane,Berkane,berkane,MA007002,,MA007,الجهة الشرقية,Oriental,,,17,,34.856,-2.474
+MA007003,2,إقليم,Province,Driouch,Driouch,driouch,MA007003,,MA007,الجهة الشرقية,Oriental,,,26,,34.915,-3.544
+MA007004,2,إقليم,Province,Figuig,Figuig,figuig,MA007004,,MA007,الجهة الشرقية,Oriental,,,16,,32.704,-2.627
+MA007005,2,إقليم,Province,Guercif,Guercif,guercif,MA007005,,MA007,الجهة الشرقية,Oriental,,,10,,34.142,-3.451
+MA007006,2,إقليم,Province,Jerada,Jerada,jerada,MA007006,,MA007,الجهة الشرقية,Oriental,,,17,,34.11,-2.061
+MA007007,2,إقليم,Province,Nador,Nador,nador,MA007007,,MA007,الجهة الشرقية,Oriental,,,28,,35.052,-2.825
+MA007008,2,إقليم,Province,Taourirt,Taourirt,taourirt,MA007008,,MA007,الجهة الشرقية,Oriental,,,15,,34.045,-2.796
+MA008,1,جهة,Region,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,rabat-sale-kenitra-ma008,MA008,,,,,,7,115,,34.082,-6.329
+MA008001,2,إقليم,Province,Skhirate Temara,Skhirate Temara,skhirate-temara,MA008001,,MA008,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,,,9,,33.748,-6.879
+MA008002,2,إقليم,Province,Rabat,Rabat,rabat,MA008002,,MA008,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,,,0,,33.967,-6.843
+MA008003,2,إقليم,Province,Sale,Sale,sale,MA008003,,MA008,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,,,5,,33.974,-6.656
+MA008004,2,إقليم,Province,Kenitra,Kenitra,kenitra,MA008004,,MA008,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,,,22,,34.557,-6.356
+MA008005,2,إقليم,Province,Khemisset,Khemisset,khemisset,MA008005,,MA008,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,,,40,,33.666,-6.265
+MA008006,2,إقليم,Province,Sidi Kacem,Sidi Kacem,sidi-kacem,MA008006,,MA008,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,,,28,,34.48,-5.578
+MA008007,2,إقليم,Province,Sidi Slimane,Sidi Slimane,sidi-slimane,MA008007,,MA008,الرباط - سلا -القنيطرة,Rabat Sale Kenitra,,,11,,34.287,-6.054
+MA009,1,جهة,Region,سوس - ماسة,Souss Massa,souss-massa-ma009,MA009,,,,,,6,216,,29.739,-8.153
+MA009001,2,إقليم,Province,Agadir Ida Outanane,Agadir Ida Outanane,agadir-ida-outanane,MA009001,,MA009,سوس - ماسة,Souss Massa,,,17,,30.644,-9.602
+MA009002,2,إقليم,Province,Chtouka Ait Baha,Chtouka Ait Baha,chtouka-ait-baha,MA009002,,MA009,سوس - ماسة,Souss Massa,,,31,,30.008,-9.339
+MA009003,2,إقليم,Province,Inezgane Ait Melloul,Inezgane Ait Melloul,inezgane-ait-melloul,MA009003,,MA009,سوس - ماسة,Souss Massa,,,4,,30.35,-9.45
+MA009004,2,إقليم,Province,Taroudant,Taroudant,taroudant,MA009004,,MA009,سوس - ماسة,Souss Massa,,,98,,30.446,-8.497
+MA009005,2,إقليم,Province,Tata,Tata,tata,MA009005,,MA009,سوس - ماسة,Souss Massa,,,21,,29.386,-8.048
+MA009006,2,إقليم,Province,Tiznit,Tiznit,tiznit,MA009006,,MA009,سوس - ماسة,Souss Massa,,,45,,29.592,-9.348
+MA010,1,جهة,Region,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,tangier-tetouan-al-hoceima-ma010,MA010,,,,,,8,169,,35.218,-5.435
+MA010001,2,إقليم,Province,Al Hoceima,Al Hoceima,al-hoceima,MA010001,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,41,,34.966,-4.185
+MA010002,2,إقليم,Province,Chefchaouen,Chefchaouen,chefchaouen,MA010002,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,36,,35.099,-5.009
+MA010003,2,إقليم,Province,Fahs Anjra,Fahs Anjra,fahs-anjra,MA010003,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,10,,35.751,-5.603
+MA010004,2,إقليم,Province,Larache,Larache,larache,MA010004,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,23,,35.196,-5.852
+MA010005,2,إقليم,Province,M diq Fnideq,M diq Fnideq,m-diq-fnideq,MA010005,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,5,,35.76,-5.401
+MA010006,2,إقليم,Province,Tangier Assilah,Tangier Assilah,tangier-assilah,MA010006,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,13,,35.561,-5.853
+MA010007,2,إقليم,Province,Ouezzane,Ouezzane,ouezzane,MA010007,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,18,,34.779,-5.471
+MA010008,2,إقليم,Province,Tetouan,Tetouan,tetouan,MA010008,,MA010,طنجة - تطوان - الحسيمة,Tangier Tetouan Al Hoceima,,,23,,35.451,-5.453

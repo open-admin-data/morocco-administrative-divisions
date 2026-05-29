@@ -1,0 +1,898 @@
+[
+  {
+    "id": "MA005004_ait-erkha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Erkha",
+      "en": "Ait Erkha",
+      "slug": "ait-erkha"
+    },
+    "code": {
+      "id": "MA005004_ait-erkha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85052"
+    ],
+    "geo": {
+      "lat": "29.67",
+      "lon": "-9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_anfeg",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anfeg",
+      "en": "Anfeg",
+      "slug": "anfeg"
+    },
+    "code": {
+      "id": "MA005004_anfeg",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85272"
+    ],
+    "geo": {
+      "lat": "29.595",
+      "lon": "-9.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_arbaa-ait-abdellah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Ait Abdellah",
+      "en": "Arbaa Ait Abdellah",
+      "slug": "arbaa-ait-abdellah"
+    },
+    "code": {
+      "id": "MA005004_arbaa-ait-abdellah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85522"
+    ],
+    "geo": {
+      "lat": "29.668",
+      "lon": "-9.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_boutrouch",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boutrouch",
+      "en": "Boutrouch",
+      "slug": "boutrouch"
+    },
+    "code": {
+      "id": "MA005004_boutrouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85275"
+    ],
+    "geo": {
+      "lat": "29.595",
+      "lon": "-9.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_ibdar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ibdar",
+      "en": "Ibdar",
+      "slug": "ibdar"
+    },
+    "code": {
+      "id": "MA005004_ibdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85274"
+    ],
+    "geo": {
+      "lat": "29.595",
+      "lon": "-9.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_jemaa-ntighirt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa Ntighirt",
+      "en": "Jemaa Ntighirt",
+      "slug": "jemaa-ntighirt"
+    },
+    "code": {
+      "id": "MA005004_jemaa-ntighirt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85252"
+    ],
+    "geo": {
+      "lat": "29.595",
+      "lon": "-9.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_mesti",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mesti",
+      "en": "Mesti",
+      "slug": "mesti"
+    },
+    "code": {
+      "id": "MA005004_mesti",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85302"
+    ],
+    "geo": {
+      "lat": "29.613",
+      "lon": "-9.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_mirleft",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mirleft",
+      "en": "Mirleft",
+      "slug": "mirleft"
+    },
+    "code": {
+      "id": "MA005004_mirleft",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85352"
+    ],
+    "geo": {
+      "lat": "29.613",
+      "lon": "-9.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_sbouya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sbouya",
+      "en": "Sbouya",
+      "slug": "sbouya"
+    },
+    "code": {
+      "id": "MA005004_sbouya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85203"
+    ],
+    "geo": {
+      "lat": "29.81",
+      "lon": "-9.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_sebt-ennabour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Ennabour",
+      "en": "Sebt Ennabour",
+      "slug": "sebt-ennabour"
+    },
+    "code": {
+      "id": "MA005004_sebt-ennabour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85273"
+    ],
+    "geo": {
+      "lat": "29.595",
+      "lon": "-9.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_sidi-abdellah-ou-belaid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdellah Ou Belaid",
+      "en": "Sidi Abdellah Ou Belaid",
+      "slug": "sidi-abdellah-ou-belaid"
+    },
+    "code": {
+      "id": "MA005004_sidi-abdellah-ou-belaid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85072"
+    ],
+    "geo": {
+      "lat": "29.67",
+      "lon": "-9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_sidi-ifni",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ifni",
+      "en": "Sidi Ifni",
+      "slug": "sidi-ifni"
+    },
+    "code": {
+      "id": "MA005004_sidi-ifni",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85200"
+    ],
+    "geo": {
+      "lat": "29.627",
+      "lon": "-9.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_tangarfa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tangarfa",
+      "en": "Tangarfa",
+      "slug": "tangarfa"
+    },
+    "code": {
+      "id": "MA005004_tangarfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85622"
+    ],
+    "geo": {
+      "lat": "29.613",
+      "lon": "-9.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_tiourhza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiourhza",
+      "en": "Tiourhza",
+      "slug": "tiourhza"
+    },
+    "code": {
+      "id": "MA005004_tiourhza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85502"
+    ],
+    "geo": {
+      "lat": "29.668",
+      "lon": "-9.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_tleta-el-akhsass",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta El Akhsass",
+      "en": "Tleta El Akhsass",
+      "slug": "tleta-el-akhsass"
+    },
+    "code": {
+      "id": "MA005004_tleta-el-akhsass",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85550"
+    ],
+    "geo": {
+      "lat": "29.668",
+      "lon": "-9.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004_tnine-amellou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Amellou",
+      "en": "Tnine Amellou",
+      "slug": "tnine-amellou"
+    },
+    "code": {
+      "id": "MA005004_tnine-amellou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005004",
+      "level": 2,
+      "name": {
+        "local": "Sidi Ifni",
+        "en": "Sidi Ifni",
+        "slug": "sidi-ifni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005004",
+        "level": 2,
+        "name": {
+          "local": "Sidi Ifni",
+          "en": "Sidi Ifni",
+          "slug": "sidi-ifni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85602"
+    ],
+    "geo": {
+      "lat": "29.613",
+      "lon": "-9.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

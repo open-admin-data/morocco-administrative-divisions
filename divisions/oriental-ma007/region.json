@@ -1,0 +1,30 @@
+{
+  "id": "MA007",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "الجهة الشرقية",
+    "en": "Oriental",
+    "slug": "oriental-ma007"
+  },
+  "code": {
+    "id": "MA007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 8,
+    "localite": 142
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.579",
+    "lon": "-2.392"
+  },
+  "metadata": {},
+  "source": {}
+}

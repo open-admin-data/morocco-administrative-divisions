@@ -1,0 +1,47 @@
+{
+  "id": "MA009001",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Agadir Ida Outanane",
+    "en": "Agadir Ida Outanane",
+    "slug": "agadir-ida-outanane"
+  },
+  "code": {
+    "id": "MA009001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA009",
+    "level": 1,
+    "name": {
+      "local": "سوس - ماسة",
+      "en": "Souss Massa",
+      "slug": "souss-massa-ma009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.644",
+    "lon": "-9.602"
+  },
+  "metadata": {},
+  "source": {}
+}

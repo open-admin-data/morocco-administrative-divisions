@@ -1,0 +1,31 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+MA001005_ain-kicher,Ain Kicher,Ain Kicher,ain-kicher,MA001005_ain-kicher,25472,33.062,-6.656
+MA001005_ait-ammar,Ait Ammar,Ait Ammar,ait-ammar,MA001005_ait-ammar,25422,33.062,-6.656
+MA001005_arbaa-maadna,Arbaa Maadna,Arbaa Maadna,arbaa-maadna,MA001005_arbaa-maadna,25372,32.863,-6.574
+MA001005_bejaad,Bejaad,Bejaad,bejaad,MA001005_bejaad,25060,32.692,-6.954
+MA001005_bir-mezoui,Bir Mezoui,Bir Mezoui,bir-mezoui,MA001005_bir-mezoui,25373,32.863,-6.574
+MA001005_bni-smir,Bni Smir,Bni Smir,bni-smir,MA001005_bni-smir,25374,32.863,-6.574
+MA001005_bouayache,Bouayache,Bouayache,bouayache,MA001005_bouayache,54352,32.685,-4.745
+MA001005_boujniba,Boujniba,Boujniba,boujniba,MA001005_boujniba,25100,32.901,-6.775
+MA001005_boukhrisse,Boukhrisse,Boukhrisse,boukhrisse,MA001005_boukhrisse,25072,32.692,-6.954
+MA001005_boulanouar,Boulanouar,Boulanouar,boulanouar,MA001005_boulanouar,25152,32.901,-6.775
+MA001005_el-fokra,El Fokra,El Fokra,el-fokra,MA001005_el-fokra,25022,32.692,-6.954
+MA001005_el-gueffaf,El Gueffaf,El Gueffaf,el-gueffaf,MA001005_el-gueffaf,25202,32.883,-6.654
+MA001005_had-bni-batao,Had Bni Batao,Had Bni Batao,had-bni-batao,MA001005_had-bni-batao,25252,32.883,-6.654
+MA001005_hattane,Hattane,Hattane,hattane,MA001005_hattane,25300,32.863,-6.574
+MA001005_jemaa-oulad-aissa,Jemaa Oulad Aissa,Jemaa Oulad Aissa,jemaa-oulad-aissa,MA001005_jemaa-oulad-aissa,25375,32.863,-6.574
+MA001005_kasbat-troch,Kasbat Troch,Kasbat Troch,kasbat-troch,MA001005_kasbat-troch,25376,32.863,-6.574
+MA001005_mfassis,Mfassis,Mfassis,mfassis,MA001005_mfassis,25322,32.863,-6.574
+MA001005_oued-zem,Oued Zem,Oued Zem,oued-zem,MA001005_oued-zem,25350,32.863,-6.574
+MA001005_oulad-fennane,Oulad Fennane,Oulad Fennane,oulad-fennane,MA001005_oulad-fennane,25382,32.863,-6.574
+MA001005_oulad-ftata,Oulad Ftata,Oulad Ftata,oulad-ftata,MA001005_oulad-ftata,25423,33.062,-6.656
+MA001005_oulad-gouaouch,Oulad Gouaouch,Oulad Gouaouch,oulad-gouaouch,MA001005_oulad-gouaouch,25073,32.692,-6.954
+MA001005_ouled-abdoun,Ouled Abdoun,Ouled Abdoun,ouled-abdoun,MA001005_ouled-abdoun,25023,32.692,-6.954
+MA001005_ouled-boughadi,Ouled Boughadi,Ouled Boughadi,ouled-boughadi,MA001005_ouled-boughadi,25402,33.062,-6.656
+MA001005_rouached,Rouached,Rouached,rouached,MA001005_rouached,25522,32.896,-6.311
+MA001005_sebt-beni-yakhlef,Sebt Beni Yakhlef,Sebt Beni Yakhlef,sebt-beni-yakhlef,MA001005_sebt-beni-yakhlef,25003,32.692,-6.954
+MA001005_sebt-dechra-braksa,Sebt Dechra Braksa,Sebt Dechra Braksa,sebt-dechra-braksa,MA001005_sebt-dechra-braksa,25383,32.863,-6.574
+MA001005_tachreft,Tachreft,Tachreft,tachreft,MA001005_tachreft,25452,33.062,-6.656
+MA001005_tleta-beni-zrantil,Tleta Beni Zrantil,Tleta Beni Zrantil,tleta-beni-zrantil,MA001005_tleta-beni-zrantil,25272,32.883,-6.654
+MA001005_tleta-chougrane,Tleta Chougrane,Tleta Chougrane,tleta-chougrane,MA001005_tleta-chougrane,25502,32.896,-6.311
+MA001005_tleta-gnadiz,Tleta Gnadiz,Tleta Gnadiz,tleta-gnadiz,MA001005_tleta-gnadiz,25424,33.062,-6.656

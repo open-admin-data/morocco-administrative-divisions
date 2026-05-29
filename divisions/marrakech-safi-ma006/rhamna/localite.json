@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "MA006008_ait-hammou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Hammou",
+      "en": "Ait Hammou",
+      "slug": "ait-hammou"
+    },
+    "code": {
+      "id": "MA006008_ait-hammou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43175"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_ait-taleb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Taleb",
+      "en": "Ait Taleb",
+      "slug": "ait-taleb"
+    },
+    "code": {
+      "id": "MA006008_ait-taleb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43412"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_akerma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Akerma",
+      "en": "Akerma",
+      "slug": "akerma"
+    },
+    "code": {
+      "id": "MA006008_akerma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43222"
+    ],
+    "geo": {
+      "lat": "31.708",
+      "lon": "-7.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_benguerir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Benguerir",
+      "en": "Benguerir",
+      "slug": "benguerir"
+    },
+    "code": {
+      "id": "MA006008_benguerir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43150"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_bourrous",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bourrous",
+      "en": "Bourrous",
+      "slug": "bourrous"
+    },
+    "code": {
+      "id": "MA006008_bourrous",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43304"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_had-jaafra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Jaafra",
+      "en": "Had Jaafra",
+      "slug": "had-jaafra"
+    },
+    "code": {
+      "id": "MA006008_had-jaafra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43422"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_jaidate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jaidate",
+      "en": "Jaidate",
+      "slug": "jaidate"
+    },
+    "code": {
+      "id": "MA006008_jaidate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43223"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_jbilate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jbilate",
+      "en": "Jbilate",
+      "slug": "jbilate"
+    },
+    "code": {
+      "id": "MA006008_jbilate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43406"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_lamharra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamharra",
+      "en": "Lamharra",
+      "slug": "lamharra"
+    },
+    "code": {
+      "id": "MA006008_lamharra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43324"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_nzalate-laadim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nzalate Laadim",
+      "en": "Nzalate Laadim",
+      "slug": "nzalate-laadim"
+    },
+    "code": {
+      "id": "MA006008_nzalate-laadim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43302"
+    ],
+    "geo": {
+      "lat": "31.902",
+      "lon": "-7.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_oulad-aamer-tizmarine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Aamer Tizmarine",
+      "en": "Oulad Aamer Tizmarine",
+      "slug": "oulad-aamer-tizmarine"
+    },
+    "code": {
+      "id": "MA006008_oulad-aamer-tizmarine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43174"
+    ],
+    "geo": {
+      "lat": "32.27",
+      "lon": "-8.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_oulad-hassoune-hamri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Hassoune Hamri",
+      "en": "Oulad Hassoune Hamri",
+      "slug": "oulad-hassoune-hamri"
+    },
+    "code": {
+      "id": "MA006008_oulad-hassoune-hamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43176"
+    ],
+    "geo": {
+      "lat": "32.27",
+      "lon": "-8.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_oulad-imloul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Imloul",
+      "en": "Oulad Imloul",
+      "slug": "oulad-imloul"
+    },
+    "code": {
+      "id": "MA006008_oulad-imloul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43305"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_ras-ain-rhamna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras Ain Rhamna",
+      "en": "Ras Ain Rhamna",
+      "slug": "ras-ain-rhamna"
+    },
+    "code": {
+      "id": "MA006008_ras-ain-rhamna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43306"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_sebt-brikyine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Brikyine",
+      "en": "Sebt Brikyine",
+      "slug": "sebt-brikyine"
+    },
+    "code": {
+      "id": "MA006008_sebt-brikyine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43173"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_sidi-abdallah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdallah",
+      "en": "Sidi Abdallah",
+      "slug": "sidi-abdallah"
+    },
+    "code": {
+      "id": "MA006008_sidi-abdallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43423"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_sidi-ali-labrahla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Labrahla",
+      "en": "Sidi Ali Labrahla",
+      "slug": "sidi-ali-labrahla"
+    },
+    "code": {
+      "id": "MA006008_sidi-ali-labrahla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43403"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_sidi-bou-othmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bou Othmane",
+      "en": "Sidi Bou Othmane",
+      "slug": "sidi-bou-othmane"
+    },
+    "code": {
+      "id": "MA006008_sidi-bou-othmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43303"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_sidi-boubker",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boubker",
+      "en": "Sidi Boubker",
+      "slug": "sidi-boubker"
+    },
+    "code": {
+      "id": "MA006008_sidi-boubker",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43322"
+    ],
+    "geo": {
+      "lat": "31.826",
+      "lon": "-7.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_sidi-ghanem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ghanem",
+      "en": "Sidi Ghanem",
+      "slug": "sidi-ghanem"
+    },
+    "code": {
+      "id": "MA006008_sidi-ghanem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43424"
+    ],
+    "geo": {
+      "lat": "32.455",
+      "lon": "-7.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_sidi-mansour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mansour",
+      "en": "Sidi Mansour",
+      "slug": "sidi-mansour"
+    },
+    "code": {
+      "id": "MA006008_sidi-mansour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43404"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_skhour-rehamna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Skhour Rehamna",
+      "en": "Skhour Rehamna",
+      "slug": "skhour-rehamna"
+    },
+    "code": {
+      "id": "MA006008_skhour-rehamna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43402"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_skoura-lhadra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Skoura Lhadra",
+      "en": "Skoura Lhadra",
+      "slug": "skoura-lhadra"
+    },
+    "code": {
+      "id": "MA006008_skoura-lhadra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43405"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_tlauh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlauh",
+      "en": "Tlauh",
+      "slug": "tlauh"
+    },
+    "code": {
+      "id": "MA006008_tlauh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43312"
+    ],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_tnine-bouchane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Bouchane",
+      "en": "Tnine Bouchane",
+      "slug": "tnine-bouchane"
+    },
+    "code": {
+      "id": "MA006008_tnine-bouchane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43154"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008_tnine-mhara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Mhara",
+      "en": "Tnine Mhara",
+      "slug": "tnine-mhara"
+    },
+    "code": {
+      "id": "MA006008_tnine-mhara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006008",
+      "level": 2,
+      "name": {
+        "local": "Rhamna",
+        "en": "Rhamna",
+        "slug": "rhamna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006008",
+        "level": 2,
+        "name": {
+          "local": "Rhamna",
+          "en": "Rhamna",
+          "slug": "rhamna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43323"
+    ],
+    "geo": {
+      "lat": "31.826",
+      "lon": "-7.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

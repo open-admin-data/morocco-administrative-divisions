@@ -1,0 +1,284 @@
+[
+  {
+    "id": "MA009001",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Agadir Ida Outanane",
+      "en": "Agadir Ida Outanane",
+      "slug": "agadir-ida-outanane"
+    },
+    "code": {
+      "id": "MA009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.644",
+      "lon": "-9.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chtouka Ait Baha",
+      "en": "Chtouka Ait Baha",
+      "slug": "chtouka-ait-baha"
+    },
+    "code": {
+      "id": "MA009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.008",
+      "lon": "-9.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009003",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Inezgane Ait Melloul",
+      "en": "Inezgane Ait Melloul",
+      "slug": "inezgane-ait-melloul"
+    },
+    "code": {
+      "id": "MA009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.35",
+      "lon": "-9.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Taroudant",
+      "en": "Taroudant",
+      "slug": "taroudant"
+    },
+    "code": {
+      "id": "MA009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 98
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tata",
+      "en": "Tata",
+      "slug": "tata"
+    },
+    "code": {
+      "id": "MA009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.386",
+      "lon": "-8.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tiznit",
+      "en": "Tiznit",
+      "slug": "tiznit"
+    },
+    "code": {
+      "id": "MA009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.592",
+      "lon": "-9.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

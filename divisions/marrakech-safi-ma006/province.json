@@ -1,0 +1,378 @@
+[
+  {
+    "id": "MA006001",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Al Haouz",
+      "en": "Al Haouz",
+      "slug": "al-haouz"
+    },
+    "code": {
+      "id": "MA006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.281",
+      "lon": "-7.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chichaoua",
+      "en": "Chichaoua",
+      "slug": "chichaoua"
+    },
+    "code": {
+      "id": "MA006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "El Kelaat Es Sraghna",
+      "en": "El Kelaat Es Sraghna",
+      "slug": "el-kelaat-es-sraghna"
+    },
+    "code": {
+      "id": "MA006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Essaouira",
+      "en": "Essaouira",
+      "slug": "essaouira"
+    },
+    "code": {
+      "id": "MA006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Marrakech",
+      "en": "Marrakech",
+      "slug": "marrakech"
+    },
+    "code": {
+      "id": "MA006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006008",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Rhamna",
+      "en": "Rhamna",
+      "slug": "rhamna"
+    },
+    "code": {
+      "id": "MA006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.218",
+      "lon": "-8.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Safi",
+      "en": "Safi",
+      "slug": "safi"
+    },
+    "code": {
+      "id": "MA006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.25",
+      "lon": "-8.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Youssoufia",
+      "en": "Youssoufia",
+      "slug": "youssoufia"
+    },
+    "code": {
+      "id": "MA006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.024",
+      "lon": "-8.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

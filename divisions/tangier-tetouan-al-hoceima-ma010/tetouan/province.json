@@ -1,0 +1,47 @@
+{
+  "id": "MA010008",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tetouan",
+    "en": "Tetouan",
+    "slug": "tetouan"
+  },
+  "code": {
+    "id": "MA010008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA010",
+    "level": 1,
+    "name": {
+      "local": "طنجة - تطوان - الحسيمة",
+      "en": "Tangier Tetouan Al Hoceima",
+      "slug": "tangier-tetouan-al-hoceima-ma010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.451",
+    "lon": "-5.453"
+  },
+  "metadata": {},
+  "source": {}
+}

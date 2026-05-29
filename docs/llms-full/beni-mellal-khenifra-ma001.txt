@@ -1,0 +1,678 @@
+# Beni Mellal Khenifra — Morocco Administrative Divisions
+
+> 5 provinces, 161 localitys
+> Code: MA001
+> Coordinates: 32.406, -6.281
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Provinces
+
+### Azilal
+
+Code: MA001001, Coordinates: 31.87, -6.432
+Localitys: 55
+
+#### Abachkou
+
+Code: MA001001_abachkou, Postal: 22472, Coordinates: 31.593, -6.617
+
+#### Afourer
+
+Code: MA001001_afourer, Postal: 22052, Coordinates: 32.207, -6.538
+
+#### Aghbalou Zaouia
+
+Code: MA001001_aghbalou-zaouia, Postal: 22272, Coordinates: 32.101, -6.762
+
+#### Agoudi Nlkhair
+
+Code: MA001001_agoudi-nlkhair, Postal: 22013, Coordinates: 31.87, -6.432
+
+#### Ait Abbas
+
+Code: MA001001_ait-abbas, Postal: 22006, Coordinates: 31.87, -6.432
+
+#### Ait Attab
+
+Code: MA001001_ait-attab, Postal: 22102, Coordinates: 31.888, -6.942
+
+#### Ait Blal
+
+Code: MA001001_ait-blal, Postal: 22322, Coordinates: 31.963, -6.844
+
+#### Ait Bou Oulli
+
+Code: MA001001_ait-bou-oulli, Postal: 22012, Coordinates: 31.87, -6.432
+
+#### Ait Majden
+
+Code: MA001001_ait-majden, Postal: 22303, Coordinates: 31.87, -6.432
+
+#### Ait Mazigh
+
+Code: MA001001_ait-mazigh, Postal: 22403, Coordinates: 31.87, -6.432
+
+#### Ait Mhamed
+
+Code: MA001001_ait-mhamed, Postal: 22152, Coordinates: 31.888, -6.942
+
+#### Ait Ouarda
+
+Code: MA001001_ait-ouarda, Postal: 22072, Coordinates: 32.111, -6.492
+
+#### Ait Oumdis
+
+Code: MA001001_ait-oumdis, Postal: 22304, Coordinates: 31.87, -6.432
+
+#### Ait Taguella
+
+Code: MA001001_ait-taguella, Postal: 22572, Coordinates: 31.921, -6.723
+
+#### Ait Tamejoute
+
+Code: MA001001_ait-tamejoute, Postal: 22522, Coordinates: 31.94, -6.719
+
+#### Ait Tamlil
+
+Code: MA001001_ait-tamlil, Postal: 22323, Coordinates: 31.488, -6.943
+
+#### Anergui
+
+Code: MA001001_anergui, Postal: 22622, Coordinates: 32.069, -5.94
+
+#### Anzou
+
+Code: MA001001_anzou, Postal: 22324, Coordinates: 31.693, -6.909
+
+#### Arbaa Ou Aoula
+
+Code: MA001001_arbaa-ou-aoula, Postal: 22573, Coordinates: 31.884, -6.813
+
+#### Arbaa Ouakabli
+
+Code: MA001001_arbaa-ouakabli, Postal: 22523, Coordinates: 31.94, -6.719
+
+#### Azilal
+
+Code: MA001001_azilal, Postal: 22000, Coordinates: 31.962, -6.571
+
+#### Bine El Ouidane
+
+Code: MA001001_bine-el-ouidane, Postal: 22202, Coordinates: 32.11, -6.476
+
+#### Bni Ayat
+
+Code: MA001001_bni-ayat, Postal: 22652, Coordinates: 32.05, -6.071
+
+#### Bni Hassane
+
+Code: MA001001_bni-hassane, Postal: 22372, Coordinates: 32.03, -6.8
+
+#### Bouantar
+
+Code: MA001001_bouantar, Postal: 22574, Coordinates: 31.744, -6.783
+
+#### Bzou
+
+Code: MA001001_bzou, Postal: 22250, Coordinates: 32.092, -7.048
+
+#### Demnate
+
+Code: MA001001_demnate, Postal: 22300, Coordinates: 31.734, -7.005
+
+#### Foum Jemaa
+
+Code: MA001001_foum-jemaa, Postal: 22353, Coordinates: 31.962, -6.984
+
+#### Igmir
+
+Code: MA001001_igmir, Postal: 22172, Coordinates: 31.683, -7.278
+
+#### Imadahen
+
+Code: MA001001_imadahen, Postal: 22273, Coordinates: 32.101, -6.762
+
+#### Imlil
+
+Code: MA001001_imlil, Postal: 22305, Coordinates: 31.87, -6.432
+
+#### Isseksi
+
+Code: MA001001_isseksi, Postal: 22406, Coordinates: 31.87, -6.432
+
+#### Khemis Majden
+
+Code: MA001001_khemis-majden, Postal: 22575, Coordinates: 31.843, -6.965
+
+#### Moulay Aissa Ben Driss
+
+Code: MA001001_moulay-aissa-ben-driss, Postal: 22252, Coordinates: 31.87, -6.432
+
+#### Ouaouizarht
+
+Code: MA001001_ouaouizarht, Postal: 22402, Coordinates: 32.159, -6.353
+
+#### Ouzoud
+
+Code: MA001001_ouzoud, Postal: 22576, Coordinates: 32.03, -6.78
+
+#### Rfala
+
+Code: MA001001_rfala, Postal: 22274, Coordinates: 32.101, -6.762
+
+#### Sidi Boulkhalf
+
+Code: MA001001_sidi-boulkhalf, Postal: 22306, Coordinates: 31.87, -6.432
+
+#### Sidi Yacoub
+
+Code: MA001001_sidi-yacoub, Postal: 22312, Coordinates: 31.87, -6.432
+
+#### Skatt
+
+Code: MA001001_skatt, Postal: 22022, Coordinates: 31.813, -6.682
+
+#### Tabannt
+
+Code: MA001001_tabannt, Postal: 22452, Coordinates: 31.652, -6.41
+
+#### Tabaroucht
+
+Code: MA001001_tabaroucht, Postal: 22405, Coordinates: 31.87, -6.432
+
+#### Tabia
+
+Code: MA001001_tabia, Postal: 22373, Coordinates: 32.03, -6.8
+
+#### Taguelft
+
+Code: MA001001_taguelft, Postal: 22502, Coordinates: 32.239, -6.123
+
+#### Tamda Noumercid
+
+Code: MA001001_tamda-noumercid, Postal: 22014, Coordinates: 31.87, -6.432
+
+#### Tanannt
+
+Code: MA001001_tanannt, Postal: 22552, Coordinates: 31.863, -6.942
+
+#### Taounza
+
+Code: MA001001_taounza, Postal: 22122, Coordinates: 32.094, -6.606
+
+#### Tidili Fetouaka
+
+Code: MA001001_tidili-fetouaka, Postal: 22325, Coordinates: 31.693, -6.909
+
+#### Tiffert Nait Hamza
+
+Code: MA001001_tiffert-nait-hamza, Postal: 22404, Coordinates: 31.87, -6.432
+
+#### Tifni
+
+Code: MA001001_tifni, Postal: 22326, Coordinates: 31.628, -6.941
+
+#### Tilougguite
+
+Code: MA001001_tilougguite, Postal: 22602, Coordinates: 32.03, -6.203
+
+#### Tislit
+
+Code: MA001001_tislit, Postal: 22352, Coordinates: 31.979, -6.855
+
+#### Tisqi
+
+Code: MA001001_tisqi, Postal: 22253, Coordinates: 31.87, -6.432
+
+#### Tnine Timoulilt
+
+Code: MA001001_tnine-timoulilt, Postal: 22702, Coordinates: 32.204, -6.467
+
+#### Zaouia Ahensal
+
+Code: MA001001_zaouia-ahensal, Postal: 22002, Coordinates: 31.962, -6.571
+
+### Beni Mellal
+
+Code: MA001002, Coordinates: 32.451, -5.98
+Localitys: 35
+
+#### Ait Oum El Bekht
+
+Code: MA001002_ait-oum-el-bekht, Postal: 23154, Coordinates: 32.451, -5.98
+
+#### Arhbala
+
+Code: MA001002_arhbala, Postal: 23052, Coordinates: 32.481, -5.643
+
+#### Boutfarda
+
+Code: MA001002_boutfarda, Postal: 23072, Coordinates: 32.468, -5.772
+
+#### Douar Ait Ali
+
+Code: MA001002_douar-ait-ali, Postal: 23376, Coordinates: 32.672, -6.264
+
+#### El Bazzaza
+
+Code: MA001002_el-bazzaza, Postal: 23522, Coordinates: 32.453, -6.292
+
+#### El Krazza
+
+Code: MA001002_el-krazza, Postal: 23572, Coordinates: 33.078, -6.654
+
+#### El Ksiba
+
+Code: MA001002_el-ksiba, Postal: 23150, Coordinates: 32.565, -6.032
+
+#### Fechtala
+
+Code: MA001002_fechtala, Postal: 23272, Coordinates: 32.441, -6.398
+
+#### Feryata
+
+Code: MA001002_feryata, Postal: 23672, Coordinates: 32.499, -6.147
+
+#### Foum El Anser
+
+Code: MA001002_foum-el-anser, Postal: 23252, Coordinates: 32.373, -6.26
+
+#### Foum Oudi
+
+Code: MA001002_foum-oudi, Postal: 23006, Coordinates: 32.577, -6.837
+
+#### Ghorm El Alem
+
+Code: MA001002_ghorm-el-alem, Postal: 23673, Coordinates: 32.526, -6.157
+
+#### Guettaya
+
+Code: MA001002_guettaya, Postal: 23372, Coordinates: 32.505, -6.248
+
+#### Kasba Tadla
+
+Code: MA001002_kasba-tadla, Postal: 23350, Coordinates: 32.598, -6.268
+
+#### Laayayta
+
+Code: MA001002_laayayta, Postal: 23022, Coordinates: 32.509, -6.084
+
+#### Lahlalma
+
+Code: MA001002_lahlalma, Postal: 23322, Coordinates: 32.556, -6.329
+
+#### M&#39;Ghila
+
+Code: MA001002_mghila, Postal: 23023, Coordinates: 32.509, -6.084
+
+#### Naour
+
+Code: MA001002_naour, Postal: 23155, Coordinates: 32.451, -5.98
+
+#### Oulad Ali Loued
+
+Code: MA001002_oulad-ali-loued, Postal: 23323, Coordinates: 32.556, -6.329
+
+#### Oulad Driss Bradia
+
+Code: MA001002_oulad-driss-bradia, Postal: 23324, Coordinates: 32.556, -6.329
+
+#### Oulad Gnaoua
+
+Code: MA001002_oulad-gnaoua, Postal: 23156, Coordinates: 32.451, -5.98
+
+#### Oulad Hassoun
+
+Code: MA001002_oulad-hassoun, Postal: 23225, Coordinates: 32.463, -6.035
+
+#### Oulad Said El Oued
+
+Code: MA001002_oulad-said-el-oued, Postal: 23373, Coordinates: 32.588, -6.256
+
+#### Ouled Abdellah
+
+Code: MA001002_ouled-abdellah, Postal: 23226, Coordinates: 32.509, -6.536
+
+#### Ouled Mbarek
+
+Code: MA001002_ouled-mbarek, Postal: 23452, Coordinates: 32.463, -6.035
+
+#### Ouled Yaiche
+
+Code: MA001002_ouled-yaiche, Postal: 23502, Coordinates: 32.435, -6.324
+
+#### Ouled Youssef
+
+Code: MA001002_ouled-youssef, Postal: 23374, Coordinates: 32.588, -6.256
+
+#### Semguet
+
+Code: MA001002_semguet, Postal: 23375, Coordinates: 32.588, -6.256
+
+#### Sidi Aissa
+
+Code: MA001002_sidi-aissa, Postal: 23574, Coordinates: 32.463, -6.035
+
+#### Sidi Jaber
+
+Code: MA001002_sidi-jaber, Postal: 23602, Coordinates: 32.389, -6.421
+
+#### Taghzirt
+
+Code: MA001002_taghzirt, Postal: 23652, Coordinates: 32.436, -6.19
+
+#### Tanorha
+
+Code: MA001002_tanorha, Postal: 23674, Coordinates: 32.472, -6.137
+
+#### Tizi Nisly
+
+Code: MA001002_tizi-nisly, Postal: 23073, Coordinates: 32.468, -5.772
+
+#### Zaouiat Cheikh
+
+Code: MA001002_zaouiat-cheikh, Postal: 23700, Coordinates: 32.502, -6.352
+
+#### Zouair
+
+Code: MA001002_zouair, Postal: 23523, Coordinates: 32.453, -6.292
+
+### Fquih Ben Saleh
+
+Code: MA001003, Coordinates: 32.421, -6.733
+Localitys: 14
+
+#### Al Khalfia
+
+Code: MA001003_al-khalfia, Postal: 23206, Coordinates: 32.421, -6.733
+
+#### Bni Oukil
+
+Code: MA001003_bni-oukil, Postal: 23005, Coordinates: 32.463, -6.035
+
+#### Dar Ould Zidouh
+
+Code: MA001003_dar-ould-zidouh, Postal: 23102, Coordinates: 32.463, -6.035
+
+#### El Krifate
+
+Code: MA001003_el-krifate, Postal: 23222, Coordinates: 32.509, -6.536
+
+#### Fkih Ben Salah
+
+Code: MA001003_fkih-ben-salah, Postal: 23200, Coordinates: 32.441, -6.398
+
+#### Had Bradia
+
+Code: MA001003_had-bradia, Postal: 23302, Coordinates: 32.463, -6.035
+
+#### Had Oulad Boumoussa
+
+Code: MA001003_had-oulad-boumoussa, Postal: 23122, Coordinates: 32.439, -6.469
+
+#### Hal El Marbaa
+
+Code: MA001003_hal-el-marbaa, Postal: 23223, Coordinates: 32.509, -6.536
+
+#### Khemis Bni Chagdal
+
+Code: MA001003_khemis-bni-chagdal, Postal: 23224, Coordinates: 32.509, -6.536
+
+#### Oulad Ayad
+
+Code: MA001003_oulad-ayad, Postal: 23400, Coordinates: 32.463, -6.035
+
+#### Oulad Bourahmoune
+
+Code: MA001003_oulad-bourahmoune, Postal: 23573, Coordinates: 33.078, -6.654
+
+#### Ouled Zmam
+
+Code: MA001003_ouled-zmam, Postal: 23575, Coordinates: 33.078, -6.654
+
+#### Sebt Oulad Nemma
+
+Code: MA001003_sebt-oulad-nemma, Postal: 23550, Coordinates: 32.655, -6.424
+
+#### Sidi Hammadi
+
+Code: MA001003_sidi-hammadi, Postal: 23232, Coordinates: 32.421, -6.733
+
+### Khenifra
+
+Code: MA001004, Coordinates: 32.969, -5.691
+Localitys: 27
+
+#### Aguelmam Azegza
+
+Code: MA001004_aguelmam-azegza, Postal: 54013, Coordinates: 32.969, -5.691
+
+#### Aguelmouss
+
+Code: MA001004_aguelmouss, Postal: 54052, Coordinates: 33.161, -5.846
+
+#### Ain Aicha Ait Saadelli
+
+Code: MA001004_ain-aicha-ait-saadelli, Postal: 54153, Coordinates: 32.724, -5.103
+
+#### Ait Ishak
+
+Code: MA001004_ait-ishak, Postal: 54103, Coordinates: 32.762, -5.725
+
+#### El Borj
+
+Code: MA001004_el-borj, Postal: 54032, Coordinates: 32.969, -5.691
+
+#### El Hammam
+
+Code: MA001004_el-hammam, Postal: 54452, Coordinates: 33.175, -5.47
+
+#### El Hri
+
+Code: MA001004_el-hri, Postal: 54022, Coordinates: 33.161, -5.846
+
+#### El Kebab
+
+Code: MA001004_el-kebab, Postal: 54203, Coordinates: 32.741, -5.52
+
+#### Jbel Aouama
+
+Code: MA001004_jbel-aouama, Postal: 54472, Coordinates: 32.895, -5.867
+
+#### Kaf Nsour
+
+Code: MA001004_kaf-nsour, Postal: 54002, Coordinates: 33.161, -5.846
+
+#### Kerrouchen
+
+Code: MA001004_kerrouchen, Postal: 54302, Coordinates: 32.796, -5.319
+
+#### Moha Ou Hammou Zaya
+
+Code: MA001004_moha-ou-hammou-zaya, Postal: 54014, Coordinates: 32.969, -5.691
+
+#### Moulay Bouazza
+
+Code: MA001004_moulay-bouazza, Postal: 54403, Coordinates: 33.005, -5.765
+
+#### Mrirt
+
+Code: MA001004_mrirt, Postal: 54450, Coordinates: 33.175, -5.47
+
+#### Ouaoumana
+
+Code: MA001004_ouaoumana, Postal: 54102, Coordinates: 32.71, -5.806
+
+#### Oum Rabia
+
+Code: MA001004_oum-rabia, Postal: 54473, Coordinates: 32.895, -5.867
+
+#### Sidi Amar
+
+Code: MA001004_sidi-amar, Postal: 54015, Coordinates: 32.969, -5.691
+
+#### Sidi Bouabbed
+
+Code: MA001004_sidi-bouabbed, Postal: 54023, Coordinates: 33.161, -5.846
+
+#### Sidi Hcine
+
+Code: MA001004_sidi-hcine, Postal: 54016, Coordinates: 32.969, -5.691
+
+#### Sidi Lamine
+
+Code: MA001004_sidi-lamine, Postal: 54025, Coordinates: 32.969, -5.691
+
+#### Sidi Mhamed Ben Mbarek
+
+Code: MA001004_sidi-mhamed-ben-mbarek, Postal: 54425, Coordinates: 32.895, -5.867
+
+#### Sidi Yahya Ou Saad
+
+Code: MA001004_sidi-yahya-ou-saad, Postal: 54202, Coordinates: 32.68, -5.577
+
+#### Souk Had Bouhsoussen
+
+Code: MA001004_souk-had-bouhsoussen, Postal: 54402, Coordinates: 32.615, -6.263
+
+#### Souk Sebt Ait Rahou
+
+Code: MA001004_souk-sebt-ait-rahou, Postal: 54423, Coordinates: 32.895, -5.867
+
+#### Souk Tnine Ait Boukhayyou
+
+Code: MA001004_souk-tnine-ait-boukhayyou, Postal: 54424, Coordinates: 32.895, -5.867
+
+#### Tighessaline
+
+Code: MA001004_tighessaline, Postal: 54003, Coordinates: 33.161, -5.846
+
+#### Tizi Nghachou
+
+Code: MA001004_tizi-nghachou, Postal: 54382, Coordinates: 32.969, -5.691
+
+### Khouribga
+
+Code: MA001005, Coordinates: 32.926, -6.588
+Localitys: 30
+
+#### Ain Kicher
+
+Code: MA001005_ain-kicher, Postal: 25472, Coordinates: 33.062, -6.656
+
+#### Ait Ammar
+
+Code: MA001005_ait-ammar, Postal: 25422, Coordinates: 33.062, -6.656
+
+#### Arbaa Maadna
+
+Code: MA001005_arbaa-maadna, Postal: 25372, Coordinates: 32.863, -6.574
+
+#### Bejaad
+
+Code: MA001005_bejaad, Postal: 25060, Coordinates: 32.692, -6.954
+
+#### Bir Mezoui
+
+Code: MA001005_bir-mezoui, Postal: 25373, Coordinates: 32.863, -6.574
+
+#### Bni Smir
+
+Code: MA001005_bni-smir, Postal: 25374, Coordinates: 32.863, -6.574
+
+#### Bouayache
+
+Code: MA001005_bouayache, Postal: 54352, Coordinates: 32.685, -4.745
+
+#### Boujniba
+
+Code: MA001005_boujniba, Postal: 25100, Coordinates: 32.901, -6.775
+
+#### Boukhrisse
+
+Code: MA001005_boukhrisse, Postal: 25072, Coordinates: 32.692, -6.954
+
+#### Boulanouar
+
+Code: MA001005_boulanouar, Postal: 25152, Coordinates: 32.901, -6.775
+
+#### El Fokra
+
+Code: MA001005_el-fokra, Postal: 25022, Coordinates: 32.692, -6.954
+
+#### El Gueffaf
+
+Code: MA001005_el-gueffaf, Postal: 25202, Coordinates: 32.883, -6.654
+
+#### Had Bni Batao
+
+Code: MA001005_had-bni-batao, Postal: 25252, Coordinates: 32.883, -6.654
+
+#### Hattane
+
+Code: MA001005_hattane, Postal: 25300, Coordinates: 32.863, -6.574
+
+#### Jemaa Oulad Aissa
+
+Code: MA001005_jemaa-oulad-aissa, Postal: 25375, Coordinates: 32.863, -6.574
+
+#### Kasbat Troch
+
+Code: MA001005_kasbat-troch, Postal: 25376, Coordinates: 32.863, -6.574
+
+#### Mfassis
+
+Code: MA001005_mfassis, Postal: 25322, Coordinates: 32.863, -6.574
+
+#### Oued Zem
+
+Code: MA001005_oued-zem, Postal: 25350, Coordinates: 32.863, -6.574
+
+#### Oulad Fennane
+
+Code: MA001005_oulad-fennane, Postal: 25382, Coordinates: 32.863, -6.574
+
+#### Oulad Ftata
+
+Code: MA001005_oulad-ftata, Postal: 25423, Coordinates: 33.062, -6.656
+
+#### Oulad Gouaouch
+
+Code: MA001005_oulad-gouaouch, Postal: 25073, Coordinates: 32.692, -6.954
+
+#### Ouled Abdoun
+
+Code: MA001005_ouled-abdoun, Postal: 25023, Coordinates: 32.692, -6.954
+
+#### Ouled Boughadi
+
+Code: MA001005_ouled-boughadi, Postal: 25402, Coordinates: 33.062, -6.656
+
+#### Rouached
+
+Code: MA001005_rouached, Postal: 25522, Coordinates: 32.896, -6.311
+
+#### Sebt Beni Yakhlef
+
+Code: MA001005_sebt-beni-yakhlef, Postal: 25003, Coordinates: 32.692, -6.954
+
+#### Sebt Dechra Braksa
+
+Code: MA001005_sebt-dechra-braksa, Postal: 25383, Coordinates: 32.863, -6.574
+
+#### Tachreft
+
+Code: MA001005_tachreft, Postal: 25452, Coordinates: 33.062, -6.656
+
+#### Tleta Beni Zrantil
+
+Code: MA001005_tleta-beni-zrantil, Postal: 25272, Coordinates: 32.883, -6.654
+
+#### Tleta Chougrane
+
+Code: MA001005_tleta-chougrane, Postal: 25502, Coordinates: 32.896, -6.311
+
+#### Tleta Gnadiz
+
+Code: MA001005_tleta-gnadiz, Postal: 25424, Coordinates: 33.062, -6.656
+

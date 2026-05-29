@@ -1,0 +1,47 @@
+{
+  "id": "MA009006",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tiznit",
+    "en": "Tiznit",
+    "slug": "tiznit"
+  },
+  "code": {
+    "id": "MA009006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA009",
+    "level": 1,
+    "name": {
+      "local": "سوس - ماسة",
+      "en": "Souss Massa",
+      "slug": "souss-massa-ma009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.592",
+    "lon": "-9.348"
+  },
+  "metadata": {},
+  "source": {}
+}

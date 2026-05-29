@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "MA010007_ain-beida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Beida",
+      "en": "Ain Beida",
+      "slug": "ain-beida"
+    },
+    "code": {
+      "id": "MA010007_ain-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91022"
+    ],
+    "geo": {
+      "lat": "35.084",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_ain-dorij",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Dorij",
+      "en": "Ain Dorij",
+      "slug": "ain-dorij"
+    },
+    "code": {
+      "id": "MA010007_ain-dorij",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16222"
+    ],
+    "geo": {
+      "lat": "34.681",
+      "lon": "-5.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_asjen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asjen",
+      "en": "Asjen",
+      "slug": "asjen"
+    },
+    "code": {
+      "id": "MA010007_asjen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91024"
+    ],
+    "geo": {
+      "lat": "35.084",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_bni-quolla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Quolla",
+      "en": "Bni Quolla",
+      "slug": "bni-quolla"
+    },
+    "code": {
+      "id": "MA010007_bni-quolla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16224"
+    ],
+    "geo": {
+      "lat": "34.681",
+      "lon": "-5.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_brikcha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brikcha",
+      "en": "Brikcha",
+      "slug": "brikcha"
+    },
+    "code": {
+      "id": "MA010007_brikcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91026"
+    ],
+    "geo": {
+      "lat": "35.084",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_kalaat-bouqorra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kalaat Bouqorra",
+      "en": "Kalaat Bouqorra",
+      "slug": "kalaat-bouqorra"
+    },
+    "code": {
+      "id": "MA010007_kalaat-bouqorra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91154"
+    ],
+    "geo": {
+      "lat": "34.779",
+      "lon": "-5.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_lamjaara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamjaara",
+      "en": "Lamjaara",
+      "slug": "lamjaara"
+    },
+    "code": {
+      "id": "MA010007_lamjaara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16204"
+    ],
+    "geo": {
+      "lat": "34.779",
+      "lon": "-5.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_masmouda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Masmouda",
+      "en": "Masmouda",
+      "slug": "masmouda"
+    },
+    "code": {
+      "id": "MA010007_masmouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16205"
+    ],
+    "geo": {
+      "lat": "34.779",
+      "lon": "-5.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_mokrisset",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mokrisset",
+      "en": "Mokrisset",
+      "slug": "mokrisset"
+    },
+    "code": {
+      "id": "MA010007_mokrisset",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91152"
+    ],
+    "geo": {
+      "lat": "35.084",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_mzefroune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mzefroune",
+      "en": "Mzefroune",
+      "slug": "mzefroune"
+    },
+    "code": {
+      "id": "MA010007_mzefroune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16206"
+    ],
+    "geo": {
+      "lat": "34.779",
+      "lon": "-5.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_ounnana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ounnana",
+      "en": "Ounnana",
+      "slug": "ounnana"
+    },
+    "code": {
+      "id": "MA010007_ounnana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16225"
+    ],
+    "geo": {
+      "lat": "34.681",
+      "lon": "-5.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_sebt-rmel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Rmel",
+      "en": "Sebt Rmel",
+      "slug": "sebt-rmel"
+    },
+    "code": {
+      "id": "MA010007_sebt-rmel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16223"
+    ],
+    "geo": {
+      "lat": "34.681",
+      "lon": "-5.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_sidi-ahmed-cherif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed Cherif",
+      "en": "Sidi Ahmed Cherif",
+      "slug": "sidi-ahmed-cherif"
+    },
+    "code": {
+      "id": "MA010007_sidi-ahmed-cherif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16032"
+    ],
+    "geo": {
+      "lat": "34.542",
+      "lon": "-5.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_sidi-bousber",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bousber",
+      "en": "Sidi Bousber",
+      "slug": "sidi-bousber"
+    },
+    "code": {
+      "id": "MA010007_sidi-bousber",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16004"
+    ],
+    "geo": {
+      "lat": "34.471",
+      "lon": "-5.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_sidi-redouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Redouane",
+      "en": "Sidi Redouane",
+      "slug": "sidi-redouane"
+    },
+    "code": {
+      "id": "MA010007_sidi-redouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16202"
+    ],
+    "geo": {
+      "lat": "34.471",
+      "lon": "-5.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_teroual",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Teroual",
+      "en": "Teroual",
+      "slug": "teroual"
+    },
+    "code": {
+      "id": "MA010007_teroual",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16252"
+    ],
+    "geo": {
+      "lat": "34.471",
+      "lon": "-5.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_zghira",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zghira",
+      "en": "Zghira",
+      "slug": "zghira"
+    },
+    "code": {
+      "id": "MA010007_zghira",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16212"
+    ],
+    "geo": {
+      "lat": "34.779",
+      "lon": "-5.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007_zoumi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zoumi",
+      "en": "Zoumi",
+      "slug": "zoumi"
+    },
+    "code": {
+      "id": "MA010007_zoumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010007",
+      "level": 2,
+      "name": {
+        "local": "Ouezzane",
+        "en": "Ouezzane",
+        "slug": "ouezzane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010007",
+        "level": 2,
+        "name": {
+          "local": "Ouezzane",
+          "en": "Ouezzane",
+          "slug": "ouezzane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91202"
+    ],
+    "geo": {
+      "lat": "35.084",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MA005004",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sidi Ifni",
+    "en": "Sidi Ifni",
+    "slug": "sidi-ifni"
+  },
+  "code": {
+    "id": "MA005004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA005",
+    "level": 1,
+    "name": {
+      "local": "كلميم - واد نون",
+      "en": "Guelmim Oued Noun",
+      "slug": "guelmim-oued-noun-ma005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA005",
+      "level": 1,
+      "name": {
+        "local": "كلميم - واد نون",
+        "en": "Guelmim Oued Noun",
+        "slug": "guelmim-oued-noun-ma005"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.329",
+    "lon": "-9.759"
+  },
+  "metadata": {},
+  "source": {}
+}

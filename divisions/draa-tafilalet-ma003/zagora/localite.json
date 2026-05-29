@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "MA003005_afella-ndra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Afella Ndra",
+      "en": "Afella Ndra",
+      "slug": "afella-ndra"
+    },
+    "code": {
+      "id": "MA003005_afella-ndra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47053"
+    ],
+    "geo": {
+      "lat": "30.314",
+      "lon": "-5.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_afra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Afra",
+      "en": "Afra",
+      "slug": "afra"
+    },
+    "code": {
+      "id": "MA003005_afra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47076"
+    ],
+    "geo": {
+      "lat": "30.734",
+      "lon": "-6.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_agdz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agdz",
+      "en": "Agdz",
+      "slug": "agdz"
+    },
+    "code": {
+      "id": "MA003005_agdz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47050"
+    ],
+    "geo": {
+      "lat": "30.694",
+      "lon": "-6.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_ait-boudaoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Boudaoud",
+      "en": "Ait Boudaoud",
+      "slug": "ait-boudaoud"
+    },
+    "code": {
+      "id": "MA003005_ait-boudaoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47054"
+    ],
+    "geo": {
+      "lat": "30.314",
+      "lon": "-5.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_ait-ouallal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ouallal",
+      "en": "Ait Ouallal",
+      "slug": "ait-ouallal"
+    },
+    "code": {
+      "id": "MA003005_ait-ouallal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47723"
+    ],
+    "geo": {
+      "lat": "30.789",
+      "lon": "-5.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_ait-saoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Saoun",
+      "en": "Ait Saoun",
+      "slug": "ait-saoun"
+    },
+    "code": {
+      "id": "MA003005_ait-saoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47072"
+    ],
+    "geo": {
+      "lat": "30.734",
+      "lon": "-6.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_bleida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bleida",
+      "en": "Bleida",
+      "slug": "bleida"
+    },
+    "code": {
+      "id": "MA003005_bleida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47926"
+    ],
+    "geo": {
+      "lat": "30.354",
+      "lon": "-6.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_bni-zoli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Zoli",
+      "en": "Bni Zoli",
+      "slug": "bni-zoli"
+    },
+    "code": {
+      "id": "MA003005_bni-zoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47922"
+    ],
+    "geo": {
+      "lat": "30.431",
+      "lon": "-6.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_bouzeroual",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouzeroual",
+      "en": "Bouzeroual",
+      "slug": "bouzeroual"
+    },
+    "code": {
+      "id": "MA003005_bouzeroual",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47925"
+    ],
+    "geo": {
+      "lat": "30.431",
+      "lon": "-6.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_douar-site",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douar Site",
+      "en": "Douar Site",
+      "slug": "douar-site"
+    },
+    "code": {
+      "id": "MA003005_douar-site",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47725"
+    ],
+    "geo": {
+      "lat": "30.789",
+      "lon": "-5.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_el-blida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Blida",
+      "en": "El Blida",
+      "slug": "el-blida"
+    },
+    "code": {
+      "id": "MA003005_el-blida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47572"
+    ],
+    "geo": {
+      "lat": "29.98",
+      "lon": "-5.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_errouha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Errouha",
+      "en": "Errouha",
+      "slug": "errouha"
+    },
+    "code": {
+      "id": "MA003005_errouha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47903"
+    ],
+    "geo": {
+      "lat": "30.314",
+      "lon": "-5.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_fezouata",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fezouata",
+      "en": "Fezouata",
+      "slug": "fezouata"
+    },
+    "code": {
+      "id": "MA003005_fezouata",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47622"
+    ],
+    "geo": {
+      "lat": "30.397",
+      "lon": "-5.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_ktaoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ktaoua",
+      "en": "Ktaoua",
+      "slug": "ktaoua"
+    },
+    "code": {
+      "id": "MA003005_ktaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47904"
+    ],
+    "geo": {
+      "lat": "30.314",
+      "lon": "-5.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_mezguita",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mezguita",
+      "en": "Mezguita",
+      "slug": "mezguita"
+    },
+    "code": {
+      "id": "MA003005_mezguita",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47055"
+    ],
+    "geo": {
+      "lat": "30.314",
+      "lon": "-5.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_mhamid-ghizlane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mhamid Ghizlane",
+      "en": "Mhamid Ghizlane",
+      "slug": "mhamid-ghizlane"
+    },
+    "code": {
+      "id": "MA003005_mhamid-ghizlane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47402"
+    ],
+    "geo": {
+      "lat": "29.82",
+      "lon": "-5.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_nesrate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nesrate",
+      "en": "Nesrate",
+      "slug": "nesrate"
+    },
+    "code": {
+      "id": "MA003005_nesrate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47573"
+    ],
+    "geo": {
+      "lat": "29.98",
+      "lon": "-5.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_nkob",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nkob",
+      "en": "Nkob",
+      "slug": "nkob"
+    },
+    "code": {
+      "id": "MA003005_nkob",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47702"
+    ],
+    "geo": {
+      "lat": "30.8",
+      "lon": "-5.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_oulad-driss-el-ghouzlane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Driss El Ghouzlane",
+      "en": "Oulad Driss El Ghouzlane",
+      "slug": "oulad-driss-el-ghouzlane"
+    },
+    "code": {
+      "id": "MA003005_oulad-driss-el-ghouzlane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47422"
+    ],
+    "geo": {
+      "lat": "29.82",
+      "lon": "-5.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_oulad-yahia-lagraire",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Yahia Lagraire",
+      "en": "Oulad Yahia Lagraire",
+      "slug": "oulad-yahia-lagraire"
+    },
+    "code": {
+      "id": "MA003005_oulad-yahia-lagraire",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47056"
+    ],
+    "geo": {
+      "lat": "30.314",
+      "lon": "-5.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_taftechna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taftechna",
+      "en": "Taftechna",
+      "slug": "taftechna"
+    },
+    "code": {
+      "id": "MA003005_taftechna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47724"
+    ],
+    "geo": {
+      "lat": "30.789",
+      "lon": "-5.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_tagounite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tagounite",
+      "en": "Tagounite",
+      "slug": "tagounite"
+    },
+    "code": {
+      "id": "MA003005_tagounite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47552"
+    ],
+    "geo": {
+      "lat": "29.97",
+      "lon": "-5.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_tamegroute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamegroute",
+      "en": "Tamegroute",
+      "slug": "tamegroute"
+    },
+    "code": {
+      "id": "MA003005_tamegroute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47602"
+    ],
+    "geo": {
+      "lat": "30.397",
+      "lon": "-5.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_tamezmoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamezmoute",
+      "en": "Tamezmoute",
+      "slug": "tamezmoute"
+    },
+    "code": {
+      "id": "MA003005_tamezmoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47073"
+    ],
+    "geo": {
+      "lat": "30.734",
+      "lon": "-6.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_tanssifte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanssifte",
+      "en": "Tanssifte",
+      "slug": "tanssifte"
+    },
+    "code": {
+      "id": "MA003005_tanssifte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47074"
+    ],
+    "geo": {
+      "lat": "30.734",
+      "lon": "-6.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_tarhbalte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tarhbalte",
+      "en": "Tarhbalte",
+      "slug": "tarhbalte"
+    },
+    "code": {
+      "id": "MA003005_tarhbalte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47722"
+    ],
+    "geo": {
+      "lat": "30.789",
+      "lon": "-5.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_tazzarine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazzarine",
+      "en": "Tazzarine",
+      "slug": "tazzarine"
+    },
+    "code": {
+      "id": "MA003005_tazzarine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47703"
+    ],
+    "geo": {
+      "lat": "30.778",
+      "lon": "-5.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_ternata",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ternata",
+      "en": "Ternata",
+      "slug": "ternata"
+    },
+    "code": {
+      "id": "MA003005_ternata",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47923"
+    ],
+    "geo": {
+      "lat": "30.431",
+      "lon": "-6.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_tinzouline",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tinzouline",
+      "en": "Tinzouline",
+      "slug": "tinzouline"
+    },
+    "code": {
+      "id": "MA003005_tinzouline",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47924"
+    ],
+    "geo": {
+      "lat": "30.508",
+      "lon": "-6.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_zagora",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zagora",
+      "en": "Zagora",
+      "slug": "zagora"
+    },
+    "code": {
+      "id": "MA003005_zagora",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47900"
+    ],
+    "geo": {
+      "lat": "30.332",
+      "lon": "-5.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_zaouia-kadiria",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Kadiria",
+      "en": "Zaouia Kadiria",
+      "slug": "zaouia-kadiria"
+    },
+    "code": {
+      "id": "MA003005_zaouia-kadiria",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47075"
+    ],
+    "geo": {
+      "lat": "30.734",
+      "lon": "-6.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003005_zaouit-sidi-salah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouit Sidi Salah",
+      "en": "Zaouit Sidi Salah",
+      "slug": "zaouit-sidi-salah"
+    },
+    "code": {
+      "id": "MA003005_zaouit-sidi-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003005",
+      "level": 2,
+      "name": {
+        "local": "Zagora",
+        "en": "Zagora",
+        "slug": "zagora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003005",
+        "level": 2,
+        "name": {
+          "local": "Zagora",
+          "en": "Zagora",
+          "slug": "zagora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47574"
+    ],
+    "geo": {
+      "lat": "29.98",
+      "lon": "-5.51"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

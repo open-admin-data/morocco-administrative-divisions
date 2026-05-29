@@ -1,0 +1,2298 @@
+[
+  {
+    "id": "MA010001_abdelghaya-souahel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abdelghaya Souahel",
+      "en": "Abdelghaya Souahel",
+      "slug": "abdelghaya-souahel"
+    },
+    "code": {
+      "id": "MA010001_abdelghaya-souahel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32354"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_ain-benabbou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Benabbou",
+      "en": "Ain Benabbou",
+      "slug": "ain-benabbou"
+    },
+    "code": {
+      "id": "MA010001_ain-benabbou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32372"
+    ],
+    "geo": {
+      "lat": "34.939",
+      "lon": "-4.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_ait-kamra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Kamra",
+      "en": "Ait Kamra",
+      "slug": "ait-kamra"
+    },
+    "code": {
+      "id": "MA010001_ait-kamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32022"
+    ],
+    "geo": {
+      "lat": "35.067",
+      "lon": "-3.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_ait-youssef-ou-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Youssef Ou Ali",
+      "en": "Ait Youssef Ou Ali",
+      "slug": "ait-youssef-ou-ali"
+    },
+    "code": {
+      "id": "MA010001_ait-youssef-ou-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32003"
+    ],
+    "geo": {
+      "lat": "35.106",
+      "lon": "-3.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_ajdir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ajdir",
+      "en": "Ajdir",
+      "slug": "ajdir"
+    },
+    "code": {
+      "id": "MA010001_ajdir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35052"
+    ],
+    "geo": {
+      "lat": "34.743",
+      "lon": "-3.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_arbaa-taourirt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Taourirt",
+      "en": "Arbaa Taourirt",
+      "slug": "arbaa-taourirt"
+    },
+    "code": {
+      "id": "MA010001_arbaa-taourirt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32004"
+    ],
+    "geo": {
+      "lat": "34.926",
+      "lon": "-3.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_beni-gmil-mestassa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Gmil Mestassa",
+      "en": "Beni Gmil Mestassa",
+      "slug": "beni-gmil-mestassa"
+    },
+    "code": {
+      "id": "MA010001_beni-gmil-mestassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "35.058",
+      "lon": "-4.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-abdallah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Abdallah",
+      "en": "Bni Abdallah",
+      "slug": "bni-abdallah"
+    },
+    "code": {
+      "id": "MA010001_bni-abdallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32172"
+    ],
+    "geo": {
+      "lat": "35.053",
+      "lon": "-4.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-ahmed-imoukzan",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Ahmed Imoukzan",
+      "en": "Bni Ahmed Imoukzan",
+      "slug": "bni-ahmed-imoukzan"
+    },
+    "code": {
+      "id": "MA010001_bni-ahmed-imoukzan",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32355"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-ammart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Ammart",
+      "en": "Bni Ammart",
+      "slug": "bni-ammart"
+    },
+    "code": {
+      "id": "MA010001_bni-ammart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32352"
+    ],
+    "geo": {
+      "lat": "34.938",
+      "lon": "-4.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-bchir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Bchir",
+      "en": "Bni Bchir",
+      "slug": "bni-bchir"
+    },
+    "code": {
+      "id": "MA010001_bni-bchir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32374"
+    ],
+    "geo": {
+      "lat": "34.939",
+      "lon": "-4.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-bouayach",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Bouayach",
+      "en": "Bni Bouayach",
+      "slug": "bni-bouayach"
+    },
+    "code": {
+      "id": "MA010001_bni-bouayach",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32050"
+    ],
+    "geo": {
+      "lat": "35.105",
+      "lon": "-3.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-bouchibet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Bouchibet",
+      "en": "Bni Bouchibet",
+      "slug": "bni-bouchibet"
+    },
+    "code": {
+      "id": "MA010001_bni-bouchibet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32356"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-boufrah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Boufrah",
+      "en": "Bni Boufrah",
+      "slug": "bni-boufrah"
+    },
+    "code": {
+      "id": "MA010001_bni-boufrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32102"
+    ],
+    "geo": {
+      "lat": "35.1",
+      "lon": "-4.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-bounsar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Bounsar",
+      "en": "Bni Bounsar",
+      "slug": "bni-bounsar"
+    },
+    "code": {
+      "id": "MA010001_bni-bounsar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32373"
+    ],
+    "geo": {
+      "lat": "34.939",
+      "lon": "-4.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-gmil-maksouline",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Gmil Maksouline",
+      "en": "Bni Gmil Maksouline",
+      "slug": "bni-gmil-maksouline"
+    },
+    "code": {
+      "id": "MA010001_bni-gmil-maksouline",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32103"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_bni-hadifa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Hadifa",
+      "en": "Bni Hadifa",
+      "slug": "bni-hadifa"
+    },
+    "code": {
+      "id": "MA010001_bni-hadifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32152"
+    ],
+    "geo": {
+      "lat": "35.023",
+      "lon": "-4.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_chakrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chakrane",
+      "en": "Chakrane",
+      "slug": "chakrane"
+    },
+    "code": {
+      "id": "MA010001_chakrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32023"
+    ],
+    "geo": {
+      "lat": "34.95",
+      "lon": "-3.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_ikaouen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ikaouen",
+      "en": "Ikaouen",
+      "slug": "ikaouen"
+    },
+    "code": {
+      "id": "MA010001_ikaouen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32322"
+    ],
+    "geo": {
+      "lat": "34.749",
+      "lon": "-4.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_imrabten",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imrabten",
+      "en": "Imrabten",
+      "slug": "imrabten"
+    },
+    "code": {
+      "id": "MA010001_imrabten",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32202"
+    ],
+    "geo": {
+      "lat": "35.146",
+      "lon": "-3.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_imzouren",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imzouren",
+      "en": "Imzouren",
+      "slug": "imzouren"
+    },
+    "code": {
+      "id": "MA010001_imzouren",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32250"
+    ],
+    "geo": {
+      "lat": "35.146",
+      "lon": "-3.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_issaguen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Issaguen",
+      "en": "Issaguen",
+      "slug": "issaguen"
+    },
+    "code": {
+      "id": "MA010001_issaguen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32302"
+    ],
+    "geo": {
+      "lat": "34.939",
+      "lon": "-4.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_izemmouren",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Izemmouren",
+      "en": "Izemmouren",
+      "slug": "izemmouren"
+    },
+    "code": {
+      "id": "MA010001_izemmouren",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32024"
+    ],
+    "geo": {
+      "lat": "35.184",
+      "lon": "-3.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_ketama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ketama",
+      "en": "Ketama",
+      "slug": "ketama"
+    },
+    "code": {
+      "id": "MA010001_ketama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32323"
+    ],
+    "geo": {
+      "lat": "34.918",
+      "lon": "-4.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_louta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Louta",
+      "en": "Louta",
+      "slug": "louta"
+    },
+    "code": {
+      "id": "MA010001_louta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32033"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_moulay-ahmed-cherif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Ahmed Cherif",
+      "en": "Moulay Ahmed Cherif",
+      "slug": "moulay-ahmed-cherif"
+    },
+    "code": {
+      "id": "MA010001_moulay-ahmed-cherif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32362"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_nekkour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nekkour",
+      "en": "Nekkour",
+      "slug": "nekkour"
+    },
+    "code": {
+      "id": "MA010001_nekkour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32072"
+    ],
+    "geo": {
+      "lat": "35.098",
+      "lon": "-4.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_rouadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rouadi",
+      "en": "Rouadi",
+      "slug": "rouadi"
+    },
+    "code": {
+      "id": "MA010001_rouadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32006"
+    ],
+    "geo": {
+      "lat": "35.141",
+      "lon": "-4.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_senada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Senada",
+      "en": "Senada",
+      "slug": "senada"
+    },
+    "code": {
+      "id": "MA010001_senada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32013"
+    ],
+    "geo": {
+      "lat": "35.075",
+      "lon": "-4.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_sidi-boutmim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boutmim",
+      "en": "Sidi Boutmim",
+      "slug": "sidi-boutmim"
+    },
+    "code": {
+      "id": "MA010001_sidi-boutmim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32363"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_sidi-bouzineb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bouzineb",
+      "en": "Sidi Bouzineb",
+      "slug": "sidi-bouzineb"
+    },
+    "code": {
+      "id": "MA010001_sidi-bouzineb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32375"
+    ],
+    "geo": {
+      "lat": "34.939",
+      "lon": "-4.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_tabarannt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabarannt",
+      "en": "Tabarannt",
+      "slug": "tabarannt"
+    },
+    "code": {
+      "id": "MA010001_tabarannt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32324"
+    ],
+    "geo": {
+      "lat": "34.94",
+      "lon": "-4.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_taghzout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taghzout",
+      "en": "Taghzout",
+      "slug": "taghzout"
+    },
+    "code": {
+      "id": "MA010001_taghzout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32325"
+    ],
+    "geo": {
+      "lat": "35.152",
+      "lon": "-4.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_tamsaout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamsaout",
+      "en": "Tamsaout",
+      "slug": "tamsaout"
+    },
+    "code": {
+      "id": "MA010001_tamsaout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_targuist",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Targuist",
+      "en": "Targuist",
+      "slug": "targuist"
+    },
+    "code": {
+      "id": "MA010001_targuist",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32350"
+    ],
+    "geo": {
+      "lat": "34.938",
+      "lon": "-4.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_tifarouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tifarouine",
+      "en": "Tifarouine",
+      "slug": "tifarouine"
+    },
+    "code": {
+      "id": "MA010001_tifarouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32032"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_tizi-tchen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizi Tchen",
+      "en": "Tizi Tchen",
+      "slug": "tizi-tchen"
+    },
+    "code": {
+      "id": "MA010001_tizi-tchen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32326"
+    ],
+    "geo": {
+      "lat": "34.94",
+      "lon": "-4.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_torres-de-alcala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Torres De Alcala",
+      "en": "Torres De Alcala",
+      "slug": "torres-de-alcala"
+    },
+    "code": {
+      "id": "MA010001_torres-de-alcala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32014"
+    ],
+    "geo": {
+      "lat": "35.152",
+      "lon": "-4.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_zaouiat-sidi-abdelkader",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat Sidi Abdelkader",
+      "en": "Zaouiat Sidi Abdelkader",
+      "slug": "zaouiat-sidi-abdelkader"
+    },
+    "code": {
+      "id": "MA010001_zaouiat-sidi-abdelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32026"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_zarkat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zarkat",
+      "en": "Zarkat",
+      "slug": "zarkat"
+    },
+    "code": {
+      "id": "MA010001_zarkat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32034"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010001_zarkt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zarkt",
+      "en": "Zarkt",
+      "slug": "zarkt"
+    },
+    "code": {
+      "id": "MA010001_zarkt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010001",
+      "level": 2,
+      "name": {
+        "local": "Al Hoceima",
+        "en": "Al Hoceima",
+        "slug": "al-hoceima"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010001",
+        "level": 2,
+        "name": {
+          "local": "Al Hoceima",
+          "en": "Al Hoceima",
+          "slug": "al-hoceima"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32365"
+    ],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

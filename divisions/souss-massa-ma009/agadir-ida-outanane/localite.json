@@ -1,0 +1,954 @@
+[
+  {
+    "id": "MA009001_aksri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aksri",
+      "en": "Aksri",
+      "slug": "aksri"
+    },
+    "code": {
+      "id": "MA009001_aksri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80322"
+    ],
+    "geo": {
+      "lat": "30.613",
+      "lon": "-9.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_amskroud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amskroud",
+      "en": "Amskroud",
+      "slug": "amskroud"
+    },
+    "code": {
+      "id": "MA009001_amskroud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80302"
+    ],
+    "geo": {
+      "lat": "30.16",
+      "lon": "-9.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_aourir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aourir",
+      "en": "Aourir",
+      "slug": "aourir"
+    },
+    "code": {
+      "id": "MA009001_aourir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80750"
+    ],
+    "geo": {
+      "lat": "30.492",
+      "lon": "-9.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_aziar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aziar",
+      "en": "Aziar",
+      "slug": "aziar"
+    },
+    "code": {
+      "id": "MA009001_aziar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80325"
+    ],
+    "geo": {
+      "lat": "30.16",
+      "lon": "-9.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_bensergao",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bensergao",
+      "en": "Bensergao",
+      "slug": "bensergao"
+    },
+    "code": {
+      "id": "MA009001_bensergao",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80007"
+    ],
+    "geo": {
+      "lat": "30.644",
+      "lon": "-9.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_drargua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Drargua",
+      "en": "Drargua",
+      "slug": "drargua"
+    },
+    "code": {
+      "id": "MA009001_drargua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80044"
+    ],
+    "geo": {
+      "lat": "30.644",
+      "lon": "-9.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_idmine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Idmine",
+      "en": "Idmine",
+      "slug": "idmine"
+    },
+    "code": {
+      "id": "MA009001_idmine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80323"
+    ],
+    "geo": {
+      "lat": "30.645",
+      "lon": "-9.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_imouzzer-ida-ou-tanane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imouzzer Ida Ou Tanane",
+      "en": "Imouzzer Ida Ou Tanane",
+      "slug": "imouzzer-ida-ou-tanane"
+    },
+    "code": {
+      "id": "MA009001_imouzzer-ida-ou-tanane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80303"
+    ],
+    "geo": {
+      "lat": "30.16",
+      "lon": "-9.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_imsouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imsouane",
+      "en": "Imsouane",
+      "slug": "imsouane"
+    },
+    "code": {
+      "id": "MA009001_imsouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80043"
+    ],
+    "geo": {
+      "lat": "30.644",
+      "lon": "-9.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_sebt-assaka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Assaka",
+      "en": "Sebt Assaka",
+      "slug": "sebt-assaka"
+    },
+    "code": {
+      "id": "MA009001_sebt-assaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80522"
+    ],
+    "geo": {
+      "lat": "30.814",
+      "lon": "-9.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_taalat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taalat",
+      "en": "Taalat",
+      "slug": "taalat"
+    },
+    "code": {
+      "id": "MA009001_taalat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80102"
+    ],
+    "geo": {
+      "lat": "30.644",
+      "lon": "-9.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_tadrart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tadrart",
+      "en": "Tadrart",
+      "slug": "tadrart"
+    },
+    "code": {
+      "id": "MA009001_tadrart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80326"
+    ],
+    "geo": {
+      "lat": "30.16",
+      "lon": "-9.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_taghazoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taghazoute",
+      "en": "Taghazoute",
+      "slug": "taghazoute"
+    },
+    "code": {
+      "id": "MA009001_taghazoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80022"
+    ],
+    "geo": {
+      "lat": "30.414",
+      "lon": "-9.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_tamraght",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamraght",
+      "en": "Tamraght",
+      "slug": "tamraght"
+    },
+    "code": {
+      "id": "MA009001_tamraght",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80023"
+    ],
+    "geo": {
+      "lat": "30.414",
+      "lon": "-9.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_tamri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamri",
+      "en": "Tamri",
+      "slug": "tamri"
+    },
+    "code": {
+      "id": "MA009001_tamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80502"
+    ],
+    "geo": {
+      "lat": "30.696",
+      "lon": "-9.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_tikiouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tikiouine",
+      "en": "Tikiouine",
+      "slug": "tikiouine"
+    },
+    "code": {
+      "id": "MA009001_tikiouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80652"
+    ],
+    "geo": {
+      "lat": "30.644",
+      "lon": "-9.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009001_tiqqi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiqqi",
+      "en": "Tiqqi",
+      "slug": "tiqqi"
+    },
+    "code": {
+      "id": "MA009001_tiqqi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009001",
+      "level": 2,
+      "name": {
+        "local": "Agadir Ida Outanane",
+        "en": "Agadir Ida Outanane",
+        "slug": "agadir-ida-outanane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009001",
+        "level": 2,
+        "name": {
+          "local": "Agadir Ida Outanane",
+          "en": "Agadir Ida Outanane",
+          "slug": "agadir-ida-outanane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80324"
+    ],
+    "geo": {
+      "lat": "30.645",
+      "lon": "-9.537"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

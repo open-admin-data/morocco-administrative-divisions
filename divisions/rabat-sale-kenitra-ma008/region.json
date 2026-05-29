@@ -1,0 +1,30 @@
+{
+  "id": "MA008",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "الرباط - سلا -القنيطرة",
+    "en": "Rabat Sale Kenitra",
+    "slug": "rabat-sale-kenitra-ma008"
+  },
+  "code": {
+    "id": "MA008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 7,
+    "localite": 115
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.082",
+    "lon": "-6.329"
+  },
+  "metadata": {},
+  "source": {}
+}

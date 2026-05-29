@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "MA005002_abainou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abainou",
+      "en": "Abainou",
+      "slug": "abainou"
+    },
+    "code": {
+      "id": "MA005002_abainou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81024"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_afereket-ait-yassine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Afereket Ait Yassine",
+      "en": "Afereket Ait Yassine",
+      "slug": "afereket-ait-yassine"
+    },
+    "code": {
+      "id": "MA005002_afereket-ait-yassine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81025"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_aferkat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aferkat",
+      "en": "Aferkat",
+      "slug": "aferkat"
+    },
+    "code": {
+      "id": "MA005002_aferkat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81046"
+    ],
+    "geo": {
+      "lat": "28.891",
+      "lon": "-9.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_ait-boufoulne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Boufoulne",
+      "en": "Ait Boufoulne",
+      "slug": "ait-boufoulne"
+    },
+    "code": {
+      "id": "MA005002_ait-boufoulne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81072"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_amsra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amsra",
+      "en": "Amsra",
+      "slug": "amsra"
+    },
+    "code": {
+      "id": "MA005002_amsra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81122"
+    ],
+    "geo": {
+      "lat": "29.101",
+      "lon": "-9.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_amtdi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amtdi",
+      "en": "Amtdi",
+      "slug": "amtdi"
+    },
+    "code": {
+      "id": "MA005002_amtdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81016"
+    ],
+    "geo": {
+      "lat": "28.891",
+      "lon": "-9.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_aouinate-ait-oussa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aouinate Ait Oussa",
+      "en": "Aouinate Ait Oussa",
+      "slug": "aouinate-ait-oussa"
+    },
+    "code": {
+      "id": "MA005002_aouinate-ait-oussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81022"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_aouinate-tourkoz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aouinate Tourkoz",
+      "en": "Aouinate Tourkoz",
+      "slug": "aouinate-tourkoz"
+    },
+    "code": {
+      "id": "MA005002_aouinate-tourkoz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81023"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_asrir-azouafit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asrir Azouafit",
+      "en": "Asrir Azouafit",
+      "slug": "asrir-azouafit"
+    },
+    "code": {
+      "id": "MA005002_asrir-azouafit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81026"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_assaka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assaka",
+      "en": "Assaka",
+      "slug": "assaka"
+    },
+    "code": {
+      "id": "MA005002_assaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85035"
+    ],
+    "geo": {
+      "lat": "29.688",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_bouizakarne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouizakarne",
+      "en": "Bouizakarne",
+      "slug": "bouizakarne"
+    },
+    "code": {
+      "id": "MA005002_bouizakarne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81050"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_echatea-el-abied",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Echatea El Abied",
+      "en": "Echatea El Abied",
+      "slug": "echatea-el-abied"
+    },
+    "code": {
+      "id": "MA005002_echatea-el-abied",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81013"
+    ],
+    "geo": {
+      "lat": "28.891",
+      "lon": "-9.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_fask",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fask",
+      "en": "Fask",
+      "slug": "fask"
+    },
+    "code": {
+      "id": "MA005002_fask",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81003"
+    ],
+    "geo": {
+      "lat": "28.991",
+      "lon": "-9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_guelmim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guelmim",
+      "en": "Guelmim",
+      "slug": "guelmim"
+    },
+    "code": {
+      "id": "MA005002_guelmim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81000"
+    ],
+    "geo": {
+      "lat": "28.987",
+      "lon": "-10.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_ifrane-atlas-seghir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ifrane Atlas Seghir",
+      "en": "Ifrane Atlas Seghir",
+      "slug": "ifrane-atlas-seghir"
+    },
+    "code": {
+      "id": "MA005002_ifrane-atlas-seghir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81102"
+    ],
+    "geo": {
+      "lat": "29.101",
+      "lon": "-9.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_imi-nfast",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imi Nfast",
+      "en": "Imi Nfast",
+      "slug": "imi-nfast"
+    },
+    "code": {
+      "id": "MA005002_imi-nfast",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81033"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_ksabi-ait-lahcen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksabi Ait Lahcen",
+      "en": "Ksabi Ait Lahcen",
+      "slug": "ksabi-ait-lahcen"
+    },
+    "code": {
+      "id": "MA005002_ksabi-ait-lahcen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81005"
+    ],
+    "geo": {
+      "lat": "28.667",
+      "lon": "-9.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_labiar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Labiar",
+      "en": "Labiar",
+      "slug": "labiar"
+    },
+    "code": {
+      "id": "MA005002_labiar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81042"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_laqsabi-tagoust",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laqsabi Tagoust",
+      "en": "Laqsabi Tagoust",
+      "slug": "laqsabi-tagoust"
+    },
+    "code": {
+      "id": "MA005002_laqsabi-tagoust",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81014"
+    ],
+    "geo": {
+      "lat": "28.891",
+      "lon": "-9.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_rass-oumlil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rass Oumlil",
+      "en": "Rass Oumlil",
+      "slug": "rass-oumlil"
+    },
+    "code": {
+      "id": "MA005002_rass-oumlil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81034"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_tagante",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tagante",
+      "en": "Tagante",
+      "slug": "tagante"
+    },
+    "code": {
+      "id": "MA005002_tagante",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81052"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_tankert",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tankert",
+      "en": "Tankert",
+      "slug": "tankert"
+    },
+    "code": {
+      "id": "MA005002_tankert",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81123"
+    ],
+    "geo": {
+      "lat": "29.101",
+      "lon": "-9.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_targa-wassay",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Targa Wassay",
+      "en": "Targa Wassay",
+      "slug": "targa-wassay"
+    },
+    "code": {
+      "id": "MA005002_targa-wassay",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81032"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_tarhjijt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tarhjijt",
+      "en": "Tarhjijt",
+      "slug": "tarhjijt"
+    },
+    "code": {
+      "id": "MA005002_tarhjijt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81152"
+    ],
+    "geo": {
+      "lat": "29.058",
+      "lon": "-9.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_tighmert-azouafit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tighmert Azouafit",
+      "en": "Tighmert Azouafit",
+      "slug": "tighmert-azouafit"
+    },
+    "code": {
+      "id": "MA005002_tighmert-azouafit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81044"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_tiglit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiglit",
+      "en": "Tiglit",
+      "slug": "tiglit"
+    },
+    "code": {
+      "id": "MA005002_tiglit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81015"
+    ],
+    "geo": {
+      "lat": "28.891",
+      "lon": "-9.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_tilouine-assaka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tilouine Assaka",
+      "en": "Tilouine Assaka",
+      "slug": "tilouine-assaka"
+    },
+    "code": {
+      "id": "MA005002_tilouine-assaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81043"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_timoulay",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timoulay",
+      "en": "Timoulay",
+      "slug": "timoulay"
+    },
+    "code": {
+      "id": "MA005002_timoulay",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81053"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002_tnine-adai",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Adai",
+      "en": "Tnine Adai",
+      "slug": "tnine-adai"
+    },
+    "code": {
+      "id": "MA005002_tnine-adai",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005002",
+      "level": 2,
+      "name": {
+        "local": "Guelmim",
+        "en": "Guelmim",
+        "slug": "guelmim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005002",
+        "level": 2,
+        "name": {
+          "local": "Guelmim",
+          "en": "Guelmim",
+          "slug": "guelmim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81172"
+    ],
+    "geo": {
+      "lat": "29.145",
+      "lon": "-9.3"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

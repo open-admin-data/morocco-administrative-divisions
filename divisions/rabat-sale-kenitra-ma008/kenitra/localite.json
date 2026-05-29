@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "MA008004_ain-ariss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Ariss",
+      "en": "Ain Ariss",
+      "slug": "ain-ariss"
+    },
+    "code": {
+      "id": "MA008004_ain-ariss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14026"
+    ],
+    "geo": {
+      "lat": "34.295",
+      "lon": "-6.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_allal-tazi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Allal Tazi",
+      "en": "Allal Tazi",
+      "slug": "allal-tazi"
+    },
+    "code": {
+      "id": "MA008004_allal-tazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14052"
+    ],
+    "geo": {
+      "lat": "34.523",
+      "lon": "-6.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_ameur-seflia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ameur Seflia",
+      "en": "Ameur Seflia",
+      "slug": "ameur-seflia"
+    },
+    "code": {
+      "id": "MA008004_ameur-seflia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14064"
+    ],
+    "geo": {
+      "lat": "34.557",
+      "lon": "-6.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_arbaoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaoua",
+      "en": "Arbaoua",
+      "slug": "arbaoua"
+    },
+    "code": {
+      "id": "MA008004_arbaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14102"
+    ],
+    "geo": {
+      "lat": "34.902",
+      "lon": "-5.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_bahhara-oulad-ayad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bahhara Oulad Ayad",
+      "en": "Bahhara Oulad Ayad",
+      "slug": "bahhara-oulad-ayad"
+    },
+    "code": {
+      "id": "MA008004_bahhara-oulad-ayad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14066"
+    ],
+    "geo": {
+      "lat": "34.557",
+      "lon": "-6.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_ben-mansour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ben Mansour",
+      "en": "Ben Mansour",
+      "slug": "ben-mansour"
+    },
+    "code": {
+      "id": "MA008004_ben-mansour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14022"
+    ],
+    "geo": {
+      "lat": "34.295",
+      "lon": "-6.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_beni-malek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Malek",
+      "en": "Beni Malek",
+      "slug": "beni-malek"
+    },
+    "code": {
+      "id": "MA008004_beni-malek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14305"
+    ],
+    "geo": {
+      "lat": "34.557",
+      "lon": "-6.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_chouafaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chouafaa",
+      "en": "Chouafaa",
+      "slug": "chouafaa"
+    },
+    "code": {
+      "id": "MA008004_chouafaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14325"
+    ],
+    "geo": {
+      "lat": "34.762",
+      "lon": "-6.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_el-arbaa-du-rharb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Arbaa Du Rharb",
+      "en": "El Arbaa Du Rharb",
+      "slug": "el-arbaa-du-rharb"
+    },
+    "code": {
+      "id": "MA008004_el-arbaa-du-rharb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14300"
+    ],
+    "geo": {
+      "lat": "34.687",
+      "lon": "-6.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_el-morhrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Morhrane",
+      "en": "El Morhrane",
+      "slug": "el-morhrane"
+    },
+    "code": {
+      "id": "MA008004_el-morhrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14023"
+    ],
+    "geo": {
+      "lat": "34.403",
+      "lon": "-6.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_haddada-el-gharb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Haddada El Gharb",
+      "en": "Haddada El Gharb",
+      "slug": "haddada-el-gharb"
+    },
+    "code": {
+      "id": "MA008004_haddada-el-gharb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14024"
+    ],
+    "geo": {
+      "lat": "34.557",
+      "lon": "-6.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_karia-benaouda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Karia Benaouda",
+      "en": "Karia Benaouda",
+      "slug": "karia-benaouda"
+    },
+    "code": {
+      "id": "MA008004_karia-benaouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14322"
+    ],
+    "geo": {
+      "lat": "34.762",
+      "lon": "-6.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_lalla-mimouna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lalla Mimouna",
+      "en": "Lalla Mimouna",
+      "slug": "lalla-mimouna"
+    },
+    "code": {
+      "id": "MA008004_lalla-mimouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14152"
+    ],
+    "geo": {
+      "lat": "34.846",
+      "lon": "-6.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_mehdya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mehdya",
+      "en": "Mehdya",
+      "slug": "mehdya"
+    },
+    "code": {
+      "id": "MA008004_mehdya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14110"
+    ],
+    "geo": {
+      "lat": "34.256",
+      "lon": "-6.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_mnasra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mnasra",
+      "en": "Mnasra",
+      "slug": "mnasra"
+    },
+    "code": {
+      "id": "MA008004_mnasra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14053"
+    ],
+    "geo": {
+      "lat": "34.523",
+      "lon": "-6.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_moulay-bouselham",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Bouselham",
+      "en": "Moulay Bouselham",
+      "slug": "moulay-bouselham"
+    },
+    "code": {
+      "id": "MA008004_moulay-bouselham",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14302"
+    ],
+    "geo": {
+      "lat": "34.687",
+      "lon": "-6.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_oued-el-makhazine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued El Makhazine",
+      "en": "Oued El Makhazine",
+      "slug": "oued-el-makhazine"
+    },
+    "code": {
+      "id": "MA008004_oued-el-makhazine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14123"
+    ],
+    "geo": {
+      "lat": "34.926",
+      "lon": "-5.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_oulad-slama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Slama",
+      "en": "Oulad Slama",
+      "slug": "oulad-slama"
+    },
+    "code": {
+      "id": "MA008004_oulad-slama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14065"
+    ],
+    "geo": {
+      "lat": "34.557",
+      "lon": "-6.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_sidi-boubker-el-haj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boubker El Haj",
+      "en": "Sidi Boubker El Haj",
+      "slug": "sidi-boubker-el-haj"
+    },
+    "code": {
+      "id": "MA008004_sidi-boubker-el-haj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14122"
+    ],
+    "geo": {
+      "lat": "34.927",
+      "lon": "-6.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_sidi-mohamed-el-ahmar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mohamed El Ahmar",
+      "en": "Sidi Mohamed El Ahmar",
+      "slug": "sidi-mohamed-el-ahmar"
+    },
+    "code": {
+      "id": "MA008004_sidi-mohamed-el-ahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14323"
+    ],
+    "geo": {
+      "lat": "34.762",
+      "lon": "-6.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_sidi-taibi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Taibi",
+      "en": "Sidi Taibi",
+      "slug": "sidi-taibi"
+    },
+    "code": {
+      "id": "MA008004_sidi-taibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14025"
+    ],
+    "geo": {
+      "lat": "34.187",
+      "lon": "-6.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008004_souk-tleta-el-gharb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Tleta El Gharb",
+      "en": "Souk Tleta El Gharb",
+      "slug": "souk-tleta-el-gharb"
+    },
+    "code": {
+      "id": "MA008004_souk-tleta-el-gharb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008004",
+      "level": 2,
+      "name": {
+        "local": "Kenitra",
+        "en": "Kenitra",
+        "slug": "kenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008004",
+        "level": 2,
+        "name": {
+          "local": "Kenitra",
+          "en": "Kenitra",
+          "slug": "kenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14005"
+    ],
+    "geo": {
+      "lat": "34.621",
+      "lon": "-6.134"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

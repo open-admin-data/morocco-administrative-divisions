@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA010001,Al Hoceima,Al Hoceima,al-hoceima,MA010001,41,34.966,-4.185
+MA010002,Chefchaouen,Chefchaouen,chefchaouen,MA010002,36,35.099,-5.009
+MA010003,Fahs Anjra,Fahs Anjra,fahs-anjra,MA010003,10,35.751,-5.603
+MA010004,Larache,Larache,larache,MA010004,23,35.196,-5.852
+MA010005,M diq Fnideq,M diq Fnideq,m-diq-fnideq,MA010005,5,35.76,-5.401
+MA010007,Ouezzane,Ouezzane,ouezzane,MA010007,18,34.779,-5.471
+MA010006,Tangier Assilah,Tangier Assilah,tangier-assilah,MA010006,13,35.561,-5.853
+MA010008,Tetouan,Tetouan,tetouan,MA010008,23,35.451,-5.453

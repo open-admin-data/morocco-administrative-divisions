@@ -1,0 +1,903 @@
+# Souss Massa — Morocco Administrative Divisions
+
+> 6 provinces, 216 localitys
+> Code: MA009
+> Coordinates: 29.739, -8.153
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Provinces
+
+### Agadir Ida Outanane
+
+Code: MA009001, Coordinates: 30.644, -9.602
+Localitys: 17
+
+#### Aksri
+
+Code: MA009001_aksri, Postal: 80322, Coordinates: 30.613, -9.51
+
+#### Amskroud
+
+Code: MA009001_amskroud, Postal: 80302, Coordinates: 30.16, -9.107
+
+#### Aourir
+
+Code: MA009001_aourir, Postal: 80750, Coordinates: 30.492, -9.636
+
+#### Aziar
+
+Code: MA009001_aziar, Postal: 80325, Coordinates: 30.16, -9.107
+
+#### Bensergao
+
+Code: MA009001_bensergao, Postal: 80007, Coordinates: 30.644, -9.602
+
+#### Drargua
+
+Code: MA009001_drargua, Postal: 80044, Coordinates: 30.644, -9.602
+
+#### Idmine
+
+Code: MA009001_idmine, Postal: 80323, Coordinates: 30.645, -9.537
+
+#### Imouzzer Ida Ou Tanane
+
+Code: MA009001_imouzzer-ida-ou-tanane, Postal: 80303, Coordinates: 30.16, -9.107
+
+#### Imsouane
+
+Code: MA009001_imsouane, Postal: 80043, Coordinates: 30.644, -9.602
+
+#### Sebt Assaka
+
+Code: MA009001_sebt-assaka, Postal: 80522, Coordinates: 30.814, -9.77
+
+#### Taalat
+
+Code: MA009001_taalat, Postal: 80102, Coordinates: 30.644, -9.602
+
+#### Tadrart
+
+Code: MA009001_tadrart, Postal: 80326, Coordinates: 30.16, -9.107
+
+#### Taghazoute
+
+Code: MA009001_taghazoute, Postal: 80022, Coordinates: 30.414, -9.426
+
+#### Tamraght
+
+Code: MA009001_tamraght, Postal: 80023, Coordinates: 30.414, -9.426
+
+#### Tamri
+
+Code: MA009001_tamri, Postal: 80502, Coordinates: 30.696, -9.83
+
+#### Tikiouine
+
+Code: MA009001_tikiouine, Postal: 80652, Coordinates: 30.644, -9.602
+
+#### Tiqqi
+
+Code: MA009001_tiqqi, Postal: 80324, Coordinates: 30.645, -9.537
+
+### Chtouka Ait Baha
+
+Code: MA009002, Coordinates: 30.008, -9.339
+Localitys: 31
+
+#### Aguerd Ntezke
+
+Code: MA009002_aguerd-ntezke, Postal: 87422, Coordinates: 30.084, -9.663
+
+#### Ait Amira
+
+Code: MA009002_ait-amira, Postal: 87052, Coordinates: 30.262, -9.504
+
+#### Ait Baha
+
+Code: MA009002_ait-baha, Postal: 87100, Coordinates: 30.079, -9.386
+
+#### Ait Mzal
+
+Code: MA009002_ait-mzal, Postal: 87104, Coordinates: 30.008, -9.339
+
+#### Ait Ouadrim
+
+Code: MA009002_ait-ouadrim, Postal: 87132, Coordinates: 30.079, -9.386
+
+#### Aouguenz
+
+Code: MA009002_aouguenz, Postal: 87105, Coordinates: 30.008, -9.339
+
+#### Biougra
+
+Code: MA009002_biougra, Postal: 87200, Coordinates: 30.035, -9.068
+
+#### Had Ait Belfaa
+
+Code: MA009002_had-ait-belfaa, Postal: 87252, Coordinates: 30.137, -9.299
+
+#### Had Targa Ntouchka
+
+Code: MA009002_had-targa-ntouchka, Postal: 87122, Coordinates: 30.079, -9.386
+
+#### Hallate
+
+Code: MA009002_hallate, Postal: 87123, Coordinates: 30.079, -9.386
+
+#### Imhilen
+
+Code: MA009002_imhilen, Postal: 87423, Coordinates: 30.084, -9.663
+
+#### Imi El Had Tasguedelft
+
+Code: MA009002_imi-el-had-tasguedelft, Postal: 87124, Coordinates: 30.079, -9.386
+
+#### Imi Mqourn
+
+Code: MA009002_imi-mqourn, Postal: 87222, Coordinates: 30.137, -9.299
+
+#### Inchaden
+
+Code: MA009002_inchaden, Postal: 87272, Coordinates: 30.238, -9.529
+
+#### Jemaa Takouchte
+
+Code: MA009002_jemaa-takouchte, Postal: 87125, Coordinates: 30.079, -9.386
+
+#### Khemis Ait Moussa
+
+Code: MA009002_khemis-ait-moussa, Postal: 87133, Coordinates: 30.079, -9.386
+
+#### Khmis Ida Ou Gnidif
+
+Code: MA009002_khmis-ida-ou-gnidif, Postal: 87402, Coordinates: 30.084, -9.663
+
+#### Massa
+
+Code: MA009002_massa, Postal: 87452, Coordinates: 30.084, -9.663
+
+#### Massa Tassila
+
+Code: MA009002_massa-tassila, Postal: 87473, Coordinates: 30.084, -9.663
+
+#### Oued Essafa
+
+Code: MA009002_oued-essafa, Postal: 87223, Coordinates: 30.137, -9.299
+
+#### Sebt Ait Milk
+
+Code: MA009002_sebt-ait-milk, Postal: 87273, Coordinates: 30.238, -9.529
+
+#### Sidi Abdellah El Bouchouari
+
+Code: MA009002_sidi-abdellah-el-bouchouari, Postal: 87126, Coordinates: 30.079, -9.386
+
+#### Sidi Bibi
+
+Code: MA009002_sidi-bibi, Postal: 87274, Coordinates: 30.238, -9.529
+
+#### Sidi Bouaz
+
+Code: MA009002_sidi-bouaz, Postal: 87112, Coordinates: 30.079, -9.386
+
+#### Sidi Boushab
+
+Code: MA009002_sidi-boushab, Postal: 87203, Coordinates: 30.008, -9.339
+
+#### Sidi Ouassay
+
+Code: MA009002_sidi-ouassay, Postal: 87135, Coordinates: 30.008, -9.339
+
+#### Sidi Rbat
+
+Code: MA009002_sidi-rbat, Postal: 87472, Coordinates: 30.084, -9.663
+
+#### Tanalt
+
+Code: MA009002_tanalt, Postal: 87552, Coordinates: 29.776, -9.168
+
+#### Timezguida Ouasrir
+
+Code: MA009002_timezguida-ouasrir, Postal: 87113, Coordinates: 30.079, -9.386
+
+#### Tlata Ou Guenz
+
+Code: MA009002_tlata-ou-guenz, Postal: 80572, Coordinates: 30.008, -9.339
+
+#### Tnine Hilala
+
+Code: MA009002_tnine-hilala, Postal: 80700, Coordinates: 30.008, -9.339
+
+### Inezgane Ait Melloul
+
+Code: MA009003, Coordinates: 30.35, -9.45
+Localitys: 4
+
+#### Ait Melloul
+
+Code: MA009003_ait-melloul, Postal: 86150, Coordinates: 30.342, -9.504
+
+#### Lqliaa
+
+Code: MA009003_lqliaa, Postal: 86356, Coordinates: 30.342, -9.504
+
+#### Souk El Had Oulad Dahou
+
+Code: MA009003_souk-el-had-oulad-dahou, Postal: 86622, Coordinates: 30.342, -9.504
+
+#### Temsia
+
+Code: MA009003_temsia, Postal: 86602, Coordinates: 30.342, -9.504
+
+### Taroudant
+
+Code: MA009004, Coordinates: 30.446, -8.497
+Localitys: 98
+
+#### Agadir Aereport
+
+Code: MA009004_agadir-aereport, Postal: 86603, Coordinates: 30.342, -9.504
+
+#### Agadir Melloul
+
+Code: MA009004_agadir-melloul, Postal: 83532, Coordinates: 30.225, -7.796
+
+#### Ahl Tifnoute
+
+Code: MA009004_ahl-tifnoute, Postal: 83172, Coordinates: 30.838, -7.903
+
+#### Ahmar
+
+Code: MA009004_ahmar, Postal: 83022, Coordinates: 30.456, -8.424
+
+#### Ait Abdallah
+
+Code: MA009004_ait-abdallah, Postal: 83252, Coordinates: 29.814, -8.768
+
+#### Ait Iaaza
+
+Code: MA009004_ait-iaaza, Postal: 83200, Coordinates: 30.155, -8.484
+
+#### Ait Igas
+
+Code: MA009004_ait-igas, Postal: 83222, Coordinates: 30.28, -8.345
+
+#### Ait Makhlouf
+
+Code: MA009004_ait-makhlouf, Postal: 83012, Coordinates: 30.446, -8.497
+
+#### Amalou
+
+Code: MA009004_amalou, Postal: 83264, Coordinates: 30.446, -8.497
+
+#### Aoulouz
+
+Code: MA009004_aoulouz, Postal: 83052, Coordinates: 30.673, -8.181
+
+#### Arbaa Assads
+
+Code: MA009004_arbaa-assads, Postal: 83422, Coordinates: 30.416, -9.037
+
+#### Arbaa Assais
+
+Code: MA009004_arbaa-assais, Postal: 83522, Coordinates: 30.377, -7.854
+
+#### Argana
+
+Code: MA009004_argana, Postal: 83102, Coordinates: 30.782, -9.12
+
+#### Askaoun
+
+Code: MA009004_askaoun, Postal: 83152, Coordinates: 30.871, -7.893
+
+#### Assaki
+
+Code: MA009004_assaki, Postal: 83523, Coordinates: 30.377, -7.854
+
+#### Azaghar Nirs
+
+Code: MA009004_azaghar-nirs, Postal: 83265, Coordinates: 30.446, -8.497
+
+#### Azrar
+
+Code: MA009004_azrar, Postal: 83225, Coordinates: 30.171, -7.994
+
+#### Bounrar
+
+Code: MA009004_bounrar, Postal: 83013, Coordinates: 30.446, -8.497
+
+#### Dar Bahbaz
+
+Code: MA009004_dar-bahbaz, Postal: 83322, Coordinates: 30.556, -8.615
+
+#### Eddir
+
+Code: MA009004_eddir, Postal: 83353, Coordinates: 30.446, -8.497
+
+#### El Faid
+
+Code: MA009004_el-faid, Postal: 83072, Coordinates: 30.615, -8.212
+
+#### El Koudia
+
+Code: MA009004_el-koudia, Postal: 83372, Coordinates: 30.48, -9.26
+
+#### Freija
+
+Code: MA009004_freija, Postal: 83202, Coordinates: 30.446, -8.497
+
+#### Had Igli
+
+Code: MA009004_had-igli, Postal: 83323, Coordinates: 30.556, -8.615
+
+#### Had Imaouen
+
+Code: MA009004_had-imaouen, Postal: 83272, Coordinates: 30.247, -8.477
+
+#### Had Imoulass
+
+Code: MA009004_had-imoulass, Postal: 83023, Coordinates: 30.172, -9.481
+
+#### Had Menizla
+
+Code: MA009004_had-menizla, Postal: 83032, Coordinates: 30.611, -9.078
+
+#### Ida Ou Moumen
+
+Code: MA009004_ida-ou-moumen, Postal: 83034, Coordinates: 30.611, -9.078
+
+#### Ida Ougoummad
+
+Code: MA009004_ida-ougoummad, Postal: 83303, Coordinates: 30.446, -8.497
+
+#### Igoudar Mnabha
+
+Code: MA009004_igoudar-mnabha, Postal: 83535, Coordinates: 30.446, -8.497
+
+#### Iguidi
+
+Code: MA009004_iguidi, Postal: 83173, Coordinates: 30.838, -7.903
+
+#### Imi Ntayart
+
+Code: MA009004_imi-ntayart, Postal: 83285, Coordinates: 30.446, -8.497
+
+#### Imilmaiss
+
+Code: MA009004_imilmaiss, Postal: 83123, Coordinates: 30.831, -8.305
+
+#### Iouzioua Ou Neine
+
+Code: MA009004_iouzioua-ou-neine, Postal: 83073, Coordinates: 30.615, -8.212
+
+#### Irherm
+
+Code: MA009004_irherm, Postal: 83250, Coordinates: 29.814, -8.768
+
+#### Irhil Nourhou
+
+Code: MA009004_irhil-nourhou, Postal: 83524, Coordinates: 30.377, -7.854
+
+#### Issen
+
+Code: MA009004_issen, Postal: 83374, Coordinates: 30.48, -9.26
+
+#### Khemis Arazane
+
+Code: MA009004_khemis-arazane, Postal: 83324, Coordinates: 30.556, -8.615
+
+#### Khemis Bigoudine
+
+Code: MA009004_khemis-bigoudine, Postal: 83122, Coordinates: 30.831, -8.305
+
+#### Khemis Talagjount
+
+Code: MA009004_khemis-talagjount, Postal: 83325, Coordinates: 30.556, -8.615
+
+#### Ksiba Ahl Rmel
+
+Code: MA009004_ksiba-ahl-rmel, Postal: 83375, Coordinates: 30.48, -9.26
+
+#### Lakhnafif
+
+Code: MA009004_lakhnafif, Postal: 83423, Coordinates: 30.416, -9.037
+
+#### Lamhadi
+
+Code: MA009004_lamhadi, Postal: 83424, Coordinates: 30.416, -9.037
+
+#### Lamhara
+
+Code: MA009004_lamhara, Postal: 83304, Coordinates: 30.446, -8.497
+
+#### Mechraa El Ain
+
+Code: MA009004_mechraa-el-ain, Postal: 83024, Coordinates: 30.172, -9.481
+
+#### Nouara
+
+Code: MA009004_nouara, Postal: 83223, Coordinates: 30.28, -8.345
+
+#### Oulad Aissa
+
+Code: MA009004_oulad-aissa, Postal: 83313, Coordinates: 30.446, -8.497
+
+#### Oulad Berhil
+
+Code: MA009004_oulad-berhil, Postal: 83300, Coordinates: 30.513, -8.936
+
+#### Oulad Teima
+
+Code: MA009004_oulad-teima, Postal: 83350, Coordinates: 30.395, -9.209
+
+#### Oulkadi
+
+Code: MA009004_oulkadi, Postal: 83273, Coordinates: 30.247, -8.477
+
+#### Ouneine
+
+Code: MA009004_ouneine, Postal: 83472, Coordinates: 30.591, -8.711
+
+#### Ouzoune
+
+Code: MA009004_ouzoune, Postal: 83283, Coordinates: 30.155, -8.484
+
+#### Sebt El Guerdane
+
+Code: MA009004_sebt-el-guerdane, Postal: 83400, Coordinates: 30.591, -8.711
+
+#### Sebt Kfifate
+
+Code: MA009004_sebt-kfifate, Postal: 83376, Coordinates: 30.48, -9.26
+
+#### Sebt Tataoute
+
+Code: MA009004_sebt-tataoute, Postal: 83253, Coordinates: 29.814, -8.768
+
+#### Sidi Abdellah Ou Said
+
+Code: MA009004_sidi-abdellah-ou-said, Postal: 83305, Coordinates: 30.446, -8.497
+
+#### Sidi Ahmed Ou Abdallah
+
+Code: MA009004_sidi-ahmed-ou-abdallah, Postal: 83014, Coordinates: 30.446, -8.497
+
+#### Sidi Ahmed Ou Amar
+
+Code: MA009004_sidi-ahmed-ou-amar, Postal: 83382, Coordinates: 30.621, -8.659
+
+#### Sidi Boaal
+
+Code: MA009004_sidi-boaal, Postal: 83255, Coordinates: 30.446, -8.497
+
+#### Sidi Borja
+
+Code: MA009004_sidi-borja, Postal: 83026, Coordinates: 30.172, -9.481
+
+#### Sidi Boumoussa
+
+Code: MA009004_sidi-boumoussa, Postal: 83383, Coordinates: 30.621, -8.659
+
+#### Sidi Dahmane
+
+Code: MA009004_sidi-dahmane, Postal: 83015, Coordinates: 30.446, -8.497
+
+#### Sidi Hsaine
+
+Code: MA009004_sidi-hsaine, Postal: 83525, Coordinates: 30.377, -7.854
+
+#### Sidi Hsaine Ou Ali
+
+Code: MA009004_sidi-hsaine-ou-ali, Postal: 85572, Coordinates: 29.668, -9.198
+
+#### Sidi Moussa
+
+Code: MA009004_sidi-moussa, Postal: 83384, Coordinates: 30.621, -8.659
+
+#### Sidi Moussa Lhamri
+
+Code: MA009004_sidi-moussa-lhamri, Postal: 83354, Coordinates: 30.446, -8.497
+
+#### Sidi Mzal
+
+Code: MA009004_sidi-mzal, Postal: 83256, Coordinates: 30.446, -8.497
+
+#### Sidi Ouaaziz
+
+Code: MA009004_sidi-ouaaziz, Postal: 83334, Coordinates: 30.513, -8.936
+
+#### Tabia
+
+Code: MA009004_tabia, Postal: 83266, Coordinates: 30.446, -8.497
+
+#### Tafingoult
+
+Code: MA009004_tafingoult, Postal: 83452, Coordinates: 30.766, -8.384
+
+#### Tafraouten
+
+Code: MA009004_tafraouten, Postal: 83016, Coordinates: 30.446, -8.497
+
+#### Taliouine
+
+Code: MA009004_taliouine, Postal: 83500, Coordinates: 30.529, -7.913
+
+#### Talmakante
+
+Code: MA009004_talmakante, Postal: 83103, Coordinates: 30.446, -8.497
+
+#### Tamaloukte
+
+Code: MA009004_tamaloukte, Postal: 83044, Coordinates: 30.446, -8.497
+
+#### Tantamt
+
+Code: MA009004_tantamt, Postal: 83274, Coordinates: 30.247, -8.477
+
+#### Taouyalte
+
+Code: MA009004_taouyalte, Postal: 83174, Coordinates: 30.838, -7.903
+
+#### Taroudant
+
+Code: MA009004_taroudant, Postal: 83000, Coordinates: 30.47, -8.877
+
+#### Tassousfi
+
+Code: MA009004_tassousfi, Postal: 83526, Coordinates: 30.377, -7.854
+
+#### Tazzemmourte
+
+Code: MA009004_tazzemmourte, Postal: 83035, Coordinates: 30.611, -9.078
+
+#### Tidsi Nissendalene
+
+Code: MA009004_tidsi-nissendalene, Postal: 83425, Coordinates: 30.416, -9.037
+
+#### Tindine
+
+Code: MA009004_tindine, Postal: 83284, Coordinates: 30.155, -8.484
+
+#### Tinzart
+
+Code: MA009004_tinzart, Postal: 83306, Coordinates: 30.446, -8.497
+
+#### Tioute
+
+Code: MA009004_tioute, Postal: 83224, Coordinates: 30.389, -8.696
+
+#### Tisfane
+
+Code: MA009004_tisfane, Postal: 83262, Coordinates: 30.446, -8.497
+
+#### Tisrasse
+
+Code: MA009004_tisrasse, Postal: 83074, Coordinates: 30.615, -8.212
+
+#### Tizgzaouine
+
+Code: MA009004_tizgzaouine, Postal: 83533, Coordinates: 30.225, -7.796
+
+#### Tizi Ntest
+
+Code: MA009004_tizi-ntest, Postal: 83312, Coordinates: 30.446, -8.497
+
+#### Tlata Ait Taleb
+
+Code: MA009004_tlata-ait-taleb, Postal: 83036, Coordinates: 30.611, -9.078
+
+#### Tleta Nihit
+
+Code: MA009004_tleta-nihit, Postal: 83275, Coordinates: 30.247, -8.477
+
+#### Tnine Addar
+
+Code: MA009004_tnine-addar, Postal: 83276, Coordinates: 30.247, -8.477
+
+#### Tnine Ida Ou Gailal
+
+Code: MA009004_tnine-ida-ou-gailal, Postal: 83326, Coordinates: 30.556, -8.615
+
+#### Tnine Tigouga
+
+Code: MA009004_tnine-tigouga, Postal: 83332, Coordinates: 30.513, -8.936
+
+#### Tnine Touflaazt
+
+Code: MA009004_tnine-touflaazt, Postal: 83282, Coordinates: 30.155, -8.484
+
+#### Toubkal
+
+Code: MA009004_toubkal, Postal: 83175, Coordinates: 30.838, -7.903
+
+#### Toughmart
+
+Code: MA009004_toughmart, Postal: 83333, Coordinates: 30.513, -8.936
+
+#### Toumliline
+
+Code: MA009004_toumliline, Postal: 83263, Coordinates: 30.446, -8.497
+
+#### Zagmouzen
+
+Code: MA009004_zagmouzen, Postal: 83503, Coordinates: 30.446, -8.497
+
+#### Zaouiat Sidi Tahar
+
+Code: MA009004_zaouiat-sidi-tahar, Postal: 83042, Coordinates: 30.508, -8.766
+
+### Tata
+
+Code: MA009005, Coordinates: 29.386, -8.048
+Localitys: 21
+
+#### Aguerd Tamanart
+
+Code: MA009005_aguerd-tamanart, Postal: 84122, Coordinates: 30.197, -6.887
+
+#### Aguinane
+
+Code: MA009005_aguinane, Postal: 84076, Coordinates: 30.21, -7.56
+
+#### Ait Ouabelli
+
+Code: MA009005_ait-ouabelli, Postal: 84072, Coordinates: 30.21, -7.56
+
+#### Akka
+
+Code: MA009005_akka, Postal: 84050, Coordinates: 29.389, -8.255
+
+#### Akka Ighane
+
+Code: MA009005_akka-ighane, Postal: 84022, Coordinates: 29.65, -7.95
+
+#### Allougoum
+
+Code: MA009005_allougoum, Postal: 84172, Coordinates: 30.251, -6.895
+
+#### Fam El Hisn
+
+Code: MA009005_fam-el-hisn, Postal: 84100, Coordinates: 30.197, -6.887
+
+#### Foum Zguid
+
+Code: MA009005_foum-zguid, Postal: 84150, Coordinates: 30.088, -6.871
+
+#### Ibn Yacoub
+
+Code: MA009005_ibn-yacoub, Postal: 84026, Coordinates: 29.65, -7.95
+
+#### Kasbat Sidi Abdellah Ben Mbarek
+
+Code: MA009005_kasbat-sidi-abdellah-ben-mbarek, Postal: 84073, Coordinates: 30.21, -7.56
+
+#### Khemis Addis
+
+Code: MA009005_khemis-addis, Postal: 84023, Coordinates: 29.65, -7.95
+
+#### Khemis Issafen
+
+Code: MA009005_khemis-issafen, Postal: 84052, Coordinates: 29.644, -7.785
+
+#### Lakhriouia
+
+Code: MA009005_lakhriouia, Postal: 84173, Coordinates: 30.259, -6.739
+
+#### Oum El Guerdane
+
+Code: MA009005_oum-el-guerdane, Postal: 84024, Coordinates: 29.65, -7.95
+
+#### Tata
+
+Code: MA009005_tata, Postal: 84000, Coordinates: 29.744, -7.973
+
+#### Tigzmerte
+
+Code: MA009005_tigzmerte, Postal: 84003, Coordinates: 29.386, -8.048
+
+#### Tissint
+
+Code: MA009005_tissint, Postal: 84053, Coordinates: 29.898, -7.316
+
+#### Tizaghte
+
+Code: MA009005_tizaghte, Postal: 84075, Coordinates: 30.21, -7.56
+
+#### Tizouinine
+
+Code: MA009005_tizouinine, Postal: 84074, Coordinates: 30.21, -7.56
+
+#### Tlata Tagmoute
+
+Code: MA009005_tlata-tagmoute, Postal: 84025, Coordinates: 29.65, -7.95
+
+#### Tlite
+
+Code: MA009005_tlite, Postal: 84174, Coordinates: 30.243, -7.051
+
+### Tiznit
+
+Code: MA009006, Coordinates: 29.592, -9.348
+Localitys: 45
+
+#### Aday Almezouarte
+
+Code: MA009006_aday-almezouarte, Postal: 85122, Coordinates: 29.573, -9.42
+
+#### Aglou Plage
+
+Code: MA009006_aglou-plage, Postal: 85032, Coordinates: 29.688, -9.507
+
+#### Ait Brahim Ou Youssef
+
+Code: MA009006_ait-brahim-ou-youssef, Postal: 85172, Coordinates: 29.573, -9.42
+
+#### Ait Issafen
+
+Code: MA009006_ait-issafen, Postal: 85133, Coordinates: 29.505, -9.455
+
+#### Ammelne
+
+Code: MA009006_ammelne, Postal: 85455, Coordinates: 29.592, -9.348
+
+#### Anameur
+
+Code: MA009006_anameur, Postal: 85472, Coordinates: 29.543, -9.123
+
+#### Anezi
+
+Code: MA009006_anezi, Postal: 85103, Coordinates: 29.63, -9.38
+
+#### Arba Ait Ahmed
+
+Code: MA009006_arba-ait-ahmed, Postal: 85123, Coordinates: 29.573, -9.42
+
+#### Arbaa Ras Mouka
+
+Code: MA009006_arbaa-ras-mouka, Postal: 85152, Coordinates: 29.573, -9.42
+
+#### Arbaa Sahel
+
+Code: MA009006_arbaa-sahel, Postal: 85002, Coordinates: 29.605, -9.917
+
+#### Bouzerz
+
+Code: MA009006_bouzerz, Postal: 85044, Coordinates: 29.67, -9.715
+
+#### El Kreima
+
+Code: MA009006_el-kreima, Postal: 85034, Coordinates: 29.688, -9.507
+
+#### El Maader El Kebir
+
+Code: MA009006_el-maader-el-kebir, Postal: 85022, Coordinates: 29.757, -9.655
+
+#### Had Affela Irhir
+
+Code: MA009006_had-affela-irhir, Postal: 85473, Coordinates: 29.507, -9.064
+
+#### Had Raggada
+
+Code: MA009006_had-raggada, Postal: 85023, Coordinates: 29.659, -9.74
+
+#### Had Tahala
+
+Code: MA009006_had-tahala, Postal: 85452, Coordinates: 29.64, -9.093
+
+#### Ighir Melloulen
+
+Code: MA009006_ighir-melloulen, Postal: 85024, Coordinates: 29.659, -9.74
+
+#### Ighrem Oulad Jerrar
+
+Code: MA009006_ighrem-oulad-jerrar, Postal: 85042, Coordinates: 29.67, -9.715
+
+#### Izerbi
+
+Code: MA009006_izerbi, Postal: 85474, Coordinates: 29.471, -9.005
+
+#### Jemaa Ida Oussemlal
+
+Code: MA009006_jemaa-ida-oussemlal, Postal: 85134, Coordinates: 29.505, -9.455
+
+#### Khemis Ait Oufka
+
+Code: MA009006_khemis-ait-oufka, Postal: 85484, Coordinates: 29.541, -9.227
+
+#### Laouina
+
+Code: MA009006_laouina, Postal: 85026, Coordinates: 29.647, -9.813
+
+#### Ou Mesnate
+
+Code: MA009006_ou-mesnate, Postal: 85475, Coordinates: 29.507, -9.064
+
+#### Oulad Jerrar
+
+Code: MA009006_oulad-jerrar, Postal: 85025, Coordinates: 29.573, -9.751
+
+#### Ouled Noummeur
+
+Code: MA009006_ouled-noummeur, Postal: 85043, Coordinates: 29.67, -9.715
+
+#### Sebt Bounaamane
+
+Code: MA009006_sebt-bounaamane, Postal: 85402, Coordinates: 29.531, -9.813
+
+#### Sebt Ouijjane
+
+Code: MA009006_sebt-ouijjane, Postal: 85003, Coordinates: 29.628, -9.54
+
+#### Sebt Tafraoute
+
+Code: MA009006_sebt-tafraoute, Postal: 83025, Coordinates: 30.172, -9.481
+
+#### Sidi Bouabdelli
+
+Code: MA009006_sidi-bouabdelli, Postal: 85422, Coordinates: 29.541, -9.227
+
+#### Sidi Mbark
+
+Code: MA009006_sidi-mbark, Postal: 85553, Coordinates: 29.592, -9.348
+
+#### Tafraout
+
+Code: MA009006_tafraout, Postal: 85450, Coordinates: 29.521, -9.099
+
+#### Tafraout El Mouloud
+
+Code: MA009006_tafraout-el-mouloud, Postal: 85124, Coordinates: 29.573, -9.42
+
+#### Tafraoute Nait Daoud
+
+Code: MA009006_tafraoute-nait-daoud, Postal: 85423, Coordinates: 29.541, -9.227
+
+#### Tanfit Ait Oumzil
+
+Code: MA009006_tanfit-ait-oumzil, Postal: 85476, Coordinates: 29.507, -9.064
+
+#### Tifermite
+
+Code: MA009006_tifermite, Postal: 85125, Coordinates: 29.573, -9.42
+
+#### Tirhmi
+
+Code: MA009006_tirhmi, Postal: 85102, Coordinates: 29.583, -9.424
+
+#### Tiznit
+
+Code: MA009006_tiznit, Postal: 85000, Coordinates: 29.697, -9.732
+
+#### Tizoughane
+
+Code: MA009006_tizoughane, Postal: 85483, Coordinates: 29.541, -9.227
+
+#### Tlata Ida Gougmar
+
+Code: MA009006_tlata-ida-gougmar, Postal: 85126, Coordinates: 29.573, -9.42
+
+#### Tleta Tassrirt
+
+Code: MA009006_tleta-tassrirt, Postal: 85486, Coordinates: 29.541, -9.227
+
+#### Tleta Tidli
+
+Code: MA009006_tleta-tidli, Postal: 85482, Coordinates: 29.541, -9.227
+
+#### Tnine Aglou
+
+Code: MA009006_tnine-aglou, Postal: 85004, Coordinates: 29.765, -9.807
+
+#### Tnine Tarsouat
+
+Code: MA009006_tnine-tarsouat, Postal: 85485, Coordinates: 29.541, -9.227
+
+#### Toubouzar
+
+Code: MA009006_toubouzar, Postal: 85033, Coordinates: 29.688, -9.507
+
+#### Zaouia Sidi Ahmed Ou Moussa
+
+Code: MA009006_zaouia-sidi-ahmed-ou-moussa, Postal: 85132, Coordinates: 29.505, -9.455
+

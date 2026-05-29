@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA004005,Boulemane,Boulemane,boulemane,MA004005,33,33.248,-3.91
+MA004003,El Hajeb,El Hajeb,el-hajeb,MA004003,17,33.699,-5.493
+MA004001,Fes,Fes,fes,MA004001,4,33.962,-4.909
+MA004004,Ifrane,Ifrane,ifrane,MA004004,15,33.353,-5.251
+MA004002,Meknes,Meknes,meknes,MA004002,30,34,-5.498
+MA004006,Moulay Yacoub,Moulay Yacoub,moulay-yacoub,MA004006,13,34.11,-5.005
+MA004007,Sefrou,Sefrou,sefrou,MA004007,26,33.793,-4.645
+MA004008,Taounate,Taounate,taounate,MA004008,60,34.441,-4.904
+MA004009,Taza,Taza,taza,MA004009,57,34.286,-4.154

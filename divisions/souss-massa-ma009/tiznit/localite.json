@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "MA009006_aday-almezouarte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aday Almezouarte",
+      "en": "Aday Almezouarte",
+      "slug": "aday-almezouarte"
+    },
+    "code": {
+      "id": "MA009006_aday-almezouarte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85122"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_aglou-plage",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aglou Plage",
+      "en": "Aglou Plage",
+      "slug": "aglou-plage"
+    },
+    "code": {
+      "id": "MA009006_aglou-plage",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85032"
+    ],
+    "geo": {
+      "lat": "29.688",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_ait-brahim-ou-youssef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Brahim Ou Youssef",
+      "en": "Ait Brahim Ou Youssef",
+      "slug": "ait-brahim-ou-youssef"
+    },
+    "code": {
+      "id": "MA009006_ait-brahim-ou-youssef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85172"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_ait-issafen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Issafen",
+      "en": "Ait Issafen",
+      "slug": "ait-issafen"
+    },
+    "code": {
+      "id": "MA009006_ait-issafen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85133"
+    ],
+    "geo": {
+      "lat": "29.505",
+      "lon": "-9.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_ammelne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ammelne",
+      "en": "Ammelne",
+      "slug": "ammelne"
+    },
+    "code": {
+      "id": "MA009006_ammelne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85455"
+    ],
+    "geo": {
+      "lat": "29.592",
+      "lon": "-9.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_anameur",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anameur",
+      "en": "Anameur",
+      "slug": "anameur"
+    },
+    "code": {
+      "id": "MA009006_anameur",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85472"
+    ],
+    "geo": {
+      "lat": "29.543",
+      "lon": "-9.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_anezi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anezi",
+      "en": "Anezi",
+      "slug": "anezi"
+    },
+    "code": {
+      "id": "MA009006_anezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85103"
+    ],
+    "geo": {
+      "lat": "29.63",
+      "lon": "-9.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_arba-ait-ahmed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arba Ait Ahmed",
+      "en": "Arba Ait Ahmed",
+      "slug": "arba-ait-ahmed"
+    },
+    "code": {
+      "id": "MA009006_arba-ait-ahmed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85123"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_arbaa-ras-mouka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Ras Mouka",
+      "en": "Arbaa Ras Mouka",
+      "slug": "arbaa-ras-mouka"
+    },
+    "code": {
+      "id": "MA009006_arbaa-ras-mouka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85152"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_arbaa-sahel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Sahel",
+      "en": "Arbaa Sahel",
+      "slug": "arbaa-sahel"
+    },
+    "code": {
+      "id": "MA009006_arbaa-sahel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85002"
+    ],
+    "geo": {
+      "lat": "29.605",
+      "lon": "-9.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_bouzerz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouzerz",
+      "en": "Bouzerz",
+      "slug": "bouzerz"
+    },
+    "code": {
+      "id": "MA009006_bouzerz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85044"
+    ],
+    "geo": {
+      "lat": "29.67",
+      "lon": "-9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_el-kreima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Kreima",
+      "en": "El Kreima",
+      "slug": "el-kreima"
+    },
+    "code": {
+      "id": "MA009006_el-kreima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85034"
+    ],
+    "geo": {
+      "lat": "29.688",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_el-maader-el-kebir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Maader El Kebir",
+      "en": "El Maader El Kebir",
+      "slug": "el-maader-el-kebir"
+    },
+    "code": {
+      "id": "MA009006_el-maader-el-kebir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85022"
+    ],
+    "geo": {
+      "lat": "29.757",
+      "lon": "-9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_had-affela-irhir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Affela Irhir",
+      "en": "Had Affela Irhir",
+      "slug": "had-affela-irhir"
+    },
+    "code": {
+      "id": "MA009006_had-affela-irhir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85473"
+    ],
+    "geo": {
+      "lat": "29.507",
+      "lon": "-9.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_had-raggada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Raggada",
+      "en": "Had Raggada",
+      "slug": "had-raggada"
+    },
+    "code": {
+      "id": "MA009006_had-raggada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85023"
+    ],
+    "geo": {
+      "lat": "29.659",
+      "lon": "-9.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_had-tahala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Tahala",
+      "en": "Had Tahala",
+      "slug": "had-tahala"
+    },
+    "code": {
+      "id": "MA009006_had-tahala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85452"
+    ],
+    "geo": {
+      "lat": "29.64",
+      "lon": "-9.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_ighir-melloulen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ighir Melloulen",
+      "en": "Ighir Melloulen",
+      "slug": "ighir-melloulen"
+    },
+    "code": {
+      "id": "MA009006_ighir-melloulen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85024"
+    ],
+    "geo": {
+      "lat": "29.659",
+      "lon": "-9.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_ighrem-oulad-jerrar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ighrem Oulad Jerrar",
+      "en": "Ighrem Oulad Jerrar",
+      "slug": "ighrem-oulad-jerrar"
+    },
+    "code": {
+      "id": "MA009006_ighrem-oulad-jerrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85042"
+    ],
+    "geo": {
+      "lat": "29.67",
+      "lon": "-9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_izerbi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Izerbi",
+      "en": "Izerbi",
+      "slug": "izerbi"
+    },
+    "code": {
+      "id": "MA009006_izerbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85474"
+    ],
+    "geo": {
+      "lat": "29.471",
+      "lon": "-9.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_jemaa-ida-oussemlal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa Ida Oussemlal",
+      "en": "Jemaa Ida Oussemlal",
+      "slug": "jemaa-ida-oussemlal"
+    },
+    "code": {
+      "id": "MA009006_jemaa-ida-oussemlal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85134"
+    ],
+    "geo": {
+      "lat": "29.505",
+      "lon": "-9.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_khemis-ait-oufka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Ait Oufka",
+      "en": "Khemis Ait Oufka",
+      "slug": "khemis-ait-oufka"
+    },
+    "code": {
+      "id": "MA009006_khemis-ait-oufka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85484"
+    ],
+    "geo": {
+      "lat": "29.541",
+      "lon": "-9.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_laouina",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laouina",
+      "en": "Laouina",
+      "slug": "laouina"
+    },
+    "code": {
+      "id": "MA009006_laouina",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85026"
+    ],
+    "geo": {
+      "lat": "29.647",
+      "lon": "-9.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_ou-mesnate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ou Mesnate",
+      "en": "Ou Mesnate",
+      "slug": "ou-mesnate"
+    },
+    "code": {
+      "id": "MA009006_ou-mesnate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85475"
+    ],
+    "geo": {
+      "lat": "29.507",
+      "lon": "-9.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_oulad-jerrar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Jerrar",
+      "en": "Oulad Jerrar",
+      "slug": "oulad-jerrar"
+    },
+    "code": {
+      "id": "MA009006_oulad-jerrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85025"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_ouled-noummeur",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Noummeur",
+      "en": "Ouled Noummeur",
+      "slug": "ouled-noummeur"
+    },
+    "code": {
+      "id": "MA009006_ouled-noummeur",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85043"
+    ],
+    "geo": {
+      "lat": "29.67",
+      "lon": "-9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_sebt-bounaamane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Bounaamane",
+      "en": "Sebt Bounaamane",
+      "slug": "sebt-bounaamane"
+    },
+    "code": {
+      "id": "MA009006_sebt-bounaamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85402"
+    ],
+    "geo": {
+      "lat": "29.531",
+      "lon": "-9.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_sebt-ouijjane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Ouijjane",
+      "en": "Sebt Ouijjane",
+      "slug": "sebt-ouijjane"
+    },
+    "code": {
+      "id": "MA009006_sebt-ouijjane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85003"
+    ],
+    "geo": {
+      "lat": "29.628",
+      "lon": "-9.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_sebt-tafraoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Tafraoute",
+      "en": "Sebt Tafraoute",
+      "slug": "sebt-tafraoute"
+    },
+    "code": {
+      "id": "MA009006_sebt-tafraoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83025"
+    ],
+    "geo": {
+      "lat": "30.172",
+      "lon": "-9.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_sidi-bouabdelli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bouabdelli",
+      "en": "Sidi Bouabdelli",
+      "slug": "sidi-bouabdelli"
+    },
+    "code": {
+      "id": "MA009006_sidi-bouabdelli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85422"
+    ],
+    "geo": {
+      "lat": "29.541",
+      "lon": "-9.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_sidi-mbark",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mbark",
+      "en": "Sidi Mbark",
+      "slug": "sidi-mbark"
+    },
+    "code": {
+      "id": "MA009006_sidi-mbark",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85553"
+    ],
+    "geo": {
+      "lat": "29.592",
+      "lon": "-9.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tafraout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafraout",
+      "en": "Tafraout",
+      "slug": "tafraout"
+    },
+    "code": {
+      "id": "MA009006_tafraout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85450"
+    ],
+    "geo": {
+      "lat": "29.521",
+      "lon": "-9.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tafraout-el-mouloud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafraout El Mouloud",
+      "en": "Tafraout El Mouloud",
+      "slug": "tafraout-el-mouloud"
+    },
+    "code": {
+      "id": "MA009006_tafraout-el-mouloud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85124"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tafraoute-nait-daoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafraoute Nait Daoud",
+      "en": "Tafraoute Nait Daoud",
+      "slug": "tafraoute-nait-daoud"
+    },
+    "code": {
+      "id": "MA009006_tafraoute-nait-daoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85423"
+    ],
+    "geo": {
+      "lat": "29.541",
+      "lon": "-9.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tanfit-ait-oumzil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanfit Ait Oumzil",
+      "en": "Tanfit Ait Oumzil",
+      "slug": "tanfit-ait-oumzil"
+    },
+    "code": {
+      "id": "MA009006_tanfit-ait-oumzil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85476"
+    ],
+    "geo": {
+      "lat": "29.507",
+      "lon": "-9.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tifermite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tifermite",
+      "en": "Tifermite",
+      "slug": "tifermite"
+    },
+    "code": {
+      "id": "MA009006_tifermite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85125"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tirhmi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tirhmi",
+      "en": "Tirhmi",
+      "slug": "tirhmi"
+    },
+    "code": {
+      "id": "MA009006_tirhmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85102"
+    ],
+    "geo": {
+      "lat": "29.583",
+      "lon": "-9.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tiznit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiznit",
+      "en": "Tiznit",
+      "slug": "tiznit"
+    },
+    "code": {
+      "id": "MA009006_tiznit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85000"
+    ],
+    "geo": {
+      "lat": "29.697",
+      "lon": "-9.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tizoughane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizoughane",
+      "en": "Tizoughane",
+      "slug": "tizoughane"
+    },
+    "code": {
+      "id": "MA009006_tizoughane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85483"
+    ],
+    "geo": {
+      "lat": "29.541",
+      "lon": "-9.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tlata-ida-gougmar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Ida Gougmar",
+      "en": "Tlata Ida Gougmar",
+      "slug": "tlata-ida-gougmar"
+    },
+    "code": {
+      "id": "MA009006_tlata-ida-gougmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85126"
+    ],
+    "geo": {
+      "lat": "29.573",
+      "lon": "-9.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tleta-tassrirt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Tassrirt",
+      "en": "Tleta Tassrirt",
+      "slug": "tleta-tassrirt"
+    },
+    "code": {
+      "id": "MA009006_tleta-tassrirt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85486"
+    ],
+    "geo": {
+      "lat": "29.541",
+      "lon": "-9.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tleta-tidli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Tidli",
+      "en": "Tleta Tidli",
+      "slug": "tleta-tidli"
+    },
+    "code": {
+      "id": "MA009006_tleta-tidli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85482"
+    ],
+    "geo": {
+      "lat": "29.541",
+      "lon": "-9.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tnine-aglou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Aglou",
+      "en": "Tnine Aglou",
+      "slug": "tnine-aglou"
+    },
+    "code": {
+      "id": "MA009006_tnine-aglou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85004"
+    ],
+    "geo": {
+      "lat": "29.765",
+      "lon": "-9.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_tnine-tarsouat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Tarsouat",
+      "en": "Tnine Tarsouat",
+      "slug": "tnine-tarsouat"
+    },
+    "code": {
+      "id": "MA009006_tnine-tarsouat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85485"
+    ],
+    "geo": {
+      "lat": "29.541",
+      "lon": "-9.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_toubouzar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Toubouzar",
+      "en": "Toubouzar",
+      "slug": "toubouzar"
+    },
+    "code": {
+      "id": "MA009006_toubouzar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85033"
+    ],
+    "geo": {
+      "lat": "29.688",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009006_zaouia-sidi-ahmed-ou-moussa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Sidi Ahmed Ou Moussa",
+      "en": "Zaouia Sidi Ahmed Ou Moussa",
+      "slug": "zaouia-sidi-ahmed-ou-moussa"
+    },
+    "code": {
+      "id": "MA009006_zaouia-sidi-ahmed-ou-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009006",
+      "level": 2,
+      "name": {
+        "local": "Tiznit",
+        "en": "Tiznit",
+        "slug": "tiznit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009006",
+        "level": 2,
+        "name": {
+          "local": "Tiznit",
+          "en": "Tiznit",
+          "slug": "tiznit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85132"
+    ],
+    "geo": {
+      "lat": "29.505",
+      "lon": "-9.455"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

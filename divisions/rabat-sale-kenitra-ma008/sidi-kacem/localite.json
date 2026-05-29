@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "MA008006_ain-deffali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Deffali",
+      "en": "Ain Deffali",
+      "slug": "ain-deffali"
+    },
+    "code": {
+      "id": "MA008006_ain-deffali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16052"
+    ],
+    "geo": {
+      "lat": "34.59",
+      "lon": "-5.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_bab-tiouka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bab Tiouka",
+      "en": "Bab Tiouka",
+      "slug": "bab-tiouka"
+    },
+    "code": {
+      "id": "MA008006_bab-tiouka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16012"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_bir-taleb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bir Taleb",
+      "en": "Bir Taleb",
+      "slug": "bir-taleb"
+    },
+    "code": {
+      "id": "MA008006_bir-taleb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16022"
+    ],
+    "geo": {
+      "lat": "34.492",
+      "lon": "-5.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_bni-oual",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Oual",
+      "en": "Bni Oual",
+      "slug": "bni-oual"
+    },
+    "code": {
+      "id": "MA008006_bni-oual",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16054"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_chbanate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chbanate",
+      "en": "Chbanate",
+      "slug": "chbanate"
+    },
+    "code": {
+      "id": "MA008006_chbanate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16033"
+    ],
+    "geo": {
+      "lat": "34.542",
+      "lon": "-5.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_dar-gueddari",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Gueddari",
+      "en": "Dar Gueddari",
+      "slug": "dar-gueddari"
+    },
+    "code": {
+      "id": "MA008006_dar-gueddari",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16010"
+    ],
+    "geo": {
+      "lat": "34.421",
+      "lon": "-6.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_dar-laaslouji",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Laaslouji",
+      "en": "Dar Laaslouji",
+      "slug": "dar-laaslouji"
+    },
+    "code": {
+      "id": "MA008006_dar-laaslouji",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16026"
+    ],
+    "geo": {
+      "lat": "34.492",
+      "lon": "-5.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_ermilate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ermilate",
+      "en": "Ermilate",
+      "slug": "ermilate"
+    },
+    "code": {
+      "id": "MA008006_ermilate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16153"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_had-kourt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Kourt",
+      "en": "Had Kourt",
+      "slug": "had-kourt"
+    },
+    "code": {
+      "id": "MA008006_had-kourt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16050"
+    ],
+    "geo": {
+      "lat": "34.616",
+      "lon": "-5.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_jemaa-haouafate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa Haouafate",
+      "en": "Jemaa Haouafate",
+      "slug": "jemaa-haouafate"
+    },
+    "code": {
+      "id": "MA008006_jemaa-haouafate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16172"
+    ],
+    "geo": {
+      "lat": "34.507",
+      "lon": "-5.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_jorf-el-melha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jorf El Melha",
+      "en": "Jorf El Melha",
+      "slug": "jorf-el-melha"
+    },
+    "code": {
+      "id": "MA008006_jorf-el-melha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16020"
+    ],
+    "geo": {
+      "lat": "34.492",
+      "lon": "-5.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_khenichet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khenichet",
+      "en": "Khenichet",
+      "slug": "khenichet"
+    },
+    "code": {
+      "id": "MA008006_khenichet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16102"
+    ],
+    "geo": {
+      "lat": "34.44",
+      "lon": "-5.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_lamrabih",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamrabih",
+      "en": "Lamrabih",
+      "slug": "lamrabih"
+    },
+    "code": {
+      "id": "MA008006_lamrabih",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16055"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_mechra-bel-ksiri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mechra Bel Ksiri",
+      "en": "Mechra Bel Ksiri",
+      "slug": "mechra-bel-ksiri"
+    },
+    "code": {
+      "id": "MA008006_mechra-bel-ksiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16150"
+    ],
+    "geo": {
+      "lat": "34.574",
+      "lon": "-5.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_moulay-abdelkader",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Abdelkader",
+      "en": "Moulay Abdelkader",
+      "slug": "moulay-abdelkader"
+    },
+    "code": {
+      "id": "MA008006_moulay-abdelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16056"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_nouirate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nouirate",
+      "en": "Nouirate",
+      "slug": "nouirate"
+    },
+    "code": {
+      "id": "MA008006_nouirate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16173"
+    ],
+    "geo": {
+      "lat": "34.507",
+      "lon": "-5.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_oulad-nouel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Nouel",
+      "en": "Oulad Nouel",
+      "slug": "oulad-nouel"
+    },
+    "code": {
+      "id": "MA008006_oulad-nouel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16062"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_sefsaf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sefsaf",
+      "en": "Sefsaf",
+      "slug": "sefsaf"
+    },
+    "code": {
+      "id": "MA008006_sefsaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16174"
+    ],
+    "geo": {
+      "lat": "34.507",
+      "lon": "-5.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_selfat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Selfat",
+      "en": "Selfat",
+      "slug": "selfat"
+    },
+    "code": {
+      "id": "MA008006_selfat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16013"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_sidi-ahmed-benaissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed Benaissa",
+      "en": "Sidi Ahmed Benaissa",
+      "slug": "sidi-ahmed-benaissa"
+    },
+    "code": {
+      "id": "MA008006_sidi-ahmed-benaissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16063"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_sidi-al-kamel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Al Kamel",
+      "en": "Sidi Al Kamel",
+      "slug": "sidi-al-kamel"
+    },
+    "code": {
+      "id": "MA008006_sidi-al-kamel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16175"
+    ],
+    "geo": {
+      "lat": "34.507",
+      "lon": "-5.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_sidi-ammar-el-hadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ammar El Hadi",
+      "en": "Sidi Ammar El Hadi",
+      "slug": "sidi-ammar-el-hadi"
+    },
+    "code": {
+      "id": "MA008006_sidi-ammar-el-hadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16324"
+    ],
+    "geo": {
+      "lat": "34.563",
+      "lon": "-5.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_sidi-azzouz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Azzouz",
+      "en": "Sidi Azzouz",
+      "slug": "sidi-azzouz"
+    },
+    "code": {
+      "id": "MA008006_sidi-azzouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16072"
+    ],
+    "geo": {
+      "lat": "34.569",
+      "lon": "-5.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_sidi-mhamed-chelh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mhamed Chelh",
+      "en": "Sidi Mhamed Chelh",
+      "slug": "sidi-mhamed-chelh"
+    },
+    "code": {
+      "id": "MA008006_sidi-mhamed-chelh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16064"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_taoughilt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taoughilt",
+      "en": "Taoughilt",
+      "slug": "taoughilt"
+    },
+    "code": {
+      "id": "MA008006_taoughilt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16065"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_tekna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tekna",
+      "en": "Tekna",
+      "slug": "tekna"
+    },
+    "code": {
+      "id": "MA008006_tekna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16014"
+    ],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_zagota",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zagota",
+      "en": "Zagota",
+      "slug": "zagota"
+    },
+    "code": {
+      "id": "MA008006_zagota",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16023"
+    ],
+    "geo": {
+      "lat": "34.492",
+      "lon": "-5.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006_zirara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zirara",
+      "en": "Zirara",
+      "slug": "zirara"
+    },
+    "code": {
+      "id": "MA008006_zirara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008006",
+      "level": 2,
+      "name": {
+        "local": "Sidi Kacem",
+        "en": "Sidi Kacem",
+        "slug": "sidi-kacem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008006",
+        "level": 2,
+        "name": {
+          "local": "Sidi Kacem",
+          "en": "Sidi Kacem",
+          "slug": "sidi-kacem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16024"
+    ],
+    "geo": {
+      "lat": "34.492",
+      "lon": "-5.508"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

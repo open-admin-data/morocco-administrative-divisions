@@ -1,0 +1,39 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+MA002002_arbaa-chtouka,Arbaa Chtouka,Arbaa Chtouka,arbaa-chtouka,MA002002_arbaa-chtouka,24172,33.315,-8.16
+MA002002_azemmour,Azemmour,Azemmour,azemmour,MA002002_azemmour,24100,33.289,-8.342
+MA002002_bir-jdid,Bir Jdid,Bir Jdid,bir-jdid,MA002002_bir-jdid,24150,33.256,-8.285
+MA002002_boucedra,Boucedra,Boucedra,boucedra,MA002002_boucedra,24122,33.2,-8.163
+MA002002_chaibate,Chaibate,Chaibate,chaibate,MA002002_chaibate,24403,33.074,-8.377
+MA002002_haouzia,Haouzia,Haouzia,haouzia,MA002002_haouzia,24123,33.221,-8.476
+MA002002_jorf-lasfar,Jorf Lasfar,Jorf Lasfar,jorf-lasfar,MA002002_jorf-lasfar,24025,32.863,-8.323
+MA002002_khemis-des-zemamra,Khemis Des Zemamra,Khemis Des Zemamra,khemis-des-zemamra,MA002002_khemis-des-zemamra,24200,33.041,-8.389
+MA002002_khemis-mtouh,Khemis Mtouh,Khemis Mtouh,khemis-mtouh,MA002002_khemis-mtouh,24322,32.879,-8.177
+MA002002_laaouissate,Laaouissate,Laaouissate,laaouissate,MA002002_laaouissate,24222,32.637,-8.732
+MA002002_laghdira,Laghdira,Laghdira,laghdira,MA002002_laghdira,24104,33.074,-8.377
+MA002002_lamharza-essahel,Lamharza Essahel,Lamharza Essahel,lamharza-essahel,MA002002_lamharza-essahel,24105,33.074,-8.377
+MA002002_lamnakra-el-haddada,Lamnakra El Haddada,Lamnakra El Haddada,lamnakra-el-haddada,MA002002_lamnakra-el-haddada,24224,32.637,-8.732
+MA002002_mhaioula,Mhaioula,Mhaioula,mhaioula,MA002002_mhaioula,24124,33.21,-8.319
+MA002002_mogress,Mogress,Mogress,mogress,MA002002_mogress,24404,33.074,-8.377
+MA002002_moulay-abdellah,Moulay Abdellah,Moulay Abdellah,moulay-abdellah,MA002002_moulay-abdellah,24003,33.041,-8.389
+MA002002_oulad-aissa,Oulad Aissa,Oulad Aissa,oulad-aissa,MA002002_oulad-aissa,24022,32.863,-8.323
+MA002002_oulad-ben-chaoui,Oulad Ben Chaoui,Oulad Ben Chaoui,oulad-ben-chaoui,MA002002_oulad-ben-chaoui,24225,33.041,-8.389
+MA002002_oulad-hamdane,Oulad Hamdane,Oulad Hamdane,oulad-hamdane,MA002002_oulad-hamdane,24323,32.879,-8.177
+MA002002_oulad-hassine,Oulad Hassine,Oulad Hassine,oulad-hassine,MA002002_oulad-hassine,24023,32.863,-8.323
+MA002002_oulad-rahmoune,Oulad Rahmoune,Oulad Rahmoune,oulad-rahmoune,MA002002_oulad-rahmoune,24106,33.074,-8.377
+MA002002_oulad-rhanem,Oulad Rhanem,Oulad Rhanem,oulad-rhanem,MA002002_oulad-rhanem,24272,32.872,-8.739
+MA002002_oulad-sidi-ali-ben-youssef,Oulad Sidi Ali Ben Youssef,Oulad Sidi Ali Ben Youssef,oulad-sidi-ali-ben-youssef,MA002002_oulad-sidi-ali-ben-youssef,24324,32.879,-8.177
+MA002002_ouled-frej,Ouled Frej,Ouled Frej,ouled-frej,MA002002_ouled-frej,24302,32.96,-8.227
+MA002002_oulja-des-chiadma,Oulja Des Chiadma,Oulja Des Chiadma,oulja-des-chiadma,MA002002_oulja-des-chiadma,24173,33.315,-8.16
+MA002002_saniat-benrkik,Saniat Benrkik,Saniat Benrkik,saniat-benrkik,MA002002_saniat-benrkik,24226,32.637,-8.732
+MA002002_sebt-saiss,Sebt Saiss,Sebt Saiss,sebt-saiss,MA002002_sebt-saiss,24422,32.778,-8.643
+MA002002_si-hsaien-ben-abderrahmane,Si Hsaien Ben Abderrahmane,Si Hsaien Ben Abderrahmane,si-hsaien-ben-abderrahmane,MA002002_si-hsaien-ben-abderrahmane,24405,33.074,-8.377
+MA002002_sidi-abed,Sidi Abed,Sidi Abed,sidi-abed,MA002002_sidi-abed,24032,32.863,-8.323
+MA002002_sidi-ali-ben-hamdouche,Sidi Ali Ben Hamdouche,Sidi Ali Ben Hamdouche,sidi-ali-ben-hamdouche,MA002002_sidi-ali-ben-hamdouche,24112,33.074,-8.377
+MA002002_sidi-bouzid,Sidi Bouzid,Sidi Bouzid,sidi-bouzid,MA002002_sidi-bouzid,24005,33.231,-8.551
+MA002002_sidi-mhamed-akhdim,Sidi Mhamed Akhdim,Sidi Mhamed Akhdim,sidi-mhamed-akhdim,MA002002_sidi-mhamed-akhdim,24034,33.074,-8.377
+MA002002_sidi-moussa-plage,Sidi Moussa Plage,Sidi Moussa Plage,sidi-moussa-plage,MA002002_sidi-moussa-plage,24024,32.863,-8.323
+MA002002_sidi-smail,Sidi Smail,Sidi Smail,sidi-smail,MA002002_sidi-smail,24402,32.825,-8.511
+MA002002_tleta-boulaouane,Tleta Boulaouane,Tleta Boulaouane,tleta-boulaouane,MA002002_tleta-boulaouane,24074,32.613,-8.222
+MA002002_tnine-chtouka,Tnine Chtouka,Tnine Chtouka,tnine-chtouka,MA002002_tnine-chtouka,24175,33.315,-8.16
+MA002002_zaouiat-lakouacem,Zaouiat Lakouacem,Zaouiat Lakouacem,zaouiat-lakouacem,MA002002_zaouiat-lakouacem,24406,33.074,-8.377
+MA002002_zaouiat-saiss,Zaouiat Saiss,Zaouiat Saiss,zaouiat-saiss,MA002002_zaouiat-saiss,24412,33.074,-8.377

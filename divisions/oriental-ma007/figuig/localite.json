@@ -1,0 +1,898 @@
+[
+  {
+    "id": "MA007004_abbou-lakhal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abbou Lakhal",
+      "en": "Abbou Lakhal",
+      "slug": "abbou-lakhal"
+    },
+    "code": {
+      "id": "MA007004_abbou-lakhal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61005"
+    ],
+    "geo": {
+      "lat": "32.704",
+      "lon": "-2.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_ain-chair",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Chair",
+      "en": "Ain Chair",
+      "slug": "ain-chair"
+    },
+    "code": {
+      "id": "MA007004_ain-chair",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61103"
+    ],
+    "geo": {
+      "lat": "32.704",
+      "lon": "-2.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_ain-chouater",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Chouater",
+      "en": "Ain Chouater",
+      "slug": "ain-chouater"
+    },
+    "code": {
+      "id": "MA007004_ain-chouater",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61052"
+    ],
+    "geo": {
+      "lat": "31.833",
+      "lon": "-2.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_ain-echchair",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Echchair",
+      "en": "Ain Echchair",
+      "slug": "ain-echchair"
+    },
+    "code": {
+      "id": "MA007004_ain-echchair",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61222"
+    ],
+    "geo": {
+      "lat": "32.267",
+      "lon": "-2.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_ait-ahmad-ou-haddou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ahmad Ou Haddou",
+      "en": "Ait Ahmad Ou Haddou",
+      "slug": "ait-ahmad-ou-haddou"
+    },
+    "code": {
+      "id": "MA007004_ait-ahmad-ou-haddou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61122"
+    ],
+    "geo": {
+      "lat": "32.172",
+      "lon": "-3.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_anoual-bouchaouen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anoual Bouchaouen",
+      "en": "Anoual Bouchaouen",
+      "slug": "anoual-bouchaouen"
+    },
+    "code": {
+      "id": "MA007004_anoual-bouchaouen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61272"
+    ],
+    "geo": {
+      "lat": "32.446",
+      "lon": "-2.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_beni-tajjite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Tajjite",
+      "en": "Beni Tajjite",
+      "slug": "beni-tajjite"
+    },
+    "code": {
+      "id": "MA007004_beni-tajjite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61102"
+    ],
+    "geo": {
+      "lat": "32.289",
+      "lon": "-3.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_bni-guil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Guil",
+      "en": "Bni Guil",
+      "slug": "bni-guil"
+    },
+    "code": {
+      "id": "MA007004_bni-guil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61006"
+    ],
+    "geo": {
+      "lat": "32.704",
+      "lon": "-2.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_bouanane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouanane",
+      "en": "Bouanane",
+      "slug": "bouanane"
+    },
+    "code": {
+      "id": "MA007004_bouanane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61152"
+    ],
+    "geo": {
+      "lat": "32.054",
+      "lon": "-3.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_bouarfa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouarfa",
+      "en": "Bouarfa",
+      "slug": "bouarfa"
+    },
+    "code": {
+      "id": "MA007004_bouarfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61200"
+    ],
+    "geo": {
+      "lat": "32.534",
+      "lon": "-1.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_boumeriem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boumeriem",
+      "en": "Boumeriem",
+      "slug": "boumeriem"
+    },
+    "code": {
+      "id": "MA007004_boumeriem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61273"
+    ],
+    "geo": {
+      "lat": "32.446",
+      "lon": "-2.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_figuig",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Figuig",
+      "en": "Figuig",
+      "slug": "figuig"
+    },
+    "code": {
+      "id": "MA007004_figuig",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "31.833",
+      "lon": "-2.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_maatarka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maatarka",
+      "en": "Maatarka",
+      "slug": "maatarka"
+    },
+    "code": {
+      "id": "MA007004_maatarka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61012"
+    ],
+    "geo": {
+      "lat": "32.704",
+      "lon": "-2.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_mengoub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mengoub",
+      "en": "Mengoub",
+      "slug": "mengoub"
+    },
+    "code": {
+      "id": "MA007004_mengoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61223"
+    ],
+    "geo": {
+      "lat": "32.267",
+      "lon": "-2.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_talsinnt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Talsinnt",
+      "en": "Talsinnt",
+      "slug": "talsinnt"
+    },
+    "code": {
+      "id": "MA007004_talsinnt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61252"
+    ],
+    "geo": {
+      "lat": "32.536",
+      "lon": "-3.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004_tendrara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tendrara",
+      "en": "Tendrara",
+      "slug": "tendrara"
+    },
+    "code": {
+      "id": "MA007004_tendrara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007004",
+      "level": 2,
+      "name": {
+        "local": "Figuig",
+        "en": "Figuig",
+        "slug": "figuig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007004",
+        "level": 2,
+        "name": {
+          "local": "Figuig",
+          "en": "Figuig",
+          "slug": "figuig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61302"
+    ],
+    "geo": {
+      "lat": "33.05",
+      "lon": "-2"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

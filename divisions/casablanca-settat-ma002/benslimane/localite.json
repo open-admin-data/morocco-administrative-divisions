@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "MA002007_ahlaf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ahlaf",
+      "en": "Ahlaf",
+      "slug": "ahlaf"
+    },
+    "code": {
+      "id": "MA002007_ahlaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13322"
+    ],
+    "geo": {
+      "lat": "33.288",
+      "lon": "-7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_ain-tizgha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Tizgha",
+      "en": "Ain Tizgha",
+      "slug": "ain-tizgha"
+    },
+    "code": {
+      "id": "MA002007_ain-tizgha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13016"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_bennabet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bennabet",
+      "en": "Bennabet",
+      "slug": "bennabet"
+    },
+    "code": {
+      "id": "MA002007_bennabet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13022"
+    ],
+    "geo": {
+      "lat": "33.496",
+      "lon": "-7.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_benslimane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Benslimane",
+      "en": "Benslimane",
+      "slug": "benslimane"
+    },
+    "code": {
+      "id": "MA002007_benslimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13000"
+    ],
+    "geo": {
+      "lat": "33.616",
+      "lon": "-7.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_bessabes",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bessabes",
+      "en": "Bessabes",
+      "slug": "bessabes"
+    },
+    "code": {
+      "id": "MA002007_bessabes",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13023"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_bir-ennasr",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bir Ennasr",
+      "en": "Bir Ennasr",
+      "slug": "bir-ennasr"
+    },
+    "code": {
+      "id": "MA002007_bir-ennasr",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13103"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_bouznika",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouznika",
+      "en": "Bouznika",
+      "slug": "bouznika"
+    },
+    "code": {
+      "id": "MA002007_bouznika",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13100"
+    ],
+    "geo": {
+      "lat": "33.789",
+      "lon": "-7.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_cherrat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cherrat",
+      "en": "Cherrat",
+      "slug": "cherrat"
+    },
+    "code": {
+      "id": "MA002007_cherrat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13104"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_el-krassi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Krassi",
+      "en": "El Krassi",
+      "slug": "el-krassi"
+    },
+    "code": {
+      "id": "MA002007_el-krassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13024"
+    ],
+    "geo": {
+      "lat": "33.496",
+      "lon": "-7.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_el-mansouria",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Mansouria",
+      "en": "El Mansouria",
+      "slug": "el-mansouria"
+    },
+    "code": {
+      "id": "MA002007_el-mansouria",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13072"
+    ],
+    "geo": {
+      "lat": "33.746",
+      "lon": "-7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_fedalate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fedalate",
+      "en": "Fedalate",
+      "slug": "fedalate"
+    },
+    "code": {
+      "id": "MA002007_fedalate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13003"
+    ],
+    "geo": {
+      "lat": "33.568",
+      "lon": "-7.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_mellila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mellila",
+      "en": "Mellila",
+      "slug": "mellila"
+    },
+    "code": {
+      "id": "MA002007_mellila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13202"
+    ],
+    "geo": {
+      "lat": "33.38",
+      "lon": "-7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_moualine-el-ghaba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moualine El Ghaba",
+      "en": "Moualine El Ghaba",
+      "slug": "moualine-el-ghaba"
+    },
+    "code": {
+      "id": "MA002007_moualine-el-ghaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13013"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_moulaine-el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulaine El Oued",
+      "en": "Moulaine El Oued",
+      "slug": "moulaine-el-oued"
+    },
+    "code": {
+      "id": "MA002007_moulaine-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13033"
+    ],
+    "geo": {
+      "lat": "33.606",
+      "lon": "-7.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_oulad-ali-toualaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ali Toualaa",
+      "en": "Oulad Ali Toualaa",
+      "slug": "oulad-ali-toualaa"
+    },
+    "code": {
+      "id": "MA002007_oulad-ali-toualaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13014"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_oulad-yahya-louta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Yahya Louta",
+      "en": "Oulad Yahya Louta",
+      "slug": "oulad-yahya-louta"
+    },
+    "code": {
+      "id": "MA002007_oulad-yahya-louta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13012"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_rdadna-oulad-malek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rdadna Oulad Malek",
+      "en": "Rdadna Oulad Malek",
+      "slug": "rdadna-oulad-malek"
+    },
+    "code": {
+      "id": "MA002007_rdadna-oulad-malek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13015"
+    ],
+    "geo": {
+      "lat": "33.514",
+      "lon": "-7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_sidi-bettache",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bettache",
+      "en": "Sidi Bettache",
+      "slug": "sidi-bettache"
+    },
+    "code": {
+      "id": "MA002007_sidi-bettache",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13162"
+    ],
+    "geo": {
+      "lat": "33.566",
+      "lon": "-6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_soualem-et-tirs",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Soualem Et Tirs",
+      "en": "Soualem Et Tirs",
+      "slug": "soualem-et-tirs"
+    },
+    "code": {
+      "id": "MA002007_soualem-et-tirs",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13032"
+    ],
+    "geo": {
+      "lat": "33.606",
+      "lon": "-7.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_tnine-oulad-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Oulad Ali",
+      "en": "Tnine Oulad Ali",
+      "slug": "tnine-oulad-ali"
+    },
+    "code": {
+      "id": "MA002007_tnine-oulad-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13025"
+    ],
+    "geo": {
+      "lat": "33.496",
+      "lon": "-7.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002007_ziaida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ziaida",
+      "en": "Ziaida",
+      "slug": "ziaida"
+    },
+    "code": {
+      "id": "MA002007_ziaida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002007",
+      "level": 2,
+      "name": {
+        "local": "Benslimane",
+        "en": "Benslimane",
+        "slug": "benslimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002007",
+        "level": 2,
+        "name": {
+          "local": "Benslimane",
+          "en": "Benslimane",
+          "slug": "benslimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13026"
+    ],
+    "geo": {
+      "lat": "33.496",
+      "lon": "-7.099"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

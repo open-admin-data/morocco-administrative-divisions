@@ -1,0 +1,562 @@
+[
+  {
+    "id": "MA007005_assebbab",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assebbab",
+      "en": "Assebbab",
+      "slug": "assebbab"
+    },
+    "code": {
+      "id": "MA007005_assebbab",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35124"
+    ],
+    "geo": {
+      "lat": "33.967",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_berkine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Berkine",
+      "en": "Berkine",
+      "slug": "berkine"
+    },
+    "code": {
+      "id": "MA007005_berkine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35102"
+    ],
+    "geo": {
+      "lat": "34.226",
+      "lon": "-3.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_guercif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guercif",
+      "en": "Guercif",
+      "slug": "guercif"
+    },
+    "code": {
+      "id": "MA007005_guercif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35100"
+    ],
+    "geo": {
+      "lat": "34.303",
+      "lon": "-4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_houara-oulad-rahho",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Houara Oulad Rahho",
+      "en": "Houara Oulad Rahho",
+      "slug": "houara-oulad-rahho"
+    },
+    "code": {
+      "id": "MA007005_houara-oulad-rahho",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35043"
+    ],
+    "geo": {
+      "lat": "34.289",
+      "lon": "-4.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_lamrija",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamrija",
+      "en": "Lamrija",
+      "slug": "lamrija"
+    },
+    "code": {
+      "id": "MA007005_lamrija",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35116"
+    ],
+    "geo": {
+      "lat": "34.142",
+      "lon": "-3.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_mezguitem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mezguitem",
+      "en": "Mezguitem",
+      "slug": "mezguitem"
+    },
+    "code": {
+      "id": "MA007005_mezguitem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35104"
+    ],
+    "geo": {
+      "lat": "34.226",
+      "lon": "-3.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_oulad-bourima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Bourima",
+      "en": "Oulad Bourima",
+      "slug": "oulad-bourima"
+    },
+    "code": {
+      "id": "MA007005_oulad-bourima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35055"
+    ],
+    "geo": {
+      "lat": "34.707",
+      "lon": "-3.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_ras-laksar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras Laksar",
+      "en": "Ras Laksar",
+      "slug": "ras-laksar"
+    },
+    "code": {
+      "id": "MA007005_ras-laksar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35125"
+    ],
+    "geo": {
+      "lat": "33.967",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_saka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saka",
+      "en": "Saka",
+      "slug": "saka"
+    },
+    "code": {
+      "id": "MA007005_saka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35105"
+    ],
+    "geo": {
+      "lat": "34.303",
+      "lon": "-4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005_taddart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taddart",
+      "en": "Taddart",
+      "slug": "taddart"
+    },
+    "code": {
+      "id": "MA007005_taddart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007005",
+      "level": 2,
+      "name": {
+        "local": "Guercif",
+        "en": "Guercif",
+        "slug": "guercif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007005",
+        "level": 2,
+        "name": {
+          "local": "Guercif",
+          "en": "Guercif",
+          "slug": "guercif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35115"
+    ],
+    "geo": {
+      "lat": "34.142",
+      "lon": "-3.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

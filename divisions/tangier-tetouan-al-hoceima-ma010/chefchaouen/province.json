@@ -1,0 +1,47 @@
+{
+  "id": "MA010002",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Chefchaouen",
+    "en": "Chefchaouen",
+    "slug": "chefchaouen"
+  },
+  "code": {
+    "id": "MA010002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA010",
+    "level": 1,
+    "name": {
+      "local": "طنجة - تطوان - الحسيمة",
+      "en": "Tangier Tetouan Al Hoceima",
+      "slug": "tangier-tetouan-al-hoceima-ma010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.099",
+    "lon": "-5.009"
+  },
+  "metadata": {},
+  "source": {}
+}

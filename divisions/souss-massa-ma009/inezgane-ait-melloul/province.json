@@ -1,0 +1,47 @@
+{
+  "id": "MA009003",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Inezgane Ait Melloul",
+    "en": "Inezgane Ait Melloul",
+    "slug": "inezgane-ait-melloul"
+  },
+  "code": {
+    "id": "MA009003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA009",
+    "level": 1,
+    "name": {
+      "local": "سوس - ماسة",
+      "en": "Souss Massa",
+      "slug": "souss-massa-ma009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.35",
+    "lon": "-9.45"
+  },
+  "metadata": {},
+  "source": {}
+}

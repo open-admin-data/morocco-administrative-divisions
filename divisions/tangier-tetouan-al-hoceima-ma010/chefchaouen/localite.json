@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "MA010002_amtar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amtar",
+      "en": "Amtar",
+      "slug": "amtar"
+    },
+    "code": {
+      "id": "MA010002_amtar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91173"
+    ],
+    "geo": {
+      "lat": "35.242",
+      "lon": "-4.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_asifane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asifane",
+      "en": "Asifane",
+      "slug": "asifane"
+    },
+    "code": {
+      "id": "MA010002_asifane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91023"
+    ],
+    "geo": {
+      "lat": "35.114",
+      "lon": "-4.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bab-berret",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bab Berret",
+      "en": "Bab Berret",
+      "slug": "bab-berret"
+    },
+    "code": {
+      "id": "MA010002_bab-berret",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91052"
+    ],
+    "geo": {
+      "lat": "34.998",
+      "lon": "-4.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bab-taza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bab Taza",
+      "en": "Bab Taza",
+      "slug": "bab-taza"
+    },
+    "code": {
+      "id": "MA010002_bab-taza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91002"
+    ],
+    "geo": {
+      "lat": "35.062",
+      "lon": "-5.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_beni-bouzra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Bouzra",
+      "en": "Beni Bouzra",
+      "slug": "beni-bouzra"
+    },
+    "code": {
+      "id": "MA010002_beni-bouzra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91034"
+    ],
+    "geo": {
+      "lat": "35.229",
+      "lon": "-5.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_beni-rzen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Rzen",
+      "en": "Beni Rzen",
+      "slug": "beni-rzen"
+    },
+    "code": {
+      "id": "MA010002_beni-rzen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91025"
+    ],
+    "geo": {
+      "lat": "34.98",
+      "lon": "-5.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_beni-selmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Selmane",
+      "en": "Beni Selmane",
+      "slug": "beni-selmane"
+    },
+    "code": {
+      "id": "MA010002_beni-selmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34035"
+    ],
+    "geo": {
+      "lat": "34.493",
+      "lon": "-4.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-ahmed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Ahmed",
+      "en": "Bni Ahmed",
+      "slug": "bni-ahmed"
+    },
+    "code": {
+      "id": "MA010002_bni-ahmed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91102"
+    ],
+    "geo": {
+      "lat": "35.106",
+      "lon": "-4.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-ahmed-gharbia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Ahmed Gharbia",
+      "en": "Bni Ahmed Gharbia",
+      "slug": "bni-ahmed-gharbia"
+    },
+    "code": {
+      "id": "MA010002_bni-ahmed-gharbia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91123"
+    ],
+    "geo": {
+      "lat": "35.134",
+      "lon": "-5.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-darkoul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Darkoul",
+      "en": "Bni Darkoul",
+      "slug": "bni-darkoul"
+    },
+    "code": {
+      "id": "MA010002_bni-darkoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91005"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-faghloum",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Faghloum",
+      "en": "Bni Faghloum",
+      "slug": "bni-faghloum"
+    },
+    "code": {
+      "id": "MA010002_bni-faghloum",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91006"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-mansour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Mansour",
+      "en": "Bni Mansour",
+      "slug": "bni-mansour"
+    },
+    "code": {
+      "id": "MA010002_bni-mansour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91055"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-rzine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Rzine",
+      "en": "Bni Rzine",
+      "slug": "bni-rzine"
+    },
+    "code": {
+      "id": "MA010002_bni-rzine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91062"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-salah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Salah",
+      "en": "Bni Salah",
+      "slug": "bni-salah"
+    },
+    "code": {
+      "id": "MA010002_bni-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91012"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-selmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Selmane",
+      "en": "Bni Selmane",
+      "slug": "bni-selmane"
+    },
+    "code": {
+      "id": "MA010002_bni-selmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91063"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_bni-smih",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Smih",
+      "en": "Bni Smih",
+      "slug": "bni-smih"
+    },
+    "code": {
+      "id": "MA010002_bni-smih",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91172"
+    ],
+    "geo": {
+      "lat": "35.131",
+      "lon": "-4.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_chefchaouen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chefchaouen",
+      "en": "Chefchaouen",
+      "slug": "chefchaouen"
+    },
+    "code": {
+      "id": "MA010002_chefchaouen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91000"
+    ],
+    "geo": {
+      "lat": "35.169",
+      "lon": "-5.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_derdera",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Derdera",
+      "en": "Derdera",
+      "slug": "derdera"
+    },
+    "code": {
+      "id": "MA010002_derdera",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91042"
+    ],
+    "geo": {
+      "lat": "35.178",
+      "lon": "-5.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_derkoul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Derkoul",
+      "en": "Derkoul",
+      "slug": "derkoul"
+    },
+    "code": {
+      "id": "MA010002_derkoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91032"
+    ],
+    "geo": {
+      "lat": "35.229",
+      "lon": "-5.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_el-melha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Melha",
+      "en": "El Melha",
+      "slug": "el-melha"
+    },
+    "code": {
+      "id": "MA010002_el-melha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91122"
+    ],
+    "geo": {
+      "lat": "35.134",
+      "lon": "-5.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_fifi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fifi",
+      "en": "Fifi",
+      "slug": "fifi"
+    },
+    "code": {
+      "id": "MA010002_fifi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91033"
+    ],
+    "geo": {
+      "lat": "34.949",
+      "lon": "-5.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_had-rhdir-krouch",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Rhdir Krouch",
+      "en": "Had Rhdir Krouch",
+      "slug": "had-rhdir-krouch"
+    },
+    "code": {
+      "id": "MA010002_had-rhdir-krouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91043"
+    ],
+    "geo": {
+      "lat": "35.178",
+      "lon": "-5.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_iouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Iouane",
+      "en": "Iouane",
+      "slug": "iouane"
+    },
+    "code": {
+      "id": "MA010002_iouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91073"
+    ],
+    "geo": {
+      "lat": "34.936",
+      "lon": "-4.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_jebha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jebha",
+      "en": "Jebha",
+      "slug": "jebha"
+    },
+    "code": {
+      "id": "MA010002_jebha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91153"
+    ],
+    "geo": {
+      "lat": "35.206",
+      "lon": "-4.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_kaa-asrass",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kaa Asrass",
+      "en": "Kaa Asrass",
+      "slug": "kaa-asrass"
+    },
+    "code": {
+      "id": "MA010002_kaa-asrass",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91035"
+    ],
+    "geo": {
+      "lat": "35.229",
+      "lon": "-5.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_laghdir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laghdir",
+      "en": "Laghdir",
+      "slug": "laghdir"
+    },
+    "code": {
+      "id": "MA010002_laghdir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91013"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_mansoura",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mansoura",
+      "en": "Mansoura",
+      "slug": "mansoura"
+    },
+    "code": {
+      "id": "MA010002_mansoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91124"
+    ],
+    "geo": {
+      "lat": "35.134",
+      "lon": "-5.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_mtioua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mtioua",
+      "en": "Mtioua",
+      "slug": "mtioua"
+    },
+    "code": {
+      "id": "MA010002_mtioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91054"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_ouaouzgane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouaouzgane",
+      "en": "Ouaouzgane",
+      "slug": "ouaouzgane"
+    },
+    "code": {
+      "id": "MA010002_ouaouzgane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91174"
+    ],
+    "geo": {
+      "lat": "35.02",
+      "lon": "-4.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_steha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Steha",
+      "en": "Steha",
+      "slug": "steha"
+    },
+    "code": {
+      "id": "MA010002_steha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91003"
+    ],
+    "geo": {
+      "lat": "35.115",
+      "lon": "-5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_talembote",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Talembote",
+      "en": "Talembote",
+      "slug": "talembote"
+    },
+    "code": {
+      "id": "MA010002_talembote",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91044"
+    ],
+    "geo": {
+      "lat": "35.252",
+      "lon": "-5.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_tamorote",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamorote",
+      "en": "Tamorote",
+      "slug": "tamorote"
+    },
+    "code": {
+      "id": "MA010002_tamorote",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91072"
+    ],
+    "geo": {
+      "lat": "34.936",
+      "lon": "-4.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_tanacob",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanacob",
+      "en": "Tanacob",
+      "slug": "tanacob"
+    },
+    "code": {
+      "id": "MA010002_tanacob",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91045"
+    ],
+    "geo": {
+      "lat": "35.105",
+      "lon": "-5.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_tassift",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tassift",
+      "en": "Tassift",
+      "slug": "tassift"
+    },
+    "code": {
+      "id": "MA010002_tassift",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91036"
+    ],
+    "geo": {
+      "lat": "35.084",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_tizgane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizgane",
+      "en": "Tizgane",
+      "slug": "tizgane"
+    },
+    "code": {
+      "id": "MA010002_tizgane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91056"
+    ],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002_tlata-assifane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Assifane",
+      "en": "Tlata Assifane",
+      "slug": "tlata-assifane"
+    },
+    "code": {
+      "id": "MA010002_tlata-assifane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010002",
+      "level": 2,
+      "name": {
+        "local": "Chefchaouen",
+        "en": "Chefchaouen",
+        "slug": "chefchaouen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010002",
+        "level": 2,
+        "name": {
+          "local": "Chefchaouen",
+          "en": "Chefchaouen",
+          "slug": "chefchaouen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91046"
+    ],
+    "geo": {
+      "lat": "35.178",
+      "lon": "-5.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

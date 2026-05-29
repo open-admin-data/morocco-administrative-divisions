@@ -1,0 +1,190 @@
+[
+  {
+    "id": "MA005001",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Assa Zag",
+      "en": "Assa Zag",
+      "slug": "assa-zag"
+    },
+    "code": {
+      "id": "MA005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005",
+      "level": 1,
+      "name": {
+        "local": "كلميم - واد نون",
+        "en": "Guelmim Oued Noun",
+        "slug": "guelmim-oued-noun-ma005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.235",
+      "lon": "-9.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005002",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Guelmim",
+      "en": "Guelmim",
+      "slug": "guelmim"
+    },
+    "code": {
+      "id": "MA005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005",
+      "level": 1,
+      "name": {
+        "local": "كلميم - واد نون",
+        "en": "Guelmim Oued Noun",
+        "slug": "guelmim-oued-noun-ma005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.891",
+      "lon": "-9.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005004",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sidi Ifni",
+      "en": "Sidi Ifni",
+      "slug": "sidi-ifni"
+    },
+    "code": {
+      "id": "MA005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005",
+      "level": 1,
+      "name": {
+        "local": "كلميم - واد نون",
+        "en": "Guelmim Oued Noun",
+        "slug": "guelmim-oued-noun-ma005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.329",
+      "lon": "-9.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005003",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tan Tan",
+      "en": "Tan Tan",
+      "slug": "tan-tan"
+    },
+    "code": {
+      "id": "MA005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005",
+      "level": 1,
+      "name": {
+        "local": "كلميم - واد نون",
+        "en": "Guelmim Oued Noun",
+        "slug": "guelmim-oued-noun-ma005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.21",
+      "lon": "-11.088"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

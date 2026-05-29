@@ -1,0 +1,786 @@
+[
+  {
+    "id": "MA001003_al-khalfia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Khalfia",
+      "en": "Al Khalfia",
+      "slug": "al-khalfia"
+    },
+    "code": {
+      "id": "MA001003_al-khalfia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23206"
+    ],
+    "geo": {
+      "lat": "32.421",
+      "lon": "-6.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_bni-oukil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Oukil",
+      "en": "Bni Oukil",
+      "slug": "bni-oukil"
+    },
+    "code": {
+      "id": "MA001003_bni-oukil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23005"
+    ],
+    "geo": {
+      "lat": "32.463",
+      "lon": "-6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_dar-ould-zidouh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Ould Zidouh",
+      "en": "Dar Ould Zidouh",
+      "slug": "dar-ould-zidouh"
+    },
+    "code": {
+      "id": "MA001003_dar-ould-zidouh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23102"
+    ],
+    "geo": {
+      "lat": "32.463",
+      "lon": "-6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_el-krifate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Krifate",
+      "en": "El Krifate",
+      "slug": "el-krifate"
+    },
+    "code": {
+      "id": "MA001003_el-krifate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23222"
+    ],
+    "geo": {
+      "lat": "32.509",
+      "lon": "-6.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_fkih-ben-salah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fkih Ben Salah",
+      "en": "Fkih Ben Salah",
+      "slug": "fkih-ben-salah"
+    },
+    "code": {
+      "id": "MA001003_fkih-ben-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23200"
+    ],
+    "geo": {
+      "lat": "32.441",
+      "lon": "-6.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_had-bradia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Bradia",
+      "en": "Had Bradia",
+      "slug": "had-bradia"
+    },
+    "code": {
+      "id": "MA001003_had-bradia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23302"
+    ],
+    "geo": {
+      "lat": "32.463",
+      "lon": "-6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_had-oulad-boumoussa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Oulad Boumoussa",
+      "en": "Had Oulad Boumoussa",
+      "slug": "had-oulad-boumoussa"
+    },
+    "code": {
+      "id": "MA001003_had-oulad-boumoussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23122"
+    ],
+    "geo": {
+      "lat": "32.439",
+      "lon": "-6.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_hal-el-marbaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hal El Marbaa",
+      "en": "Hal El Marbaa",
+      "slug": "hal-el-marbaa"
+    },
+    "code": {
+      "id": "MA001003_hal-el-marbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23223"
+    ],
+    "geo": {
+      "lat": "32.509",
+      "lon": "-6.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_khemis-bni-chagdal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Bni Chagdal",
+      "en": "Khemis Bni Chagdal",
+      "slug": "khemis-bni-chagdal"
+    },
+    "code": {
+      "id": "MA001003_khemis-bni-chagdal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23224"
+    ],
+    "geo": {
+      "lat": "32.509",
+      "lon": "-6.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_oulad-ayad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ayad",
+      "en": "Oulad Ayad",
+      "slug": "oulad-ayad"
+    },
+    "code": {
+      "id": "MA001003_oulad-ayad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23400"
+    ],
+    "geo": {
+      "lat": "32.463",
+      "lon": "-6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_oulad-bourahmoune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Bourahmoune",
+      "en": "Oulad Bourahmoune",
+      "slug": "oulad-bourahmoune"
+    },
+    "code": {
+      "id": "MA001003_oulad-bourahmoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23573"
+    ],
+    "geo": {
+      "lat": "33.078",
+      "lon": "-6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_ouled-zmam",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Zmam",
+      "en": "Ouled Zmam",
+      "slug": "ouled-zmam"
+    },
+    "code": {
+      "id": "MA001003_ouled-zmam",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23575"
+    ],
+    "geo": {
+      "lat": "33.078",
+      "lon": "-6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_sebt-oulad-nemma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Oulad Nemma",
+      "en": "Sebt Oulad Nemma",
+      "slug": "sebt-oulad-nemma"
+    },
+    "code": {
+      "id": "MA001003_sebt-oulad-nemma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23550"
+    ],
+    "geo": {
+      "lat": "32.655",
+      "lon": "-6.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001003_sidi-hammadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Hammadi",
+      "en": "Sidi Hammadi",
+      "slug": "sidi-hammadi"
+    },
+    "code": {
+      "id": "MA001003_sidi-hammadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001003",
+      "level": 2,
+      "name": {
+        "local": "Fquih Ben Saleh",
+        "en": "Fquih Ben Saleh",
+        "slug": "fquih-ben-saleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001003",
+        "level": 2,
+        "name": {
+          "local": "Fquih Ben Saleh",
+          "en": "Fquih Ben Saleh",
+          "slug": "fquih-ben-saleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23232"
+    ],
+    "geo": {
+      "lat": "32.421",
+      "lon": "-6.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

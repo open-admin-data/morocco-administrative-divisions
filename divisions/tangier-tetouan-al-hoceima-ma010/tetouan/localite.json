@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "MA010008_ain-lahsan",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Lahsan",
+      "en": "Ain Lahsan",
+      "slug": "ain-lahsan"
+    },
+    "code": {
+      "id": "MA010008_ain-lahsan",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93054"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_al-hamra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Hamra",
+      "en": "Al Hamra",
+      "slug": "al-hamra"
+    },
+    "code": {
+      "id": "MA010008_al-hamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93066"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_al-khrroub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Khrroub",
+      "en": "Al Khrroub",
+      "slug": "al-khrroub"
+    },
+    "code": {
+      "id": "MA010008_al-khrroub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93036"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_al-oued",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Oued",
+      "en": "Al Oued",
+      "slug": "al-oued"
+    },
+    "code": {
+      "id": "MA010008_al-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93042"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_asmaten",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asmaten",
+      "en": "Asmaten",
+      "slug": "asmaten"
+    },
+    "code": {
+      "id": "MA010008_asmaten",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93015"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_azla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azla",
+      "en": "Azla",
+      "slug": "azla"
+    },
+    "code": {
+      "id": "MA010008_azla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93022"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_beni-yder",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Yder",
+      "en": "Beni Yder",
+      "slug": "beni-yder"
+    },
+    "code": {
+      "id": "MA010008_beni-yder",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93023"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_bghaghza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bghaghza",
+      "en": "Bghaghza",
+      "slug": "bghaghza"
+    },
+    "code": {
+      "id": "MA010008_bghaghza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90072"
+    ],
+    "geo": {
+      "lat": "35.431",
+      "lon": "-5.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_bni-harchen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Harchen",
+      "en": "Bni Harchen",
+      "slug": "bni-harchen"
+    },
+    "code": {
+      "id": "MA010008_bni-harchen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93062"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_bni-karrich-fouki",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Karrich Fouki",
+      "en": "Bni Karrich Fouki",
+      "slug": "bni-karrich-fouki"
+    },
+    "code": {
+      "id": "MA010008_bni-karrich-fouki",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93052"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_bni-leit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Leit",
+      "en": "Bni Leit",
+      "slug": "bni-leit"
+    },
+    "code": {
+      "id": "MA010008_bni-leit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93043"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_bni-said",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Said",
+      "en": "Bni Said",
+      "slug": "bni-said"
+    },
+    "code": {
+      "id": "MA010008_bni-said",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93044"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_dar-ben-saddouk",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Ben Saddouk",
+      "en": "Dar Ben Saddouk",
+      "slug": "dar-ben-saddouk"
+    },
+    "code": {
+      "id": "MA010008_dar-ben-saddouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93024"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_el-fendeq",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Fendeq",
+      "en": "El Fendeq",
+      "slug": "el-fendeq"
+    },
+    "code": {
+      "id": "MA010008_el-fendeq",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93026"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_jemaa-el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa El Oued",
+      "en": "Jemaa El Oued",
+      "slug": "jemaa-el-oued"
+    },
+    "code": {
+      "id": "MA010008_jemaa-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93033"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_mallalienne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mallalienne",
+      "en": "Mallalienne",
+      "slug": "mallalienne"
+    },
+    "code": {
+      "id": "MA010008_mallalienne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93063"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_oued-laou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Laou",
+      "en": "Oued Laou",
+      "slug": "oued-laou"
+    },
+    "code": {
+      "id": "MA010008_oued-laou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93250"
+    ],
+    "geo": {
+      "lat": "35.448",
+      "lon": "-5.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_oulad-ali-mansour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ali Mansour",
+      "en": "Oulad Ali Mansour",
+      "slug": "oulad-ali-mansour"
+    },
+    "code": {
+      "id": "MA010008_oulad-ali-mansour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93045"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_saddina",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saddina",
+      "en": "Saddina",
+      "slug": "saddina"
+    },
+    "code": {
+      "id": "MA010008_saddina",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93064"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_sahtryine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sahtryine",
+      "en": "Sahtryine",
+      "slug": "sahtryine"
+    },
+    "code": {
+      "id": "MA010008_sahtryine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93046"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_souk-kdim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Kdim",
+      "en": "Souk Kdim",
+      "slug": "souk-kdim"
+    },
+    "code": {
+      "id": "MA010008_souk-kdim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93065"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_zaitoune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaitoune",
+      "en": "Zaitoune",
+      "slug": "zaitoune"
+    },
+    "code": {
+      "id": "MA010008_zaitoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93053"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008_zaouia-sidi-kacem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Sidi Kacem",
+      "en": "Zaouia Sidi Kacem",
+      "slug": "zaouia-sidi-kacem"
+    },
+    "code": {
+      "id": "MA010008_zaouia-sidi-kacem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010008",
+      "level": 2,
+      "name": {
+        "local": "Tetouan",
+        "en": "Tetouan",
+        "slug": "tetouan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010008",
+        "level": 2,
+        "name": {
+          "local": "Tetouan",
+          "en": "Tetouan",
+          "slug": "tetouan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93032"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "MA001002_ait-oum-el-bekht",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Oum El Bekht",
+      "en": "Ait Oum El Bekht",
+      "slug": "ait-oum-el-bekht"
+    },
+    "code": {
+      "id": "MA001002_ait-oum-el-bekht",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23154"
+    ],
+    "geo": {
+      "lat": "32.451",
+      "lon": "-5.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_arhbala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arhbala",
+      "en": "Arhbala",
+      "slug": "arhbala"
+    },
+    "code": {
+      "id": "MA001002_arhbala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23052"
+    ],
+    "geo": {
+      "lat": "32.481",
+      "lon": "-5.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_boutfarda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boutfarda",
+      "en": "Boutfarda",
+      "slug": "boutfarda"
+    },
+    "code": {
+      "id": "MA001002_boutfarda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23072"
+    ],
+    "geo": {
+      "lat": "32.468",
+      "lon": "-5.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_douar-ait-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douar Ait Ali",
+      "en": "Douar Ait Ali",
+      "slug": "douar-ait-ali"
+    },
+    "code": {
+      "id": "MA001002_douar-ait-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23376"
+    ],
+    "geo": {
+      "lat": "32.672",
+      "lon": "-6.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_el-bazzaza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Bazzaza",
+      "en": "El Bazzaza",
+      "slug": "el-bazzaza"
+    },
+    "code": {
+      "id": "MA001002_el-bazzaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23522"
+    ],
+    "geo": {
+      "lat": "32.453",
+      "lon": "-6.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_el-krazza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Krazza",
+      "en": "El Krazza",
+      "slug": "el-krazza"
+    },
+    "code": {
+      "id": "MA001002_el-krazza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23572"
+    ],
+    "geo": {
+      "lat": "33.078",
+      "lon": "-6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_el-ksiba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Ksiba",
+      "en": "El Ksiba",
+      "slug": "el-ksiba"
+    },
+    "code": {
+      "id": "MA001002_el-ksiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23150"
+    ],
+    "geo": {
+      "lat": "32.565",
+      "lon": "-6.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_fechtala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fechtala",
+      "en": "Fechtala",
+      "slug": "fechtala"
+    },
+    "code": {
+      "id": "MA001002_fechtala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23272"
+    ],
+    "geo": {
+      "lat": "32.441",
+      "lon": "-6.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_feryata",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Feryata",
+      "en": "Feryata",
+      "slug": "feryata"
+    },
+    "code": {
+      "id": "MA001002_feryata",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23672"
+    ],
+    "geo": {
+      "lat": "32.499",
+      "lon": "-6.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_foum-el-anser",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Foum El Anser",
+      "en": "Foum El Anser",
+      "slug": "foum-el-anser"
+    },
+    "code": {
+      "id": "MA001002_foum-el-anser",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23252"
+    ],
+    "geo": {
+      "lat": "32.373",
+      "lon": "-6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_foum-oudi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Foum Oudi",
+      "en": "Foum Oudi",
+      "slug": "foum-oudi"
+    },
+    "code": {
+      "id": "MA001002_foum-oudi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23006"
+    ],
+    "geo": {
+      "lat": "32.577",
+      "lon": "-6.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_ghorm-el-alem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ghorm El Alem",
+      "en": "Ghorm El Alem",
+      "slug": "ghorm-el-alem"
+    },
+    "code": {
+      "id": "MA001002_ghorm-el-alem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23673"
+    ],
+    "geo": {
+      "lat": "32.526",
+      "lon": "-6.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_guettaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guettaya",
+      "en": "Guettaya",
+      "slug": "guettaya"
+    },
+    "code": {
+      "id": "MA001002_guettaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23372"
+    ],
+    "geo": {
+      "lat": "32.505",
+      "lon": "-6.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_kasba-tadla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kasba Tadla",
+      "en": "Kasba Tadla",
+      "slug": "kasba-tadla"
+    },
+    "code": {
+      "id": "MA001002_kasba-tadla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23350"
+    ],
+    "geo": {
+      "lat": "32.598",
+      "lon": "-6.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_laayayta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laayayta",
+      "en": "Laayayta",
+      "slug": "laayayta"
+    },
+    "code": {
+      "id": "MA001002_laayayta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23022"
+    ],
+    "geo": {
+      "lat": "32.509",
+      "lon": "-6.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_lahlalma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lahlalma",
+      "en": "Lahlalma",
+      "slug": "lahlalma"
+    },
+    "code": {
+      "id": "MA001002_lahlalma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23322"
+    ],
+    "geo": {
+      "lat": "32.556",
+      "lon": "-6.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_mghila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "M'Ghila",
+      "en": "M'Ghila",
+      "slug": "mghila"
+    },
+    "code": {
+      "id": "MA001002_mghila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23023"
+    ],
+    "geo": {
+      "lat": "32.509",
+      "lon": "-6.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_naour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Naour",
+      "en": "Naour",
+      "slug": "naour"
+    },
+    "code": {
+      "id": "MA001002_naour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23155"
+    ],
+    "geo": {
+      "lat": "32.451",
+      "lon": "-5.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_oulad-ali-loued",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ali Loued",
+      "en": "Oulad Ali Loued",
+      "slug": "oulad-ali-loued"
+    },
+    "code": {
+      "id": "MA001002_oulad-ali-loued",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23323"
+    ],
+    "geo": {
+      "lat": "32.556",
+      "lon": "-6.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_oulad-driss-bradia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Driss Bradia",
+      "en": "Oulad Driss Bradia",
+      "slug": "oulad-driss-bradia"
+    },
+    "code": {
+      "id": "MA001002_oulad-driss-bradia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23324"
+    ],
+    "geo": {
+      "lat": "32.556",
+      "lon": "-6.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_oulad-gnaoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Gnaoua",
+      "en": "Oulad Gnaoua",
+      "slug": "oulad-gnaoua"
+    },
+    "code": {
+      "id": "MA001002_oulad-gnaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23156"
+    ],
+    "geo": {
+      "lat": "32.451",
+      "lon": "-5.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_oulad-hassoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Hassoun",
+      "en": "Oulad Hassoun",
+      "slug": "oulad-hassoun"
+    },
+    "code": {
+      "id": "MA001002_oulad-hassoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23225"
+    ],
+    "geo": {
+      "lat": "32.463",
+      "lon": "-6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_oulad-said-el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Said El Oued",
+      "en": "Oulad Said El Oued",
+      "slug": "oulad-said-el-oued"
+    },
+    "code": {
+      "id": "MA001002_oulad-said-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23373"
+    ],
+    "geo": {
+      "lat": "32.588",
+      "lon": "-6.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_ouled-abdellah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Abdellah",
+      "en": "Ouled Abdellah",
+      "slug": "ouled-abdellah"
+    },
+    "code": {
+      "id": "MA001002_ouled-abdellah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23226"
+    ],
+    "geo": {
+      "lat": "32.509",
+      "lon": "-6.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_ouled-mbarek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Mbarek",
+      "en": "Ouled Mbarek",
+      "slug": "ouled-mbarek"
+    },
+    "code": {
+      "id": "MA001002_ouled-mbarek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23452"
+    ],
+    "geo": {
+      "lat": "32.463",
+      "lon": "-6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_ouled-yaiche",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Yaiche",
+      "en": "Ouled Yaiche",
+      "slug": "ouled-yaiche"
+    },
+    "code": {
+      "id": "MA001002_ouled-yaiche",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23502"
+    ],
+    "geo": {
+      "lat": "32.435",
+      "lon": "-6.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_ouled-youssef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Youssef",
+      "en": "Ouled Youssef",
+      "slug": "ouled-youssef"
+    },
+    "code": {
+      "id": "MA001002_ouled-youssef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23374"
+    ],
+    "geo": {
+      "lat": "32.588",
+      "lon": "-6.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_semguet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Semguet",
+      "en": "Semguet",
+      "slug": "semguet"
+    },
+    "code": {
+      "id": "MA001002_semguet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23375"
+    ],
+    "geo": {
+      "lat": "32.588",
+      "lon": "-6.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_sidi-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Aissa",
+      "en": "Sidi Aissa",
+      "slug": "sidi-aissa"
+    },
+    "code": {
+      "id": "MA001002_sidi-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23574"
+    ],
+    "geo": {
+      "lat": "32.463",
+      "lon": "-6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_sidi-jaber",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Jaber",
+      "en": "Sidi Jaber",
+      "slug": "sidi-jaber"
+    },
+    "code": {
+      "id": "MA001002_sidi-jaber",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23602"
+    ],
+    "geo": {
+      "lat": "32.389",
+      "lon": "-6.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_taghzirt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taghzirt",
+      "en": "Taghzirt",
+      "slug": "taghzirt"
+    },
+    "code": {
+      "id": "MA001002_taghzirt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23652"
+    ],
+    "geo": {
+      "lat": "32.436",
+      "lon": "-6.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_tanorha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanorha",
+      "en": "Tanorha",
+      "slug": "tanorha"
+    },
+    "code": {
+      "id": "MA001002_tanorha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23674"
+    ],
+    "geo": {
+      "lat": "32.472",
+      "lon": "-6.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_tizi-nisly",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizi Nisly",
+      "en": "Tizi Nisly",
+      "slug": "tizi-nisly"
+    },
+    "code": {
+      "id": "MA001002_tizi-nisly",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23073"
+    ],
+    "geo": {
+      "lat": "32.468",
+      "lon": "-5.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_zaouiat-cheikh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat Cheikh",
+      "en": "Zaouiat Cheikh",
+      "slug": "zaouiat-cheikh"
+    },
+    "code": {
+      "id": "MA001002_zaouiat-cheikh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23700"
+    ],
+    "geo": {
+      "lat": "32.502",
+      "lon": "-6.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA001002_zouair",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zouair",
+      "en": "Zouair",
+      "slug": "zouair"
+    },
+    "code": {
+      "id": "MA001002_zouair",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA001002",
+      "level": 2,
+      "name": {
+        "local": "Beni Mellal",
+        "en": "Beni Mellal",
+        "slug": "beni-mellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA001",
+        "level": 1,
+        "name": {
+          "local": "بني ملال - خنيفرة",
+          "en": "Beni Mellal Khenifra",
+          "slug": "beni-mellal-khenifra-ma001"
+        }
+      },
+      {
+        "id": "MA001002",
+        "level": 2,
+        "name": {
+          "local": "Beni Mellal",
+          "en": "Beni Mellal",
+          "slug": "beni-mellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23523"
+    ],
+    "geo": {
+      "lat": "32.453",
+      "lon": "-6.292"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

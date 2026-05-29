@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MA008004",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kenitra",
+      "en": "Kenitra",
+      "slug": "kenitra"
+    },
+    "code": {
+      "id": "MA008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.557",
+      "lon": "-6.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Khemisset",
+      "en": "Khemisset",
+      "slug": "khemisset"
+    },
+    "code": {
+      "id": "MA008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.666",
+      "lon": "-6.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008002",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Rabat",
+      "en": "Rabat",
+      "slug": "rabat"
+    },
+    "code": {
+      "id": "MA008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.967",
+      "lon": "-6.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008003",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sale",
+      "en": "Sale",
+      "slug": "sale"
+    },
+    "code": {
+      "id": "MA008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.974",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008006",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sidi Kacem",
+      "en": "Sidi Kacem",
+      "slug": "sidi-kacem"
+    },
+    "code": {
+      "id": "MA008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.48",
+      "lon": "-5.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008007",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sidi Slimane",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane"
+    },
+    "code": {
+      "id": "MA008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.287",
+      "lon": "-6.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008001",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Skhirate Temara",
+      "en": "Skhirate Temara",
+      "slug": "skhirate-temara"
+    },
+    "code": {
+      "id": "MA008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.748",
+      "lon": "-6.879"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

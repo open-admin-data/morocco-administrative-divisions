@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "MA009005_aguerd-tamanart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aguerd Tamanart",
+      "en": "Aguerd Tamanart",
+      "slug": "aguerd-tamanart"
+    },
+    "code": {
+      "id": "MA009005_aguerd-tamanart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84122"
+    ],
+    "geo": {
+      "lat": "30.197",
+      "lon": "-6.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_aguinane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aguinane",
+      "en": "Aguinane",
+      "slug": "aguinane"
+    },
+    "code": {
+      "id": "MA009005_aguinane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84076"
+    ],
+    "geo": {
+      "lat": "30.21",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_ait-ouabelli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ouabelli",
+      "en": "Ait Ouabelli",
+      "slug": "ait-ouabelli"
+    },
+    "code": {
+      "id": "MA009005_ait-ouabelli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84072"
+    ],
+    "geo": {
+      "lat": "30.21",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_akka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Akka",
+      "en": "Akka",
+      "slug": "akka"
+    },
+    "code": {
+      "id": "MA009005_akka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84050"
+    ],
+    "geo": {
+      "lat": "29.389",
+      "lon": "-8.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_akka-ighane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Akka Ighane",
+      "en": "Akka Ighane",
+      "slug": "akka-ighane"
+    },
+    "code": {
+      "id": "MA009005_akka-ighane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84022"
+    ],
+    "geo": {
+      "lat": "29.65",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_allougoum",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Allougoum",
+      "en": "Allougoum",
+      "slug": "allougoum"
+    },
+    "code": {
+      "id": "MA009005_allougoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84172"
+    ],
+    "geo": {
+      "lat": "30.251",
+      "lon": "-6.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_fam-el-hisn",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fam El Hisn",
+      "en": "Fam El Hisn",
+      "slug": "fam-el-hisn"
+    },
+    "code": {
+      "id": "MA009005_fam-el-hisn",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84100"
+    ],
+    "geo": {
+      "lat": "30.197",
+      "lon": "-6.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_foum-zguid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Foum Zguid",
+      "en": "Foum Zguid",
+      "slug": "foum-zguid"
+    },
+    "code": {
+      "id": "MA009005_foum-zguid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84150"
+    ],
+    "geo": {
+      "lat": "30.088",
+      "lon": "-6.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_ibn-yacoub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ibn Yacoub",
+      "en": "Ibn Yacoub",
+      "slug": "ibn-yacoub"
+    },
+    "code": {
+      "id": "MA009005_ibn-yacoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84026"
+    ],
+    "geo": {
+      "lat": "29.65",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_kasbat-sidi-abdellah-ben-mbarek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kasbat Sidi Abdellah Ben Mbarek",
+      "en": "Kasbat Sidi Abdellah Ben Mbarek",
+      "slug": "kasbat-sidi-abdellah-ben-mbarek"
+    },
+    "code": {
+      "id": "MA009005_kasbat-sidi-abdellah-ben-mbarek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84073"
+    ],
+    "geo": {
+      "lat": "30.21",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_khemis-addis",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Addis",
+      "en": "Khemis Addis",
+      "slug": "khemis-addis"
+    },
+    "code": {
+      "id": "MA009005_khemis-addis",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84023"
+    ],
+    "geo": {
+      "lat": "29.65",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_khemis-issafen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Issafen",
+      "en": "Khemis Issafen",
+      "slug": "khemis-issafen"
+    },
+    "code": {
+      "id": "MA009005_khemis-issafen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84052"
+    ],
+    "geo": {
+      "lat": "29.644",
+      "lon": "-7.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_lakhriouia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lakhriouia",
+      "en": "Lakhriouia",
+      "slug": "lakhriouia"
+    },
+    "code": {
+      "id": "MA009005_lakhriouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84173"
+    ],
+    "geo": {
+      "lat": "30.259",
+      "lon": "-6.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_oum-el-guerdane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oum El Guerdane",
+      "en": "Oum El Guerdane",
+      "slug": "oum-el-guerdane"
+    },
+    "code": {
+      "id": "MA009005_oum-el-guerdane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84024"
+    ],
+    "geo": {
+      "lat": "29.65",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_tata",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tata",
+      "en": "Tata",
+      "slug": "tata"
+    },
+    "code": {
+      "id": "MA009005_tata",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84000"
+    ],
+    "geo": {
+      "lat": "29.744",
+      "lon": "-7.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_tigzmerte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tigzmerte",
+      "en": "Tigzmerte",
+      "slug": "tigzmerte"
+    },
+    "code": {
+      "id": "MA009005_tigzmerte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84003"
+    ],
+    "geo": {
+      "lat": "29.386",
+      "lon": "-8.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_tissint",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tissint",
+      "en": "Tissint",
+      "slug": "tissint"
+    },
+    "code": {
+      "id": "MA009005_tissint",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84053"
+    ],
+    "geo": {
+      "lat": "29.898",
+      "lon": "-7.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_tizaghte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizaghte",
+      "en": "Tizaghte",
+      "slug": "tizaghte"
+    },
+    "code": {
+      "id": "MA009005_tizaghte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84075"
+    ],
+    "geo": {
+      "lat": "30.21",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_tizouinine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizouinine",
+      "en": "Tizouinine",
+      "slug": "tizouinine"
+    },
+    "code": {
+      "id": "MA009005_tizouinine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84074"
+    ],
+    "geo": {
+      "lat": "30.21",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_tlata-tagmoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Tagmoute",
+      "en": "Tlata Tagmoute",
+      "slug": "tlata-tagmoute"
+    },
+    "code": {
+      "id": "MA009005_tlata-tagmoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84025"
+    ],
+    "geo": {
+      "lat": "29.65",
+      "lon": "-7.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009005_tlite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlite",
+      "en": "Tlite",
+      "slug": "tlite"
+    },
+    "code": {
+      "id": "MA009005_tlite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009005",
+      "level": 2,
+      "name": {
+        "local": "Tata",
+        "en": "Tata",
+        "slug": "tata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009005",
+        "level": 2,
+        "name": {
+          "local": "Tata",
+          "en": "Tata",
+          "slug": "tata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84174"
+    ],
+    "geo": {
+      "lat": "30.243",
+      "lon": "-7.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

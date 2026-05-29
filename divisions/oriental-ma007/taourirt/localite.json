@@ -1,0 +1,842 @@
+[
+  {
+    "id": "MA007008_ahl-oued-za",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ahl Oued Za",
+      "en": "Ahl Oued Za",
+      "slug": "ahl-oued-za"
+    },
+    "code": {
+      "id": "MA007008_ahl-oued-za",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65806"
+    ],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_ain-lehjer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Lehjer",
+      "en": "Ain Lehjer",
+      "slug": "ain-lehjer"
+    },
+    "code": {
+      "id": "MA007008_ain-lehjer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65256"
+    ],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_debdou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Debdou",
+      "en": "Debdou",
+      "slug": "debdou"
+    },
+    "code": {
+      "id": "MA007008_debdou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65400"
+    ],
+    "geo": {
+      "lat": "33.982",
+      "lon": "-3.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_el-aioun-sidi-mellouk",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Aioun Sidi Mellouk",
+      "en": "El Aioun Sidi Mellouk",
+      "slug": "el-aioun-sidi-mellouk"
+    },
+    "code": {
+      "id": "MA007008_el-aioun-sidi-mellouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65812"
+    ],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_el-aioune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Aioune",
+      "en": "El Aioune",
+      "slug": "el-aioune"
+    },
+    "code": {
+      "id": "MA007008_el-aioune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65450"
+    ],
+    "geo": {
+      "lat": "34.272",
+      "lon": "-2.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_el-atef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Atef",
+      "en": "El Atef",
+      "slug": "el-atef"
+    },
+    "code": {
+      "id": "MA007008_el-atef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65404"
+    ],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_gteter",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gteter",
+      "en": "Gteter",
+      "slug": "gteter"
+    },
+    "code": {
+      "id": "MA007008_gteter",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65813"
+    ],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_mechra-hoummadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mechra Hoummadi",
+      "en": "Mechra Hoummadi",
+      "slug": "mechra-hoummadi"
+    },
+    "code": {
+      "id": "MA007008_mechra-hoummadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65472"
+    ],
+    "geo": {
+      "lat": "34.417",
+      "lon": "-2.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_melg-el-ouidane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Melg El Ouidane",
+      "en": "Melg El Ouidane",
+      "slug": "melg-el-ouidane"
+    },
+    "code": {
+      "id": "MA007008_melg-el-ouidane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65823"
+    ],
+    "geo": {
+      "lat": "34.56",
+      "lon": "-3.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_mestigmer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mestigmer",
+      "en": "Mestigmer",
+      "slug": "mestigmer"
+    },
+    "code": {
+      "id": "MA007008_mestigmer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65473"
+    ],
+    "geo": {
+      "lat": "34.483",
+      "lon": "-2.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_oulad-mhammed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Mhammed",
+      "en": "Oulad Mhammed",
+      "slug": "oulad-mhammed"
+    },
+    "code": {
+      "id": "MA007008_oulad-mhammed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65405"
+    ],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_sidi-ali-belkassem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Belkassem",
+      "en": "Sidi Ali Belkassem",
+      "slug": "sidi-ali-belkassem"
+    },
+    "code": {
+      "id": "MA007008_sidi-ali-belkassem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65406"
+    ],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_sidi-lahcen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Lahcen",
+      "en": "Sidi Lahcen",
+      "slug": "sidi-lahcen"
+    },
+    "code": {
+      "id": "MA007008_sidi-lahcen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65822"
+    ],
+    "geo": {
+      "lat": "34.56",
+      "lon": "-3.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_tancherfi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tancherfi",
+      "en": "Tancherfi",
+      "slug": "tancherfi"
+    },
+    "code": {
+      "id": "MA007008_tancherfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65474"
+    ],
+    "geo": {
+      "lat": "34.35",
+      "lon": "-2.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008_taourirt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taourirt",
+      "en": "Taourirt",
+      "slug": "taourirt"
+    },
+    "code": {
+      "id": "MA007008_taourirt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007008",
+      "level": 2,
+      "name": {
+        "local": "Taourirt",
+        "en": "Taourirt",
+        "slug": "taourirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007008",
+        "level": 2,
+        "name": {
+          "local": "Taourirt",
+          "en": "Taourirt",
+          "slug": "taourirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65800"
+    ],
+    "geo": {
+      "lat": "34.407",
+      "lon": "-2.897"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

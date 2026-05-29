@@ -1,0 +1,2578 @@
+[
+  {
+    "id": "MA003002_aarab-sebbah-gheris",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aarab Sebbah Gheris",
+      "en": "Aarab Sebbah Gheris",
+      "slug": "aarab-sebbah-gheris"
+    },
+    "code": {
+      "id": "MA003002_aarab-sebbah-gheris",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52204"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_achbarou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Achbarou",
+      "en": "Achbarou",
+      "slug": "achbarou"
+    },
+    "code": {
+      "id": "MA003002_achbarou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52482"
+    ],
+    "geo": {
+      "lat": "32.119",
+      "lon": "-4.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_ait-othman",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Othman",
+      "en": "Ait Othman",
+      "slug": "ait-othman"
+    },
+    "code": {
+      "id": "MA003002_ait-othman",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52022"
+    ],
+    "geo": {
+      "lat": "31.859",
+      "lon": "-4.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_ait-yahya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Yahya",
+      "en": "Ait Yahya",
+      "slug": "ait-yahya"
+    },
+    "code": {
+      "id": "MA003002_ait-yahya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52406"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_amelago",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amelago",
+      "en": "Amelago",
+      "slug": "amelago"
+    },
+    "code": {
+      "id": "MA003002_amelago",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52272"
+    ],
+    "geo": {
+      "lat": "31.356",
+      "lon": "-4.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_aoufous",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aoufous",
+      "en": "Aoufous",
+      "slug": "aoufous"
+    },
+    "code": {
+      "id": "MA003002_aoufous",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52053"
+    ],
+    "geo": {
+      "lat": "31.688",
+      "lon": "-4.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_arfoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arfoud",
+      "en": "Arfoud",
+      "slug": "arfoud"
+    },
+    "code": {
+      "id": "MA003002_arfoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52200"
+    ],
+    "geo": {
+      "lat": "31.435",
+      "lon": "-4.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_arhbalou-nkerdouss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arhbalou Nkerdouss",
+      "en": "Arhbalou Nkerdouss",
+      "slug": "arhbalou-nkerdouss"
+    },
+    "code": {
+      "id": "MA003002_arhbalou-nkerdouss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52622"
+    ],
+    "geo": {
+      "lat": "31.562",
+      "lon": "-4.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_asrir-oued-ferkla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asrir Oued Ferkla",
+      "en": "Asrir Oued Ferkla",
+      "slug": "asrir-oued-ferkla"
+    },
+    "code": {
+      "id": "MA003002_asrir-oued-ferkla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52002"
+    ],
+    "geo": {
+      "lat": "31.931",
+      "lon": "-4.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_bni-mhammed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Mhammed",
+      "en": "Bni Mhammed",
+      "slug": "bni-mhammed"
+    },
+    "code": {
+      "id": "MA003002_bni-mhammed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52472"
+    ],
+    "geo": {
+      "lat": "31.97",
+      "lon": "-4.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_boudnib",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boudnib",
+      "en": "Boudnib",
+      "slug": "boudnib"
+    },
+    "code": {
+      "id": "MA003002_boudnib",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52150"
+    ],
+    "geo": {
+      "lat": "31.9",
+      "lon": "-4.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_chorfa-mdarhra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chorfa Mdarhra",
+      "en": "Chorfa Mdarhra",
+      "slug": "chorfa-mdarhra"
+    },
+    "code": {
+      "id": "MA003002_chorfa-mdarhra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52023"
+    ],
+    "geo": {
+      "lat": "31.859",
+      "lon": "-4.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_douira",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douira",
+      "en": "Douira",
+      "slug": "douira"
+    },
+    "code": {
+      "id": "MA003002_douira",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52072"
+    ],
+    "geo": {
+      "lat": "31.602",
+      "lon": "-4.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_er-rteb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Er Rteb",
+      "en": "Er Rteb",
+      "slug": "er-rteb"
+    },
+    "code": {
+      "id": "MA003002_er-rteb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52016"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_fazna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fazna",
+      "en": "Fazna",
+      "slug": "fazna"
+    },
+    "code": {
+      "id": "MA003002_fazna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52372"
+    ],
+    "geo": {
+      "lat": "31.917",
+      "lon": "-4.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_ferkla-el-oulia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ferkla El Oulia",
+      "en": "Ferkla El Oulia",
+      "slug": "ferkla-el-oulia"
+    },
+    "code": {
+      "id": "MA003002_ferkla-el-oulia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52254"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_ferkla-es-soufla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ferkla Es Soufla",
+      "en": "Ferkla Es Soufla",
+      "slug": "ferkla-es-soufla"
+    },
+    "code": {
+      "id": "MA003002_ferkla-es-soufla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52255"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_gheris-el-ouloui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gheris El Ouloui",
+      "en": "Gheris El Ouloui",
+      "slug": "gheris-el-ouloui"
+    },
+    "code": {
+      "id": "MA003002_gheris-el-ouloui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52256"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_gheris-es-soufli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gheris Es Soufli",
+      "en": "Gheris Es Soufli",
+      "slug": "gheris-es-soufli"
+    },
+    "code": {
+      "id": "MA003002_gheris-es-soufli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52262"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_goulmima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Goulmima",
+      "en": "Goulmima",
+      "slug": "goulmima"
+    },
+    "code": {
+      "id": "MA003002_goulmima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52250"
+    ],
+    "geo": {
+      "lat": "31.692",
+      "lon": "-4.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_hannabou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hannabou",
+      "en": "Hannabou",
+      "slug": "hannabou"
+    },
+    "code": {
+      "id": "MA003002_hannabou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52225"
+    ],
+    "geo": {
+      "lat": "31.416",
+      "lon": "-4.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_jbiyel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jbiyel",
+      "en": "Jbiyel",
+      "slug": "jbiyel"
+    },
+    "code": {
+      "id": "MA003002_jbiyel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52476"
+    ],
+    "geo": {
+      "lat": "31.97",
+      "lon": "-4.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_jorf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jorf",
+      "en": "Jorf",
+      "slug": "jorf"
+    },
+    "code": {
+      "id": "MA003002_jorf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52350"
+    ],
+    "geo": {
+      "lat": "31.494",
+      "lon": "-4.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_kheng",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kheng",
+      "en": "Kheng",
+      "slug": "kheng"
+    },
+    "code": {
+      "id": "MA003002_kheng",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52024"
+    ],
+    "geo": {
+      "lat": "31.859",
+      "lon": "-4.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_ksar-sahli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksar Sahli",
+      "en": "Ksar Sahli",
+      "slug": "ksar-sahli"
+    },
+    "code": {
+      "id": "MA003002_ksar-sahli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52172"
+    ],
+    "geo": {
+      "lat": "31.954",
+      "lon": "-3.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_mellab",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mellab",
+      "en": "Mellab",
+      "slug": "mellab"
+    },
+    "code": {
+      "id": "MA003002_mellab",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52602"
+    ],
+    "geo": {
+      "lat": "31.548",
+      "lon": "-4.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_merzouga",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Merzouga",
+      "en": "Merzouga",
+      "slug": "merzouga"
+    },
+    "code": {
+      "id": "MA003002_merzouga",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52202"
+    ],
+    "geo": {
+      "lat": "31.33",
+      "lon": "-4.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_meski",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Meski",
+      "en": "Meski",
+      "slug": "meski"
+    },
+    "code": {
+      "id": "MA003002_meski",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52025"
+    ],
+    "geo": {
+      "lat": "31.859",
+      "lon": "-4.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_mfiss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mfiss",
+      "en": "Mfiss",
+      "slug": "mfiss"
+    },
+    "code": {
+      "id": "MA003002_mfiss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52222"
+    ],
+    "geo": {
+      "lat": "31.162",
+      "lon": "-4.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_moulay-ali-cherif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Ali Cherif",
+      "en": "Moulay Ali Cherif",
+      "slug": "moulay-ali-cherif"
+    },
+    "code": {
+      "id": "MA003002_moulay-ali-cherif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52015"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_oued-naam",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Naam",
+      "en": "Oued Naam",
+      "slug": "oued-naam"
+    },
+    "code": {
+      "id": "MA003002_oued-naam",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52014"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_oulad-chaker",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Chaker",
+      "en": "Oulad Chaker",
+      "slug": "oulad-chaker"
+    },
+    "code": {
+      "id": "MA003002_oulad-chaker",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52073"
+    ],
+    "geo": {
+      "lat": "31.769",
+      "lon": "-4.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_rissani",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rissani",
+      "en": "Rissani",
+      "slug": "rissani"
+    },
+    "code": {
+      "id": "MA003002_rissani",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52450"
+    ],
+    "geo": {
+      "lat": "31.283",
+      "lon": "-4.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_seffalate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Seffalate",
+      "en": "Seffalate",
+      "slug": "seffalate"
+    },
+    "code": {
+      "id": "MA003002_seffalate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52453"
+    ],
+    "geo": {
+      "lat": "31.199",
+      "lon": "-4.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_sidi-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali",
+      "en": "Sidi Ali",
+      "slug": "sidi-ali"
+    },
+    "code": {
+      "id": "MA003002_sidi-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52455"
+    ],
+    "geo": {
+      "lat": "31.133",
+      "lon": "-4.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_sidi-ali-tafraout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Tafraout",
+      "en": "Sidi Ali Tafraout",
+      "slug": "sidi-ali-tafraout"
+    },
+    "code": {
+      "id": "MA003002_sidi-ali-tafraout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52475"
+    ],
+    "geo": {
+      "lat": "31.97",
+      "lon": "-4.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_sifa-arab-sebbah-ziz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sifa Arab Sebbah Ziz",
+      "en": "Sifa Arab Sebbah Ziz",
+      "slug": "sifa-arab-sebbah-ziz"
+    },
+    "code": {
+      "id": "MA003002_sifa-arab-sebbah-ziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52223"
+    ],
+    "geo": {
+      "lat": "31.162",
+      "lon": "-4.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_tadirhoust",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tadirhoust",
+      "en": "Tadirhoust",
+      "slug": "tadirhoust"
+    },
+    "code": {
+      "id": "MA003002_tadirhoust",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52502"
+    ],
+    "geo": {
+      "lat": "31.816",
+      "lon": "-4.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_tamhrach-rheriss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamhrach Rheriss",
+      "en": "Tamhrach Rheriss",
+      "slug": "tamhrach-rheriss"
+    },
+    "code": {
+      "id": "MA003002_tamhrach-rheriss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52273"
+    ],
+    "geo": {
+      "lat": "31.356",
+      "lon": "-4.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_taouz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taouz",
+      "en": "Taouz",
+      "slug": "taouz"
+    },
+    "code": {
+      "id": "MA003002_taouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52224"
+    ],
+    "geo": {
+      "lat": "30.907",
+      "lon": "-3.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_tazougarte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazougarte",
+      "en": "Tazougarte",
+      "slug": "tazougarte"
+    },
+    "code": {
+      "id": "MA003002_tazougarte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52173"
+    ],
+    "geo": {
+      "lat": "31.954",
+      "lon": "-3.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_tilouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tilouine",
+      "en": "Tilouine",
+      "slug": "tilouine"
+    },
+    "code": {
+      "id": "MA003002_tilouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52252"
+    ],
+    "geo": {
+      "lat": "31.692",
+      "lon": "-4.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_timezguite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timezguite",
+      "en": "Timezguite",
+      "slug": "timezguite"
+    },
+    "code": {
+      "id": "MA003002_timezguite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52522"
+    ],
+    "geo": {
+      "lat": "31.816",
+      "lon": "-4.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_tinejdad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tinejdad",
+      "en": "Tinejdad",
+      "slug": "tinejdad"
+    },
+    "code": {
+      "id": "MA003002_tinejdad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52600"
+    ],
+    "geo": {
+      "lat": "31.508",
+      "lon": "-5.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_touroug",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Touroug",
+      "en": "Touroug",
+      "slug": "touroug"
+    },
+    "code": {
+      "id": "MA003002_touroug",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52623"
+    ],
+    "geo": {
+      "lat": "31.562",
+      "lon": "-4.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003002_zrigate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zrigate",
+      "en": "Zrigate",
+      "slug": "zrigate"
+    },
+    "code": {
+      "id": "MA003002_zrigate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003002",
+      "level": 2,
+      "name": {
+        "local": "Errachidia",
+        "en": "Errachidia",
+        "slug": "errachidia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003002",
+        "level": 2,
+        "name": {
+          "local": "Errachidia",
+          "en": "Errachidia",
+          "slug": "errachidia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52052"
+    ],
+    "geo": {
+      "lat": "31.688",
+      "lon": "-4.178"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

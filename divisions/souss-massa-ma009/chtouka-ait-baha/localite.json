@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "MA009002_aguerd-ntezke",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aguerd Ntezke",
+      "en": "Aguerd Ntezke",
+      "slug": "aguerd-ntezke"
+    },
+    "code": {
+      "id": "MA009002_aguerd-ntezke",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87422"
+    ],
+    "geo": {
+      "lat": "30.084",
+      "lon": "-9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_ait-amira",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Amira",
+      "en": "Ait Amira",
+      "slug": "ait-amira"
+    },
+    "code": {
+      "id": "MA009002_ait-amira",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87052"
+    ],
+    "geo": {
+      "lat": "30.262",
+      "lon": "-9.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_ait-baha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Baha",
+      "en": "Ait Baha",
+      "slug": "ait-baha"
+    },
+    "code": {
+      "id": "MA009002_ait-baha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87100"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_ait-mzal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Mzal",
+      "en": "Ait Mzal",
+      "slug": "ait-mzal"
+    },
+    "code": {
+      "id": "MA009002_ait-mzal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87104"
+    ],
+    "geo": {
+      "lat": "30.008",
+      "lon": "-9.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_ait-ouadrim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ouadrim",
+      "en": "Ait Ouadrim",
+      "slug": "ait-ouadrim"
+    },
+    "code": {
+      "id": "MA009002_ait-ouadrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87132"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_aouguenz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aouguenz",
+      "en": "Aouguenz",
+      "slug": "aouguenz"
+    },
+    "code": {
+      "id": "MA009002_aouguenz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87105"
+    ],
+    "geo": {
+      "lat": "30.008",
+      "lon": "-9.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_biougra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Biougra",
+      "en": "Biougra",
+      "slug": "biougra"
+    },
+    "code": {
+      "id": "MA009002_biougra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87200"
+    ],
+    "geo": {
+      "lat": "30.035",
+      "lon": "-9.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_had-ait-belfaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Ait Belfaa",
+      "en": "Had Ait Belfaa",
+      "slug": "had-ait-belfaa"
+    },
+    "code": {
+      "id": "MA009002_had-ait-belfaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87252"
+    ],
+    "geo": {
+      "lat": "30.137",
+      "lon": "-9.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_had-targa-ntouchka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Targa Ntouchka",
+      "en": "Had Targa Ntouchka",
+      "slug": "had-targa-ntouchka"
+    },
+    "code": {
+      "id": "MA009002_had-targa-ntouchka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87122"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_hallate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hallate",
+      "en": "Hallate",
+      "slug": "hallate"
+    },
+    "code": {
+      "id": "MA009002_hallate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87123"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_imhilen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imhilen",
+      "en": "Imhilen",
+      "slug": "imhilen"
+    },
+    "code": {
+      "id": "MA009002_imhilen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87423"
+    ],
+    "geo": {
+      "lat": "30.084",
+      "lon": "-9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_imi-el-had-tasguedelft",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imi El Had Tasguedelft",
+      "en": "Imi El Had Tasguedelft",
+      "slug": "imi-el-had-tasguedelft"
+    },
+    "code": {
+      "id": "MA009002_imi-el-had-tasguedelft",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87124"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_imi-mqourn",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imi Mqourn",
+      "en": "Imi Mqourn",
+      "slug": "imi-mqourn"
+    },
+    "code": {
+      "id": "MA009002_imi-mqourn",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87222"
+    ],
+    "geo": {
+      "lat": "30.137",
+      "lon": "-9.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_inchaden",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Inchaden",
+      "en": "Inchaden",
+      "slug": "inchaden"
+    },
+    "code": {
+      "id": "MA009002_inchaden",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87272"
+    ],
+    "geo": {
+      "lat": "30.238",
+      "lon": "-9.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_jemaa-takouchte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa Takouchte",
+      "en": "Jemaa Takouchte",
+      "slug": "jemaa-takouchte"
+    },
+    "code": {
+      "id": "MA009002_jemaa-takouchte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87125"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_khemis-ait-moussa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Ait Moussa",
+      "en": "Khemis Ait Moussa",
+      "slug": "khemis-ait-moussa"
+    },
+    "code": {
+      "id": "MA009002_khemis-ait-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87133"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_khmis-ida-ou-gnidif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khmis Ida Ou Gnidif",
+      "en": "Khmis Ida Ou Gnidif",
+      "slug": "khmis-ida-ou-gnidif"
+    },
+    "code": {
+      "id": "MA009002_khmis-ida-ou-gnidif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87402"
+    ],
+    "geo": {
+      "lat": "30.084",
+      "lon": "-9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_massa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Massa",
+      "en": "Massa",
+      "slug": "massa"
+    },
+    "code": {
+      "id": "MA009002_massa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87452"
+    ],
+    "geo": {
+      "lat": "30.084",
+      "lon": "-9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_massa-tassila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Massa Tassila",
+      "en": "Massa Tassila",
+      "slug": "massa-tassila"
+    },
+    "code": {
+      "id": "MA009002_massa-tassila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87473"
+    ],
+    "geo": {
+      "lat": "30.084",
+      "lon": "-9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_oued-essafa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Essafa",
+      "en": "Oued Essafa",
+      "slug": "oued-essafa"
+    },
+    "code": {
+      "id": "MA009002_oued-essafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87223"
+    ],
+    "geo": {
+      "lat": "30.137",
+      "lon": "-9.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_sebt-ait-milk",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Ait Milk",
+      "en": "Sebt Ait Milk",
+      "slug": "sebt-ait-milk"
+    },
+    "code": {
+      "id": "MA009002_sebt-ait-milk",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87273"
+    ],
+    "geo": {
+      "lat": "30.238",
+      "lon": "-9.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_sidi-abdellah-el-bouchouari",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdellah El Bouchouari",
+      "en": "Sidi Abdellah El Bouchouari",
+      "slug": "sidi-abdellah-el-bouchouari"
+    },
+    "code": {
+      "id": "MA009002_sidi-abdellah-el-bouchouari",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87126"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_sidi-bibi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bibi",
+      "en": "Sidi Bibi",
+      "slug": "sidi-bibi"
+    },
+    "code": {
+      "id": "MA009002_sidi-bibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87274"
+    ],
+    "geo": {
+      "lat": "30.238",
+      "lon": "-9.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_sidi-bouaz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bouaz",
+      "en": "Sidi Bouaz",
+      "slug": "sidi-bouaz"
+    },
+    "code": {
+      "id": "MA009002_sidi-bouaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87112"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_sidi-boushab",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boushab",
+      "en": "Sidi Boushab",
+      "slug": "sidi-boushab"
+    },
+    "code": {
+      "id": "MA009002_sidi-boushab",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87203"
+    ],
+    "geo": {
+      "lat": "30.008",
+      "lon": "-9.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_sidi-ouassay",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ouassay",
+      "en": "Sidi Ouassay",
+      "slug": "sidi-ouassay"
+    },
+    "code": {
+      "id": "MA009002_sidi-ouassay",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87135"
+    ],
+    "geo": {
+      "lat": "30.008",
+      "lon": "-9.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_sidi-rbat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Rbat",
+      "en": "Sidi Rbat",
+      "slug": "sidi-rbat"
+    },
+    "code": {
+      "id": "MA009002_sidi-rbat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87472"
+    ],
+    "geo": {
+      "lat": "30.084",
+      "lon": "-9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_tanalt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanalt",
+      "en": "Tanalt",
+      "slug": "tanalt"
+    },
+    "code": {
+      "id": "MA009002_tanalt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87552"
+    ],
+    "geo": {
+      "lat": "29.776",
+      "lon": "-9.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_timezguida-ouasrir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timezguida Ouasrir",
+      "en": "Timezguida Ouasrir",
+      "slug": "timezguida-ouasrir"
+    },
+    "code": {
+      "id": "MA009002_timezguida-ouasrir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "87113"
+    ],
+    "geo": {
+      "lat": "30.079",
+      "lon": "-9.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_tlata-ou-guenz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Ou Guenz",
+      "en": "Tlata Ou Guenz",
+      "slug": "tlata-ou-guenz"
+    },
+    "code": {
+      "id": "MA009002_tlata-ou-guenz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80572"
+    ],
+    "geo": {
+      "lat": "30.008",
+      "lon": "-9.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009002_tnine-hilala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Hilala",
+      "en": "Tnine Hilala",
+      "slug": "tnine-hilala"
+    },
+    "code": {
+      "id": "MA009002_tnine-hilala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009002",
+      "level": 2,
+      "name": {
+        "local": "Chtouka Ait Baha",
+        "en": "Chtouka Ait Baha",
+        "slug": "chtouka-ait-baha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009002",
+        "level": 2,
+        "name": {
+          "local": "Chtouka Ait Baha",
+          "en": "Chtouka Ait Baha",
+          "slug": "chtouka-ait-baha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80700"
+    ],
+    "geo": {
+      "lat": "30.008",
+      "lon": "-9.339"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

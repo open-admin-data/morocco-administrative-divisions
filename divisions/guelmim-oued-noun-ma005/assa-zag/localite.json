@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MA005001_al-mahbass",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Mahbass",
+      "en": "Al Mahbass",
+      "slug": "al-mahbass"
+    },
+    "code": {
+      "id": "MA005001_al-mahbass",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005001",
+      "level": 2,
+      "name": {
+        "local": "Assa Zag",
+        "en": "Assa Zag",
+        "slug": "assa-zag"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005001",
+        "level": 2,
+        "name": {
+          "local": "Assa Zag",
+          "en": "Assa Zag",
+          "slug": "assa-zag"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81036"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005001_aouint-lahna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aouint Lahna",
+      "en": "Aouint Lahna",
+      "slug": "aouint-lahna"
+    },
+    "code": {
+      "id": "MA005001_aouint-lahna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005001",
+      "level": 2,
+      "name": {
+        "local": "Assa Zag",
+        "en": "Assa Zag",
+        "slug": "assa-zag"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005001",
+        "level": 2,
+        "name": {
+          "local": "Assa Zag",
+          "en": "Assa Zag",
+          "slug": "assa-zag"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81212"
+    ],
+    "geo": {
+      "lat": "28.235",
+      "lon": "-9.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005001_aouint-yghomane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aouint Yghomane",
+      "en": "Aouint Yghomane",
+      "slug": "aouint-yghomane"
+    },
+    "code": {
+      "id": "MA005001_aouint-yghomane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005001",
+      "level": 2,
+      "name": {
+        "local": "Assa Zag",
+        "en": "Assa Zag",
+        "slug": "assa-zag"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005001",
+        "level": 2,
+        "name": {
+          "local": "Assa Zag",
+          "en": "Assa Zag",
+          "slug": "assa-zag"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81213"
+    ],
+    "geo": {
+      "lat": "28.235",
+      "lon": "-9.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005001_assa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assa",
+      "en": "Assa",
+      "slug": "assa"
+    },
+    "code": {
+      "id": "MA005001_assa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005001",
+      "level": 2,
+      "name": {
+        "local": "Assa Zag",
+        "en": "Assa Zag",
+        "slug": "assa-zag"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005001",
+        "level": 2,
+        "name": {
+          "local": "Assa Zag",
+          "en": "Assa Zag",
+          "slug": "assa-zag"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81010"
+    ],
+    "geo": {
+      "lat": "28.61",
+      "lon": "-9.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005001_labouirat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Labouirat",
+      "en": "Labouirat",
+      "slug": "labouirat"
+    },
+    "code": {
+      "id": "MA005001_labouirat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005001",
+      "level": 2,
+      "name": {
+        "local": "Assa Zag",
+        "en": "Assa Zag",
+        "slug": "assa-zag"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005001",
+        "level": 2,
+        "name": {
+          "local": "Assa Zag",
+          "en": "Assa Zag",
+          "slug": "assa-zag"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81035"
+    ],
+    "geo": {
+      "lat": "28.652",
+      "lon": "-9.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005001_touizgui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Touizgui",
+      "en": "Touizgui",
+      "slug": "touizgui"
+    },
+    "code": {
+      "id": "MA005001_touizgui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005001",
+      "level": 2,
+      "name": {
+        "local": "Assa Zag",
+        "en": "Assa Zag",
+        "slug": "assa-zag"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005001",
+        "level": 2,
+        "name": {
+          "local": "Assa Zag",
+          "en": "Assa Zag",
+          "slug": "assa-zag"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81214"
+    ],
+    "geo": {
+      "lat": "28.235",
+      "lon": "-9.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005001_zag",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zag",
+      "en": "Zag",
+      "slug": "zag"
+    },
+    "code": {
+      "id": "MA005001_zag",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005001",
+      "level": 2,
+      "name": {
+        "local": "Assa Zag",
+        "en": "Assa Zag",
+        "slug": "assa-zag"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005001",
+        "level": 2,
+        "name": {
+          "local": "Assa Zag",
+          "en": "Assa Zag",
+          "slug": "assa-zag"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81006"
+    ],
+    "geo": {
+      "lat": "28.022",
+      "lon": "-9.294"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

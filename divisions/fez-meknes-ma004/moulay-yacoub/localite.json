@@ -1,0 +1,730 @@
+[
+  {
+    "id": "MA004006_ain-bou-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Bou Ali",
+      "en": "Ain Bou Ali",
+      "slug": "ain-bou-ali"
+    },
+    "code": {
+      "id": "MA004006_ain-bou-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36156"
+    ],
+    "geo": {
+      "lat": "34.11",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_ain-chkef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Chkef",
+      "en": "Ain Chkef",
+      "slug": "ain-chkef"
+    },
+    "code": {
+      "id": "MA004006_ain-chkef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36122"
+    ],
+    "geo": {
+      "lat": "34.141",
+      "lon": "-5.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_ain-kansara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Kansara",
+      "en": "Ain Kansara",
+      "slug": "ain-kansara"
+    },
+    "code": {
+      "id": "MA004006_ain-kansara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36222"
+    ],
+    "geo": {
+      "lat": "34.143",
+      "lon": "-4.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_hamria",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hamria",
+      "en": "Hamria",
+      "slug": "hamria"
+    },
+    "code": {
+      "id": "MA004006_hamria",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36123"
+    ],
+    "geo": {
+      "lat": "34.086",
+      "lon": "-5.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_laajajra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laajajra",
+      "en": "Laajajra",
+      "slug": "laajajra"
+    },
+    "code": {
+      "id": "MA004006_laajajra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36124"
+    ],
+    "geo": {
+      "lat": "34.207",
+      "lon": "-5.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_louadaine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Louadaine",
+      "en": "Louadaine",
+      "slug": "louadaine"
+    },
+    "code": {
+      "id": "MA004006_louadaine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36162"
+    ],
+    "geo": {
+      "lat": "34.11",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_mikkes",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mikkes",
+      "en": "Mikkes",
+      "slug": "mikkes"
+    },
+    "code": {
+      "id": "MA004006_mikkes",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36125"
+    ],
+    "geo": {
+      "lat": "34.086",
+      "lon": "-5.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_moulay-yacoub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Yacoub",
+      "en": "Moulay Yacoub",
+      "slug": "moulay-yacoub"
+    },
+    "code": {
+      "id": "MA004006_moulay-yacoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36150"
+    ],
+    "geo": {
+      "lat": "34.088",
+      "lon": "-5.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_sebaa-rouadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebaa Rouadi",
+      "en": "Sebaa Rouadi",
+      "slug": "sebaa-rouadi"
+    },
+    "code": {
+      "id": "MA004006_sebaa-rouadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36104"
+    ],
+    "geo": {
+      "lat": "34.286",
+      "lon": "-5.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_sebt-loudaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Loudaya",
+      "en": "Sebt Loudaya",
+      "slug": "sebt-loudaya"
+    },
+    "code": {
+      "id": "MA004006_sebt-loudaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36155"
+    ],
+    "geo": {
+      "lat": "34.11",
+      "lon": "-5.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_sidi-ahmed-el-bernoussi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed El Bernoussi",
+      "en": "Sidi Ahmed El Bernoussi",
+      "slug": "sidi-ahmed-el-bernoussi"
+    },
+    "code": {
+      "id": "MA004006_sidi-ahmed-el-bernoussi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36152"
+    ],
+    "geo": {
+      "lat": "34.088",
+      "lon": "-5.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_sidi-daoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Daoud",
+      "en": "Sidi Daoud",
+      "slug": "sidi-daoud"
+    },
+    "code": {
+      "id": "MA004006_sidi-daoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36172"
+    ],
+    "geo": {
+      "lat": "34.141",
+      "lon": "-5.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004006_souk-sebt-oulad-mimoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Sebt Oulad Mimoun",
+      "en": "Souk Sebt Oulad Mimoun",
+      "slug": "souk-sebt-oulad-mimoun"
+    },
+    "code": {
+      "id": "MA004006_souk-sebt-oulad-mimoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004006",
+      "level": 2,
+      "name": {
+        "local": "Moulay Yacoub",
+        "en": "Moulay Yacoub",
+        "slug": "moulay-yacoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004006",
+        "level": 2,
+        "name": {
+          "local": "Moulay Yacoub",
+          "en": "Moulay Yacoub",
+          "slug": "moulay-yacoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36126"
+    ],
+    "geo": {
+      "lat": "34.086",
+      "lon": "-5.207"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

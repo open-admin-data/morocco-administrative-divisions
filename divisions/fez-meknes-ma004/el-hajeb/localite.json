@@ -1,0 +1,954 @@
+[
+  {
+    "id": "MA004003_agourai",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agourai",
+      "en": "Agourai",
+      "slug": "agourai"
+    },
+    "code": {
+      "id": "MA004003_agourai",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51050"
+    ],
+    "geo": {
+      "lat": "33.644",
+      "lon": "-5.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ain-taoujdate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Taoujdate",
+      "en": "Ain Taoujdate",
+      "slug": "ain-taoujdate"
+    },
+    "code": {
+      "id": "MA004003_ain-taoujdate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51100"
+    ],
+    "geo": {
+      "lat": "33.936",
+      "lon": "-5.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ait-boubidmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Boubidmane",
+      "en": "Ait Boubidmane",
+      "slug": "ait-boubidmane"
+    },
+    "code": {
+      "id": "MA004003_ait-boubidmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51103"
+    ],
+    "geo": {
+      "lat": "33.699",
+      "lon": "-5.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ait-bourzouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Bourzouine",
+      "en": "Ait Bourzouine",
+      "slug": "ait-bourzouine"
+    },
+    "code": {
+      "id": "MA004003_ait-bourzouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51005"
+    ],
+    "geo": {
+      "lat": "33.699",
+      "lon": "-5.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ait-harz-allah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Harz Allah",
+      "en": "Ait Harz Allah",
+      "slug": "ait-harz-allah"
+    },
+    "code": {
+      "id": "MA004003_ait-harz-allah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51104"
+    ],
+    "geo": {
+      "lat": "33.699",
+      "lon": "-5.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ait-naamane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Naamane",
+      "en": "Ait Naamane",
+      "slug": "ait-naamane"
+    },
+    "code": {
+      "id": "MA004003_ait-naamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51006"
+    ],
+    "geo": {
+      "lat": "33.699",
+      "lon": "-5.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ait-ouikhalfen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ouikhalfen",
+      "en": "Ait Ouikhalfen",
+      "slug": "ait-ouikhalfen"
+    },
+    "code": {
+      "id": "MA004003_ait-ouikhalfen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51054"
+    ],
+    "geo": {
+      "lat": "33.699",
+      "lon": "-5.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ait-yaazem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Yaazem",
+      "en": "Ait Yaazem",
+      "slug": "ait-yaazem"
+    },
+    "code": {
+      "id": "MA004003_ait-yaazem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51025"
+    ],
+    "geo": {
+      "lat": "33.731",
+      "lon": "-5.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_bittit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bittit",
+      "en": "Bittit",
+      "slug": "bittit"
+    },
+    "code": {
+      "id": "MA004003_bittit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51123"
+    ],
+    "geo": {
+      "lat": "33.919",
+      "lon": "-5.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_bouderbala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouderbala",
+      "en": "Bouderbala",
+      "slug": "bouderbala"
+    },
+    "code": {
+      "id": "MA004003_bouderbala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51026"
+    ],
+    "geo": {
+      "lat": "33.817",
+      "lon": "-5.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_el-hajeb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Hajeb",
+      "en": "El Hajeb",
+      "slug": "el-hajeb"
+    },
+    "code": {
+      "id": "MA004003_el-hajeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51000"
+    ],
+    "geo": {
+      "lat": "33.688",
+      "lon": "-5.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_iqaddar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Iqaddar",
+      "en": "Iqaddar",
+      "slug": "iqaddar"
+    },
+    "code": {
+      "id": "MA004003_iqaddar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51012"
+    ],
+    "geo": {
+      "lat": "33.699",
+      "lon": "-5.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_laqsir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laqsir",
+      "en": "Laqsir",
+      "slug": "laqsir"
+    },
+    "code": {
+      "id": "MA004003_laqsir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51124"
+    ],
+    "geo": {
+      "lat": "33.919",
+      "lon": "-5.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_ras-jerri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras Jerri",
+      "en": "Ras Jerri",
+      "slug": "ras-jerri"
+    },
+    "code": {
+      "id": "MA004003_ras-jerri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51032"
+    ],
+    "geo": {
+      "lat": "33.72",
+      "lon": "-5.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_sabaa-aiyoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sabaa Aiyoun",
+      "en": "Sabaa Aiyoun",
+      "slug": "sabaa-aiyoun"
+    },
+    "code": {
+      "id": "MA004003_sabaa-aiyoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51150"
+    ],
+    "geo": {
+      "lat": "33.903",
+      "lon": "-5.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_sebt-jehjouh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Jehjouh",
+      "en": "Sebt Jehjouh",
+      "slug": "sebt-jehjouh"
+    },
+    "code": {
+      "id": "MA004003_sebt-jehjouh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51052"
+    ],
+    "geo": {
+      "lat": "33.644",
+      "lon": "-5.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004003_tamchachate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamchachate",
+      "en": "Tamchachate",
+      "slug": "tamchachate"
+    },
+    "code": {
+      "id": "MA004003_tamchachate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004003",
+      "level": 2,
+      "name": {
+        "local": "El Hajeb",
+        "en": "El Hajeb",
+        "slug": "el-hajeb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004003",
+        "level": 2,
+        "name": {
+          "local": "El Hajeb",
+          "en": "El Hajeb",
+          "slug": "el-hajeb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51055"
+    ],
+    "geo": {
+      "lat": "33.699",
+      "lon": "-5.493"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

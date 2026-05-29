@@ -1,0 +1,30 @@
+{
+  "id": "MA001",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "بني ملال - خنيفرة",
+    "en": "Beni Mellal Khenifra",
+    "slug": "beni-mellal-khenifra-ma001"
+  },
+  "code": {
+    "id": "MA001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 5,
+    "localite": 161
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.406",
+    "lon": "-6.281"
+  },
+  "metadata": {},
+  "source": {}
+}

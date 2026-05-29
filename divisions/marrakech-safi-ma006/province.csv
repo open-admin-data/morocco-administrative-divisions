@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA006001,Al Haouz,Al Haouz,al-haouz,MA006001,43,31.281,-7.925
+MA006002,Chichaoua,Chichaoua,chichaoua,MA006002,36,31.299,-8.848
+MA006005,El Kelaat Es Sraghna,El Kelaat Es Sraghna,el-kelaat-es-sraghna,MA006005,47,32.044,-7.384
+MA006003,Essaouira,Essaouira,essaouira,MA006003,61,31.363,-9.507
+MA006004,Marrakech,Marrakech,marrakech,MA006004,20,31.72,-8.154
+MA006008,Rhamna,Rhamna,rhamna,MA006008,26,32.218,-8.076
+MA006006,Safi,Safi,safi,MA006006,25,32.25,-8.994
+MA006007,Youssoufia,Youssoufia,youssoufia,MA006007,13,32.024,-8.573

@@ -1,0 +1,3194 @@
+[
+  {
+    "id": "MA004009_ain-boumassay",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Boumassay",
+      "en": "Ain Boumassay",
+      "slug": "ain-boumassay"
+    },
+    "code": {
+      "id": "MA004009_ain-boumassay",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35222"
+    ],
+    "geo": {
+      "lat": "34.389",
+      "lon": "-5.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_ain-el-fendel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain El Fendel",
+      "en": "Ain El Fendel",
+      "slug": "ain-el-fendel"
+    },
+    "code": {
+      "id": "MA004009_ain-el-fendel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35322"
+    ],
+    "geo": {
+      "lat": "34.031",
+      "lon": "-4.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_ain-el-hamra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain El Hamra",
+      "en": "Ain El Hamra",
+      "slug": "ain-el-hamra"
+    },
+    "code": {
+      "id": "MA004009_ain-el-hamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35074"
+    ],
+    "geo": {
+      "lat": "34.303",
+      "lon": "-4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_aknoul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aknoul",
+      "en": "Aknoul",
+      "slug": "aknoul"
+    },
+    "code": {
+      "id": "MA004009_aknoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35050"
+    ],
+    "geo": {
+      "lat": "34.654",
+      "lon": "-3.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_aoura",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aoura",
+      "en": "Aoura",
+      "slug": "aoura"
+    },
+    "code": {
+      "id": "MA004009_aoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35223"
+    ],
+    "geo": {
+      "lat": "34.389",
+      "lon": "-5.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_arbaa-beni-ftah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Beni Ftah",
+      "en": "Arbaa Beni Ftah",
+      "slug": "arbaa-beni-ftah"
+    },
+    "code": {
+      "id": "MA004009_arbaa-beni-ftah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35002"
+    ],
+    "geo": {
+      "lat": "34.319",
+      "lon": "-4.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bab-bouidir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bab Bouidir",
+      "en": "Bab Bouidir",
+      "slug": "bab-bouidir"
+    },
+    "code": {
+      "id": "MA004009_bab-bouidir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35022"
+    ],
+    "geo": {
+      "lat": "34.284",
+      "lon": "-4.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bab-el-mrouj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bab El Mrouj",
+      "en": "Bab El Mrouj",
+      "slug": "bab-el-mrouj"
+    },
+    "code": {
+      "id": "MA004009_bab-el-mrouj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35003"
+    ],
+    "geo": {
+      "lat": "34.415",
+      "lon": "-4.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bab-marzouka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bab Marzouka",
+      "en": "Bab Marzouka",
+      "slug": "bab-marzouka"
+    },
+    "code": {
+      "id": "MA004009_bab-marzouka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35004"
+    ],
+    "geo": {
+      "lat": "34.319",
+      "lon": "-4.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bechiyine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bechiyine",
+      "en": "Bechiyine",
+      "slug": "bechiyine"
+    },
+    "code": {
+      "id": "MA004009_bechiyine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35023"
+    ],
+    "geo": {
+      "lat": "34.284",
+      "lon": "-4.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_beni-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Ali",
+      "en": "Beni Ali",
+      "slug": "beni-ali"
+    },
+    "code": {
+      "id": "MA004009_beni-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35024"
+    ],
+    "geo": {
+      "lat": "34.284",
+      "lon": "-4.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_beni-lennt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Lennt",
+      "en": "Beni Lennt",
+      "slug": "beni-lennt"
+    },
+    "code": {
+      "id": "MA004009_beni-lennt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35005"
+    ],
+    "geo": {
+      "lat": "34.332",
+      "lon": "-4.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_beni-mgara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Mgara",
+      "en": "Beni Mgara",
+      "slug": "beni-mgara"
+    },
+    "code": {
+      "id": "MA004009_beni-mgara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35272"
+    ],
+    "geo": {
+      "lat": "34.194",
+      "lon": "-4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bouchfaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouchfaa",
+      "en": "Bouchfaa",
+      "slug": "bouchfaa"
+    },
+    "code": {
+      "id": "MA004009_bouchfaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35273"
+    ],
+    "geo": {
+      "lat": "34.102",
+      "lon": "-4.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bouhlou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouhlou",
+      "en": "Bouhlou",
+      "slug": "bouhlou"
+    },
+    "code": {
+      "id": "MA004009_bouhlou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35274"
+    ],
+    "geo": {
+      "lat": "34.13",
+      "lon": "-4.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_boured",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boured",
+      "en": "Boured",
+      "slug": "boured"
+    },
+    "code": {
+      "id": "MA004009_boured",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35053"
+    ],
+    "geo": {
+      "lat": "34.725",
+      "lon": "-4.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bouyablane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouyablane",
+      "en": "Bouyablane",
+      "slug": "bouyablane"
+    },
+    "code": {
+      "id": "MA004009_bouyablane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35303"
+    ],
+    "geo": {
+      "lat": "34.286",
+      "lon": "-4.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_bouzemlane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouzemlane",
+      "en": "Bouzemlane",
+      "slug": "bouzemlane"
+    },
+    "code": {
+      "id": "MA004009_bouzemlane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35202"
+    ],
+    "geo": {
+      "lat": "34.099",
+      "lon": "-4.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_brarha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brarha",
+      "en": "Brarha",
+      "slug": "brarha"
+    },
+    "code": {
+      "id": "MA004009_brarha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35065"
+    ],
+    "geo": {
+      "lat": "34.286",
+      "lon": "-4.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_el-gouzat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Gouzat",
+      "en": "El Gouzat",
+      "slug": "el-gouzat"
+    },
+    "code": {
+      "id": "MA004009_el-gouzat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35172"
+    ],
+    "geo": {
+      "lat": "34.491",
+      "lon": "-4.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_gueldamane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gueldamane",
+      "en": "Gueldamane",
+      "slug": "gueldamane"
+    },
+    "code": {
+      "id": "MA004009_gueldamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35025"
+    ],
+    "geo": {
+      "lat": "34.284",
+      "lon": "-4.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_gzenaya-al-janoubia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gzenaya Al Janoubia",
+      "en": "Gzenaya Al Janoubia",
+      "slug": "gzenaya-al-janoubia"
+    },
+    "code": {
+      "id": "MA004009_gzenaya-al-janoubia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35076"
+    ],
+    "geo": {
+      "lat": "34.286",
+      "lon": "-4.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_had-msila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Msila",
+      "en": "Had Msila",
+      "slug": "had-msila"
+    },
+    "code": {
+      "id": "MA004009_had-msila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35152"
+    ],
+    "geo": {
+      "lat": "34.228",
+      "lon": "-3.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_had-oulad-zbair",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Oulad Zbair",
+      "en": "Had Oulad Zbair",
+      "slug": "had-oulad-zbair"
+    },
+    "code": {
+      "id": "MA004009_had-oulad-zbair",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35042"
+    ],
+    "geo": {
+      "lat": "34.289",
+      "lon": "-4.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_ifrane-ait-assou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ifrane Ait Assou",
+      "en": "Ifrane Ait Assou",
+      "slug": "ifrane-ait-assou"
+    },
+    "code": {
+      "id": "MA004009_ifrane-ait-assou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35323"
+    ],
+    "geo": {
+      "lat": "34.303",
+      "lon": "-4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_inahnahen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Inahnahen",
+      "en": "Inahnahen",
+      "slug": "inahnahen"
+    },
+    "code": {
+      "id": "MA004009_inahnahen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35075"
+    ],
+    "geo": {
+      "lat": "34.536",
+      "lon": "-4.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_jbarna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jbarna",
+      "en": "Jbarna",
+      "slug": "jbarna"
+    },
+    "code": {
+      "id": "MA004009_jbarna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35072"
+    ],
+    "geo": {
+      "lat": "34.5",
+      "lon": "-3.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_kahf-el-rhar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kahf El Rhar",
+      "en": "Kahf El Rhar",
+      "slug": "kahf-el-rhar"
+    },
+    "code": {
+      "id": "MA004009_kahf-el-rhar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35044"
+    ],
+    "geo": {
+      "lat": "34.289",
+      "lon": "-4.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_kaouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kaouane",
+      "en": "Kaouane",
+      "slug": "kaouane"
+    },
+    "code": {
+      "id": "MA004009_kaouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35275"
+    ],
+    "geo": {
+      "lat": "33.964",
+      "lon": "-4.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_kassarat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kassarat",
+      "en": "Kassarat",
+      "slug": "kassarat"
+    },
+    "code": {
+      "id": "MA004009_kassarat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35422"
+    ],
+    "geo": {
+      "lat": "33.97",
+      "lon": "-4.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_mahirija",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mahirija",
+      "en": "Mahirija",
+      "slug": "mahirija"
+    },
+    "code": {
+      "id": "MA004009_mahirija",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35103"
+    ],
+    "geo": {
+      "lat": "34.226",
+      "lon": "-3.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_matmata",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Matmata",
+      "en": "Matmata",
+      "slug": "matmata"
+    },
+    "code": {
+      "id": "MA004009_matmata",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35203"
+    ],
+    "geo": {
+      "lat": "34.099",
+      "lon": "-4.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_meknassa-acharqia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Meknassa Acharqia",
+      "en": "Meknassa Acharqia",
+      "slug": "meknassa-acharqia"
+    },
+    "code": {
+      "id": "MA004009_meknassa-acharqia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35006"
+    ],
+    "geo": {
+      "lat": "34.319",
+      "lon": "-4.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_merhraoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Merhraoua",
+      "en": "Merhraoua",
+      "slug": "merhraoua"
+    },
+    "code": {
+      "id": "MA004009_merhraoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35012"
+    ],
+    "geo": {
+      "lat": "33.933",
+      "lon": "-4.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_msoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Msoun",
+      "en": "Msoun",
+      "slug": "msoun"
+    },
+    "code": {
+      "id": "MA004009_msoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35026"
+    ],
+    "geo": {
+      "lat": "34.284",
+      "lon": "-4.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_oued-amlil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Amlil",
+      "en": "Oued Amlil",
+      "slug": "oued-amlil"
+    },
+    "code": {
+      "id": "MA004009_oued-amlil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35250"
+    ],
+    "geo": {
+      "lat": "34.2",
+      "lon": "-4.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_oued-el-maleh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued El Maleh",
+      "en": "Oued El Maleh",
+      "slug": "oued-el-maleh"
+    },
+    "code": {
+      "id": "MA004009_oued-el-maleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35423"
+    ],
+    "geo": {
+      "lat": "33.97",
+      "lon": "-4.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_oued-lahmar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Lahmar",
+      "en": "Oued Lahmar",
+      "slug": "oued-lahmar"
+    },
+    "code": {
+      "id": "MA004009_oued-lahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35424"
+    ],
+    "geo": {
+      "lat": "33.97",
+      "lon": "-4.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_oulad-chrif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Chrif",
+      "en": "Oulad Chrif",
+      "slug": "oulad-chrif"
+    },
+    "code": {
+      "id": "MA004009_oulad-chrif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35046"
+    ],
+    "geo": {
+      "lat": "34.289",
+      "lon": "-4.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_rbaa-el-fouki",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rbaa El Fouki",
+      "en": "Rbaa El Fouki",
+      "slug": "rbaa-el-fouki"
+    },
+    "code": {
+      "id": "MA004009_rbaa-el-fouki",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35253"
+    ],
+    "geo": {
+      "lat": "34.286",
+      "lon": "-4.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_rchida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rchida",
+      "en": "Rchida",
+      "slug": "rchida"
+    },
+    "code": {
+      "id": "MA004009_rchida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35122"
+    ],
+    "geo": {
+      "lat": "33.967",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_sebt-bni-frassen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Bni Frassen",
+      "en": "Sebt Bni Frassen",
+      "slug": "sebt-bni-frassen"
+    },
+    "code": {
+      "id": "MA004009_sebt-bni-frassen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35013"
+    ],
+    "geo": {
+      "lat": "34.243",
+      "lon": "-4.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_sidi-ali-bennacer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Bennacer",
+      "en": "Sidi Ali Bennacer",
+      "slug": "sidi-ali-bennacer"
+    },
+    "code": {
+      "id": "MA004009_sidi-ali-bennacer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35324"
+    ],
+    "geo": {
+      "lat": "34.031",
+      "lon": "-4.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_sidi-ali-bourakba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Bourakba",
+      "en": "Sidi Ali Bourakba",
+      "slug": "sidi-ali-bourakba"
+    },
+    "code": {
+      "id": "MA004009_sidi-ali-bourakba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35372"
+    ],
+    "geo": {
+      "lat": "34.281",
+      "lon": "-4.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_skoura-seghrouchen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Skoura Seghrouchen",
+      "en": "Skoura Seghrouchen",
+      "slug": "skoura-seghrouchen"
+    },
+    "code": {
+      "id": "MA004009_skoura-seghrouchen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33352"
+    ],
+    "geo": {
+      "lat": "33.441",
+      "lon": "-3.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_smiaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Smiaa",
+      "en": "Smiaa",
+      "slug": "smiaa"
+    },
+    "code": {
+      "id": "MA004009_smiaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35325"
+    ],
+    "geo": {
+      "lat": "34.031",
+      "lon": "-4.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_tahla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tahla",
+      "en": "Tahla",
+      "slug": "tahla"
+    },
+    "code": {
+      "id": "MA004009_tahla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35300"
+    ],
+    "geo": {
+      "lat": "34.05",
+      "lon": "-4.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_taineste",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taineste",
+      "en": "Taineste",
+      "slug": "taineste"
+    },
+    "code": {
+      "id": "MA004009_taineste",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35014"
+    ],
+    "geo": {
+      "lat": "34.554",
+      "lon": "-4.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_tazarine-msara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazarine Msara",
+      "en": "Tazarine Msara",
+      "slug": "tazarine-msara"
+    },
+    "code": {
+      "id": "MA004009_tazarine-msara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35062"
+    ],
+    "geo": {
+      "lat": "34.416",
+      "lon": "-4.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_tighezratine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tighezratine",
+      "en": "Tighezratine",
+      "slug": "tighezratine"
+    },
+    "code": {
+      "id": "MA004009_tighezratine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35073"
+    ],
+    "geo": {
+      "lat": "34.536",
+      "lon": "-4.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_tighza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tighza",
+      "en": "Tighza",
+      "slug": "tighza"
+    },
+    "code": {
+      "id": "MA004009_tighza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35123"
+    ],
+    "geo": {
+      "lat": "33.967",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_tizi-ouzli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizi Ouzli",
+      "en": "Tizi Ouzli",
+      "slug": "tizi-ouzli"
+    },
+    "code": {
+      "id": "MA004009_tizi-ouzli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35352"
+    ],
+    "geo": {
+      "lat": "34.762",
+      "lon": "-3.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_tlata-traiba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Traiba",
+      "en": "Tlata Traiba",
+      "slug": "tlata-traiba"
+    },
+    "code": {
+      "id": "MA004009_tlata-traiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35056"
+    ],
+    "geo": {
+      "lat": "34.707",
+      "lon": "-3.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_tnine-taifa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Taifa",
+      "en": "Tnine Taifa",
+      "slug": "tnine-taifa"
+    },
+    "code": {
+      "id": "MA004009_tnine-taifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35045"
+    ],
+    "geo": {
+      "lat": "34.289",
+      "lon": "-4.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_touahar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Touahar",
+      "en": "Touahar",
+      "slug": "touahar"
+    },
+    "code": {
+      "id": "MA004009_touahar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35036"
+    ],
+    "geo": {
+      "lat": "34.2",
+      "lon": "-4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_zaouia-sidi-abdejlil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Sidi Abdejlil",
+      "en": "Zaouia Sidi Abdejlil",
+      "slug": "zaouia-sidi-abdejlil"
+    },
+    "code": {
+      "id": "MA004009_zaouia-sidi-abdejlil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35225"
+    ],
+    "geo": {
+      "lat": "34.389",
+      "lon": "-5.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004009_zerarda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zerarda",
+      "en": "Zerarda",
+      "slug": "zerarda"
+    },
+    "code": {
+      "id": "MA004009_zerarda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004009",
+      "level": 2,
+      "name": {
+        "local": "Taza",
+        "en": "Taza",
+        "slug": "taza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004009",
+        "level": 2,
+        "name": {
+          "local": "Taza",
+          "en": "Taza",
+          "slug": "taza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35402"
+    ],
+    "geo": {
+      "lat": "33.97",
+      "lon": "-4.38"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

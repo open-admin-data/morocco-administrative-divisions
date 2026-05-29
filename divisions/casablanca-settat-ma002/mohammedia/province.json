@@ -1,0 +1,47 @@
+{
+  "id": "MA002006",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mohammedia",
+    "en": "Mohammedia",
+    "slug": "mohammedia"
+  },
+  "code": {
+    "id": "MA002006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA002",
+    "level": 1,
+    "name": {
+      "local": "الدار البيضاء - سطات",
+      "en": "Casablanca Settat",
+      "slug": "casablanca-settat-ma002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.616",
+    "lon": "-7.374"
+  },
+  "metadata": {},
+  "source": {}
+}

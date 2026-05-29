@@ -1,0 +1,47 @@
+{
+  "id": "MA006002",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Chichaoua",
+    "en": "Chichaoua",
+    "slug": "chichaoua"
+  },
+  "code": {
+    "id": "MA006002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA006",
+    "level": 1,
+    "name": {
+      "local": "مراكش - آسفي",
+      "en": "Marrakech Safi",
+      "slug": "marrakech-safi-ma006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.299",
+    "lon": "-8.848"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MA001004",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Khenifra",
+    "en": "Khenifra",
+    "slug": "khenifra"
+  },
+  "code": {
+    "id": "MA001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA001",
+    "level": 1,
+    "name": {
+      "local": "بني ملال - خنيفرة",
+      "en": "Beni Mellal Khenifra",
+      "slug": "beni-mellal-khenifra-ma001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA001",
+      "level": 1,
+      "name": {
+        "local": "بني ملال - خنيفرة",
+        "en": "Beni Mellal Khenifra",
+        "slug": "beni-mellal-khenifra-ma001"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.969",
+    "lon": "-5.691"
+  },
+  "metadata": {},
+  "source": {}
+}

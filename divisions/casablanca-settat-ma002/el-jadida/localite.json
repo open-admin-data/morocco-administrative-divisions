@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "MA002002_arbaa-chtouka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Chtouka",
+      "en": "Arbaa Chtouka",
+      "slug": "arbaa-chtouka"
+    },
+    "code": {
+      "id": "MA002002_arbaa-chtouka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24172"
+    ],
+    "geo": {
+      "lat": "33.315",
+      "lon": "-8.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_azemmour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azemmour",
+      "en": "Azemmour",
+      "slug": "azemmour"
+    },
+    "code": {
+      "id": "MA002002_azemmour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24100"
+    ],
+    "geo": {
+      "lat": "33.289",
+      "lon": "-8.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_bir-jdid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bir Jdid",
+      "en": "Bir Jdid",
+      "slug": "bir-jdid"
+    },
+    "code": {
+      "id": "MA002002_bir-jdid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24150"
+    ],
+    "geo": {
+      "lat": "33.256",
+      "lon": "-8.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_boucedra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boucedra",
+      "en": "Boucedra",
+      "slug": "boucedra"
+    },
+    "code": {
+      "id": "MA002002_boucedra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24122"
+    ],
+    "geo": {
+      "lat": "33.2",
+      "lon": "-8.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_chaibate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chaibate",
+      "en": "Chaibate",
+      "slug": "chaibate"
+    },
+    "code": {
+      "id": "MA002002_chaibate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24403"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_haouzia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Haouzia",
+      "en": "Haouzia",
+      "slug": "haouzia"
+    },
+    "code": {
+      "id": "MA002002_haouzia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24123"
+    ],
+    "geo": {
+      "lat": "33.221",
+      "lon": "-8.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_jorf-lasfar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jorf Lasfar",
+      "en": "Jorf Lasfar",
+      "slug": "jorf-lasfar"
+    },
+    "code": {
+      "id": "MA002002_jorf-lasfar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24025"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-8.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_khemis-des-zemamra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Des Zemamra",
+      "en": "Khemis Des Zemamra",
+      "slug": "khemis-des-zemamra"
+    },
+    "code": {
+      "id": "MA002002_khemis-des-zemamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24200"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_khemis-mtouh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Mtouh",
+      "en": "Khemis Mtouh",
+      "slug": "khemis-mtouh"
+    },
+    "code": {
+      "id": "MA002002_khemis-mtouh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24322"
+    ],
+    "geo": {
+      "lat": "32.879",
+      "lon": "-8.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_laaouissate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laaouissate",
+      "en": "Laaouissate",
+      "slug": "laaouissate"
+    },
+    "code": {
+      "id": "MA002002_laaouissate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24222"
+    ],
+    "geo": {
+      "lat": "32.637",
+      "lon": "-8.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_laghdira",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laghdira",
+      "en": "Laghdira",
+      "slug": "laghdira"
+    },
+    "code": {
+      "id": "MA002002_laghdira",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24104"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_lamharza-essahel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamharza Essahel",
+      "en": "Lamharza Essahel",
+      "slug": "lamharza-essahel"
+    },
+    "code": {
+      "id": "MA002002_lamharza-essahel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24105"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_lamnakra-el-haddada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamnakra El Haddada",
+      "en": "Lamnakra El Haddada",
+      "slug": "lamnakra-el-haddada"
+    },
+    "code": {
+      "id": "MA002002_lamnakra-el-haddada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24224"
+    ],
+    "geo": {
+      "lat": "32.637",
+      "lon": "-8.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_mhaioula",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mhaioula",
+      "en": "Mhaioula",
+      "slug": "mhaioula"
+    },
+    "code": {
+      "id": "MA002002_mhaioula",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24124"
+    ],
+    "geo": {
+      "lat": "33.21",
+      "lon": "-8.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_mogress",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mogress",
+      "en": "Mogress",
+      "slug": "mogress"
+    },
+    "code": {
+      "id": "MA002002_mogress",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24404"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_moulay-abdellah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Abdellah",
+      "en": "Moulay Abdellah",
+      "slug": "moulay-abdellah"
+    },
+    "code": {
+      "id": "MA002002_moulay-abdellah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24003"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulad-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Aissa",
+      "en": "Oulad Aissa",
+      "slug": "oulad-aissa"
+    },
+    "code": {
+      "id": "MA002002_oulad-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24022"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-8.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulad-ben-chaoui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ben Chaoui",
+      "en": "Oulad Ben Chaoui",
+      "slug": "oulad-ben-chaoui"
+    },
+    "code": {
+      "id": "MA002002_oulad-ben-chaoui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24225"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulad-hamdane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Hamdane",
+      "en": "Oulad Hamdane",
+      "slug": "oulad-hamdane"
+    },
+    "code": {
+      "id": "MA002002_oulad-hamdane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24323"
+    ],
+    "geo": {
+      "lat": "32.879",
+      "lon": "-8.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulad-hassine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Hassine",
+      "en": "Oulad Hassine",
+      "slug": "oulad-hassine"
+    },
+    "code": {
+      "id": "MA002002_oulad-hassine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24023"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-8.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulad-rahmoune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Rahmoune",
+      "en": "Oulad Rahmoune",
+      "slug": "oulad-rahmoune"
+    },
+    "code": {
+      "id": "MA002002_oulad-rahmoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24106"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulad-rhanem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Rhanem",
+      "en": "Oulad Rhanem",
+      "slug": "oulad-rhanem"
+    },
+    "code": {
+      "id": "MA002002_oulad-rhanem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24272"
+    ],
+    "geo": {
+      "lat": "32.872",
+      "lon": "-8.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulad-sidi-ali-ben-youssef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Sidi Ali Ben Youssef",
+      "en": "Oulad Sidi Ali Ben Youssef",
+      "slug": "oulad-sidi-ali-ben-youssef"
+    },
+    "code": {
+      "id": "MA002002_oulad-sidi-ali-ben-youssef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24324"
+    ],
+    "geo": {
+      "lat": "32.879",
+      "lon": "-8.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_ouled-frej",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Frej",
+      "en": "Ouled Frej",
+      "slug": "ouled-frej"
+    },
+    "code": {
+      "id": "MA002002_ouled-frej",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24302"
+    ],
+    "geo": {
+      "lat": "32.96",
+      "lon": "-8.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_oulja-des-chiadma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulja Des Chiadma",
+      "en": "Oulja Des Chiadma",
+      "slug": "oulja-des-chiadma"
+    },
+    "code": {
+      "id": "MA002002_oulja-des-chiadma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24173"
+    ],
+    "geo": {
+      "lat": "33.315",
+      "lon": "-8.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_saniat-benrkik",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saniat Benrkik",
+      "en": "Saniat Benrkik",
+      "slug": "saniat-benrkik"
+    },
+    "code": {
+      "id": "MA002002_saniat-benrkik",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24226"
+    ],
+    "geo": {
+      "lat": "32.637",
+      "lon": "-8.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_sebt-saiss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Saiss",
+      "en": "Sebt Saiss",
+      "slug": "sebt-saiss"
+    },
+    "code": {
+      "id": "MA002002_sebt-saiss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24422"
+    ],
+    "geo": {
+      "lat": "32.778",
+      "lon": "-8.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_si-hsaien-ben-abderrahmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Si Hsaien Ben Abderrahmane",
+      "en": "Si Hsaien Ben Abderrahmane",
+      "slug": "si-hsaien-ben-abderrahmane"
+    },
+    "code": {
+      "id": "MA002002_si-hsaien-ben-abderrahmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24405"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_sidi-abed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abed",
+      "en": "Sidi Abed",
+      "slug": "sidi-abed"
+    },
+    "code": {
+      "id": "MA002002_sidi-abed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24032"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-8.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_sidi-ali-ben-hamdouche",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Ben Hamdouche",
+      "en": "Sidi Ali Ben Hamdouche",
+      "slug": "sidi-ali-ben-hamdouche"
+    },
+    "code": {
+      "id": "MA002002_sidi-ali-ben-hamdouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24112"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_sidi-bouzid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bouzid",
+      "en": "Sidi Bouzid",
+      "slug": "sidi-bouzid"
+    },
+    "code": {
+      "id": "MA002002_sidi-bouzid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24005"
+    ],
+    "geo": {
+      "lat": "33.231",
+      "lon": "-8.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_sidi-mhamed-akhdim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mhamed Akhdim",
+      "en": "Sidi Mhamed Akhdim",
+      "slug": "sidi-mhamed-akhdim"
+    },
+    "code": {
+      "id": "MA002002_sidi-mhamed-akhdim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24034"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_sidi-moussa-plage",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Moussa Plage",
+      "en": "Sidi Moussa Plage",
+      "slug": "sidi-moussa-plage"
+    },
+    "code": {
+      "id": "MA002002_sidi-moussa-plage",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24024"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-8.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_sidi-smail",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Smail",
+      "en": "Sidi Smail",
+      "slug": "sidi-smail"
+    },
+    "code": {
+      "id": "MA002002_sidi-smail",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24402"
+    ],
+    "geo": {
+      "lat": "32.825",
+      "lon": "-8.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_tleta-boulaouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Boulaouane",
+      "en": "Tleta Boulaouane",
+      "slug": "tleta-boulaouane"
+    },
+    "code": {
+      "id": "MA002002_tleta-boulaouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24074"
+    ],
+    "geo": {
+      "lat": "32.613",
+      "lon": "-8.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_tnine-chtouka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Chtouka",
+      "en": "Tnine Chtouka",
+      "slug": "tnine-chtouka"
+    },
+    "code": {
+      "id": "MA002002_tnine-chtouka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24175"
+    ],
+    "geo": {
+      "lat": "33.315",
+      "lon": "-8.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_zaouiat-lakouacem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat Lakouacem",
+      "en": "Zaouiat Lakouacem",
+      "slug": "zaouiat-lakouacem"
+    },
+    "code": {
+      "id": "MA002002_zaouiat-lakouacem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24406"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002002_zaouiat-saiss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat Saiss",
+      "en": "Zaouiat Saiss",
+      "slug": "zaouiat-saiss"
+    },
+    "code": {
+      "id": "MA002002_zaouiat-saiss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002002",
+      "level": 2,
+      "name": {
+        "local": "El Jadida",
+        "en": "El Jadida",
+        "slug": "el-jadida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002002",
+        "level": 2,
+        "name": {
+          "local": "El Jadida",
+          "en": "El Jadida",
+          "slug": "el-jadida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24412"
+    ],
+    "geo": {
+      "lat": "33.074",
+      "lon": "-8.377"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

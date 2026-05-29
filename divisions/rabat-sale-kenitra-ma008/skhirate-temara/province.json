@@ -1,0 +1,47 @@
+{
+  "id": "MA008001",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Skhirate Temara",
+    "en": "Skhirate Temara",
+    "slug": "skhirate-temara"
+  },
+  "code": {
+    "id": "MA008001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA008",
+    "level": 1,
+    "name": {
+      "local": "الرباط - سلا -القنيطرة",
+      "en": "Rabat Sale Kenitra",
+      "slug": "rabat-sale-kenitra-ma008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.748",
+    "lon": "-6.879"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "MA002008_arbaa-aounate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Aounate",
+      "en": "Arbaa Aounate",
+      "slug": "arbaa-aounate"
+    },
+    "code": {
+      "id": "MA002008_arbaa-aounate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24052"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_bni-tsiriss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Tsiriss",
+      "en": "Bni Tsiriss",
+      "slug": "bni-tsiriss"
+    },
+    "code": {
+      "id": "MA002008_bni-tsiriss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24355"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_bouhmame",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouhmame",
+      "en": "Bouhmame",
+      "slug": "bouhmame"
+    },
+    "code": {
+      "id": "MA002008_bouhmame",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24362"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_el-hagagcha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Hagagcha",
+      "en": "El Hagagcha",
+      "slug": "el-hagagcha"
+    },
+    "code": {
+      "id": "MA002008_el-hagagcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24223"
+    ],
+    "geo": {
+      "lat": "32.637",
+      "lon": "-8.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_el-mechrek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Mechrek",
+      "en": "El Mechrek",
+      "slug": "el-mechrek"
+    },
+    "code": {
+      "id": "MA002008_el-mechrek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24373"
+    ],
+    "geo": {
+      "lat": "32.475",
+      "lon": "-8.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_jabria",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jabria",
+      "en": "Jabria",
+      "slug": "jabria"
+    },
+    "code": {
+      "id": "MA002008_jabria",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24363"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_khemis-ksiba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Ksiba",
+      "en": "Khemis Ksiba",
+      "slug": "khemis-ksiba"
+    },
+    "code": {
+      "id": "MA002008_khemis-ksiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24072"
+    ],
+    "geo": {
+      "lat": "32.613",
+      "lon": "-8.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_koudiat-bni-dghough",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Koudiat Bni Dghough",
+      "en": "Koudiat Bni Dghough",
+      "slug": "koudiat-bni-dghough"
+    },
+    "code": {
+      "id": "MA002008_koudiat-bni-dghough",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24364"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_kridid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kridid",
+      "en": "Kridid",
+      "slug": "kridid"
+    },
+    "code": {
+      "id": "MA002008_kridid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24026"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-8.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_laamria",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laamria",
+      "en": "Laamria",
+      "slug": "laamria"
+    },
+    "code": {
+      "id": "MA002008_laamria",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24376"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_laatatra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laatatra",
+      "en": "Laatatra",
+      "slug": "laatatra"
+    },
+    "code": {
+      "id": "MA002008_laatatra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24365"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_laghnadra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laghnadra",
+      "en": "Laghnadra",
+      "slug": "laghnadra"
+    },
+    "code": {
+      "id": "MA002008_laghnadra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24203"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_matrann",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Matrann",
+      "en": "Matrann",
+      "slug": "matrann"
+    },
+    "code": {
+      "id": "MA002008_matrann",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24073"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_mtal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mtal",
+      "en": "Mtal",
+      "slug": "mtal"
+    },
+    "code": {
+      "id": "MA002008_mtal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24372"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_oualidia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oualidia",
+      "en": "Oualidia",
+      "slug": "oualidia"
+    },
+    "code": {
+      "id": "MA002008_oualidia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24252"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_oulad-boussaken",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Boussaken",
+      "en": "Oulad Boussaken",
+      "slug": "oulad-boussaken"
+    },
+    "code": {
+      "id": "MA002008_oulad-boussaken",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24366"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_oulad-sbaita",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Sbaita",
+      "en": "Oulad Sbaita",
+      "slug": "oulad-sbaita"
+    },
+    "code": {
+      "id": "MA002008_oulad-sbaita",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24204"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_oulad-si-bouhya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Si Bouhya",
+      "en": "Oulad Si Bouhya",
+      "slug": "oulad-si-bouhya"
+    },
+    "code": {
+      "id": "MA002008_oulad-si-bouhya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24374"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_ouled-amrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Amrane",
+      "en": "Ouled Amrane",
+      "slug": "ouled-amrane"
+    },
+    "code": {
+      "id": "MA002008_ouled-amrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24004"
+    ],
+    "geo": {
+      "lat": "33.231",
+      "lon": "-8.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_sebt-beni-hlal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Beni Hlal",
+      "en": "Sebt Beni Hlal",
+      "slug": "sebt-beni-hlal"
+    },
+    "code": {
+      "id": "MA002008_sebt-beni-hlal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24352"
+    ],
+    "geo": {
+      "lat": "32.652",
+      "lon": "-8.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_sidi-bennour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bennour",
+      "en": "Sidi Bennour",
+      "slug": "sidi-bennour"
+    },
+    "code": {
+      "id": "MA002008_sidi-bennour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24350"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_tamda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamda",
+      "en": "Tamda",
+      "slug": "tamda"
+    },
+    "code": {
+      "id": "MA002008_tamda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24375"
+    ],
+    "geo": {
+      "lat": "32.589",
+      "lon": "-8.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002008_tnine-gharbia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Gharbia",
+      "en": "Tnine Gharbia",
+      "slug": "tnine-gharbia"
+    },
+    "code": {
+      "id": "MA002008_tnine-gharbia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002008",
+      "level": 2,
+      "name": {
+        "local": "Sidi Bennour",
+        "en": "Sidi Bennour",
+        "slug": "sidi-bennour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002008",
+        "level": 2,
+        "name": {
+          "local": "Sidi Bennour",
+          "en": "Sidi Bennour",
+          "slug": "sidi-bennour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24452"
+    ],
+    "geo": {
+      "lat": "33.041",
+      "lon": "-8.389"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

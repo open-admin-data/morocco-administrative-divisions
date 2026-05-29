@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "MA004002_ain-el-orma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain El Orma",
+      "en": "Ain El Orma",
+      "slug": "ain-el-orma"
+    },
+    "code": {
+      "id": "MA004002_ain-el-orma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50022"
+    ],
+    "geo": {
+      "lat": "33.894",
+      "lon": "-5.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_ain-jemaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Jemaa",
+      "en": "Ain Jemaa",
+      "slug": "ain-jemaa"
+    },
+    "code": {
+      "id": "MA004002_ain-jemaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50052"
+    ],
+    "geo": {
+      "lat": "34.026",
+      "lon": "-5.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_ain-kerma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Kerma",
+      "en": "Ain Kerma",
+      "slug": "ain-kerma"
+    },
+    "code": {
+      "id": "MA004002_ain-kerma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50023"
+    ],
+    "geo": {
+      "lat": "33.863",
+      "lon": "-5.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_ait-aissa-addi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Aissa Addi",
+      "en": "Ait Aissa Addi",
+      "slug": "ait-aissa-addi"
+    },
+    "code": {
+      "id": "MA004002_ait-aissa-addi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50024"
+    ],
+    "geo": {
+      "lat": "33.833",
+      "lon": "-5.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_ait-ouallal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ouallal",
+      "en": "Ait Ouallal",
+      "slug": "ait-ouallal"
+    },
+    "code": {
+      "id": "MA004002_ait-ouallal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50072"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_ait-rahhou-mjatt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Rahhou Mjatt",
+      "en": "Ait Rahhou Mjatt",
+      "slug": "ait-rahhou-mjatt"
+    },
+    "code": {
+      "id": "MA004002_ait-rahhou-mjatt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50026"
+    ],
+    "geo": {
+      "lat": "33.863",
+      "lon": "-5.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_al-machouar-stinia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Machouar Stinia",
+      "en": "Al Machouar Stinia",
+      "slug": "al-machouar-stinia"
+    },
+    "code": {
+      "id": "MA004002_al-machouar-stinia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50062"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_beni-ammar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Ammar",
+      "en": "Beni Ammar",
+      "slug": "beni-ammar"
+    },
+    "code": {
+      "id": "MA004002_beni-ammar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50372"
+    ],
+    "geo": {
+      "lat": "34.095",
+      "lon": "-5.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_boufakrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boufakrane",
+      "en": "Boufakrane",
+      "slug": "boufakrane"
+    },
+    "code": {
+      "id": "MA004002_boufakrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50300"
+    ],
+    "geo": {
+      "lat": "34.002",
+      "lon": "-5.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_bridia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bridia",
+      "en": "Bridia",
+      "slug": "bridia"
+    },
+    "code": {
+      "id": "MA004002_bridia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50046"
+    ],
+    "geo": {
+      "lat": "33.918",
+      "lon": "-5.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_charqaoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Charqaoua",
+      "en": "Charqaoua",
+      "slug": "charqaoua"
+    },
+    "code": {
+      "id": "MA004002_charqaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50354"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_dar-oum-soltane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Oum Soltane",
+      "en": "Dar Oum Soltane",
+      "slug": "dar-oum-soltane"
+    },
+    "code": {
+      "id": "MA004002_dar-oum-soltane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50063"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_dkhissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dkhissa",
+      "en": "Dkhissa",
+      "slug": "dkhissa"
+    },
+    "code": {
+      "id": "MA004002_dkhissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50064"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_el-hadj-kaddour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Hadj Kaddour",
+      "en": "El Hadj Kaddour",
+      "slug": "el-hadj-kaddour"
+    },
+    "code": {
+      "id": "MA004002_el-hadj-kaddour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50102"
+    ],
+    "geo": {
+      "lat": "33.885",
+      "lon": "-5.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_hafrat-ben-taybi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hafrat Ben Taybi",
+      "en": "Hafrat Ben Taybi",
+      "slug": "hafrat-ben-taybi"
+    },
+    "code": {
+      "id": "MA004002_hafrat-ben-taybi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50383"
+    ],
+    "geo": {
+      "lat": "34.004",
+      "lon": "-5.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_kermat-ben-salem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kermat Ben Salem",
+      "en": "Kermat Ben Salem",
+      "slug": "kermat-ben-salem"
+    },
+    "code": {
+      "id": "MA004002_kermat-ben-salem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50373"
+    ],
+    "geo": {
+      "lat": "34.055",
+      "lon": "-5.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_moulay-idriss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Idriss",
+      "en": "Moulay Idriss",
+      "slug": "moulay-idriss"
+    },
+    "code": {
+      "id": "MA004002_moulay-idriss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50350"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_moussaoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moussaoua",
+      "en": "Moussaoua",
+      "slug": "moussaoua"
+    },
+    "code": {
+      "id": "MA004002_moussaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50374"
+    ],
+    "geo": {
+      "lat": "34.016",
+      "lon": "-5.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_mrhassiyne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mrhassiyne",
+      "en": "Mrhassiyne",
+      "slug": "mrhassiyne"
+    },
+    "code": {
+      "id": "MA004002_mrhassiyne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50375"
+    ],
+    "geo": {
+      "lat": "34.055",
+      "lon": "-5.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_nzalate-bni-ammar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nzalate Bni Ammar",
+      "en": "Nzalate Bni Ammar",
+      "slug": "nzalate-bni-ammar"
+    },
+    "code": {
+      "id": "MA004002_nzalate-bni-ammar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50352"
+    ],
+    "geo": {
+      "lat": "34.004",
+      "lon": "-5.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_oued-al-jadidah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Al Jadidah",
+      "en": "Oued Al Jadidah",
+      "slug": "oued-al-jadidah"
+    },
+    "code": {
+      "id": "MA004002_oued-al-jadidah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51172"
+    ],
+    "geo": {
+      "lat": "33.919",
+      "lon": "-5.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_oued-rommane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Rommane",
+      "en": "Oued Rommane",
+      "slug": "oued-rommane"
+    },
+    "code": {
+      "id": "MA004002_oued-rommane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50025"
+    ],
+    "geo": {
+      "lat": "33.863",
+      "lon": "-5.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_ouislane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouislane",
+      "en": "Ouislane",
+      "slug": "ouislane"
+    },
+    "code": {
+      "id": "MA004002_ouislane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50045"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_sidi-abdallah-al-khayat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdallah Al Khayat",
+      "en": "Sidi Abdallah Al Khayat",
+      "slug": "sidi-abdallah-al-khayat"
+    },
+    "code": {
+      "id": "MA004002_sidi-abdallah-al-khayat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50356"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "-5.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_sidi-ali-benhamdouche",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Benhamdouche",
+      "en": "Sidi Ali Benhamdouche",
+      "slug": "sidi-ali-benhamdouche"
+    },
+    "code": {
+      "id": "MA004002_sidi-ali-benhamdouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50376"
+    ],
+    "geo": {
+      "lat": "34.055",
+      "lon": "-5.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_sidi-slimane-mjatt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Slimane Mjatt",
+      "en": "Sidi Slimane Mjatt",
+      "slug": "sidi-slimane-mjatt"
+    },
+    "code": {
+      "id": "MA004002_sidi-slimane-mjatt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50122"
+    ],
+    "geo": {
+      "lat": "33.885",
+      "lon": "-5.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_tnine-mhaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Mhaya",
+      "en": "Tnine Mhaya",
+      "slug": "tnine-mhaya"
+    },
+    "code": {
+      "id": "MA004002_tnine-mhaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50152"
+    ],
+    "geo": {
+      "lat": "33.885",
+      "lon": "-5.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_toulal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Toulal",
+      "en": "Toulal",
+      "slug": "toulal"
+    },
+    "code": {
+      "id": "MA004002_toulal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50110"
+    ],
+    "geo": {
+      "lat": "33.885",
+      "lon": "-5.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_volubilis",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Volubilis",
+      "en": "Volubilis",
+      "slug": "volubilis"
+    },
+    "code": {
+      "id": "MA004002_volubilis",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50382"
+    ],
+    "geo": {
+      "lat": "34.004",
+      "lon": "-5.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004002_zoualet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zoualet",
+      "en": "Zoualet",
+      "slug": "zoualet"
+    },
+    "code": {
+      "id": "MA004002_zoualet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004002",
+      "level": 2,
+      "name": {
+        "local": "Meknes",
+        "en": "Meknes",
+        "slug": "meknes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004002",
+        "level": 2,
+        "name": {
+          "local": "Meknes",
+          "en": "Meknes",
+          "slug": "meknes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50044"
+    ],
+    "geo": {
+      "lat": "33.918",
+      "lon": "-5.741"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

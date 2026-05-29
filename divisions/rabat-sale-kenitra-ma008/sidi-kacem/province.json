@@ -1,0 +1,47 @@
+{
+  "id": "MA008006",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sidi Kacem",
+    "en": "Sidi Kacem",
+    "slug": "sidi-kacem"
+  },
+  "code": {
+    "id": "MA008006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA008",
+    "level": 1,
+    "name": {
+      "local": "الرباط - سلا -القنيطرة",
+      "en": "Rabat Sale Kenitra",
+      "slug": "rabat-sale-kenitra-ma008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.48",
+    "lon": "-5.578"
+  },
+  "metadata": {},
+  "source": {}
+}

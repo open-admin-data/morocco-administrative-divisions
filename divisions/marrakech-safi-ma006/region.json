@@ -1,0 +1,30 @@
+{
+  "id": "MA006",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "مراكش - آسفي",
+    "en": "Marrakech Safi",
+    "slug": "marrakech-safi-ma006"
+  },
+  "code": {
+    "id": "MA006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 8,
+    "localite": 271
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.8",
+    "lon": "-8.311"
+  },
+  "metadata": {},
+  "source": {}
+}

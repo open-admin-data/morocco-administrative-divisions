@@ -1,0 +1,730 @@
+[
+  {
+    "id": "MA006007_atiamim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Atiamim",
+      "en": "Atiamim",
+      "slug": "atiamim"
+    },
+    "code": {
+      "id": "MA006007_atiamim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46072"
+    ],
+    "geo": {
+      "lat": "31.939",
+      "lon": "-8.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_echemmaia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Echemmaia",
+      "en": "Echemmaia",
+      "slug": "echemmaia"
+    },
+    "code": {
+      "id": "MA006007_echemmaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46053"
+    ],
+    "geo": {
+      "lat": "31.86",
+      "lon": "-8.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_esbiaat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Esbiaat",
+      "en": "Esbiaat",
+      "slug": "esbiaat"
+    },
+    "code": {
+      "id": "MA006007_esbiaat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46322"
+    ],
+    "geo": {
+      "lat": "32.251",
+      "lon": "-9.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_had-ras-el-ain",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Ras El Ain",
+      "en": "Had Ras El Ain",
+      "slug": "had-ras-el-ain"
+    },
+    "code": {
+      "id": "MA006007_had-ras-el-ain",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43202"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_jdour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jdour",
+      "en": "Jdour",
+      "slug": "jdour"
+    },
+    "code": {
+      "id": "MA006007_jdour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46073"
+    ],
+    "geo": {
+      "lat": "32.251",
+      "lon": "-9.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_jnane-bouih",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jnane Bouih",
+      "en": "Jnane Bouih",
+      "slug": "jnane-bouih"
+    },
+    "code": {
+      "id": "MA006007_jnane-bouih",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46082"
+    ],
+    "geo": {
+      "lat": "32.251",
+      "lon": "-9.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_lakhoualqa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lakhoualqa",
+      "en": "Lakhoualqa",
+      "slug": "lakhoualqa"
+    },
+    "code": {
+      "id": "MA006007_lakhoualqa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46074"
+    ],
+    "geo": {
+      "lat": "31.948",
+      "lon": "-9.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_ras-el-ain",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras El Ain",
+      "en": "Ras El Ain",
+      "slug": "ras-el-ain"
+    },
+    "code": {
+      "id": "MA006007_ras-el-ain",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46203"
+    ],
+    "geo": {
+      "lat": "32.024",
+      "lon": "-8.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_ras-el-ain-ahmar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras El Ain Ahmar",
+      "en": "Ras El Ain Ahmar",
+      "slug": "ras-el-ain-ahmar"
+    },
+    "code": {
+      "id": "MA006007_ras-el-ain-ahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46075"
+    ],
+    "geo": {
+      "lat": "31.939",
+      "lon": "-8.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_sidi-ahmed-guentour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed Guentour",
+      "en": "Sidi Ahmed Guentour",
+      "slug": "sidi-ahmed-guentour"
+    },
+    "code": {
+      "id": "MA006007_sidi-ahmed-guentour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46202"
+    ],
+    "geo": {
+      "lat": "32.255",
+      "lon": "-8.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_sidi-chiker",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Chiker",
+      "en": "Sidi Chiker",
+      "slug": "sidi-chiker"
+    },
+    "code": {
+      "id": "MA006007_sidi-chiker",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46076"
+    ],
+    "geo": {
+      "lat": "32.251",
+      "lon": "-9.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_tleta-irhoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Irhoud",
+      "en": "Tleta Irhoud",
+      "slug": "tleta-irhoud"
+    },
+    "code": {
+      "id": "MA006007_tleta-irhoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46052"
+    ],
+    "geo": {
+      "lat": "32.251",
+      "lon": "-9.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006007_youssoufia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Youssoufia",
+      "en": "Youssoufia",
+      "slug": "youssoufia"
+    },
+    "code": {
+      "id": "MA006007_youssoufia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006007",
+      "level": 2,
+      "name": {
+        "local": "Youssoufia",
+        "en": "Youssoufia",
+        "slug": "youssoufia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006007",
+        "level": 2,
+        "name": {
+          "local": "Youssoufia",
+          "en": "Youssoufia",
+          "slug": "youssoufia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46300"
+    ],
+    "geo": {
+      "lat": "32.251",
+      "lon": "-9.022"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

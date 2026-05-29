@@ -1,0 +1,30 @@
+{
+  "id": "MA010",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "طنجة - تطوان - الحسيمة",
+    "en": "Tangier Tetouan Al Hoceima",
+    "slug": "tangier-tetouan-al-hoceima-ma010"
+  },
+  "code": {
+    "id": "MA010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 8,
+    "localite": 169
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.218",
+    "lon": "-5.435"
+  },
+  "metadata": {},
+  "source": {}
+}

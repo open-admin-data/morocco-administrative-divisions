@@ -1,0 +1,730 @@
+[
+  {
+    "id": "MA007001_aereport-oujda-angad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aereport Oujda Angad",
+      "en": "Aereport Oujda Angad",
+      "slug": "aereport-oujda-angad"
+    },
+    "code": {
+      "id": "MA007001_aereport-oujda-angad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60023"
+    ],
+    "geo": {
+      "lat": "34.603",
+      "lon": "-2.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_ahl-angad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ahl Angad",
+      "en": "Ahl Angad",
+      "slug": "ahl-angad"
+    },
+    "code": {
+      "id": "MA007001_ahl-angad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60085"
+    ],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-2.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_ain-es-sfa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Es Sfa",
+      "en": "Ain Es Sfa",
+      "slug": "ain-es-sfa"
+    },
+    "code": {
+      "id": "MA007001_ain-es-sfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60005"
+    ],
+    "geo": {
+      "lat": "34.603",
+      "lon": "-2.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_bni-drar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Drar",
+      "en": "Bni Drar",
+      "slug": "bni-drar"
+    },
+    "code": {
+      "id": "MA007001_bni-drar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60350"
+    ],
+    "geo": {
+      "lat": "34.86",
+      "lon": "-1.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_bni-khaled",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Khaled",
+      "en": "Bni Khaled",
+      "slug": "bni-khaled"
+    },
+    "code": {
+      "id": "MA007001_bni-khaled",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60064"
+    ],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-2.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_el-bessara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Bessara",
+      "en": "El Bessara",
+      "slug": "el-bessara"
+    },
+    "code": {
+      "id": "MA007001_el-bessara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60006"
+    ],
+    "geo": {
+      "lat": "34.603",
+      "lon": "-2.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_isly",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Isly",
+      "en": "Isly",
+      "slug": "isly"
+    },
+    "code": {
+      "id": "MA007001_isly",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60086"
+    ],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-2.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_mesteferki",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mesteferki",
+      "en": "Mesteferki",
+      "slug": "mesteferki"
+    },
+    "code": {
+      "id": "MA007001_mesteferki",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60025"
+    ],
+    "geo": {
+      "lat": "34.603",
+      "lon": "-2.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_naima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Naima",
+      "en": "Naima",
+      "slug": "naima"
+    },
+    "code": {
+      "id": "MA007001_naima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60070"
+    ],
+    "geo": {
+      "lat": "34.603",
+      "lon": "-2.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_sidi-boulenouar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boulenouar",
+      "en": "Sidi Boulenouar",
+      "slug": "sidi-boulenouar"
+    },
+    "code": {
+      "id": "MA007001_sidi-boulenouar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60065"
+    ],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-2.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_sidi-moussa-lemhaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Moussa Lemhaya",
+      "en": "Sidi Moussa Lemhaya",
+      "slug": "sidi-moussa-lemhaya"
+    },
+    "code": {
+      "id": "MA007001_sidi-moussa-lemhaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60066"
+    ],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-2.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_sidi-yahia-doujda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Yahia D'Oujda",
+      "en": "Sidi Yahia D'Oujda",
+      "slug": "sidi-yahia-doujda"
+    },
+    "code": {
+      "id": "MA007001_sidi-yahia-doujda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60700"
+    ],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-2.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001_zoudj-bghal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zoudj Bghal",
+      "en": "Zoudj Bghal",
+      "slug": "zoudj-bghal"
+    },
+    "code": {
+      "id": "MA007001_zoudj-bghal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007001",
+      "level": 2,
+      "name": {
+        "local": "Oujda Angad",
+        "en": "Oujda Angad",
+        "slug": "oujda-angad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007001",
+        "level": 2,
+        "name": {
+          "local": "Oujda Angad",
+          "en": "Oujda Angad",
+          "slug": "oujda-angad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60024"
+    ],
+    "geo": {
+      "lat": "34.603",
+      "lon": "-2.218"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

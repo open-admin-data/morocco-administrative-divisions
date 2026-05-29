@@ -1,0 +1,47 @@
+{
+  "id": "MA007002",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Berkane",
+    "en": "Berkane",
+    "slug": "berkane"
+  },
+  "code": {
+    "id": "MA007002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA007",
+    "level": 1,
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.856",
+    "lon": "-2.474"
+  },
+  "metadata": {},
+  "source": {}
+}

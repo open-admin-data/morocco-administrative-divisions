@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "MA007007_aazanen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aazanen",
+      "en": "Aazanen",
+      "slug": "aazanen"
+    },
+    "code": {
+      "id": "MA007007_aazanen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62022"
+    ],
+    "geo": {
+      "lat": "35.256",
+      "lon": "-3.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_afsou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Afsou",
+      "en": "Afsou",
+      "slug": "afsou"
+    },
+    "code": {
+      "id": "MA007007_afsou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62822"
+    ],
+    "geo": {
+      "lat": "34.972",
+      "lon": "-3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_ait-mait",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Mait",
+      "en": "Ait Mait",
+      "slug": "ait-mait"
+    },
+    "code": {
+      "id": "MA007007_ait-mait",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62254"
+    ],
+    "geo": {
+      "lat": "35.052",
+      "lon": "-2.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_al-aaroui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Aaroui",
+      "en": "Al Aaroui",
+      "slug": "al-aaroui"
+    },
+    "code": {
+      "id": "MA007007_al-aaroui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62550"
+    ],
+    "geo": {
+      "lat": "35.011",
+      "lon": "-3.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_al-barkanyene",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Barkanyene",
+      "en": "Al Barkanyene",
+      "slug": "al-barkanyene"
+    },
+    "code": {
+      "id": "MA007007_al-barkanyene",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62035"
+    ],
+    "geo": {
+      "lat": "35.052",
+      "lon": "-2.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_beni-bou-ifrour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Bou Ifrour",
+      "en": "Beni Bou Ifrour",
+      "slug": "beni-bou-ifrour"
+    },
+    "code": {
+      "id": "MA007007_beni-bou-ifrour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62672"
+    ],
+    "geo": {
+      "lat": "35.148",
+      "lon": "-2.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_bni-ansar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Ansar",
+      "en": "Bni Ansar",
+      "slug": "bni-ansar"
+    },
+    "code": {
+      "id": "MA007007_bni-ansar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62050"
+    ],
+    "geo": {
+      "lat": "35.08",
+      "lon": "-2.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_bni-oukil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Oukil",
+      "en": "Bni Oukil",
+      "slug": "bni-oukil"
+    },
+    "code": {
+      "id": "MA007007_bni-oukil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60032"
+    ],
+    "geo": {
+      "lat": "34.603",
+      "lon": "-2.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_bni-oukil-oulad-mhand",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Oukil Oulad Mhand",
+      "en": "Bni Oukil Oulad Mhand",
+      "slug": "bni-oukil-oulad-mhand"
+    },
+    "code": {
+      "id": "MA007007_bni-oukil-oulad-mhand",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62042"
+    ],
+    "geo": {
+      "lat": "35.052",
+      "lon": "-2.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_bni-sidel-louta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Sidel Louta",
+      "en": "Bni Sidel Louta",
+      "slug": "bni-sidel-louta"
+    },
+    "code": {
+      "id": "MA007007_bni-sidel-louta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62872"
+    ],
+    "geo": {
+      "lat": "34.972",
+      "lon": "-3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_bouarg",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouarg",
+      "en": "Bouarg",
+      "slug": "bouarg"
+    },
+    "code": {
+      "id": "MA007007_bouarg",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62023"
+    ],
+    "geo": {
+      "lat": "35.08",
+      "lon": "-2.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_farkhana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Farkhana",
+      "en": "Farkhana",
+      "slug": "farkhana"
+    },
+    "code": {
+      "id": "MA007007_farkhana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62024"
+    ],
+    "geo": {
+      "lat": "35.288",
+      "lon": "-2.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_had-bni-chiker",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Bni Chiker",
+      "en": "Had Bni Chiker",
+      "slug": "had-bni-chiker"
+    },
+    "code": {
+      "id": "MA007007_had-bni-chiker",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62302"
+    ],
+    "geo": {
+      "lat": "35.107",
+      "lon": "-2.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_hassi-berkane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hassi Berkane",
+      "en": "Hassi Berkane",
+      "slug": "hassi-berkane"
+    },
+    "code": {
+      "id": "MA007007_hassi-berkane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62902"
+    ],
+    "geo": {
+      "lat": "34.839",
+      "lon": "-2.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_ihaddadene",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ihaddadene",
+      "en": "Ihaddadene",
+      "slug": "ihaddadene"
+    },
+    "code": {
+      "id": "MA007007_ihaddadene",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62673"
+    ],
+    "geo": {
+      "lat": "35.148",
+      "lon": "-2.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_iksane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Iksane",
+      "en": "Iksane",
+      "slug": "iksane"
+    },
+    "code": {
+      "id": "MA007007_iksane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62034"
+    ],
+    "geo": {
+      "lat": "35.052",
+      "lon": "-2.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_kariat-arkmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kariat Arkmane",
+      "en": "Kariat Arkmane",
+      "slug": "kariat-arkmane"
+    },
+    "code": {
+      "id": "MA007007_kariat-arkmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62352"
+    ],
+    "geo": {
+      "lat": "35.107",
+      "lon": "-2.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_mechra-klila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mechra Klila",
+      "en": "Mechra Klila",
+      "slug": "mechra-klila"
+    },
+    "code": {
+      "id": "MA007007_mechra-klila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62025"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_monte-arrui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Monte Arrui",
+      "en": "Monte Arrui",
+      "slug": "monte-arrui"
+    },
+    "code": {
+      "id": "MA007007_monte-arrui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62553"
+    ],
+    "geo": {
+      "lat": "35.052",
+      "lon": "-2.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_oulad-daoud-zkhanine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Daoud Zkhanine",
+      "en": "Oulad Daoud Zkhanine",
+      "slug": "oulad-daoud-zkhanine"
+    },
+    "code": {
+      "id": "MA007007_oulad-daoud-zkhanine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62922"
+    ],
+    "geo": {
+      "lat": "34.891",
+      "lon": "-2.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_oulad-settout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Settout",
+      "en": "Oulad Settout",
+      "slug": "oulad-settout"
+    },
+    "code": {
+      "id": "MA007007_oulad-settout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62043"
+    ],
+    "geo": {
+      "lat": "35.052",
+      "lon": "-2.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_ras-el-ma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras El Ma",
+      "en": "Ras El Ma",
+      "slug": "ras-el-ma"
+    },
+    "code": {
+      "id": "MA007007_ras-el-ma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62602"
+    ],
+    "geo": {
+      "lat": "35.141",
+      "lon": "-2.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_selouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Selouane",
+      "en": "Selouane",
+      "slug": "selouane"
+    },
+    "code": {
+      "id": "MA007007_selouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62702"
+    ],
+    "geo": {
+      "lat": "35.073",
+      "lon": "-2.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_taouima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taouima",
+      "en": "Taouima",
+      "slug": "taouima"
+    },
+    "code": {
+      "id": "MA007007_taouima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62026"
+    ],
+    "geo": {
+      "lat": "35.13",
+      "lon": "-2.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_tiztoutine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiztoutine",
+      "en": "Tiztoutine",
+      "slug": "tiztoutine"
+    },
+    "code": {
+      "id": "MA007007_tiztoutine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62802"
+    ],
+    "geo": {
+      "lat": "34.972",
+      "lon": "-3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_tleta-jbel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Jbel",
+      "en": "Tleta Jbel",
+      "slug": "tleta-jbel"
+    },
+    "code": {
+      "id": "MA007007_tleta-jbel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62852"
+    ],
+    "geo": {
+      "lat": "34.972",
+      "lon": "-3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_zaio",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaio",
+      "en": "Zaio",
+      "slug": "zaio"
+    },
+    "code": {
+      "id": "MA007007_zaio",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62900"
+    ],
+    "geo": {
+      "lat": "34.943",
+      "lon": "-2.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007_zeghanghane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zeghanghane",
+      "en": "Zeghanghane",
+      "slug": "zeghanghane"
+    },
+    "code": {
+      "id": "MA007007_zeghanghane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007007",
+      "level": 2,
+      "name": {
+        "local": "Nador",
+        "en": "Nador",
+        "slug": "nador"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007007",
+        "level": 2,
+        "name": {
+          "local": "Nador",
+          "en": "Nador",
+          "slug": "nador"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62650"
+    ],
+    "geo": {
+      "lat": "35.156",
+      "lon": "-3.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

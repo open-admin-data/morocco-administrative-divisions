@@ -1,0 +1,47 @@
+{
+  "id": "MA004002",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Meknes",
+    "en": "Meknes",
+    "slug": "meknes"
+  },
+  "code": {
+    "id": "MA004002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA004",
+    "level": 1,
+    "name": {
+      "local": "فاس - مكناس",
+      "en": "Fez Meknes",
+      "slug": "fez-meknes-ma004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA004",
+      "level": 1,
+      "name": {
+        "local": "فاس - مكناس",
+        "en": "Fez Meknes",
+        "slug": "fez-meknes-ma004"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34",
+    "lon": "-5.498"
+  },
+  "metadata": {},
+  "source": {}
+}

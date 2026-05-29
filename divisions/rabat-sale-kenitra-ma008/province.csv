@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA008004,Kenitra,Kenitra,kenitra,MA008004,22,34.557,-6.356
+MA008005,Khemisset,Khemisset,khemisset,MA008005,40,33.666,-6.265
+MA008002,Rabat,Rabat,rabat,MA008002,0,33.967,-6.843
+MA008003,Sale,Sale,sale,MA008003,5,33.974,-6.656
+MA008006,Sidi Kacem,Sidi Kacem,sidi-kacem,MA008006,28,34.48,-5.578
+MA008007,Sidi Slimane,Sidi Slimane,sidi-slimane,MA008007,11,34.287,-6.054
+MA008001,Skhirate Temara,Skhirate Temara,skhirate-temara,MA008001,9,33.748,-6.879

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "MA006006_arbaa-khattazakarne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Khattazakarne",
+      "en": "Arbaa Khattazakarne",
+      "slug": "arbaa-khattazakarne"
+    },
+    "code": {
+      "id": "MA006006_arbaa-khattazakarne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46022"
+    ],
+    "geo": {
+      "lat": "32.288",
+      "lon": "-8.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_atouabet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Atouabet",
+      "en": "Atouabet",
+      "slug": "atouabet"
+    },
+    "code": {
+      "id": "MA006006_atouabet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46172"
+    ],
+    "geo": {
+      "lat": "32.037",
+      "lon": "-9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_beddouza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beddouza",
+      "en": "Beddouza",
+      "slug": "beddouza"
+    },
+    "code": {
+      "id": "MA006006_beddouza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46023"
+    ],
+    "geo": {
+      "lat": "32.288",
+      "lon": "-8.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_chahda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chahda",
+      "en": "Chahda",
+      "slug": "chahda"
+    },
+    "code": {
+      "id": "MA006006_chahda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46044"
+    ],
+    "geo": {
+      "lat": "32.25",
+      "lon": "-8.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_dar-si-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Si Aissa",
+      "en": "Dar Si Aissa",
+      "slug": "dar-si-aissa"
+    },
+    "code": {
+      "id": "MA006006_dar-si-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46026"
+    ],
+    "geo": {
+      "lat": "32.413",
+      "lon": "-9.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_el-gouraani",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Gouraani",
+      "en": "El Gouraani",
+      "slug": "el-gouraani"
+    },
+    "code": {
+      "id": "MA006006_el-gouraani",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46042"
+    ],
+    "geo": {
+      "lat": "32.25",
+      "lon": "-8.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_had-harara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Harara",
+      "en": "Had Harara",
+      "slug": "had-harara"
+    },
+    "code": {
+      "id": "MA006006_had-harara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46006"
+    ],
+    "geo": {
+      "lat": "32.124",
+      "lon": "-8.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_jamaat-shaim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jamaat Shaim",
+      "en": "Jamaat Shaim",
+      "slug": "jamaat-shaim"
+    },
+    "code": {
+      "id": "MA006006_jamaat-shaim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46100"
+    ],
+    "geo": {
+      "lat": "32.347",
+      "lon": "-8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_khemis-nga",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Nga",
+      "en": "Khemis Nga",
+      "slug": "khemis-nga"
+    },
+    "code": {
+      "id": "MA006006_khemis-nga",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46173"
+    ],
+    "geo": {
+      "lat": "32.037",
+      "lon": "-9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_laamamra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laamamra",
+      "en": "Laamamra",
+      "slug": "laamamra"
+    },
+    "code": {
+      "id": "MA006006_laamamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46153"
+    ],
+    "geo": {
+      "lat": "32.25",
+      "lon": "-8.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_labkhati",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Labkhati",
+      "en": "Labkhati",
+      "slug": "labkhati"
+    },
+    "code": {
+      "id": "MA006006_labkhati",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46122"
+    ],
+    "geo": {
+      "lat": "32.435",
+      "lon": "-8.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_lahdar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lahdar",
+      "en": "Lahdar",
+      "slug": "lahdar"
+    },
+    "code": {
+      "id": "MA006006_lahdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46043"
+    ],
+    "geo": {
+      "lat": "32.25",
+      "lon": "-8.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_lamaachate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamaachate",
+      "en": "Lamaachate",
+      "slug": "lamaachate"
+    },
+    "code": {
+      "id": "MA006006_lamaachate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46154"
+    ],
+    "geo": {
+      "lat": "32.25",
+      "lon": "-8.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_lamrasla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamrasla",
+      "en": "Lamrasla",
+      "slug": "lamrasla"
+    },
+    "code": {
+      "id": "MA006006_lamrasla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46175"
+    ],
+    "geo": {
+      "lat": "32.038",
+      "lon": "-8.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_lamsabih",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamsabih",
+      "en": "Lamsabih",
+      "slug": "lamsabih"
+    },
+    "code": {
+      "id": "MA006006_lamsabih",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46125"
+    ],
+    "geo": {
+      "lat": "32.301",
+      "lon": "-8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_moul-bergui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moul Bergui",
+      "en": "Moul Bergui",
+      "slug": "moul-bergui"
+    },
+    "code": {
+      "id": "MA006006_moul-bergui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46123"
+    ],
+    "geo": {
+      "lat": "32.526",
+      "lon": "-9.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_ouled-selmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Selmane",
+      "en": "Ouled Selmane",
+      "slug": "ouled-selmane"
+    },
+    "code": {
+      "id": "MA006006_ouled-selmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46035"
+    ],
+    "geo": {
+      "lat": "32.706",
+      "lon": "-9.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_saadla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saadla",
+      "en": "Saadla",
+      "slug": "saadla"
+    },
+    "code": {
+      "id": "MA006006_saadla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46155"
+    ],
+    "geo": {
+      "lat": "32.25",
+      "lon": "-8.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_sebt-gzoula",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Gzoula",
+      "en": "Sebt Gzoula",
+      "slug": "sebt-gzoula"
+    },
+    "code": {
+      "id": "MA006006_sebt-gzoula",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46150"
+    ],
+    "geo": {
+      "lat": "32.108",
+      "lon": "-9.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_sidi-tiji",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Tiji",
+      "en": "Sidi Tiji",
+      "slug": "sidi-tiji"
+    },
+    "code": {
+      "id": "MA006006_sidi-tiji",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46024"
+    ],
+    "geo": {
+      "lat": "32.163",
+      "lon": "-8.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_souira-kedima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souira Kedima",
+      "en": "Souira Kedima",
+      "slug": "souira-kedima"
+    },
+    "code": {
+      "id": "MA006006_souira-kedima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46025"
+    ],
+    "geo": {
+      "lat": "32.288",
+      "lon": "-8.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_souk-eyr",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Eyr",
+      "en": "Souk Eyr",
+      "slug": "souk-eyr"
+    },
+    "code": {
+      "id": "MA006006_souk-eyr",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46034"
+    ],
+    "geo": {
+      "lat": "32.706",
+      "lon": "-9.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_tleta-sidi-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Sidi Aissa",
+      "en": "Tleta Sidi Aissa",
+      "slug": "tleta-sidi-aissa"
+    },
+    "code": {
+      "id": "MA006006_tleta-sidi-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46124"
+    ],
+    "geo": {
+      "lat": "32.421",
+      "lon": "-8.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_tleta-sidi-bouguedra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Sidi Bouguedra",
+      "en": "Tleta Sidi Bouguedra",
+      "slug": "tleta-sidi-bouguedra"
+    },
+    "code": {
+      "id": "MA006006_tleta-sidi-bouguedra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46252"
+    ],
+    "geo": {
+      "lat": "32.255",
+      "lon": "-8.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006006_tnine-rhiate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Rhiate",
+      "en": "Tnine Rhiate",
+      "slug": "tnine-rhiate"
+    },
+    "code": {
+      "id": "MA006006_tnine-rhiate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006006",
+      "level": 2,
+      "name": {
+        "local": "Safi",
+        "en": "Safi",
+        "slug": "safi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006006",
+        "level": 2,
+        "name": {
+          "local": "Safi",
+          "en": "Safi",
+          "slug": "safi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46174"
+    ],
+    "geo": {
+      "lat": "32.037",
+      "lon": "-9.164"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

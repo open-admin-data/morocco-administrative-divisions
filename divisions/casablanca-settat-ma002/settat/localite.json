@@ -1,0 +1,3530 @@
+[
+  {
+    "id": "MA002009_ain-dorbane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Dorbane",
+      "en": "Ain Dorbane",
+      "slug": "ain-dorbane"
+    },
+    "code": {
+      "id": "MA002009_ain-dorbane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26053"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_ain-nzarh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Nzarh",
+      "en": "Ain Nzarh",
+      "slug": "ain-nzarh"
+    },
+    "code": {
+      "id": "MA002009_ain-nzarh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26022"
+    ],
+    "geo": {
+      "lat": "32.978",
+      "lon": "-7.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_arba-oulad-bou-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arba Oulad Bou Ali",
+      "en": "Arba Oulad Bou Ali",
+      "slug": "arba-oulad-bou-ali"
+    },
+    "code": {
+      "id": "MA002009_arba-oulad-bou-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26272"
+    ],
+    "geo": {
+      "lat": "32.519",
+      "lon": "-7.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_ben-ahmed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ben Ahmed",
+      "en": "Ben Ahmed",
+      "slug": "ben-ahmed"
+    },
+    "code": {
+      "id": "MA002009_ben-ahmed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26050"
+    ],
+    "geo": {
+      "lat": "33.066",
+      "lon": "-7.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_bni-khloug",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Khloug",
+      "en": "Bni Khloug",
+      "slug": "bni-khloug"
+    },
+    "code": {
+      "id": "MA002009_bni-khloug",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26152"
+    ],
+    "geo": {
+      "lat": "32.643",
+      "lon": "-7.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_bni-yagrine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Yagrine",
+      "en": "Bni Yagrine",
+      "slug": "bni-yagrine"
+    },
+    "code": {
+      "id": "MA002009_bni-yagrine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26014"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_bouguargouh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouguargouh",
+      "en": "Bouguargouh",
+      "slug": "bouguargouh"
+    },
+    "code": {
+      "id": "MA002009_bouguargouh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26054"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_dar-chaffai",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Chaffai",
+      "en": "Dar Chaffai",
+      "slug": "dar-chaffai"
+    },
+    "code": {
+      "id": "MA002009_dar-chaffai",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26172"
+    ],
+    "geo": {
+      "lat": "32.548",
+      "lon": "-7.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_deroua-oulad-ziane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Deroua Oulad Ziane",
+      "en": "Deroua Oulad Ziane",
+      "slug": "deroua-oulad-ziane"
+    },
+    "code": {
+      "id": "MA002009_deroua-oulad-ziane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26202"
+    ],
+    "geo": {
+      "lat": "32.601",
+      "lon": "-7.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_douar-ouled-naceur",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douar Ouled Naceur",
+      "en": "Douar Ouled Naceur",
+      "slug": "douar-ouled-naceur"
+    },
+    "code": {
+      "id": "MA002009_douar-ouled-naceur",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26573"
+    ],
+    "geo": {
+      "lat": "33.02",
+      "lon": "-7.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_el-borouj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Borouj",
+      "en": "El Borouj",
+      "slug": "el-borouj"
+    },
+    "code": {
+      "id": "MA002009_el-borouj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26250"
+    ],
+    "geo": {
+      "lat": "32.505",
+      "lon": "-7.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_ghnimiyne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ghnimiyne",
+      "en": "Ghnimiyne",
+      "slug": "ghnimiyne"
+    },
+    "code": {
+      "id": "MA002009_ghnimiyne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26473"
+    ],
+    "geo": {
+      "lat": "33.064",
+      "lon": "-8.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_guisser",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guisser",
+      "en": "Guisser",
+      "slug": "guisser"
+    },
+    "code": {
+      "id": "MA002009_guisser",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26352"
+    ],
+    "geo": {
+      "lat": "32.767",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_had-mzoura",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Mzoura",
+      "en": "Had Mzoura",
+      "slug": "had-mzoura"
+    },
+    "code": {
+      "id": "MA002009_had-mzoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26023"
+    ],
+    "geo": {
+      "lat": "32.833",
+      "lon": "-7.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_imfout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imfout",
+      "en": "Imfout",
+      "slug": "imfout"
+    },
+    "code": {
+      "id": "MA002009_imfout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26672"
+    ],
+    "geo": {
+      "lat": "32.73",
+      "lon": "-7.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_khemis-gdana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Gdana",
+      "en": "Khemis Gdana",
+      "slug": "khemis-gdana"
+    },
+    "code": {
+      "id": "MA002009_khemis-gdana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26522"
+    ],
+    "geo": {
+      "lat": "32.994",
+      "lon": "-7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_khemisset-chaouia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemisset Chaouia",
+      "en": "Khemisset Chaouia",
+      "slug": "khemisset-chaouia"
+    },
+    "code": {
+      "id": "MA002009_khemisset-chaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26015"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_krakra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Krakra",
+      "en": "Krakra",
+      "slug": "krakra"
+    },
+    "code": {
+      "id": "MA002009_krakra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26273"
+    ],
+    "geo": {
+      "lat": "32.519",
+      "lon": "-7.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_lahlaf-mzab",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lahlaf Mzab",
+      "en": "Lahlaf Mzab",
+      "slug": "lahlaf-mzab"
+    },
+    "code": {
+      "id": "MA002009_lahlaf-mzab",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26055"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_lahouaza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lahouaza",
+      "en": "Lahouaza",
+      "slug": "lahouaza"
+    },
+    "code": {
+      "id": "MA002009_lahouaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26016"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_lakhzazra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lakhzazra",
+      "en": "Lakhzazra",
+      "slug": "lakhzazra"
+    },
+    "code": {
+      "id": "MA002009_lakhzazra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26056"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_mechra-ben-abbou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mechra Ben Abbou",
+      "en": "Mechra Ben Abbou",
+      "slug": "mechra-ben-abbou"
+    },
+    "code": {
+      "id": "MA002009_mechra-ben-abbou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26673"
+    ],
+    "geo": {
+      "lat": "32.754",
+      "lon": "-7.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_meskoura",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Meskoura",
+      "en": "Meskoura",
+      "slug": "meskoura"
+    },
+    "code": {
+      "id": "MA002009_meskoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26703"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_mgarto",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mgarto",
+      "en": "Mgarto",
+      "slug": "mgarto"
+    },
+    "code": {
+      "id": "MA002009_mgarto",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26072"
+    ],
+    "geo": {
+      "lat": "33.175",
+      "lon": "-7.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_mniaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mniaa",
+      "en": "Mniaa",
+      "slug": "mniaa"
+    },
+    "code": {
+      "id": "MA002009_mniaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26062"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_mrizig",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mrizig",
+      "en": "Mrizig",
+      "slug": "mrizig"
+    },
+    "code": {
+      "id": "MA002009_mrizig",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26622"
+    ],
+    "geo": {
+      "lat": "32.846",
+      "lon": "-7.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_mzamza-janoubia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mzamza Janoubia",
+      "en": "Mzamza Janoubia",
+      "slug": "mzamza-janoubia"
+    },
+    "code": {
+      "id": "MA002009_mzamza-janoubia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26066"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_nkhila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nkhila",
+      "en": "Nkhila",
+      "slug": "nkhila"
+    },
+    "code": {
+      "id": "MA002009_nkhila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26722"
+    ],
+    "geo": {
+      "lat": "32.995",
+      "lon": "-7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oued-bers",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Bers",
+      "en": "Oued Bers",
+      "slug": "oued-bers"
+    },
+    "code": {
+      "id": "MA002009_oued-bers",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26472"
+    ],
+    "geo": {
+      "lat": "32.982",
+      "lon": "-8.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oued-naanaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Naanaa",
+      "en": "Oued Naanaa",
+      "slug": "oued-naanaa"
+    },
+    "code": {
+      "id": "MA002009_oued-naanaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26572"
+    ],
+    "geo": {
+      "lat": "33.02",
+      "lon": "-7.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-aafif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Aafif",
+      "en": "Oulad Aafif",
+      "slug": "oulad-aafif"
+    },
+    "code": {
+      "id": "MA002009_oulad-aafif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26025"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-amera",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Amera",
+      "en": "Oulad Amera",
+      "slug": "oulad-amera"
+    },
+    "code": {
+      "id": "MA002009_oulad-amera",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26682"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-belkacem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Belkacem",
+      "en": "Oulad Belkacem",
+      "slug": "oulad-belkacem"
+    },
+    "code": {
+      "id": "MA002009_oulad-belkacem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26274"
+    ],
+    "geo": {
+      "lat": "32.519",
+      "lon": "-7.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-chbana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Chbana",
+      "en": "Oulad Chbana",
+      "slug": "oulad-chbana"
+    },
+    "code": {
+      "id": "MA002009_oulad-chbana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26063"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-driss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Driss",
+      "en": "Oulad Driss",
+      "slug": "oulad-driss"
+    },
+    "code": {
+      "id": "MA002009_oulad-driss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26275"
+    ],
+    "geo": {
+      "lat": "32.442",
+      "lon": "-7.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-hammou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Hammou",
+      "en": "Oulad Hammou",
+      "slug": "oulad-hammou"
+    },
+    "code": {
+      "id": "MA002009_oulad-hammou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26276"
+    ],
+    "geo": {
+      "lat": "32.596",
+      "lon": "-7.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-mhamed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Mhamed",
+      "en": "Oulad Mhamed",
+      "slug": "oulad-mhamed"
+    },
+    "code": {
+      "id": "MA002009_oulad-mhamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26073"
+    ],
+    "geo": {
+      "lat": "33.117",
+      "lon": "-7.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-mrah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Mrah",
+      "en": "Oulad Mrah",
+      "slug": "oulad-mrah"
+    },
+    "code": {
+      "id": "MA002009_oulad-mrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26032"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-njima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad N'Jima",
+      "en": "Oulad N'Jima",
+      "slug": "oulad-njima"
+    },
+    "code": {
+      "id": "MA002009_oulad-njima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26173"
+    ],
+    "geo": {
+      "lat": "32.534",
+      "lon": "-7.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-said",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Said",
+      "en": "Oulad Said",
+      "slug": "oulad-said"
+    },
+    "code": {
+      "id": "MA002009_oulad-said",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26502"
+    ],
+    "geo": {
+      "lat": "32.968",
+      "lon": "-7.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_oulad-ziane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ziane",
+      "en": "Oulad Ziane",
+      "slug": "oulad-ziane"
+    },
+    "code": {
+      "id": "MA002009_oulad-ziane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26422"
+    ],
+    "geo": {
+      "lat": "33.04",
+      "lon": "-7.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_ouled-zidane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Zidane",
+      "en": "Ouled Zidane",
+      "slug": "ouled-zidane"
+    },
+    "code": {
+      "id": "MA002009_ouled-zidane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26312"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_ras-el-ain",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras El Ain",
+      "en": "Ras El Ain",
+      "slug": "ras-el-ain"
+    },
+    "code": {
+      "id": "MA002009_ras-el-ain",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26552"
+    ],
+    "geo": {
+      "lat": "32.994",
+      "lon": "-7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_rima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rima",
+      "en": "Rima",
+      "slug": "rima"
+    },
+    "code": {
+      "id": "MA002009_rima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26372"
+    ],
+    "geo": {
+      "lat": "32.787",
+      "lon": "-7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sebt-oulad-friha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Oulad Friha",
+      "en": "Sebt Oulad Friha",
+      "slug": "sebt-oulad-friha"
+    },
+    "code": {
+      "id": "MA002009_sebt-oulad-friha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26024"
+    ],
+    "geo": {
+      "lat": "32.978",
+      "lon": "-7.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sgamna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sgamna",
+      "en": "Sgamna",
+      "slug": "sgamna"
+    },
+    "code": {
+      "id": "MA002009_sgamna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26064"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-abdelkrim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdelkrim",
+      "en": "Sidi Abdelkrim",
+      "slug": "sidi-abdelkrim"
+    },
+    "code": {
+      "id": "MA002009_sidi-abdelkrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26065"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-ahmed-el-khadir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed El Khadir",
+      "en": "Sidi Ahmed El Khadir",
+      "slug": "sidi-ahmed-el-khadir"
+    },
+    "code": {
+      "id": "MA002009_sidi-ahmed-el-khadir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26174"
+    ],
+    "geo": {
+      "lat": "32.52",
+      "lon": "-7.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-boumehdi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boumehdi",
+      "en": "Sidi Boumehdi",
+      "slug": "sidi-boumehdi"
+    },
+    "code": {
+      "id": "MA002009_sidi-boumehdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26704"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-dahbi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Dahbi",
+      "en": "Sidi Dahbi",
+      "slug": "sidi-dahbi"
+    },
+    "code": {
+      "id": "MA002009_sidi-dahbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26074"
+    ],
+    "geo": {
+      "lat": "33.058",
+      "lon": "-7.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-el-aidi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Aidi",
+      "en": "Sidi El Aidi",
+      "slug": "sidi-el-aidi"
+    },
+    "code": {
+      "id": "MA002009_sidi-el-aidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26026"
+    ],
+    "geo": {
+      "lat": "33.124",
+      "lon": "-7.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-hajjaj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Hajjaj",
+      "en": "Sidi Hajjaj",
+      "slug": "sidi-hajjaj"
+    },
+    "code": {
+      "id": "MA002009_sidi-hajjaj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26600"
+    ],
+    "geo": {
+      "lat": "32.913",
+      "lon": "-7.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-mohammed-ben-rahal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mohammed Ben Rahal",
+      "en": "Sidi Mohammed Ben Rahal",
+      "slug": "sidi-mohammed-ben-rahal"
+    },
+    "code": {
+      "id": "MA002009_sidi-mohammed-ben-rahal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26033"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-rahhal-chaouia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Rahhal Chaouia",
+      "en": "Sidi Rahhal Chaouia",
+      "slug": "sidi-rahhal-chaouia"
+    },
+    "code": {
+      "id": "MA002009_sidi-rahhal-chaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26652"
+    ],
+    "geo": {
+      "lat": "32.811",
+      "lon": "-7.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-rahhal-plage",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Rahhal Plage",
+      "en": "Sidi Rahhal Plage",
+      "slug": "sidi-rahhal-plage"
+    },
+    "code": {
+      "id": "MA002009_sidi-rahhal-plage",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26175"
+    ],
+    "geo": {
+      "lat": "32.534",
+      "lon": "-7.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_sidi-said-maachou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Said Maachou",
+      "en": "Sidi Said Maachou",
+      "slug": "sidi-said-maachou"
+    },
+    "code": {
+      "id": "MA002009_sidi-said-maachou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26474"
+    ],
+    "geo": {
+      "lat": "32.816",
+      "lon": "-7.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_tamadroust",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamadroust",
+      "en": "Tamadroust",
+      "slug": "tamadroust"
+    },
+    "code": {
+      "id": "MA002009_tamadroust",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26034"
+    ],
+    "geo": {
+      "lat": "32.775",
+      "lon": "-7.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_tleta-ain-blal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Ain Blal",
+      "en": "Tleta Ain Blal",
+      "slug": "tleta-ain-blal"
+    },
+    "code": {
+      "id": "MA002009_tleta-ain-blal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26674"
+    ],
+    "geo": {
+      "lat": "32.754",
+      "lon": "-7.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_tleta-loulad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Loulad",
+      "en": "Tleta Loulad",
+      "slug": "tleta-loulad"
+    },
+    "code": {
+      "id": "MA002009_tleta-loulad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26700"
+    ],
+    "geo": {
+      "lat": "32.995",
+      "lon": "-7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_tleta-oulad-fares",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Oulad Fares",
+      "en": "Tleta Oulad Fares",
+      "slug": "tleta-oulad-fares"
+    },
+    "code": {
+      "id": "MA002009_tleta-oulad-fares",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26623"
+    ],
+    "geo": {
+      "lat": "32.79",
+      "lon": "-7.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_tleta-oulad-sghir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Oulad Sghir",
+      "en": "Tleta Oulad Sghir",
+      "slug": "tleta-oulad-sghir"
+    },
+    "code": {
+      "id": "MA002009_tleta-oulad-sghir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26232"
+    ],
+    "geo": {
+      "lat": "32.861",
+      "lon": "-7.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_tnine-toualet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Toualet",
+      "en": "Tnine Toualet",
+      "slug": "tnine-toualet"
+    },
+    "code": {
+      "id": "MA002009_tnine-toualet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26675"
+    ],
+    "geo": {
+      "lat": "32.778",
+      "lon": "-7.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002009_zemamra-chaouia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zemamra Chaouia",
+      "en": "Zemamra Chaouia",
+      "slug": "zemamra-chaouia"
+    },
+    "code": {
+      "id": "MA002009_zemamra-chaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002009",
+      "level": 2,
+      "name": {
+        "local": "Settat",
+        "en": "Settat",
+        "slug": "settat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002009",
+        "level": 2,
+        "name": {
+          "local": "Settat",
+          "en": "Settat",
+          "slug": "settat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26676"
+    ],
+    "geo": {
+      "lat": "32.754",
+      "lon": "-7.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

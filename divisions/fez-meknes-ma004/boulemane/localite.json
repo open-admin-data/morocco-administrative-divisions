@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "MA004005_achlouj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Achlouj",
+      "en": "Achlouj",
+      "slug": "achlouj"
+    },
+    "code": {
+      "id": "MA004005_achlouj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33022"
+    ],
+    "geo": {
+      "lat": "33.183",
+      "lon": "-4.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ait-abdallah-boukhamouj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Abdallah Boukhamouj",
+      "en": "Ait Abdallah Boukhamouj",
+      "slug": "ait-abdallah-boukhamouj"
+    },
+    "code": {
+      "id": "MA004005_ait-abdallah-boukhamouj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33122"
+    ],
+    "geo": {
+      "lat": "33.458",
+      "lon": "-4.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ait-bazza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Bazza",
+      "en": "Ait Bazza",
+      "slug": "ait-bazza"
+    },
+    "code": {
+      "id": "MA004005_ait-bazza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33172"
+    ],
+    "geo": {
+      "lat": "33.455",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ait-el-mane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait El Mane",
+      "en": "Ait El Mane",
+      "slug": "ait-el-mane"
+    },
+    "code": {
+      "id": "MA004005_ait-el-mane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33173"
+    ],
+    "geo": {
+      "lat": "33.455",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ait-hamza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Hamza",
+      "en": "Ait Hamza",
+      "slug": "ait-hamza"
+    },
+    "code": {
+      "id": "MA004005_ait-hamza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33052"
+    ],
+    "geo": {
+      "lat": "33.347",
+      "lon": "-4.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_almis-guigou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Almis Guigou",
+      "en": "Almis Guigou",
+      "slug": "almis-guigou"
+    },
+    "code": {
+      "id": "MA004005_almis-guigou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33053"
+    ],
+    "geo": {
+      "lat": "33.387",
+      "lon": "-4.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_almis-marmoucha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Almis Marmoucha",
+      "en": "Almis Marmoucha",
+      "slug": "almis-marmoucha"
+    },
+    "code": {
+      "id": "MA004005_almis-marmoucha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33174"
+    ],
+    "geo": {
+      "lat": "33.32",
+      "lon": "-4.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_boulemane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boulemane",
+      "en": "Boulemane",
+      "slug": "boulemane"
+    },
+    "code": {
+      "id": "MA004005_boulemane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "33.364",
+      "lon": "-4.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_el-mers",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Mers",
+      "en": "El Mers",
+      "slug": "el-mers"
+    },
+    "code": {
+      "id": "MA004005_el-mers",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33102"
+    ],
+    "geo": {
+      "lat": "33.452",
+      "lon": "-4.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_el-orjane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Orjane",
+      "en": "El Orjane",
+      "slug": "el-orjane"
+    },
+    "code": {
+      "id": "MA004005_el-orjane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33324"
+    ],
+    "geo": {
+      "lat": "33.398",
+      "lon": "-3.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_enjil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Enjil",
+      "en": "Enjil",
+      "slug": "enjil"
+    },
+    "code": {
+      "id": "MA004005_enjil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33002"
+    ],
+    "geo": {
+      "lat": "33.185",
+      "lon": "-4.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_enjil-ait-lahcen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Enjil Ait Lahcen",
+      "en": "Enjil Ait Lahcen",
+      "slug": "enjil-ait-lahcen"
+    },
+    "code": {
+      "id": "MA004005_enjil-ait-lahcen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33023"
+    ],
+    "geo": {
+      "lat": "33.185",
+      "lon": "-4.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ermila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ermila",
+      "en": "Ermila",
+      "slug": "ermila"
+    },
+    "code": {
+      "id": "MA004005_ermila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33006"
+    ],
+    "geo": {
+      "lat": "33.248",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_fritissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fritissa",
+      "en": "Fritissa",
+      "slug": "fritissa"
+    },
+    "code": {
+      "id": "MA004005_fritissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33322"
+    ],
+    "geo": {
+      "lat": "33.619",
+      "lon": "-3.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ifkirne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ifkirne",
+      "en": "Ifkirne",
+      "slug": "ifkirne"
+    },
+    "code": {
+      "id": "MA004005_ifkirne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33024"
+    ],
+    "geo": {
+      "lat": "33.184",
+      "lon": "-4.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_imouzzer-marmoucha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imouzzer Marmoucha",
+      "en": "Imouzzer Marmoucha",
+      "slug": "imouzzer-marmoucha"
+    },
+    "code": {
+      "id": "MA004005_imouzzer-marmoucha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33152"
+    ],
+    "geo": {
+      "lat": "33.47",
+      "lon": "-4.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ksabi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksabi",
+      "en": "Ksabi",
+      "slug": "ksabi"
+    },
+    "code": {
+      "id": "MA004005_ksabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33202"
+    ],
+    "geo": {
+      "lat": "32.833",
+      "lon": "-4.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ksabi-moulouya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksabi Moulouya",
+      "en": "Ksabi Moulouya",
+      "slug": "ksabi-moulouya"
+    },
+    "code": {
+      "id": "MA004005_ksabi-moulouya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33254"
+    ],
+    "geo": {
+      "lat": "33.248",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_missour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Missour",
+      "en": "Missour",
+      "slug": "missour"
+    },
+    "code": {
+      "id": "MA004005_missour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33250"
+    ],
+    "geo": {
+      "lat": "33.049",
+      "lon": "-3.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ouaoulzemt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouaoulzemt",
+      "en": "Ouaoulzemt",
+      "slug": "ouaoulzemt"
+    },
+    "code": {
+      "id": "MA004005_ouaoulzemt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33175"
+    ],
+    "geo": {
+      "lat": "33.455",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ouizeght",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouizeght",
+      "en": "Ouizeght",
+      "slug": "ouizeght"
+    },
+    "code": {
+      "id": "MA004005_ouizeght",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33273"
+    ],
+    "geo": {
+      "lat": "32.941",
+      "lon": "-4.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_oulad-ali-youssef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ali Youssef",
+      "en": "Oulad Ali Youssef",
+      "slug": "oulad-ali-youssef"
+    },
+    "code": {
+      "id": "MA004005_oulad-ali-youssef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33013"
+    ],
+    "geo": {
+      "lat": "33.248",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_oulad-sghir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Sghir",
+      "en": "Oulad Sghir",
+      "slug": "oulad-sghir"
+    },
+    "code": {
+      "id": "MA004005_oulad-sghir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33272"
+    ],
+    "geo": {
+      "lat": "32.941",
+      "lon": "-4.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_ouled-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled Ali",
+      "en": "Ouled Ali",
+      "slug": "ouled-ali"
+    },
+    "code": {
+      "id": "MA004005_ouled-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33302"
+    ],
+    "geo": {
+      "lat": "33.345",
+      "lon": "-3.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_outat-el-haj",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Outat El Haj",
+      "en": "Outat El Haj",
+      "slug": "outat-el-haj"
+    },
+    "code": {
+      "id": "MA004005_outat-el-haj",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "33.345",
+      "lon": "-3.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_serghina",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Serghina",
+      "en": "Serghina",
+      "slug": "serghina"
+    },
+    "code": {
+      "id": "MA004005_serghina",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33005"
+    ],
+    "geo": {
+      "lat": "33.248",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_sidi-boutayeb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boutayeb",
+      "en": "Sidi Boutayeb",
+      "slug": "sidi-boutayeb"
+    },
+    "code": {
+      "id": "MA004005_sidi-boutayeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33255"
+    ],
+    "geo": {
+      "lat": "33.248",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_skoura-mdaz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Skoura Mdaz",
+      "en": "Skoura Mdaz",
+      "slug": "skoura-mdaz"
+    },
+    "code": {
+      "id": "MA004005_skoura-mdaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33012"
+    ],
+    "geo": {
+      "lat": "33.248",
+      "lon": "-3.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_tafraoute-ait-ali-oulahcen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafraoute Ait Ali Oulahcen",
+      "en": "Tafraoute Ait Ali Oulahcen",
+      "slug": "tafraoute-ait-ali-oulahcen"
+    },
+    "code": {
+      "id": "MA004005_tafraoute-ait-ali-oulahcen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33025"
+    ],
+    "geo": {
+      "lat": "33.184",
+      "lon": "-4.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_taghroute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taghroute",
+      "en": "Taghroute",
+      "slug": "taghroute"
+    },
+    "code": {
+      "id": "MA004005_taghroute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33372"
+    ],
+    "geo": {
+      "lat": "33.441",
+      "lon": "-3.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_talzemt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Talzemt",
+      "en": "Talzemt",
+      "slug": "talzemt"
+    },
+    "code": {
+      "id": "MA004005_talzemt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33176"
+    ],
+    "geo": {
+      "lat": "33.59",
+      "lon": "-4.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_tindit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tindit",
+      "en": "Tindit",
+      "slug": "tindit"
+    },
+    "code": {
+      "id": "MA004005_tindit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33303"
+    ],
+    "geo": {
+      "lat": "33.345",
+      "lon": "-3.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004005_tissaf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tissaf",
+      "en": "Tissaf",
+      "slug": "tissaf"
+    },
+    "code": {
+      "id": "MA004005_tissaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004005",
+      "level": 2,
+      "name": {
+        "local": "Boulemane",
+        "en": "Boulemane",
+        "slug": "boulemane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004005",
+        "level": 2,
+        "name": {
+          "local": "Boulemane",
+          "en": "Boulemane",
+          "slug": "boulemane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33323"
+    ],
+    "geo": {
+      "lat": "33.401",
+      "lon": "-3.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

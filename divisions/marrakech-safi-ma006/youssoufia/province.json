@@ -1,0 +1,47 @@
+{
+  "id": "MA006007",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Youssoufia",
+    "en": "Youssoufia",
+    "slug": "youssoufia"
+  },
+  "code": {
+    "id": "MA006007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA006",
+    "level": 1,
+    "name": {
+      "local": "مراكش - آسفي",
+      "en": "Marrakech Safi",
+      "slug": "marrakech-safi-ma006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.024",
+    "lon": "-8.573"
+  },
+  "metadata": {},
+  "source": {}
+}

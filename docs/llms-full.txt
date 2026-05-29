@@ -1,0 +1,31 @@
+# Morocco Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Beni Mellal Khenifra](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/beni-mellal-khenifra-ma001.txt) — 5 provinces, 161 localitys
+- [Casablanca Settat](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/casablanca-settat-ma002.txt) — 9 provinces, 180 localitys
+- [Draa Tafilalet](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/draa-tafilalet-ma003.txt) — 5 provinces, 167 localitys
+- [Fez Meknes](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/fez-meknes-ma004.txt) — 9 provinces, 255 localitys
+- [Guelmim Oued Noun](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/guelmim-oued-noun-ma005.txt) — 4 provinces, 59 localitys
+- [Marrakech Safi](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/marrakech-safi-ma006.txt) — 8 provinces, 271 localitys
+- [Oriental](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/oriental-ma007.txt) — 8 provinces, 142 localitys
+- [Rabat Sale Kenitra](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/rabat-sale-kenitra-ma008.txt) — 7 provinces, 115 localitys
+- [Souss Massa](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/souss-massa-ma009.txt) — 6 provinces, 216 localitys
+- [Tangier Tetouan Al Hoceima](https://github.com/open-admin-data/morocco-administrative-divisions/blob/main/docs/llms-full/tangier-tetouan-al-hoceima-ma010.txt) — 8 provinces, 169 localitys
+
+## Summary
+
+| Region | Provinces | Localitys | 
+|---|---|---|
+| Beni Mellal Khenifra | 5 | 161 | 
+| Casablanca Settat | 9 | 180 | 
+| Draa Tafilalet | 5 | 167 | 
+| Fez Meknes | 9 | 255 | 
+| Guelmim Oued Noun | 4 | 59 | 
+| Marrakech Safi | 8 | 271 | 
+| Oriental | 8 | 142 | 
+| Rabat Sale Kenitra | 7 | 115 | 
+| Souss Massa | 6 | 216 | 
+| Tangier Tetouan Al Hoceima | 8 | 169 | 

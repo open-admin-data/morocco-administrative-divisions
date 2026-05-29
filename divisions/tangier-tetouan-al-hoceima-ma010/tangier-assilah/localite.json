@@ -1,0 +1,730 @@
+[
+  {
+    "id": "MA010006_al-manzla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Manzla",
+      "en": "Al Manzla",
+      "slug": "al-manzla"
+    },
+    "code": {
+      "id": "MA010006_al-manzla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90062"
+    ],
+    "geo": {
+      "lat": "35.561",
+      "lon": "-5.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_aquouass-briech",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aquouass Briech",
+      "en": "Aquouass Briech",
+      "slug": "aquouass-briech"
+    },
+    "code": {
+      "id": "MA010006_aquouass-briech",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90064"
+    ],
+    "geo": {
+      "lat": "35.561",
+      "lon": "-5.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_assilah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assilah",
+      "en": "Assilah",
+      "slug": "assilah"
+    },
+    "code": {
+      "id": "MA010006_assilah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90050"
+    ],
+    "geo": {
+      "lat": "35.465",
+      "lon": "-6.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_boukhalef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boukhalef",
+      "en": "Boukhalef",
+      "slug": "boukhalef"
+    },
+    "code": {
+      "id": "MA010006_boukhalef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90063"
+    ],
+    "geo": {
+      "lat": "35.561",
+      "lon": "-5.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_dar-chaoui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Chaoui",
+      "en": "Dar Chaoui",
+      "slug": "dar-chaoui"
+    },
+    "code": {
+      "id": "MA010006_dar-chaoui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90052"
+    ],
+    "geo": {
+      "lat": "35.538",
+      "lon": "-5.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_gzenaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gzenaya",
+      "en": "Gzenaya",
+      "slug": "gzenaya"
+    },
+    "code": {
+      "id": "MA010006_gzenaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90102"
+    ],
+    "geo": {
+      "lat": "35.464",
+      "lon": "-5.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_had-rharbia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Rharbia",
+      "en": "Had Rharbia",
+      "slug": "had-rharbia"
+    },
+    "code": {
+      "id": "MA010006_had-rharbia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90302"
+    ],
+    "geo": {
+      "lat": "35.515",
+      "lon": "-5.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_hajr-enhal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hajr Enhal",
+      "en": "Hajr Enhal",
+      "slug": "hajr-enhal"
+    },
+    "code": {
+      "id": "MA010006_hajr-enhal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90025"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_lkhaloua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lkhaloua",
+      "en": "Lkhaloua",
+      "slug": "lkhaloua"
+    },
+    "code": {
+      "id": "MA010006_lkhaloua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90065"
+    ],
+    "geo": {
+      "lat": "35.561",
+      "lon": "-5.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_sahel-chamali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sahel Chamali",
+      "en": "Sahel Chamali",
+      "slug": "sahel-chamali"
+    },
+    "code": {
+      "id": "MA010006_sahel-chamali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90066"
+    ],
+    "geo": {
+      "lat": "35.561",
+      "lon": "-5.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_sania-el-jadida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sania El Jadida",
+      "en": "Sania El Jadida",
+      "slug": "sania-el-jadida"
+    },
+    "code": {
+      "id": "MA010006_sania-el-jadida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90027"
+    ],
+    "geo": {
+      "lat": "35.561",
+      "lon": "-5.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_sebt-zeniate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Zeniate",
+      "en": "Sebt Zeniate",
+      "slug": "sebt-zeniate"
+    },
+    "code": {
+      "id": "MA010006_sebt-zeniate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90036"
+    ],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006_tnine-sidi-el-yamani",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Sidi El Yamani",
+      "en": "Tnine Sidi El Yamani",
+      "slug": "tnine-sidi-el-yamani"
+    },
+    "code": {
+      "id": "MA010006_tnine-sidi-el-yamani",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010006",
+      "level": 2,
+      "name": {
+        "local": "Tangier Assilah",
+        "en": "Tangier Assilah",
+        "slug": "tangier-assilah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010006",
+        "level": 2,
+        "name": {
+          "local": "Tangier Assilah",
+          "en": "Tangier Assilah",
+          "slug": "tangier-assilah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90054"
+    ],
+    "geo": {
+      "lat": "35.369",
+      "lon": "-5.972"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

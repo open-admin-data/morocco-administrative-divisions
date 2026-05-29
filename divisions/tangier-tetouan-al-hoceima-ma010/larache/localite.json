@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "MA010004_al-aouamra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Al Aouamra",
+      "en": "Al Aouamra",
+      "slug": "al-aouamra"
+    },
+    "code": {
+      "id": "MA010004_al-aouamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92052"
+    ],
+    "geo": {
+      "lat": "35.212",
+      "lon": "-5.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_arbaa-ayacha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Ayacha",
+      "en": "Arbaa Ayacha",
+      "slug": "arbaa-ayacha"
+    },
+    "code": {
+      "id": "MA010004_arbaa-ayacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92022"
+    ],
+    "geo": {
+      "lat": "35.387",
+      "lon": "-5.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_bni-arouss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Arouss",
+      "en": "Bni Arouss",
+      "slug": "bni-arouss"
+    },
+    "code": {
+      "id": "MA010004_bni-arouss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92006"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_bou-jedyane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bou Jedyane",
+      "en": "Bou Jedyane",
+      "slug": "bou-jedyane"
+    },
+    "code": {
+      "id": "MA010004_bou-jedyane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92155"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_khemis-sahel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Sahel",
+      "en": "Khemis Sahel",
+      "slug": "khemis-sahel"
+    },
+    "code": {
+      "id": "MA010004_khemis-sahel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92102"
+    ],
+    "geo": {
+      "lat": "35.253",
+      "lon": "-6.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_ksar-bjir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksar Bjir",
+      "en": "Ksar Bjir",
+      "slug": "ksar-bjir"
+    },
+    "code": {
+      "id": "MA010004_ksar-bjir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92156"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_ksar-el-kebir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksar El Kebir",
+      "en": "Ksar El Kebir",
+      "slug": "ksar-el-kebir"
+    },
+    "code": {
+      "id": "MA010004_ksar-el-kebir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92150"
+    ],
+    "geo": {
+      "lat": "35",
+      "lon": "-5.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_larache",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Larache",
+      "en": "Larache",
+      "slug": "larache"
+    },
+    "code": {
+      "id": "MA010004_larache",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92000"
+    ],
+    "geo": {
+      "lat": "35.193",
+      "lon": "-6.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_mecherah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mecherah",
+      "en": "Mecherah",
+      "slug": "mecherah"
+    },
+    "code": {
+      "id": "MA010004_mecherah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92172"
+    ],
+    "geo": {
+      "lat": "35.127",
+      "lon": "-5.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_moulay-abdesslam",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Abdesslam",
+      "en": "Moulay Abdesslam",
+      "slug": "moulay-abdesslam"
+    },
+    "code": {
+      "id": "MA010004_moulay-abdesslam",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93034"
+    ],
+    "geo": {
+      "lat": "35.553",
+      "lon": "-5.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_oulad-ouchih",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ouchih",
+      "en": "Oulad Ouchih",
+      "slug": "oulad-ouchih"
+    },
+    "code": {
+      "id": "MA010004_oulad-ouchih",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92162"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_rissana-chamalia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rissana Chamalia",
+      "en": "Rissana Chamalia",
+      "slug": "rissana-chamalia"
+    },
+    "code": {
+      "id": "MA010004_rissana-chamalia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92012"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_rissana-janoubia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rissana Janoubia",
+      "en": "Rissana Janoubia",
+      "slug": "rissana-janoubia"
+    },
+    "code": {
+      "id": "MA010004_rissana-janoubia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92272"
+    ],
+    "geo": {
+      "lat": "35.033",
+      "lon": "-5.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_sebt-bni-garfet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Bni Garfet",
+      "en": "Sebt Bni Garfet",
+      "slug": "sebt-bni-garfet"
+    },
+    "code": {
+      "id": "MA010004_sebt-bni-garfet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92002"
+    ],
+    "geo": {
+      "lat": "35.193",
+      "lon": "-6.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_sidi-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali",
+      "en": "Sidi Ali",
+      "slug": "sidi-ali"
+    },
+    "code": {
+      "id": "MA010004_sidi-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92023"
+    ],
+    "geo": {
+      "lat": "35.303",
+      "lon": "-5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_souaken",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souaken",
+      "en": "Souaken",
+      "slug": "souaken"
+    },
+    "code": {
+      "id": "MA010004_souaken",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92163"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_souk-lqolla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Lqolla",
+      "en": "Souk Lqolla",
+      "slug": "souk-lqolla"
+    },
+    "code": {
+      "id": "MA010004_souk-lqolla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92164"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_souk-tolba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Tolba",
+      "en": "Souk Tolba",
+      "slug": "souk-tolba"
+    },
+    "code": {
+      "id": "MA010004_souk-tolba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92173"
+    ],
+    "geo": {
+      "lat": "35.127",
+      "lon": "-5.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_tatoufet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tatoufet",
+      "en": "Tatoufet",
+      "slug": "tatoufet"
+    },
+    "code": {
+      "id": "MA010004_tatoufet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92202"
+    ],
+    "geo": {
+      "lat": "35.033",
+      "lon": "-5.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_tazroute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazroute",
+      "en": "Tazroute",
+      "slug": "tazroute"
+    },
+    "code": {
+      "id": "MA010004_tazroute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92013"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_tlata-rissana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Rissana",
+      "en": "Tlata Rissana",
+      "slug": "tlata-rissana"
+    },
+    "code": {
+      "id": "MA010004_tlata-rissana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92252"
+    ],
+    "geo": {
+      "lat": "35.033",
+      "lon": "-5.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_zaaroura",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaaroura",
+      "en": "Zaaroura",
+      "slug": "zaaroura"
+    },
+    "code": {
+      "id": "MA010004_zaaroura",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92024"
+    ],
+    "geo": {
+      "lat": "35.22",
+      "lon": "-5.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004_zouada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zouada",
+      "en": "Zouada",
+      "slug": "zouada"
+    },
+    "code": {
+      "id": "MA010004_zouada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010004",
+      "level": 2,
+      "name": {
+        "local": "Larache",
+        "en": "Larache",
+        "slug": "larache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010004",
+        "level": 2,
+        "name": {
+          "local": "Larache",
+          "en": "Larache",
+          "slug": "larache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92072"
+    ],
+    "geo": {
+      "lat": "35.047",
+      "lon": "-6.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

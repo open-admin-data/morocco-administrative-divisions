@@ -1,0 +1,47 @@
+{
+  "id": "MA007003",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Driouch",
+    "en": "Driouch",
+    "slug": "driouch"
+  },
+  "code": {
+    "id": "MA007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA007",
+    "level": 1,
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.915",
+    "lon": "-3.544"
+  },
+  "metadata": {},
+  "source": {}
+}

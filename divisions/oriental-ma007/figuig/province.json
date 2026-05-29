@@ -1,0 +1,47 @@
+{
+  "id": "MA007004",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Figuig",
+    "en": "Figuig",
+    "slug": "figuig"
+  },
+  "code": {
+    "id": "MA007004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA007",
+    "level": 1,
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.704",
+    "lon": "-2.627"
+  },
+  "metadata": {},
+  "source": {}
+}

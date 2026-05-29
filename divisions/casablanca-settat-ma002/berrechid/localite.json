@@ -1,0 +1,898 @@
+[
+  {
+    "id": "MA002001_el-gara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Gara",
+      "en": "El Gara",
+      "slug": "el-gara"
+    },
+    "code": {
+      "id": "MA002001_el-gara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26300"
+    ],
+    "geo": {
+      "lat": "32.816",
+      "lon": "-7.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_foqra-oulad-aameur",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Foqra Oulad Aameur",
+      "en": "Foqra Oulad Aameur",
+      "slug": "foqra-oulad-aameur"
+    },
+    "code": {
+      "id": "MA002001_foqra-oulad-aameur",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26303"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_had-soualem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Soualem",
+      "en": "Had Soualem",
+      "slug": "had-soualem"
+    },
+    "code": {
+      "id": "MA002001_had-soualem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26402"
+    ],
+    "geo": {
+      "lat": "33.04",
+      "lon": "-7.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_jaqma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jaqma",
+      "en": "Jaqma",
+      "slug": "jaqma"
+    },
+    "code": {
+      "id": "MA002001_jaqma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26304"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_kasbat-ben-mchich",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kasbat Ben Mchich",
+      "en": "Kasbat Ben Mchich",
+      "slug": "kasbat-ben-mchich"
+    },
+    "code": {
+      "id": "MA002001_kasbat-ben-mchich",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26305"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_lahsasna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lahsasna",
+      "en": "Lahsasna",
+      "slug": "lahsasna"
+    },
+    "code": {
+      "id": "MA002001_lahsasna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26106"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_lakhiaita",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lakhiaita",
+      "en": "Lakhiaita",
+      "slug": "lakhiaita"
+    },
+    "code": {
+      "id": "MA002001_lakhiaita",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26112"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_lambarkiyine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lambarkiyine",
+      "en": "Lambarkiyine",
+      "slug": "lambarkiyine"
+    },
+    "code": {
+      "id": "MA002001_lambarkiyine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26306"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_oulad-abbou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Abbou",
+      "en": "Oulad Abbou",
+      "slug": "oulad-abbou"
+    },
+    "code": {
+      "id": "MA002001_oulad-abbou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26450"
+    ],
+    "geo": {
+      "lat": "32.992",
+      "lon": "-7.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_oulad-cebbah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Cebbah",
+      "en": "Oulad Cebbah",
+      "slug": "oulad-cebbah"
+    },
+    "code": {
+      "id": "MA002001_oulad-cebbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26116"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_riah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Riah",
+      "en": "Riah",
+      "slug": "riah"
+    },
+    "code": {
+      "id": "MA002001_riah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26122"
+    ],
+    "geo": {
+      "lat": "32.816",
+      "lon": "-7.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_sahel-oulad-hriz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sahel Oulad H'Riz",
+      "en": "Sahel Oulad H'Riz",
+      "slug": "sahel-oulad-hriz"
+    },
+    "code": {
+      "id": "MA002001_sahel-oulad-hriz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26124"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_sidi-abdelkhaleq",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdelkhaleq",
+      "en": "Sidi Abdelkhaleq",
+      "slug": "sidi-abdelkhaleq"
+    },
+    "code": {
+      "id": "MA002001_sidi-abdelkhaleq",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26113"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_sidi-el-mekki",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Mekki",
+      "en": "Sidi El Mekki",
+      "slug": "sidi-el-mekki"
+    },
+    "code": {
+      "id": "MA002001_sidi-el-mekki",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26114"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_soualem-trifia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Soualem Trifia",
+      "en": "Soualem Trifia",
+      "slug": "soualem-trifia"
+    },
+    "code": {
+      "id": "MA002001_soualem-trifia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26115"
+    ],
+    "geo": {
+      "lat": "33.259",
+      "lon": "-7.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002001_zaouiat-ben-hamdoune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat Ben Hamdoune",
+      "en": "Zaouiat Ben Hamdoune",
+      "slug": "zaouiat-ben-hamdoune"
+    },
+    "code": {
+      "id": "MA002001_zaouiat-ben-hamdoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002001",
+      "level": 2,
+      "name": {
+        "local": "Berrechid",
+        "en": "Berrechid",
+        "slug": "berrechid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002001",
+        "level": 2,
+        "name": {
+          "local": "Berrechid",
+          "en": "Berrechid",
+          "slug": "berrechid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24232"
+    ],
+    "geo": {
+      "lat": "32.716",
+      "lon": "-8.801"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

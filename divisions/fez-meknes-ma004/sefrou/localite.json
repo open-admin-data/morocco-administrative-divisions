@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "MA004007_ain-cheggag",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Cheggag",
+      "en": "Ain Cheggag",
+      "slug": "ain-cheggag"
+    },
+    "code": {
+      "id": "MA004007_ain-cheggag",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31052"
+    ],
+    "geo": {
+      "lat": "33.893",
+      "lon": "-5.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_ain-timguenai",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Timguenai",
+      "en": "Ain Timguenai",
+      "slug": "ain-timguenai"
+    },
+    "code": {
+      "id": "MA004007_ain-timguenai",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31204"
+    ],
+    "geo": {
+      "lat": "33.793",
+      "lon": "-4.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_aioun-sename",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aioun Sename",
+      "en": "Aioun Sename",
+      "slug": "aioun-sename"
+    },
+    "code": {
+      "id": "MA004007_aioun-sename",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31022"
+    ],
+    "geo": {
+      "lat": "33.769",
+      "lon": "-4.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_ait-sebaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Sebaa",
+      "en": "Ait Sebaa",
+      "slug": "ait-sebaa"
+    },
+    "code": {
+      "id": "MA004007_ait-sebaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31272"
+    ],
+    "geo": {
+      "lat": "33.786",
+      "lon": "-4.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_arhbalou-akorare",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arhbalou Akorare",
+      "en": "Arhbalou Akorare",
+      "slug": "arhbalou-akorare"
+    },
+    "code": {
+      "id": "MA004007_arhbalou-akorare",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31023"
+    ],
+    "geo": {
+      "lat": "33.769",
+      "lon": "-4.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_azzaba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azzaba",
+      "en": "Azzaba",
+      "slug": "azzaba"
+    },
+    "code": {
+      "id": "MA004007_azzaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31002"
+    ],
+    "geo": {
+      "lat": "33.833",
+      "lon": "-4.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_bhalil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bhalil",
+      "en": "Bhalil",
+      "slug": "bhalil"
+    },
+    "code": {
+      "id": "MA004007_bhalil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31100"
+    ],
+    "geo": {
+      "lat": "33.852",
+      "lon": "-4.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_bir-tamtam",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bir Tamtam",
+      "en": "Bir Tamtam",
+      "slug": "bir-tamtam"
+    },
+    "code": {
+      "id": "MA004007_bir-tamtam",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31152"
+    ],
+    "geo": {
+      "lat": "33.981",
+      "lon": "-4.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_dar-el-hamra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar El Hamra",
+      "en": "Dar El Hamra",
+      "slug": "dar-el-hamra"
+    },
+    "code": {
+      "id": "MA004007_dar-el-hamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31026"
+    ],
+    "geo": {
+      "lat": "33.769",
+      "lon": "-4.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_el-adrej",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Adrej",
+      "en": "El Adrej",
+      "slug": "el-adrej"
+    },
+    "code": {
+      "id": "MA004007_el-adrej",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31003"
+    ],
+    "geo": {
+      "lat": "33.62",
+      "lon": "-4.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_el-menzel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Menzel",
+      "en": "El Menzel",
+      "slug": "el-menzel"
+    },
+    "code": {
+      "id": "MA004007_el-menzel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31200"
+    ],
+    "geo": {
+      "lat": "33.838",
+      "lon": "-4.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_ighezren",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ighezren",
+      "en": "Ighezren",
+      "slug": "ighezren"
+    },
+    "code": {
+      "id": "MA004007_ighezren",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31372"
+    ],
+    "geo": {
+      "lat": "33.808",
+      "lon": "-4.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_ighzrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ighzrane",
+      "en": "Ighzrane",
+      "slug": "ighzrane"
+    },
+    "code": {
+      "id": "MA004007_ighzrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31205"
+    ],
+    "geo": {
+      "lat": "33.793",
+      "lon": "-4.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_imouzzer-kandar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imouzzer Kandar",
+      "en": "Imouzzer Kandar",
+      "slug": "imouzzer-kandar"
+    },
+    "code": {
+      "id": "MA004007_imouzzer-kandar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31250"
+    ],
+    "geo": {
+      "lat": "33.729",
+      "lon": "-5.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_kandar-sidi-khiar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kandar Sidi Khiar",
+      "en": "Kandar Sidi Khiar",
+      "slug": "kandar-sidi-khiar"
+    },
+    "code": {
+      "id": "MA004007_kandar-sidi-khiar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31014"
+    ],
+    "geo": {
+      "lat": "33.793",
+      "lon": "-4.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_laanoussar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laanoussar",
+      "en": "Laanoussar",
+      "slug": "laanoussar"
+    },
+    "code": {
+      "id": "MA004007_laanoussar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31015"
+    ],
+    "geo": {
+      "lat": "33.793",
+      "lon": "-4.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_mtarnargha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mtarnargha",
+      "en": "Mtarnargha",
+      "slug": "mtarnargha"
+    },
+    "code": {
+      "id": "MA004007_mtarnargha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31222"
+    ],
+    "geo": {
+      "lat": "33.855",
+      "lon": "-4.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_ouled-mkoudou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouled M'Koudou",
+      "en": "Ouled M'Koudou",
+      "slug": "ouled-mkoudou"
+    },
+    "code": {
+      "id": "MA004007_ouled-mkoudou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31202"
+    ],
+    "geo": {
+      "lat": "33.838",
+      "lon": "-4.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_ras-tabouda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras Tabouda",
+      "en": "Ras Tabouda",
+      "slug": "ras-tabouda"
+    },
+    "code": {
+      "id": "MA004007_ras-tabouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31302"
+    ],
+    "geo": {
+      "lat": "33.793",
+      "lon": "-4.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_ribate-el-kheir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ribate El Kheir",
+      "en": "Ribate El Kheir",
+      "slug": "ribate-el-kheir"
+    },
+    "code": {
+      "id": "MA004007_ribate-el-kheir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31350"
+    ],
+    "geo": {
+      "lat": "33.808",
+      "lon": "-4.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_sidi-lahcen-el-youssi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Lahcen El Youssi",
+      "en": "Sidi Lahcen El Youssi",
+      "slug": "sidi-lahcen-el-youssi"
+    },
+    "code": {
+      "id": "MA004007_sidi-lahcen-el-youssi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31025"
+    ],
+    "geo": {
+      "lat": "33.769",
+      "lon": "-4.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_sidi-youssef-ben-ahmed-senhaja",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Youssef Ben Ahmed Senhaja",
+      "en": "Sidi Youssef Ben Ahmed Senhaja",
+      "slug": "sidi-youssef-ben-ahmed-senhaja"
+    },
+    "code": {
+      "id": "MA004007_sidi-youssef-ben-ahmed-senhaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31024"
+    ],
+    "geo": {
+      "lat": "33.769",
+      "lon": "-4.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_tafajight",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafajight",
+      "en": "Tafajight",
+      "slug": "tafajight"
+    },
+    "code": {
+      "id": "MA004007_tafajight",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31032"
+    ],
+    "geo": {
+      "lat": "33.769",
+      "lon": "-4.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_tazouta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazouta",
+      "en": "Tazouta",
+      "slug": "tazouta"
+    },
+    "code": {
+      "id": "MA004007_tazouta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31004"
+    ],
+    "geo": {
+      "lat": "33.67",
+      "lon": "-4.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_zaouia-bougrine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Bougrine",
+      "en": "Zaouia Bougrine",
+      "slug": "zaouia-bougrine"
+    },
+    "code": {
+      "id": "MA004007_zaouia-bougrine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31223"
+    ],
+    "geo": {
+      "lat": "33.855",
+      "lon": "-4.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004007_zaouiat-el-kermate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat El Kermate",
+      "en": "Zaouiat El Kermate",
+      "slug": "zaouiat-el-kermate"
+    },
+    "code": {
+      "id": "MA004007_zaouiat-el-kermate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004007",
+      "level": 2,
+      "name": {
+        "local": "Sefrou",
+        "en": "Sefrou",
+        "slug": "sefrou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004007",
+        "level": 2,
+        "name": {
+          "local": "Sefrou",
+          "en": "Sefrou",
+          "slug": "sefrou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31273"
+    ],
+    "geo": {
+      "lat": "33.786",
+      "lon": "-4.624"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MA002008",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sidi Bennour",
+    "en": "Sidi Bennour",
+    "slug": "sidi-bennour"
+  },
+  "code": {
+    "id": "MA002008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA002",
+    "level": 1,
+    "name": {
+      "local": "الدار البيضاء - سطات",
+      "en": "Casablanca Settat",
+      "slug": "casablanca-settat-ma002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.589",
+    "lon": "-8.526"
+  },
+  "metadata": {},
+  "source": {}
+}

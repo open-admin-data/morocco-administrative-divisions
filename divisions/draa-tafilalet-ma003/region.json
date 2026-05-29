@@ -1,0 +1,30 @@
+{
+  "id": "MA003",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "درعة - تافيلالت",
+    "en": "Draa Tafilalet",
+    "slug": "draa-tafilalet-ma003"
+  },
+  "code": {
+    "id": "MA003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 5,
+    "localite": 167
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.287",
+    "lon": "-5.583"
+  },
+  "metadata": {},
+  "source": {}
+}

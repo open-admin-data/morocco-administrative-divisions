@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MA008003_ameur",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ameur",
+      "en": "Ameur",
+      "slug": "ameur"
+    },
+    "code": {
+      "id": "MA008003_ameur",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008003",
+      "level": 2,
+      "name": {
+        "local": "Sale",
+        "en": "Sale",
+        "slug": "sale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008003",
+        "level": 2,
+        "name": {
+          "local": "Sale",
+          "en": "Sale",
+          "slug": "sale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11043"
+    ],
+    "geo": {
+      "lat": "33.974",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008003_arbaa-shoul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Shoul",
+      "en": "Arbaa Shoul",
+      "slug": "arbaa-shoul"
+    },
+    "code": {
+      "id": "MA008003_arbaa-shoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008003",
+      "level": 2,
+      "name": {
+        "local": "Sale",
+        "en": "Sale",
+        "slug": "sale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008003",
+        "level": 2,
+        "name": {
+          "local": "Sale",
+          "en": "Sale",
+          "slug": "sale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11022"
+    ],
+    "geo": {
+      "lat": "34.118",
+      "lon": "-6.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008003_bouknadel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouknadel",
+      "en": "Bouknadel",
+      "slug": "bouknadel"
+    },
+    "code": {
+      "id": "MA008003_bouknadel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008003",
+      "level": 2,
+      "name": {
+        "local": "Sale",
+        "en": "Sale",
+        "slug": "sale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008003",
+        "level": 2,
+        "name": {
+          "local": "Sale",
+          "en": "Sale",
+          "slug": "sale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11052"
+    ],
+    "geo": {
+      "lat": "34.118",
+      "lon": "-6.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008003_el-arjate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Arjate",
+      "en": "El Arjate",
+      "slug": "el-arjate"
+    },
+    "code": {
+      "id": "MA008003_el-arjate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008003",
+      "level": 2,
+      "name": {
+        "local": "Sale",
+        "en": "Sale",
+        "slug": "sale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008003",
+        "level": 2,
+        "name": {
+          "local": "Sale",
+          "en": "Sale",
+          "slug": "sale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11023"
+    ],
+    "geo": {
+      "lat": "34.118",
+      "lon": "-6.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008003_sala-al-jadida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sala Al Jadida",
+      "en": "Sala Al Jadida",
+      "slug": "sala-al-jadida"
+    },
+    "code": {
+      "id": "MA008003_sala-al-jadida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008003",
+      "level": 2,
+      "name": {
+        "local": "Sale",
+        "en": "Sale",
+        "slug": "sale"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008003",
+        "level": 2,
+        "name": {
+          "local": "Sale",
+          "en": "Sale",
+          "slug": "sale"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11102"
+    ],
+    "geo": {
+      "lat": "33.974",
+      "lon": "-6.656"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

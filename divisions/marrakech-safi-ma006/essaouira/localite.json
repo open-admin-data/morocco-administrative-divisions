@@ -1,0 +1,3418 @@
+[
+  {
+    "id": "MA006003_adaghas",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Adaghas",
+      "en": "Adaghas",
+      "slug": "adaghas"
+    },
+    "code": {
+      "id": "MA006003_adaghas",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44236"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_aglif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aglif",
+      "en": "Aglif",
+      "slug": "aglif"
+    },
+    "code": {
+      "id": "MA006003_aglif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44204"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_aguerd",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aguerd",
+      "en": "Aguerd",
+      "slug": "aguerd"
+    },
+    "code": {
+      "id": "MA006003_aguerd",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44205"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ain-zelten",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Zelten",
+      "en": "Ain Zelten",
+      "slug": "ain-zelten"
+    },
+    "code": {
+      "id": "MA006003_ain-zelten",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44273"
+    ],
+    "geo": {
+      "lat": "31.31",
+      "lon": "-9.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ait-aissi-ihahane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Aissi Ihahane",
+      "en": "Ait Aissi Ihahane",
+      "slug": "ait-aissi-ihahane"
+    },
+    "code": {
+      "id": "MA006003_ait-aissi-ihahane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44206"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ait-daoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Daoud",
+      "en": "Ait Daoud",
+      "slug": "ait-daoud"
+    },
+    "code": {
+      "id": "MA006003_ait-daoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44060"
+    ],
+    "geo": {
+      "lat": "31.38",
+      "lon": "-9.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ait-said",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Said",
+      "en": "Ait Said",
+      "slug": "ait-said"
+    },
+    "code": {
+      "id": "MA006003_ait-said",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44012"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_akermoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Akermoud",
+      "en": "Akermoud",
+      "slug": "akermoud"
+    },
+    "code": {
+      "id": "MA006003_akermoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44126"
+    ],
+    "geo": {
+      "lat": "31.764",
+      "lon": "-9.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_arbaa-ida-ou-trouma",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Ida Ou Trouma",
+      "en": "Arbaa Ida Ou Trouma",
+      "slug": "arbaa-ida-ou-trouma"
+    },
+    "code": {
+      "id": "MA006003_arbaa-ida-ou-trouma",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44222"
+    ],
+    "geo": {
+      "lat": "30.984",
+      "lon": "-9.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_arbaa-ida-ougourd",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Ida Ougourd",
+      "en": "Arbaa Ida Ougourd",
+      "slug": "arbaa-ida-ougourd"
+    },
+    "code": {
+      "id": "MA006003_arbaa-ida-ougourd",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44005"
+    ],
+    "geo": {
+      "lat": "31.615",
+      "lon": "-9.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_assais",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assais",
+      "en": "Assais",
+      "slug": "assais"
+    },
+    "code": {
+      "id": "MA006003_assais",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44083"
+    ],
+    "geo": {
+      "lat": "31.367",
+      "lon": "-9.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_bizdad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bizdad",
+      "en": "Bizdad",
+      "slug": "bizdad"
+    },
+    "code": {
+      "id": "MA006003_bizdad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44252"
+    ],
+    "geo": {
+      "lat": "31.522",
+      "lon": "-9.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_bouzemmour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouzemmour",
+      "en": "Bouzemmour",
+      "slug": "bouzemmour"
+    },
+    "code": {
+      "id": "MA006003_bouzemmour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44212"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ezzaouite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ezzaouite",
+      "en": "Ezzaouite",
+      "slug": "ezzaouite"
+    },
+    "code": {
+      "id": "MA006003_ezzaouite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44213"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_had-draa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Draa",
+      "en": "Had Draa",
+      "slug": "had-draa"
+    },
+    "code": {
+      "id": "MA006003_had-draa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44003"
+    ],
+    "geo": {
+      "lat": "31.578",
+      "lon": "-9.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_had-mramer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Mramer",
+      "en": "Had Mramer",
+      "slug": "had-mramer"
+    },
+    "code": {
+      "id": "MA006003_had-mramer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44122"
+    ],
+    "geo": {
+      "lat": "31.64",
+      "lon": "-9.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ida-ou-guelloul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ida Ou Guelloul",
+      "en": "Ida Ou Guelloul",
+      "slug": "ida-ou-guelloul"
+    },
+    "code": {
+      "id": "MA006003_ida-ou-guelloul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44223"
+    ],
+    "geo": {
+      "lat": "30.984",
+      "lon": "-9.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ida-ou-kazzou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ida Ou Kazzou",
+      "en": "Ida Ou Kazzou",
+      "slug": "ida-ou-kazzou"
+    },
+    "code": {
+      "id": "MA006003_ida-ou-kazzou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44226"
+    ],
+    "geo": {
+      "lat": "30.984",
+      "lon": "-9.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ida-ouazza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ida Ouazza",
+      "en": "Ida Ouazza",
+      "slug": "ida-ouazza"
+    },
+    "code": {
+      "id": "MA006003_ida-ouazza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44072"
+    ],
+    "geo": {
+      "lat": "31.261",
+      "lon": "-9.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_imgrade",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imgrade",
+      "en": "Imgrade",
+      "slug": "imgrade"
+    },
+    "code": {
+      "id": "MA006003_imgrade",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44214"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_kechoula",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kechoula",
+      "en": "Kechoula",
+      "slug": "kechoula"
+    },
+    "code": {
+      "id": "MA006003_kechoula",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44013"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_khemis-meskala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Meskala",
+      "en": "Khemis Meskala",
+      "slug": "khemis-meskala"
+    },
+    "code": {
+      "id": "MA006003_khemis-meskala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44274"
+    ],
+    "geo": {
+      "lat": "31.388",
+      "lon": "-9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_khemis-takate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Takate",
+      "en": "Khemis Takate",
+      "slug": "khemis-takate"
+    },
+    "code": {
+      "id": "MA006003_khemis-takate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44132"
+    ],
+    "geo": {
+      "lat": "31.651",
+      "lon": "-9.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_lagdadra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lagdadra",
+      "en": "Lagdadra",
+      "slug": "lagdadra"
+    },
+    "code": {
+      "id": "MA006003_lagdadra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44014"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_lahsinate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lahsinate",
+      "en": "Lahsinate",
+      "slug": "lahsinate"
+    },
+    "code": {
+      "id": "MA006003_lahsinate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44015"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_lamzilate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamzilate",
+      "en": "Lamzilate",
+      "slug": "lamzilate"
+    },
+    "code": {
+      "id": "MA006003_lamzilate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44123"
+    ],
+    "geo": {
+      "lat": "31.578",
+      "lon": "-9.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_mejji",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mejji",
+      "en": "Mejji",
+      "slug": "mejji"
+    },
+    "code": {
+      "id": "MA006003_mejji",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44124"
+    ],
+    "geo": {
+      "lat": "31.551",
+      "lon": "-9.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_mkhalif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mkhalif",
+      "en": "Mkhalif",
+      "slug": "mkhalif"
+    },
+    "code": {
+      "id": "MA006003_mkhalif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44016"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_mouarid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mouarid",
+      "en": "Mouarid",
+      "slug": "mouarid"
+    },
+    "code": {
+      "id": "MA006003_mouarid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44276"
+    ],
+    "geo": {
+      "lat": "31.361",
+      "lon": "-9.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_moulay-bouzarqtoune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Bouzarqtoune",
+      "en": "Moulay Bouzarqtoune",
+      "slug": "moulay-bouzarqtoune"
+    },
+    "code": {
+      "id": "MA006003_moulay-bouzarqtoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44022"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_oulad-mrabet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Mrabet",
+      "en": "Oulad Mrabet",
+      "slug": "oulad-mrabet"
+    },
+    "code": {
+      "id": "MA006003_oulad-mrabet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44023"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_ounagha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ounagha",
+      "en": "Ounagha",
+      "slug": "ounagha"
+    },
+    "code": {
+      "id": "MA006003_ounagha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44133"
+    ],
+    "geo": {
+      "lat": "31.532",
+      "lon": "-9.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sebt-imghade",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Imghade",
+      "en": "Sebt Imghade",
+      "slug": "sebt-imghade"
+    },
+    "code": {
+      "id": "MA006003_sebt-imghade",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44224"
+    ],
+    "geo": {
+      "lat": "30.984",
+      "lon": "-9.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sebt-korimate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Korimate",
+      "en": "Sebt Korimate",
+      "slug": "sebt-korimate"
+    },
+    "code": {
+      "id": "MA006003_sebt-korimate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44272"
+    ],
+    "geo": {
+      "lat": "31.46",
+      "lon": "-9.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sebt-meknafa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Meknafa",
+      "en": "Sebt Meknafa",
+      "slug": "sebt-meknafa"
+    },
+    "code": {
+      "id": "MA006003_sebt-meknafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44073"
+    ],
+    "geo": {
+      "lat": "31.261",
+      "lon": "-9.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-abdeljalil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdeljalil",
+      "en": "Sidi Abdeljalil",
+      "slug": "sidi-abdeljalil"
+    },
+    "code": {
+      "id": "MA006003_sidi-abdeljalil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44024"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-ahmed-essayeh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed Essayeh",
+      "en": "Sidi Ahmed Essayeh",
+      "slug": "sidi-ahmed-essayeh"
+    },
+    "code": {
+      "id": "MA006003_sidi-ahmed-essayeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44082"
+    ],
+    "geo": {
+      "lat": "31.249",
+      "lon": "-9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-aissa-regragui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Aissa Regragui",
+      "en": "Sidi Aissa Regragui",
+      "slug": "sidi-aissa-regragui"
+    },
+    "code": {
+      "id": "MA006003_sidi-aissa-regragui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44025"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-ali-el-korati",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali El Korati",
+      "en": "Sidi Ali El Korati",
+      "slug": "sidi-ali-el-korati"
+    },
+    "code": {
+      "id": "MA006003_sidi-ali-el-korati",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44026"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-boulaalam",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boulaalam",
+      "en": "Sidi Boulaalam",
+      "slug": "sidi-boulaalam"
+    },
+    "code": {
+      "id": "MA006003_sidi-boulaalam",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44032"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-el-jazouli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Jazouli",
+      "en": "Sidi El Jazouli",
+      "slug": "sidi-el-jazouli"
+    },
+    "code": {
+      "id": "MA006003_sidi-el-jazouli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44215"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-hmad-ou-hamed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Hmad Ou Hamed",
+      "en": "Sidi Hmad Ou Hamed",
+      "slug": "sidi-hmad-ou-hamed"
+    },
+    "code": {
+      "id": "MA006003_sidi-hmad-ou-hamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44216"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-hmad-ou-mbarek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Hmad Ou Mbarek",
+      "en": "Sidi Hmad Ou Mbarek",
+      "slug": "sidi-hmad-ou-mbarek"
+    },
+    "code": {
+      "id": "MA006003_sidi-hmad-ou-mbarek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44232"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-ishaq",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ishaq",
+      "en": "Sidi Ishaq",
+      "slug": "sidi-ishaq"
+    },
+    "code": {
+      "id": "MA006003_sidi-ishaq",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44134"
+    ],
+    "geo": {
+      "lat": "31.591",
+      "lon": "-9.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-kaouki",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Kaouki",
+      "en": "Sidi Kaouki",
+      "slug": "sidi-kaouki"
+    },
+    "code": {
+      "id": "MA006003_sidi-kaouki",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44125"
+    ],
+    "geo": {
+      "lat": "31.356",
+      "lon": "-9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-laaroussi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Laaroussi",
+      "en": "Sidi Laaroussi",
+      "slug": "sidi-laaroussi"
+    },
+    "code": {
+      "id": "MA006003_sidi-laaroussi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44033"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_sidi-mhamed-ou-marzouq",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mhamed Ou Marzouq",
+      "en": "Sidi Mhamed Ou Marzouq",
+      "slug": "sidi-mhamed-ou-marzouq"
+    },
+    "code": {
+      "id": "MA006003_sidi-mhamed-ou-marzouq",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44034"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_smimou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Smimou",
+      "en": "Smimou",
+      "slug": "smimou"
+    },
+    "code": {
+      "id": "MA006003_smimou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44053"
+    ],
+    "geo": {
+      "lat": "31.21",
+      "lon": "-9.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_tafedna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafedna",
+      "en": "Tafedna",
+      "slug": "tafedna"
+    },
+    "code": {
+      "id": "MA006003_tafedna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44074"
+    ],
+    "geo": {
+      "lat": "31.261",
+      "lon": "-9.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_taftecht",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taftecht",
+      "en": "Taftecht",
+      "slug": "taftecht"
+    },
+    "code": {
+      "id": "MA006003_taftecht",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44102"
+    ],
+    "geo": {
+      "lat": "31.583",
+      "lon": "-9.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_tahelouante",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tahelouante",
+      "en": "Tahelouante",
+      "slug": "tahelouante"
+    },
+    "code": {
+      "id": "MA006003_tahelouante",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44233"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_takoucht",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Takoucht",
+      "en": "Takoucht",
+      "slug": "takoucht"
+    },
+    "code": {
+      "id": "MA006003_takoucht",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44234"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_talmest",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Talmest",
+      "en": "Talmest",
+      "slug": "talmest"
+    },
+    "code": {
+      "id": "MA006003_talmest",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44150"
+    ],
+    "geo": {
+      "lat": "31.812",
+      "lon": "-9.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_tamanar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamanar",
+      "en": "Tamanar",
+      "slug": "tamanar"
+    },
+    "code": {
+      "id": "MA006003_tamanar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "31.001",
+      "lon": "-9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_targante",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Targante",
+      "en": "Targante",
+      "slug": "targante"
+    },
+    "code": {
+      "id": "MA006003_targante",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44235"
+    ],
+    "geo": {
+      "lat": "31.363",
+      "lon": "-9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_tidzi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tidzi",
+      "en": "Tidzi",
+      "slug": "tidzi"
+    },
+    "code": {
+      "id": "MA006003_tidzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44075"
+    ],
+    "geo": {
+      "lat": "31.306",
+      "lon": "-9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_timzguida-ouftas",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timzguida Ouftas",
+      "en": "Timzguida Ouftas",
+      "slug": "timzguida-ouftas"
+    },
+    "code": {
+      "id": "MA006003_timzguida-ouftas",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44225"
+    ],
+    "geo": {
+      "lat": "30.984",
+      "lon": "-9.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_tlata-hanchane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Hanchane",
+      "en": "Tlata Hanchane",
+      "slug": "tlata-hanchane"
+    },
+    "code": {
+      "id": "MA006003_tlata-hanchane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44250"
+    ],
+    "geo": {
+      "lat": "31.522",
+      "lon": "-9.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_tnine-ida-ou-zemzem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Ida Ou Zemzem",
+      "en": "Tnine Ida Ou Zemzem",
+      "slug": "tnine-ida-ou-zemzem"
+    },
+    "code": {
+      "id": "MA006003_tnine-ida-ou-zemzem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44275"
+    ],
+    "geo": {
+      "lat": "31.284",
+      "lon": "-9.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_tnine-imi-ntlit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Imi Ntlit",
+      "en": "Tnine Imi Ntlit",
+      "slug": "tnine-imi-ntlit"
+    },
+    "code": {
+      "id": "MA006003_tnine-imi-ntlit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44076"
+    ],
+    "geo": {
+      "lat": "31.216",
+      "lon": "-9.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006003_zaouia-ben-hmida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Ben Hmida",
+      "en": "Zaouia Ben Hmida",
+      "slug": "zaouia-ben-hmida"
+    },
+    "code": {
+      "id": "MA006003_zaouia-ben-hmida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006003",
+      "level": 2,
+      "name": {
+        "local": "Essaouira",
+        "en": "Essaouira",
+        "slug": "essaouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006003",
+        "level": 2,
+        "name": {
+          "local": "Essaouira",
+          "en": "Essaouira",
+          "slug": "essaouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44004"
+    ],
+    "geo": {
+      "lat": "31.755",
+      "lon": "-9.371"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

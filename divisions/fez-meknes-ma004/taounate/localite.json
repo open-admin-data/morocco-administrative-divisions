@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "MA004008_ain-aicha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Aicha",
+      "en": "Ain Aicha",
+      "slug": "ain-aicha"
+    },
+    "code": {
+      "id": "MA004008_ain-aicha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34252"
+    ],
+    "geo": {
+      "lat": "34.461",
+      "lon": "-4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ain-barda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Barda",
+      "en": "Ain Barda",
+      "slug": "ain-barda"
+    },
+    "code": {
+      "id": "MA004008_ain-barda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34122"
+    ],
+    "geo": {
+      "lat": "34.589",
+      "lon": "-4.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ain-legdeh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Legdeh",
+      "en": "Ain Legdeh",
+      "slug": "ain-legdeh"
+    },
+    "code": {
+      "id": "MA004008_ain-legdeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34222"
+    ],
+    "geo": {
+      "lat": "34.257",
+      "lon": "-4.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ain-maatouf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Maatouf",
+      "en": "Ain Maatouf",
+      "slug": "ain-maatouf"
+    },
+    "code": {
+      "id": "MA004008_ain-maatouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34272"
+    ],
+    "geo": {
+      "lat": "34.433",
+      "lon": "-4.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ain-mediouna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Mediouna",
+      "en": "Ain Mediouna",
+      "slug": "ain-mediouna"
+    },
+    "code": {
+      "id": "MA004008_ain-mediouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34003"
+    ],
+    "geo": {
+      "lat": "34.507",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bab-ouandar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bab Ouandar",
+      "en": "Bab Ouandar",
+      "slug": "bab-ouandar"
+    },
+    "code": {
+      "id": "MA004008_bab-ouandar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34022"
+    ],
+    "geo": {
+      "lat": "34.551",
+      "lon": "-4.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_beni-ounjil-tafraoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beni Ounjil Tafraoute",
+      "en": "Beni Ounjil Tafraoute",
+      "slug": "beni-ounjil-tafraoute"
+    },
+    "code": {
+      "id": "MA004008_beni-ounjil-tafraoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34172"
+    ],
+    "geo": {
+      "lat": "34.6",
+      "lon": "-4.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bni-korra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Korra",
+      "en": "Bni Korra",
+      "slug": "bni-korra"
+    },
+    "code": {
+      "id": "MA004008_bni-korra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34005"
+    ],
+    "geo": {
+      "lat": "34.522",
+      "lon": "-4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bni-oulid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Oulid",
+      "en": "Bni Oulid",
+      "slug": "bni-oulid"
+    },
+    "code": {
+      "id": "MA004008_bni-oulid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34004"
+    ],
+    "geo": {
+      "lat": "34.522",
+      "lon": "-4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bni-snous",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Snous",
+      "en": "Bni Snous",
+      "slug": "bni-snous"
+    },
+    "code": {
+      "id": "MA004008_bni-snous",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34053"
+    ],
+    "geo": {
+      "lat": "34.441",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bouadel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouadel",
+      "en": "Bouadel",
+      "slug": "bouadel"
+    },
+    "code": {
+      "id": "MA004008_bouadel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34055"
+    ],
+    "geo": {
+      "lat": "34.441",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bouarous",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouarous",
+      "en": "Bouarous",
+      "slug": "bouarous"
+    },
+    "code": {
+      "id": "MA004008_bouarous",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34012"
+    ],
+    "geo": {
+      "lat": "34.379",
+      "lon": "-4.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bouchabel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouchabel",
+      "en": "Bouchabel",
+      "slug": "bouchabel"
+    },
+    "code": {
+      "id": "MA004008_bouchabel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34072"
+    ],
+    "geo": {
+      "lat": "34.378",
+      "lon": "-5.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_bouhouda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouhouda",
+      "en": "Bouhouda",
+      "slug": "bouhouda"
+    },
+    "code": {
+      "id": "MA004008_bouhouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34006"
+    ],
+    "geo": {
+      "lat": "34.522",
+      "lon": "-4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_el-bessabssa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Bessabssa",
+      "en": "El Bessabssa",
+      "slug": "el-bessabssa"
+    },
+    "code": {
+      "id": "MA004008_el-bessabssa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34223"
+    ],
+    "geo": {
+      "lat": "34.257",
+      "lon": "-4.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_el-haddada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Haddada",
+      "en": "El Haddada",
+      "slug": "el-haddada"
+    },
+    "code": {
+      "id": "MA004008_el-haddada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34023"
+    ],
+    "geo": {
+      "lat": "34.619",
+      "lon": "-4.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_fennassa-bab-el-hit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fennassa Bab El Hit",
+      "en": "Fennassa Bab El Hit",
+      "slug": "fennassa-bab-el-hit"
+    },
+    "code": {
+      "id": "MA004008_fennassa-bab-el-hit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34045"
+    ],
+    "geo": {
+      "lat": "34.441",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_galaz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Galaz",
+      "en": "Galaz",
+      "slug": "galaz"
+    },
+    "code": {
+      "id": "MA004008_galaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34024"
+    ],
+    "geo": {
+      "lat": "34.544",
+      "lon": "-4.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ghafsai",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ghafsai",
+      "en": "Ghafsai",
+      "slug": "ghafsai"
+    },
+    "code": {
+      "id": "MA004008_ghafsai",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34100"
+    ],
+    "geo": {
+      "lat": "34.628",
+      "lon": "-4.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ghouazi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ghouazi",
+      "en": "Ghouazi",
+      "slug": "ghouazi"
+    },
+    "code": {
+      "id": "MA004008_ghouazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34076"
+    ],
+    "geo": {
+      "lat": "34.477",
+      "lon": "-5.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_jbabra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jbabra",
+      "en": "Jbabra",
+      "slug": "jbabra"
+    },
+    "code": {
+      "id": "MA004008_jbabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34073"
+    ],
+    "geo": {
+      "lat": "34.431",
+      "lon": "-4.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_karia-ba-mohamed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Karia Ba Mohamed",
+      "en": "Karia Ba Mohamed",
+      "slug": "karia-ba-mohamed"
+    },
+    "code": {
+      "id": "MA004008_karia-ba-mohamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34050"
+    ],
+    "geo": {
+      "lat": "34.371",
+      "lon": "-5.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_khlalfa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khlalfa",
+      "en": "Khlalfa",
+      "slug": "khlalfa"
+    },
+    "code": {
+      "id": "MA004008_khlalfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34002"
+    ],
+    "geo": {
+      "lat": "34.522",
+      "lon": "-4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_kissane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kissane",
+      "en": "Kissane",
+      "slug": "kissane"
+    },
+    "code": {
+      "id": "MA004008_kissane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34104"
+    ],
+    "geo": {
+      "lat": "34.441",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_klaia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Klaia",
+      "en": "Klaia",
+      "slug": "klaia"
+    },
+    "code": {
+      "id": "MA004008_klaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34123"
+    ],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-4.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_lamkmmel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamkmmel",
+      "en": "Lamkmmel",
+      "slug": "lamkmmel"
+    },
+    "code": {
+      "id": "MA004008_lamkmmel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34126"
+    ],
+    "geo": {
+      "lat": "34.589",
+      "lon": "-4.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_loulja",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Loulja",
+      "en": "Loulja",
+      "slug": "loulja"
+    },
+    "code": {
+      "id": "MA004008_loulja",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34074"
+    ],
+    "geo": {
+      "lat": "34.29",
+      "lon": "-4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_messassa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Messassa",
+      "en": "Messassa",
+      "slug": "messassa"
+    },
+    "code": {
+      "id": "MA004008_messassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34224"
+    ],
+    "geo": {
+      "lat": "34.253",
+      "lon": "-4.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_mezraoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mezraoua",
+      "en": "Mezraoua",
+      "slug": "mezraoua"
+    },
+    "code": {
+      "id": "MA004008_mezraoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34025"
+    ],
+    "geo": {
+      "lat": "34.551",
+      "lon": "-4.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_mkannssa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mkannssa",
+      "en": "Mkannssa",
+      "slug": "mkannssa"
+    },
+    "code": {
+      "id": "MA004008_mkannssa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34075"
+    ],
+    "geo": {
+      "lat": "34.394",
+      "lon": "-5.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_mkansa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mkansa",
+      "en": "Mkansa",
+      "slug": "mkansa"
+    },
+    "code": {
+      "id": "MA004008_mkansa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34054"
+    ],
+    "geo": {
+      "lat": "34.441",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_moulay-abdelkrim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Abdelkrim",
+      "en": "Moulay Abdelkrim",
+      "slug": "moulay-abdelkrim"
+    },
+    "code": {
+      "id": "MA004008_moulay-abdelkrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34083"
+    ],
+    "geo": {
+      "lat": "34.51",
+      "lon": "-4.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_moulay-bouchta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Bouchta",
+      "en": "Moulay Bouchta",
+      "slug": "moulay-bouchta"
+    },
+    "code": {
+      "id": "MA004008_moulay-bouchta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34033"
+    ],
+    "geo": {
+      "lat": "34.489",
+      "lon": "-5.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_oudka",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oudka",
+      "en": "Oudka",
+      "slug": "oudka"
+    },
+    "code": {
+      "id": "MA004008_oudka",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34105"
+    ],
+    "geo": {
+      "lat": "34.441",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_oued-jemaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Jemaa",
+      "en": "Oued Jemaa",
+      "slug": "oued-jemaa"
+    },
+    "code": {
+      "id": "MA004008_oued-jemaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34225"
+    ],
+    "geo": {
+      "lat": "34.257",
+      "lon": "-4.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_oulad-ayyad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Ayyad",
+      "en": "Oulad Ayyad",
+      "slug": "oulad-ayyad"
+    },
+    "code": {
+      "id": "MA004008_oulad-ayyad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35224"
+    ],
+    "geo": {
+      "lat": "34.389",
+      "lon": "-5.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_oulad-daoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Daoud",
+      "en": "Oulad Daoud",
+      "slug": "oulad-daoud"
+    },
+    "code": {
+      "id": "MA004008_oulad-daoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34273"
+    ],
+    "geo": {
+      "lat": "34.404",
+      "lon": "-4.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_oulad-salah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Salah",
+      "en": "Oulad Salah",
+      "slug": "oulad-salah"
+    },
+    "code": {
+      "id": "MA004008_oulad-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34124"
+    ],
+    "geo": {
+      "lat": "34.354",
+      "lon": "-5.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ourtzarh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ourtzarh",
+      "en": "Ourtzarh",
+      "slug": "ourtzarh"
+    },
+    "code": {
+      "id": "MA004008_ourtzarh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34044"
+    ],
+    "geo": {
+      "lat": "34.535",
+      "lon": "-4.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_outa-bouabane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Outa Bouabane",
+      "en": "Outa Bouabane",
+      "slug": "outa-bouabane"
+    },
+    "code": {
+      "id": "MA004008_outa-bouabane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34226"
+    ],
+    "geo": {
+      "lat": "34.26",
+      "lon": "-4.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_quallaline",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Quallaline",
+      "en": "Quallaline",
+      "slug": "quallaline"
+    },
+    "code": {
+      "id": "MA004008_quallaline",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34032"
+    ],
+    "geo": {
+      "lat": "34.529",
+      "lon": "-4.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_ras-el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ras El Oued",
+      "en": "Ras El Oued",
+      "slug": "ras-el-oued"
+    },
+    "code": {
+      "id": "MA004008_ras-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34232"
+    ],
+    "geo": {
+      "lat": "34.392",
+      "lon": "-4.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_retba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Retba",
+      "en": "Retba",
+      "slug": "retba"
+    },
+    "code": {
+      "id": "MA004008_retba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34102"
+    ],
+    "geo": {
+      "lat": "34.608",
+      "lon": "-4.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_rghioua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rghioua",
+      "en": "Rghioua",
+      "slug": "rghioua"
+    },
+    "code": {
+      "id": "MA004008_rghioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34026"
+    ],
+    "geo": {
+      "lat": "34.491",
+      "lon": "-4.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_sgoura",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sgoura",
+      "en": "Sgoura",
+      "slug": "sgoura"
+    },
+    "code": {
+      "id": "MA004008_sgoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34034"
+    ],
+    "geo": {
+      "lat": "34.529",
+      "lon": "-4.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_sidi-el-abed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Abed",
+      "en": "Sidi El Abed",
+      "slug": "sidi-el-abed"
+    },
+    "code": {
+      "id": "MA004008_sidi-el-abed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34082"
+    ],
+    "geo": {
+      "lat": "34.51",
+      "lon": "-4.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_sidi-el-mokhfi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Mokhfi",
+      "en": "Sidi El Mokhfi",
+      "slug": "sidi-el-mokhfi"
+    },
+    "code": {
+      "id": "MA004008_sidi-el-mokhfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34036"
+    ],
+    "geo": {
+      "lat": "34.604",
+      "lon": "-4.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_sidi-haj-mhamed",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Haj Mhamed",
+      "en": "Sidi Haj Mhamed",
+      "slug": "sidi-haj-mhamed"
+    },
+    "code": {
+      "id": "MA004008_sidi-haj-mhamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34133"
+    ],
+    "geo": {
+      "lat": "34.6",
+      "lon": "-4.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_sidi-mhamed-ben-lahcen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mhamed Ben Lahcen",
+      "en": "Sidi Mhamed Ben Lahcen",
+      "slug": "sidi-mhamed-ben-lahcen"
+    },
+    "code": {
+      "id": "MA004008_sidi-mhamed-ben-lahcen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34233"
+    ],
+    "geo": {
+      "lat": "34.392",
+      "lon": "-4.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_sidi-yahya-bni-zeroual",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Yahya Bni Zeroual",
+      "en": "Sidi Yahya Bni Zeroual",
+      "slug": "sidi-yahya-bni-zeroual"
+    },
+    "code": {
+      "id": "MA004008_sidi-yahya-bni-zeroual",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34106"
+    ],
+    "geo": {
+      "lat": "34.441",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_tabouda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabouda",
+      "en": "Tabouda",
+      "slug": "tabouda"
+    },
+    "code": {
+      "id": "MA004008_tabouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34014"
+    ],
+    "geo": {
+      "lat": "34.719",
+      "lon": "-5.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_tafrannt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafrannt",
+      "en": "Tafrannt",
+      "slug": "tafrannt"
+    },
+    "code": {
+      "id": "MA004008_tafrannt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34013"
+    ],
+    "geo": {
+      "lat": "34.625",
+      "lon": "-5.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_tahar-souk",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tahar Souk",
+      "en": "Tahar Souk",
+      "slug": "tahar-souk"
+    },
+    "code": {
+      "id": "MA004008_tahar-souk",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34150"
+    ],
+    "geo": {
+      "lat": "34.6",
+      "lon": "-4.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_tamedit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamedit",
+      "en": "Tamedit",
+      "slug": "tamedit"
+    },
+    "code": {
+      "id": "MA004008_tamedit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34173"
+    ],
+    "geo": {
+      "lat": "34.6",
+      "lon": "-4.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_tamesnite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamesnite",
+      "en": "Tamesnite",
+      "slug": "tamesnite"
+    },
+    "code": {
+      "id": "MA004008_tamesnite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34125"
+    ],
+    "geo": {
+      "lat": "34.744",
+      "lon": "-4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_taounate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taounate",
+      "en": "Taounate",
+      "slug": "taounate"
+    },
+    "code": {
+      "id": "MA004008_taounate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "34.537",
+      "lon": "-4.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_timezgana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timezgana",
+      "en": "Timezgana",
+      "slug": "timezgana"
+    },
+    "code": {
+      "id": "MA004008_timezgana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34042"
+    ],
+    "geo": {
+      "lat": "34.58",
+      "lon": "-4.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_tissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tissa",
+      "en": "Tissa",
+      "slug": "tissa"
+    },
+    "code": {
+      "id": "MA004008_tissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34200"
+    ],
+    "geo": {
+      "lat": "34.288",
+      "lon": "-4.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_tnine-zghariyine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Zghariyine",
+      "en": "Tnine Zghariyine",
+      "slug": "tnine-zghariyine"
+    },
+    "code": {
+      "id": "MA004008_tnine-zghariyine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34132"
+    ],
+    "geo": {
+      "lat": "34.6",
+      "lon": "-4.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004008_zrizer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zrizer",
+      "en": "Zrizer",
+      "slug": "zrizer"
+    },
+    "code": {
+      "id": "MA004008_zrizer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004008",
+      "level": 2,
+      "name": {
+        "local": "Taounate",
+        "en": "Taounate",
+        "slug": "taounate"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004008",
+        "level": 2,
+        "name": {
+          "local": "Taounate",
+          "en": "Taounate",
+          "slug": "taounate"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34043"
+    ],
+    "geo": {
+      "lat": "34.587",
+      "lon": "-4.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

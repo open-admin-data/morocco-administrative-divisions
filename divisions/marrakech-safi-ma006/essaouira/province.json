@@ -1,0 +1,47 @@
+{
+  "id": "MA006003",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Essaouira",
+    "en": "Essaouira",
+    "slug": "essaouira"
+  },
+  "code": {
+    "id": "MA006003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA006",
+    "level": 1,
+    "name": {
+      "local": "مراكش - آسفي",
+      "en": "Marrakech Safi",
+      "slug": "marrakech-safi-ma006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA006",
+      "level": 1,
+      "name": {
+        "local": "مراكش - آسفي",
+        "en": "Marrakech Safi",
+        "slug": "marrakech-safi-ma006"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 61
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.363",
+    "lon": "-9.507"
+  },
+  "metadata": {},
+  "source": {}
+}

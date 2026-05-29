@@ -1,0 +1,378 @@
+[
+  {
+    "id": "MA007002",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Berkane",
+      "en": "Berkane",
+      "slug": "berkane"
+    },
+    "code": {
+      "id": "MA007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.856",
+      "lon": "-2.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Driouch",
+      "en": "Driouch",
+      "slug": "driouch"
+    },
+    "code": {
+      "id": "MA007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007004",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Figuig",
+      "en": "Figuig",
+      "slug": "figuig"
+    },
+    "code": {
+      "id": "MA007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.704",
+      "lon": "-2.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007005",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Guercif",
+      "en": "Guercif",
+      "slug": "guercif"
+    },
+    "code": {
+      "id": "MA007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.142",
+      "lon": "-3.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007006",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Jerada",
+      "en": "Jerada",
+      "slug": "jerada"
+    },
+    "code": {
+      "id": "MA007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.11",
+      "lon": "-2.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007007",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nador",
+      "en": "Nador",
+      "slug": "nador"
+    },
+    "code": {
+      "id": "MA007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.052",
+      "lon": "-2.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007001",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Oujda Angad",
+      "en": "Oujda Angad",
+      "slug": "oujda-angad"
+    },
+    "code": {
+      "id": "MA007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.668",
+      "lon": "-2.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007008",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Taourirt",
+      "en": "Taourirt",
+      "slug": "taourirt"
+    },
+    "code": {
+      "id": "MA007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.045",
+      "lon": "-2.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

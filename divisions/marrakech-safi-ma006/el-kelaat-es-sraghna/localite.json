@@ -1,0 +1,2634 @@
+[
+  {
+    "id": "MA006005_ain-igli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Igli",
+      "en": "Ain Igli",
+      "slug": "ain-igli"
+    },
+    "code": {
+      "id": "MA006005_ain-igli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43072"
+    ],
+    "geo": {
+      "lat": "32.196",
+      "lon": "-7.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_bouya-omar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouya Omar",
+      "en": "Bouya Omar",
+      "slug": "bouya-omar"
+    },
+    "code": {
+      "id": "MA006005_bouya-omar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43122"
+    ],
+    "geo": {
+      "lat": "31.901",
+      "lon": "-7.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_choara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Choara",
+      "en": "Choara",
+      "slug": "choara"
+    },
+    "code": {
+      "id": "MA006005_choara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43112"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_chtaiba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chtaiba",
+      "en": "Chtaiba",
+      "slug": "chtaiba"
+    },
+    "code": {
+      "id": "MA006005_chtaiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43073"
+    ],
+    "geo": {
+      "lat": "32.195",
+      "lon": "-7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_dechra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dechra",
+      "en": "Dechra",
+      "slug": "dechra"
+    },
+    "code": {
+      "id": "MA006005_dechra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43074"
+    ],
+    "geo": {
+      "lat": "32.197",
+      "lon": "-7.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_dzouz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dzouz",
+      "en": "Dzouz",
+      "slug": "dzouz"
+    },
+    "code": {
+      "id": "MA006005_dzouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43123"
+    ],
+    "geo": {
+      "lat": "31.87",
+      "lon": "-7.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_ejjouala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ejjouala",
+      "en": "Ejjouala",
+      "slug": "ejjouala"
+    },
+    "code": {
+      "id": "MA006005_ejjouala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43472"
+    ],
+    "geo": {
+      "lat": "32.303",
+      "lon": "-7.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_el-aamria",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Aamria",
+      "en": "El Aamria",
+      "slug": "el-aamria"
+    },
+    "code": {
+      "id": "MA006005_el-aamria",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43052"
+    ],
+    "geo": {
+      "lat": "32.188",
+      "lon": "-7.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_el-hydana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Hydana",
+      "en": "El Hydana",
+      "slug": "el-hydana"
+    },
+    "code": {
+      "id": "MA006005_el-hydana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43022"
+    ],
+    "geo": {
+      "lat": "32.157",
+      "lon": "-7.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_el-kelaa-des-sraghna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Kelaa Des Sraghna",
+      "en": "El Kelaa Des Sraghna",
+      "slug": "el-kelaa-des-sraghna"
+    },
+    "code": {
+      "id": "MA006005_el-kelaa-des-sraghna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43000"
+    ],
+    "geo": {
+      "lat": "32.188",
+      "lon": "-7.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_el-marbouh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Marbouh",
+      "en": "El Marbouh",
+      "slug": "el-marbouh"
+    },
+    "code": {
+      "id": "MA006005_el-marbouh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43006"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_errafiaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Errafiaya",
+      "en": "Errafiaya",
+      "slug": "errafiaya"
+    },
+    "code": {
+      "id": "MA006005_errafiaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43012"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_had-fraita",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Fraita",
+      "en": "Had Fraita",
+      "slug": "had-fraita"
+    },
+    "code": {
+      "id": "MA006005_had-fraita",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43124"
+    ],
+    "geo": {
+      "lat": "31.933",
+      "lon": "-7.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_hiadna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hiadna",
+      "en": "Hiadna",
+      "slug": "hiadna"
+    },
+    "code": {
+      "id": "MA006005_hiadna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43034"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_jbiel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jbiel",
+      "en": "Jbiel",
+      "slug": "jbiel"
+    },
+    "code": {
+      "id": "MA006005_jbiel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43473"
+    ],
+    "geo": {
+      "lat": "32.303",
+      "lon": "-7.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_jemaa-el-ma-bared",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa El Ma Bared",
+      "en": "Jemaa El Ma Bared",
+      "slug": "jemaa-el-ma-bared"
+    },
+    "code": {
+      "id": "MA006005_jemaa-el-ma-bared",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43172"
+    ],
+    "geo": {
+      "lat": "32.27",
+      "lon": "-8.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_laatmna-srarhna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laatmna Srarhna",
+      "en": "Laatmna Srarhna",
+      "slug": "laatmna-srarhna"
+    },
+    "code": {
+      "id": "MA006005_laatmna-srarhna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43125"
+    ],
+    "geo": {
+      "lat": "31.901",
+      "lon": "-7.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_laattaouia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laattaouia",
+      "en": "Laattaouia",
+      "slug": "laattaouia"
+    },
+    "code": {
+      "id": "MA006005_laattaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43100"
+    ],
+    "geo": {
+      "lat": "32.145",
+      "lon": "-7.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_laattaouia-ech-chaybia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laattaouia Ech Chaybia",
+      "en": "Laattaouia Ech Chaybia",
+      "slug": "laattaouia-ech-chaybia"
+    },
+    "code": {
+      "id": "MA006005_laattaouia-ech-chaybia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43102"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_louad-lakhdar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Louad Lakhdar",
+      "en": "Louad Lakhdar",
+      "slug": "louad-lakhdar"
+    },
+    "code": {
+      "id": "MA006005_louad-lakhdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43272"
+    ],
+    "geo": {
+      "lat": "31.754",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_mayate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mayate",
+      "en": "Mayate",
+      "slug": "mayate"
+    },
+    "code": {
+      "id": "MA006005_mayate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43023"
+    ],
+    "geo": {
+      "lat": "32.27",
+      "lon": "-7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_mzem-sanhaja",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mzem Sanhaja",
+      "en": "Mzem Sanhaja",
+      "slug": "mzem-sanhaja"
+    },
+    "code": {
+      "id": "MA006005_mzem-sanhaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43103"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_ouargui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouargui",
+      "en": "Ouargui",
+      "slug": "ouargui"
+    },
+    "code": {
+      "id": "MA006005_ouargui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43273"
+    ],
+    "geo": {
+      "lat": "31.754",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-aamer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Aamer",
+      "en": "Oulad Aamer",
+      "slug": "oulad-aamer"
+    },
+    "code": {
+      "id": "MA006005_oulad-aamer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43076"
+    ],
+    "geo": {
+      "lat": "32.196",
+      "lon": "-7.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-aarrad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Aarrad",
+      "en": "Oulad Aarrad",
+      "slug": "oulad-aarrad"
+    },
+    "code": {
+      "id": "MA006005_oulad-aarrad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43104"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-cherki",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Cherki",
+      "en": "Oulad Cherki",
+      "slug": "oulad-cherki"
+    },
+    "code": {
+      "id": "MA006005_oulad-cherki",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43013"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-el-garne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad El Garne",
+      "en": "Oulad El Garne",
+      "slug": "oulad-el-garne"
+    },
+    "code": {
+      "id": "MA006005_oulad-el-garne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43014"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-khallouf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Khallouf",
+      "en": "Oulad Khallouf",
+      "slug": "oulad-khallouf"
+    },
+    "code": {
+      "id": "MA006005_oulad-khallouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43105"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-massaoud",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Massaoud",
+      "en": "Oulad Massaoud",
+      "slug": "oulad-massaoud"
+    },
+    "code": {
+      "id": "MA006005_oulad-massaoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43015"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-msabbel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Msabbel",
+      "en": "Oulad Msabbel",
+      "slug": "oulad-msabbel"
+    },
+    "code": {
+      "id": "MA006005_oulad-msabbel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43083"
+    ],
+    "geo": {
+      "lat": "32.267",
+      "lon": "-7.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-sbih",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Sbih",
+      "en": "Oulad Sbih",
+      "slug": "oulad-sbih"
+    },
+    "code": {
+      "id": "MA006005_oulad-sbih",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43016"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-yacoub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Yacoub",
+      "en": "Oulad Yacoub",
+      "slug": "oulad-yacoub"
+    },
+    "code": {
+      "id": "MA006005_oulad-yacoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43024"
+    ],
+    "geo": {
+      "lat": "32.277",
+      "lon": "-7.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_oulad-zarrad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Zarrad",
+      "en": "Oulad Zarrad",
+      "slug": "oulad-zarrad"
+    },
+    "code": {
+      "id": "MA006005_oulad-zarrad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43026"
+    ],
+    "geo": {
+      "lat": "31.925",
+      "lon": "-7.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_pont-tassaoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pont Tassaoute",
+      "en": "Pont Tassaoute",
+      "slug": "pont-tassaoute"
+    },
+    "code": {
+      "id": "MA006005_pont-tassaoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43075"
+    ],
+    "geo": {
+      "lat": "32.196",
+      "lon": "-7.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_sahrij",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sahrij",
+      "en": "Sahrij",
+      "slug": "sahrij"
+    },
+    "code": {
+      "id": "MA006005_sahrij",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43252"
+    ],
+    "geo": {
+      "lat": "31.805",
+      "lon": "-7.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_sebt-ounasdass",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Ounasdass",
+      "en": "Sebt Ounasdass",
+      "slug": "sebt-ounasdass"
+    },
+    "code": {
+      "id": "MA006005_sebt-ounasdass",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43025"
+    ],
+    "geo": {
+      "lat": "32.157",
+      "lon": "-7.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_sidi-aissa-ben-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Aissa Ben Slimane",
+      "en": "Sidi Aissa Ben Slimane",
+      "slug": "sidi-aissa-ben-slimane"
+    },
+    "code": {
+      "id": "MA006005_sidi-aissa-ben-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43274"
+    ],
+    "geo": {
+      "lat": "31.754",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_sidi-driss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Driss",
+      "en": "Sidi Driss",
+      "slug": "sidi-driss"
+    },
+    "code": {
+      "id": "MA006005_sidi-driss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43275"
+    ],
+    "geo": {
+      "lat": "31.754",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_sidi-el-hattab",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Hattab",
+      "en": "Sidi El Hattab",
+      "slug": "sidi-el-hattab"
+    },
+    "code": {
+      "id": "MA006005_sidi-el-hattab",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43082"
+    ],
+    "geo": {
+      "lat": "32.267",
+      "lon": "-7.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_sidi-rahhal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Rahhal",
+      "en": "Sidi Rahhal",
+      "slug": "sidi-rahhal"
+    },
+    "code": {
+      "id": "MA006005_sidi-rahhal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43350"
+    ],
+    "geo": {
+      "lat": "31.65",
+      "lon": "-7.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_sour-el-aaz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sour El Aaz",
+      "en": "Sour El Aaz",
+      "slug": "sour-el-aaz"
+    },
+    "code": {
+      "id": "MA006005_sour-el-aaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43106"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_tamallalt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamallalt",
+      "en": "Tamallalt",
+      "slug": "tamallalt"
+    },
+    "code": {
+      "id": "MA006005_tamallalt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43450"
+    ],
+    "geo": {
+      "lat": "31.819",
+      "lon": "-7.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_taouzint",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taouzint",
+      "en": "Taouzint",
+      "slug": "taouzint"
+    },
+    "code": {
+      "id": "MA006005_taouzint",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43032"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_tleta-mzem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Mzem",
+      "en": "Tleta Mzem",
+      "slug": "tleta-mzem"
+    },
+    "code": {
+      "id": "MA006005_tleta-mzem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43276"
+    ],
+    "geo": {
+      "lat": "31.754",
+      "lon": "-7.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_zemrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zemrane",
+      "en": "Zemrane",
+      "slug": "zemrane"
+    },
+    "code": {
+      "id": "MA006005_zemrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43372"
+    ],
+    "geo": {
+      "lat": "32.063",
+      "lon": "-7.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_zemrane-cherqia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zemrane Cherqia",
+      "en": "Zemrane Cherqia",
+      "slug": "zemrane-cherqia"
+    },
+    "code": {
+      "id": "MA006005_zemrane-cherqia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43474"
+    ],
+    "geo": {
+      "lat": "32.303",
+      "lon": "-7.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006005_znada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Znada",
+      "en": "Znada",
+      "slug": "znada"
+    },
+    "code": {
+      "id": "MA006005_znada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006005",
+      "level": 2,
+      "name": {
+        "local": "El Kelaat Es Sraghna",
+        "en": "El Kelaat Es Sraghna",
+        "slug": "el-kelaat-es-sraghna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006005",
+        "level": 2,
+        "name": {
+          "local": "El Kelaat Es Sraghna",
+          "en": "El Kelaat Es Sraghna",
+          "slug": "el-kelaat-es-sraghna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43033"
+    ],
+    "geo": {
+      "lat": "32.044",
+      "lon": "-7.384"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

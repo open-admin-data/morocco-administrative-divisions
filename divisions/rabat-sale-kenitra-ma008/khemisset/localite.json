@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "MA008005_ain-johra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Johra",
+      "en": "Ain Johra",
+      "slug": "ain-johra"
+    },
+    "code": {
+      "id": "MA008005_ain-johra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15422"
+    ],
+    "geo": {
+      "lat": "34.1",
+      "lon": "-6.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_ain-sbit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Sbit",
+      "en": "Ain Sbit",
+      "slug": "ain-sbit"
+    },
+    "code": {
+      "id": "MA008005_ain-sbit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15152"
+    ],
+    "geo": {
+      "lat": "33.611",
+      "lon": "-6.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_ait-belkacem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Belkacem",
+      "en": "Ait Belkacem",
+      "slug": "ait-belkacem"
+    },
+    "code": {
+      "id": "MA008005_ait-belkacem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15425"
+    ],
+    "geo": {
+      "lat": "33.949",
+      "lon": "-6.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_ait-ichou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ichou",
+      "en": "Ait Ichou",
+      "slug": "ait-ichou"
+    },
+    "code": {
+      "id": "MA008005_ait-ichou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15124"
+    ],
+    "geo": {
+      "lat": "33.951",
+      "lon": "-6.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_ait-malek",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Malek",
+      "en": "Ait Malek",
+      "slug": "ait-malek"
+    },
+    "code": {
+      "id": "MA008005_ait-malek",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15406"
+    ],
+    "geo": {
+      "lat": "33.666",
+      "lon": "-6.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_ait-siberne",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Siberne",
+      "en": "Ait Siberne",
+      "slug": "ait-siberne"
+    },
+    "code": {
+      "id": "MA008005_ait-siberne",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14306"
+    ],
+    "geo": {
+      "lat": "33.666",
+      "lon": "-6.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_boukchmir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boukchmir",
+      "en": "Boukchmir",
+      "slug": "boukchmir"
+    },
+    "code": {
+      "id": "MA008005_boukchmir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15122"
+    ],
+    "geo": {
+      "lat": "33.669",
+      "lon": "-6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_el-ganzra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Ganzra",
+      "en": "El Ganzra",
+      "slug": "el-ganzra"
+    },
+    "code": {
+      "id": "MA008005_el-ganzra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15013"
+    ],
+    "geo": {
+      "lat": "33.666",
+      "lon": "-6.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_el-hammam-jbel-doum",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Hammam Jbel Doum",
+      "en": "El Hammam Jbel Doum",
+      "slug": "el-hammam-jbel-doum"
+    },
+    "code": {
+      "id": "MA008005_el-hammam-jbel-doum",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15022"
+    ],
+    "geo": {
+      "lat": "33.783",
+      "lon": "-6.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_el-kensara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Kensara",
+      "en": "El Kensara",
+      "slug": "el-kensara"
+    },
+    "code": {
+      "id": "MA008005_el-kensara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15026"
+    ],
+    "geo": {
+      "lat": "33.783",
+      "lon": "-6.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_had-ait-mimoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Ait Mimoun",
+      "en": "Had Ait Mimoun",
+      "slug": "had-ait-mimoun"
+    },
+    "code": {
+      "id": "MA008005_had-ait-mimoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15023"
+    ],
+    "geo": {
+      "lat": "33.783",
+      "lon": "-6.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_had-ait-ouribel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Ait Ouribel",
+      "en": "Had Ait Ouribel",
+      "slug": "had-ait-ouribel"
+    },
+    "code": {
+      "id": "MA008005_had-ait-ouribel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15024"
+    ],
+    "geo": {
+      "lat": "33.783",
+      "lon": "-6.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_had-brachoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Brachoua",
+      "en": "Had Brachoua",
+      "slug": "had-brachoua"
+    },
+    "code": {
+      "id": "MA008005_had-brachoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15153"
+    ],
+    "geo": {
+      "lat": "33.694",
+      "lon": "-6.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_had-rhoualem",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Rhoualem",
+      "en": "Had Rhoualem",
+      "slug": "had-rhoualem"
+    },
+    "code": {
+      "id": "MA008005_had-rhoualem",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15172"
+    ],
+    "geo": {
+      "lat": "33.597",
+      "lon": "-6.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_hajjama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hajjama",
+      "en": "Hajjama",
+      "slug": "hajjama"
+    },
+    "code": {
+      "id": "MA008005_hajjama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15412"
+    ],
+    "geo": {
+      "lat": "33.666",
+      "lon": "-6.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_jemaa-moul-leblad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jemaa Moul Leblad",
+      "en": "Jemaa Moul Leblad",
+      "slug": "jemaa-moul-leblad"
+    },
+    "code": {
+      "id": "MA008005_jemaa-moul-leblad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15173"
+    ],
+    "geo": {
+      "lat": "33.597",
+      "lon": "-6.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_khemis-ait-yaddine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Ait Yaddine",
+      "en": "Khemis Ait Yaddine",
+      "slug": "khemis-ait-yaddine"
+    },
+    "code": {
+      "id": "MA008005_khemis-ait-yaddine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15003"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_khemis-nkheila",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Nkheila",
+      "en": "Khemis Nkheila",
+      "slug": "khemis-nkheila"
+    },
+    "code": {
+      "id": "MA008005_khemis-nkheila",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15175"
+    ],
+    "geo": {
+      "lat": "33.597",
+      "lon": "-6.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_khemis-sidi-yahia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Sidi Yahia",
+      "en": "Khemis Sidi Yahia",
+      "slug": "khemis-sidi-yahia"
+    },
+    "code": {
+      "id": "MA008005_khemis-sidi-yahia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15423"
+    ],
+    "geo": {
+      "lat": "33.799",
+      "lon": "-6.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_maaziz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maaziz",
+      "en": "Maaziz",
+      "slug": "maaziz"
+    },
+    "code": {
+      "id": "MA008005_maaziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15053"
+    ],
+    "geo": {
+      "lat": "33.671",
+      "lon": "-6.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_majmaa-tolba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Majmaa Tolba",
+      "en": "Majmaa Tolba",
+      "slug": "majmaa-tolba"
+    },
+    "code": {
+      "id": "MA008005_majmaa-tolba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15032"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_marchouch",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Marchouch",
+      "en": "Marchouch",
+      "slug": "marchouch"
+    },
+    "code": {
+      "id": "MA008005_marchouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15174"
+    ],
+    "geo": {
+      "lat": "33.597",
+      "lon": "-6.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_mkam-tolba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mkam Tolba",
+      "en": "Mkam Tolba",
+      "slug": "mkam-tolba"
+    },
+    "code": {
+      "id": "MA008005_mkam-tolba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15424"
+    ],
+    "geo": {
+      "lat": "33.949",
+      "lon": "-6.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_moulay-driss-arhbal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moulay Driss Arhbal",
+      "en": "Moulay Driss Arhbal",
+      "slug": "moulay-driss-arhbal"
+    },
+    "code": {
+      "id": "MA008005_moulay-driss-arhbal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15072"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_oulmes",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulmes",
+      "en": "Oulmes",
+      "slug": "oulmes"
+    },
+    "code": {
+      "id": "MA008005_oulmes",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15102"
+    ],
+    "geo": {
+      "lat": "33.426",
+      "lon": "-6.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_rommani",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rommani",
+      "en": "Rommani",
+      "slug": "rommani"
+    },
+    "code": {
+      "id": "MA008005_rommani",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15150"
+    ],
+    "geo": {
+      "lat": "33.528",
+      "lon": "-6.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sebt-ait-ikkou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Ait Ikkou",
+      "en": "Sebt Ait Ikkou",
+      "slug": "sebt-ait-ikkou"
+    },
+    "code": {
+      "id": "MA008005_sebt-ait-ikkou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15052"
+    ],
+    "geo": {
+      "lat": "33.669",
+      "lon": "-6.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sfassif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sfassif",
+      "en": "Sfassif",
+      "slug": "sfassif"
+    },
+    "code": {
+      "id": "MA008005_sfassif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15004"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sidi-abderrazak",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abderrazak",
+      "en": "Sidi Abderrazak",
+      "slug": "sidi-abderrazak"
+    },
+    "code": {
+      "id": "MA008005_sidi-abderrazak",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15202"
+    ],
+    "geo": {
+      "lat": "34.002",
+      "lon": "-6.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sidi-ali-ou-lahcen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ali Ou Lahcen",
+      "en": "Sidi Ali Ou Lahcen",
+      "slug": "sidi-ali-ou-lahcen"
+    },
+    "code": {
+      "id": "MA008005_sidi-ali-ou-lahcen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15014"
+    ],
+    "geo": {
+      "lat": "33.666",
+      "lon": "-6.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sidi-allal-el-bahraoui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Allal El Bahraoui",
+      "en": "Sidi Allal El Bahraoui",
+      "slug": "sidi-allal-el-bahraoui"
+    },
+    "code": {
+      "id": "MA008005_sidi-allal-el-bahraoui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15252"
+    ],
+    "geo": {
+      "lat": "34.002",
+      "lon": "-6.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sidi-allal-lemsedder",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Allal Lemsedder",
+      "en": "Sidi Allal Lemsedder",
+      "slug": "sidi-allal-lemsedder"
+    },
+    "code": {
+      "id": "MA008005_sidi-allal-lemsedder",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15005"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sidi-boukhalkhal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boukhalkhal",
+      "en": "Sidi Boukhalkhal",
+      "slug": "sidi-boukhalkhal"
+    },
+    "code": {
+      "id": "MA008005_sidi-boukhalkhal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15273"
+    ],
+    "geo": {
+      "lat": "34.002",
+      "lon": "-6.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_sidi-el-rhandour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Rhandour",
+      "en": "Sidi El Rhandour",
+      "slug": "sidi-el-rhandour"
+    },
+    "code": {
+      "id": "MA008005_sidi-el-rhandour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15033"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_souk-jemaa-houderrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Jemaa Houderrane",
+      "en": "Souk Jemaa Houderrane",
+      "slug": "souk-jemaa-houderrane"
+    },
+    "code": {
+      "id": "MA008005_souk-jemaa-houderrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15073"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "-6.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_souk-sebt-oued-beht",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Sebt Oued Beht",
+      "en": "Souk Sebt Oued Beht",
+      "slug": "souk-sebt-oued-beht"
+    },
+    "code": {
+      "id": "MA008005_souk-sebt-oued-beht",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15025"
+    ],
+    "geo": {
+      "lat": "33.783",
+      "lon": "-6.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_souk-tnine-moghane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Tnine Moghane",
+      "en": "Souk Tnine Moghane",
+      "slug": "souk-tnine-moghane"
+    },
+    "code": {
+      "id": "MA008005_souk-tnine-moghane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15272"
+    ],
+    "geo": {
+      "lat": "34.002",
+      "lon": "-6.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_tarmilet",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tarmilet",
+      "en": "Tarmilet",
+      "slug": "tarmilet"
+    },
+    "code": {
+      "id": "MA008005_tarmilet",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15123"
+    ],
+    "geo": {
+      "lat": "33.387",
+      "lon": "-6.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_tiddas",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tiddas",
+      "en": "Tiddas",
+      "slug": "tiddas"
+    },
+    "code": {
+      "id": "MA008005_tiddas",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15352"
+    ],
+    "geo": {
+      "lat": "33.569",
+      "lon": "-6.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA008005_zhiliga",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zhiliga",
+      "en": "Zhiliga",
+      "slug": "zhiliga"
+    },
+    "code": {
+      "id": "MA008005_zhiliga",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA008005",
+      "level": 2,
+      "name": {
+        "local": "Khemisset",
+        "en": "Khemisset",
+        "slug": "khemisset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA008",
+        "level": 1,
+        "name": {
+          "local": "الرباط - سلا -القنيطرة",
+          "en": "Rabat Sale Kenitra",
+          "slug": "rabat-sale-kenitra-ma008"
+        }
+      },
+      {
+        "id": "MA008005",
+        "level": 2,
+        "name": {
+          "local": "Khemisset",
+          "en": "Khemisset",
+          "slug": "khemisset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15154"
+    ],
+    "geo": {
+      "lat": "33.611",
+      "lon": "-6.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

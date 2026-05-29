@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "MA007003_ain-zorah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Zorah",
+      "en": "Ain Zorah",
+      "slug": "ain-zorah"
+    },
+    "code": {
+      "id": "MA007003_ain-zorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62252"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_ajermounas",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ajermounas",
+      "en": "Ajermounas",
+      "slug": "ajermounas"
+    },
+    "code": {
+      "id": "MA007003_ajermounas",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62422"
+    ],
+    "geo": {
+      "lat": "35.118",
+      "lon": "-3.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_amejjaou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amejjaou",
+      "en": "Amejjaou",
+      "slug": "amejjaou"
+    },
+    "code": {
+      "id": "MA007003_amejjaou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62255"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_azlaf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azlaf",
+      "en": "Azlaf",
+      "slug": "azlaf"
+    },
+    "code": {
+      "id": "MA007003_azlaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62256"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_ben-tib",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ben Tib",
+      "en": "Ben Tib",
+      "slug": "ben-tib"
+    },
+    "code": {
+      "id": "MA007003_ben-tib",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62102"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_bni-marghnine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bni Marghnine",
+      "en": "Bni Marghnine",
+      "slug": "bni-marghnine"
+    },
+    "code": {
+      "id": "MA007003_bni-marghnine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62044"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_boudinar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boudinar",
+      "en": "Boudinar",
+      "slug": "boudinar"
+    },
+    "code": {
+      "id": "MA007003_boudinar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62152"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_dar-kebdani",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Kebdani",
+      "en": "Dar Kebdani",
+      "slug": "dar-kebdani"
+    },
+    "code": {
+      "id": "MA007003_dar-kebdani",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62202"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_driouch",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Driouch",
+      "en": "Driouch",
+      "slug": "driouch"
+    },
+    "code": {
+      "id": "MA007003_driouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62253"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_iferni",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Iferni",
+      "en": "Iferni",
+      "slug": "iferni"
+    },
+    "code": {
+      "id": "MA007003_iferni",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62045"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_kaceta",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kaceta",
+      "en": "Kaceta",
+      "slug": "kaceta"
+    },
+    "code": {
+      "id": "MA007003_kaceta",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62522"
+    ],
+    "geo": {
+      "lat": "34.976",
+      "lon": "-3.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_khemis-temsamane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Temsamane",
+      "en": "Khemis Temsamane",
+      "slug": "khemis-temsamane"
+    },
+    "code": {
+      "id": "MA007003_khemis-temsamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62402"
+    ],
+    "geo": {
+      "lat": "35.118",
+      "lon": "-3.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_mhajer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mhajer",
+      "en": "Mhajer",
+      "slug": "mhajer"
+    },
+    "code": {
+      "id": "MA007003_mhajer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62452"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_midar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Midar",
+      "en": "Midar",
+      "slug": "midar"
+    },
+    "code": {
+      "id": "MA007003_midar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62502"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_mtalssa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mtalssa",
+      "en": "Mtalssa",
+      "slug": "mtalssa"
+    },
+    "code": {
+      "id": "MA007003_mtalssa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62263"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_ouardana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouardana",
+      "en": "Ouardana",
+      "slug": "ouardana"
+    },
+    "code": {
+      "id": "MA007003_ouardana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62046"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_oulad-amghar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Amghar",
+      "en": "Oulad Amghar",
+      "slug": "oulad-amghar"
+    },
+    "code": {
+      "id": "MA007003_oulad-amghar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62172"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_oulad-boubker",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Boubker",
+      "en": "Oulad Boubker",
+      "slug": "oulad-boubker"
+    },
+    "code": {
+      "id": "MA007003_oulad-boubker",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62272"
+    ],
+    "geo": {
+      "lat": "34.918",
+      "lon": "-3.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_tafersite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafersite",
+      "en": "Tafersite",
+      "slug": "tafersite"
+    },
+    "code": {
+      "id": "MA007003_tafersite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62752"
+    ],
+    "geo": {
+      "lat": "35.073",
+      "lon": "-2.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_talilit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Talilit",
+      "en": "Talilit",
+      "slug": "talilit"
+    },
+    "code": {
+      "id": "MA007003_talilit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62123"
+    ],
+    "geo": {
+      "lat": "35.153",
+      "lon": "-3.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_tazaghine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazaghine",
+      "en": "Tazaghine",
+      "slug": "tazaghine"
+    },
+    "code": {
+      "id": "MA007003_tazaghine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62262"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_tizirhine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizirhine",
+      "en": "Tizirhine",
+      "slug": "tizirhine"
+    },
+    "code": {
+      "id": "MA007003_tizirhine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62122"
+    ],
+    "geo": {
+      "lat": "35.153",
+      "lon": "-3.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_tleta-tazlaft",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Tazlaft",
+      "en": "Tleta Tazlaft",
+      "slug": "tleta-tazlaft"
+    },
+    "code": {
+      "id": "MA007003_tleta-tazlaft",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62523"
+    ],
+    "geo": {
+      "lat": "34.976",
+      "lon": "-3.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_trougout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Trougout",
+      "en": "Trougout",
+      "slug": "trougout"
+    },
+    "code": {
+      "id": "MA007003_trougout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62053"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_troukout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Troukout",
+      "en": "Troukout",
+      "slug": "troukout"
+    },
+    "code": {
+      "id": "MA007003_troukout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32253"
+    ],
+    "geo": {
+      "lat": "35.146",
+      "lon": "-3.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007003_tsaft",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tsaft",
+      "en": "Tsaft",
+      "slug": "tsaft"
+    },
+    "code": {
+      "id": "MA007003_tsaft",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007003",
+      "level": 2,
+      "name": {
+        "local": "Driouch",
+        "en": "Driouch",
+        "slug": "driouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007003",
+        "level": 2,
+        "name": {
+          "local": "Driouch",
+          "en": "Driouch",
+          "slug": "driouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62054"
+    ],
+    "geo": {
+      "lat": "34.915",
+      "lon": "-3.544"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

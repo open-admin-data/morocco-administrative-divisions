@@ -1,0 +1,47 @@
+{
+  "id": "MA008002",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Rabat",
+    "en": "Rabat",
+    "slug": "rabat"
+  },
+  "code": {
+    "id": "MA008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA008",
+    "level": 1,
+    "name": {
+      "local": "الرباط - سلا -القنيطرة",
+      "en": "Rabat Sale Kenitra",
+      "slug": "rabat-sale-kenitra-ma008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA008",
+      "level": 1,
+      "name": {
+        "local": "الرباط - سلا -القنيطرة",
+        "en": "Rabat Sale Kenitra",
+        "slug": "rabat-sale-kenitra-ma008"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.967",
+    "lon": "-6.843"
+  },
+  "metadata": {},
+  "source": {}
+}

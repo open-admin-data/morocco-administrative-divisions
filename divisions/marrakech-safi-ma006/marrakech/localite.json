@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "MA006004_agafay",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agafay",
+      "en": "Agafay",
+      "slug": "agafay"
+    },
+    "code": {
+      "id": "MA006004_agafay",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40254"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_ain-itti",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Itti",
+      "en": "Ain Itti",
+      "slug": "ain-itti"
+    },
+    "code": {
+      "id": "MA006004_ain-itti",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40022"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_alouidane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Alouidane",
+      "en": "Alouidane",
+      "slug": "alouidane"
+    },
+    "code": {
+      "id": "MA006004_alouidane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41103"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_chouiter",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chouiter",
+      "en": "Chouiter",
+      "slug": "chouiter"
+    },
+    "code": {
+      "id": "MA006004_chouiter",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40023"
+    ],
+    "geo": {
+      "lat": "31.575",
+      "lon": "-7.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_douar-chaouf-el-ayadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douar Chaouf El Ayadi",
+      "en": "Douar Chaouf El Ayadi",
+      "slug": "douar-chaouf-el-ayadi"
+    },
+    "code": {
+      "id": "MA006004_douar-chaouf-el-ayadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40024"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_had-mnabha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Mnabha",
+      "en": "Had Mnabha",
+      "slug": "had-mnabha"
+    },
+    "code": {
+      "id": "MA006004_had-mnabha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40173"
+    ],
+    "geo": {
+      "lat": "31.605",
+      "lon": "-8.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_harbil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Harbil",
+      "en": "Harbil",
+      "slug": "harbil"
+    },
+    "code": {
+      "id": "MA006004_harbil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41104"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_kettara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kettara",
+      "en": "Kettara",
+      "slug": "kettara"
+    },
+    "code": {
+      "id": "MA006004_kettara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40152"
+    ],
+    "geo": {
+      "lat": "31.605",
+      "lon": "-8.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_mrabtine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mrabtine",
+      "en": "Mrabtine",
+      "slug": "mrabtine"
+    },
+    "code": {
+      "id": "MA006004_mrabtine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40026"
+    ],
+    "geo": {
+      "lat": "31.647",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_nzalat-el-harmel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nzalat El Harmel",
+      "en": "Nzalat El Harmel",
+      "slug": "nzalat-el-harmel"
+    },
+    "code": {
+      "id": "MA006004_nzalat-el-harmel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40172"
+    ],
+    "geo": {
+      "lat": "31.605",
+      "lon": "-8.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_ouahat-sidi-brahim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouahat Sidi Brahim",
+      "en": "Ouahat Sidi Brahim",
+      "slug": "ouahat-sidi-brahim"
+    },
+    "code": {
+      "id": "MA006004_ouahat-sidi-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41105"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_oued-lahjar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oued Lahjar",
+      "en": "Oued Lahjar",
+      "slug": "oued-lahjar"
+    },
+    "code": {
+      "id": "MA006004_oued-lahjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40062"
+    ],
+    "geo": {
+      "lat": "31.952",
+      "lon": "-8.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_oulad-belaaguid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Belaaguid",
+      "en": "Oulad Belaaguid",
+      "slug": "oulad-belaaguid"
+    },
+    "code": {
+      "id": "MA006004_oulad-belaaguid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40063"
+    ],
+    "geo": {
+      "lat": "31.952",
+      "lon": "-8.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_oulad-dlim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Dlim",
+      "en": "Oulad Dlim",
+      "slug": "oulad-dlim"
+    },
+    "code": {
+      "id": "MA006004_oulad-dlim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40064"
+    ],
+    "geo": {
+      "lat": "31.952",
+      "lon": "-8.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_sebt-ait-imour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Ait Imour",
+      "en": "Sebt Ait Imour",
+      "slug": "sebt-ait-imour"
+    },
+    "code": {
+      "id": "MA006004_sebt-ait-imour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40272"
+    ],
+    "geo": {
+      "lat": "31.555",
+      "lon": "-8.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_sidi-zouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Zouine",
+      "en": "Sidi Zouine",
+      "slug": "sidi-zouine"
+    },
+    "code": {
+      "id": "MA006004_sidi-zouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40202"
+    ],
+    "geo": {
+      "lat": "31.669",
+      "lon": "-8.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_souihla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souihla",
+      "en": "Souihla",
+      "slug": "souihla"
+    },
+    "code": {
+      "id": "MA006004_souihla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40255"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "-8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_tamansourt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamansourt",
+      "en": "Tamansourt",
+      "slug": "tamansourt"
+    },
+    "code": {
+      "id": "MA006004_tamansourt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40300"
+    ],
+    "geo": {
+      "lat": "31.605",
+      "lon": "-8.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_tassoultante",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tassoultante",
+      "en": "Tassoultante",
+      "slug": "tassoultante"
+    },
+    "code": {
+      "id": "MA006004_tassoultante",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40065"
+    ],
+    "geo": {
+      "lat": "31.952",
+      "lon": "-8.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006004_tnine-oudaya",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Oudaya",
+      "en": "Tnine Oudaya",
+      "slug": "tnine-oudaya"
+    },
+    "code": {
+      "id": "MA006004_tnine-oudaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006004",
+      "level": 2,
+      "name": {
+        "local": "Marrakech",
+        "en": "Marrakech",
+        "slug": "marrakech"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006004",
+        "level": 2,
+        "name": {
+          "local": "Marrakech",
+          "en": "Marrakech",
+          "slug": "marrakech"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40253"
+    ],
+    "geo": {
+      "lat": "31.634",
+      "lon": "-8.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

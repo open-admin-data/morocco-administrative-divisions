@@ -1,0 +1,47 @@
+{
+  "id": "MA002001",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Berrechid",
+    "en": "Berrechid",
+    "slug": "berrechid"
+  },
+  "code": {
+    "id": "MA002001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA002",
+    "level": 1,
+    "name": {
+      "local": "الدار البيضاء - سطات",
+      "en": "Casablanca Settat",
+      "slug": "casablanca-settat-ma002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA002",
+      "level": 1,
+      "name": {
+        "local": "الدار البيضاء - سطات",
+        "en": "Casablanca Settat",
+        "slug": "casablanca-settat-ma002"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.259",
+    "lon": "-7.615"
+  },
+  "metadata": {},
+  "source": {}
+}

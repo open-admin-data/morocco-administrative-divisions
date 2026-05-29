@@ -1,0 +1,265 @@
+# Guelmim Oued Noun — Morocco Administrative Divisions
+
+> 4 provinces, 59 localitys
+> Code: MA005
+> Coordinates: 28.646, -10.068
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Provinces
+
+### Assa Zag
+
+Code: MA005001, Coordinates: 28.235, -9.537
+Localitys: 7
+
+#### Al Mahbass
+
+Code: MA005001_al-mahbass, Postal: 81036, Coordinates: 28.652, -9.653
+
+#### Aouint Lahna
+
+Code: MA005001_aouint-lahna, Postal: 81212, Coordinates: 28.235, -9.537
+
+#### Aouint Yghomane
+
+Code: MA005001_aouint-yghomane, Postal: 81213, Coordinates: 28.235, -9.537
+
+#### Assa
+
+Code: MA005001_assa, Postal: 81010, Coordinates: 28.61, -9.43
+
+#### Labouirat
+
+Code: MA005001_labouirat, Postal: 81035, Coordinates: 28.652, -9.653
+
+#### Touizgui
+
+Code: MA005001_touizgui, Postal: 81214, Coordinates: 28.235, -9.537
+
+#### Zag
+
+Code: MA005001_zag, Postal: 81006, Coordinates: 28.022, -9.294
+
+### Guelmim
+
+Code: MA005002, Coordinates: 28.891, -9.991
+Localitys: 29
+
+#### Abainou
+
+Code: MA005002_abainou, Postal: 81024, Coordinates: 28.652, -9.653
+
+#### Afereket Ait Yassine
+
+Code: MA005002_afereket-ait-yassine, Postal: 81025, Coordinates: 28.652, -9.653
+
+#### Aferkat
+
+Code: MA005002_aferkat, Postal: 81046, Coordinates: 28.891, -9.991
+
+#### Ait Boufoulne
+
+Code: MA005002_ait-boufoulne, Postal: 81072, Coordinates: 28.652, -9.653
+
+#### Amsra
+
+Code: MA005002_amsra, Postal: 81122, Coordinates: 29.101, -9.364
+
+#### Amtdi
+
+Code: MA005002_amtdi, Postal: 81016, Coordinates: 28.891, -9.991
+
+#### Aouinate Ait Oussa
+
+Code: MA005002_aouinate-ait-oussa, Postal: 81022, Coordinates: 28.652, -9.653
+
+#### Aouinate Tourkoz
+
+Code: MA005002_aouinate-tourkoz, Postal: 81023, Coordinates: 28.652, -9.653
+
+#### Asrir Azouafit
+
+Code: MA005002_asrir-azouafit, Postal: 81026, Coordinates: 28.652, -9.653
+
+#### Assaka
+
+Code: MA005002_assaka, Postal: 85035, Coordinates: 29.688, -9.507
+
+#### Bouizakarne
+
+Code: MA005002_bouizakarne, Postal: 81050, Coordinates: 28.652, -9.653
+
+#### Echatea El Abied
+
+Code: MA005002_echatea-el-abied, Postal: 81013, Coordinates: 28.891, -9.991
+
+#### Fask
+
+Code: MA005002_fask, Postal: 81003, Coordinates: 28.991, -9.833
+
+#### Guelmim
+
+Code: MA005002_guelmim, Postal: 81000, Coordinates: 28.987, -10.057
+
+#### Ifrane Atlas Seghir
+
+Code: MA005002_ifrane-atlas-seghir, Postal: 81102, Coordinates: 29.101, -9.364
+
+#### Imi Nfast
+
+Code: MA005002_imi-nfast, Postal: 81033, Coordinates: 28.652, -9.653
+
+#### Ksabi Ait Lahcen
+
+Code: MA005002_ksabi-ait-lahcen, Postal: 81005, Coordinates: 28.667, -9.728
+
+#### Labiar
+
+Code: MA005002_labiar, Postal: 81042, Coordinates: 28.652, -9.653
+
+#### Laqsabi Tagoust
+
+Code: MA005002_laqsabi-tagoust, Postal: 81014, Coordinates: 28.891, -9.991
+
+#### Rass Oumlil
+
+Code: MA005002_rass-oumlil, Postal: 81034, Coordinates: 28.652, -9.653
+
+#### Tagante
+
+Code: MA005002_tagante, Postal: 81052, Coordinates: 28.652, -9.653
+
+#### Tankert
+
+Code: MA005002_tankert, Postal: 81123, Coordinates: 29.101, -9.364
+
+#### Targa Wassay
+
+Code: MA005002_targa-wassay, Postal: 81032, Coordinates: 28.652, -9.653
+
+#### Tarhjijt
+
+Code: MA005002_tarhjijt, Postal: 81152, Coordinates: 29.058, -9.429
+
+#### Tighmert Azouafit
+
+Code: MA005002_tighmert-azouafit, Postal: 81044, Coordinates: 28.652, -9.653
+
+#### Tiglit
+
+Code: MA005002_tiglit, Postal: 81015, Coordinates: 28.891, -9.991
+
+#### Tilouine Assaka
+
+Code: MA005002_tilouine-assaka, Postal: 81043, Coordinates: 28.652, -9.653
+
+#### Timoulay
+
+Code: MA005002_timoulay, Postal: 81053, Coordinates: 28.652, -9.653
+
+#### Tnine Adai
+
+Code: MA005002_tnine-adai, Postal: 81172, Coordinates: 29.145, -9.3
+
+### Sidi Ifni
+
+Code: MA005004, Coordinates: 29.329, -9.759
+Localitys: 16
+
+#### Ait Erkha
+
+Code: MA005004_ait-erkha, Postal: 85052, Coordinates: 29.67, -9.715
+
+#### Anfeg
+
+Code: MA005004_anfeg, Postal: 85272, Coordinates: 29.595, -9.861
+
+#### Arbaa Ait Abdellah
+
+Code: MA005004_arbaa-ait-abdellah, Postal: 85522, Coordinates: 29.668, -9.198
+
+#### Boutrouch
+
+Code: MA005004_boutrouch, Postal: 85275, Coordinates: 29.595, -9.861
+
+#### Ibdar
+
+Code: MA005004_ibdar, Postal: 85274, Coordinates: 29.595, -9.861
+
+#### Jemaa Ntighirt
+
+Code: MA005004_jemaa-ntighirt, Postal: 85252, Coordinates: 29.595, -9.861
+
+#### Mesti
+
+Code: MA005004_mesti, Postal: 85302, Coordinates: 29.613, -9.528
+
+#### Mirleft
+
+Code: MA005004_mirleft, Postal: 85352, Coordinates: 29.613, -9.528
+
+#### Sbouya
+
+Code: MA005004_sbouya, Postal: 85203, Coordinates: 29.81, -9.55
+
+#### Sebt Ennabour
+
+Code: MA005004_sebt-ennabour, Postal: 85273, Coordinates: 29.595, -9.861
+
+#### Sidi Abdellah Ou Belaid
+
+Code: MA005004_sidi-abdellah-ou-belaid, Postal: 85072, Coordinates: 29.67, -9.715
+
+#### Sidi Ifni
+
+Code: MA005004_sidi-ifni, Postal: 85200, Coordinates: 29.627, -9.342
+
+#### Tangarfa
+
+Code: MA005004_tangarfa, Postal: 85622, Coordinates: 29.613, -9.528
+
+#### Tiourhza
+
+Code: MA005004_tiourhza, Postal: 85502, Coordinates: 29.668, -9.198
+
+#### Tleta El Akhsass
+
+Code: MA005004_tleta-el-akhsass, Postal: 85550, Coordinates: 29.668, -9.198
+
+#### Tnine Amellou
+
+Code: MA005004_tnine-amellou, Postal: 85602, Coordinates: 29.613, -9.528
+
+### Tan Tan
+
+Code: MA005003, Coordinates: 28.21, -11.088
+Localitys: 7
+
+#### Abteh
+
+Code: MA005003_abteh, Postal: 82022, Coordinates: 28.015, -10.814
+
+#### Ben Khlil
+
+Code: MA005003_ben-khlil, Postal: 82012, Coordinates: 28.21, -11.088
+
+#### Chbika
+
+Code: MA005003_chbika, Postal: 82013, Coordinates: 28.21, -11.088
+
+#### El Ouatia
+
+Code: MA005003_el-ouatia, Postal: 82010, Coordinates: 28.015, -10.814
+
+#### M&#39;Sied
+
+Code: MA005003_msied, Postal: 82023, Coordinates: 28.015, -10.814
+
+#### Tan Tan
+
+Code: MA005003_tan-tan, Postal: 82000, Coordinates: 28.015, -10.814
+
+#### Tilemzoun
+
+Code: MA005003_tilemzoun, Postal: 82014, Coordinates: 28.21, -11.088
+

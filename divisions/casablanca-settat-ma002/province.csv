@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA002007,Benslimane,Benslimane,benslimane,MA002007,21,33.514,-7.059
+MA002001,Berrechid,Berrechid,berrechid,MA002001,16,33.259,-7.615
+MA002005,Casablanca,Casablanca,casablanca,MA002005,0,33.567,-7.619
+MA002002,El Jadida,El Jadida,el-jadida,MA002002,38,33.074,-8.377
+MA002003,Mediouna,Mediouna,mediouna,MA002003,7,33.495,-7.468
+MA002006,Mohammedia,Mohammedia,mohammedia,MA002006,5,33.616,-7.374
+MA002004,Nouaceur,Nouaceur,nouaceur,MA002004,7,33.409,-7.644
+MA002009,Settat,Settat,settat,MA002009,63,32.775,-7.498
+MA002008,Sidi Bennour,Sidi Bennour,sidi-bennour,MA002008,23,32.589,-8.526

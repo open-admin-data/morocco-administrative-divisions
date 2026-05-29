@@ -1,0 +1,378 @@
+[
+  {
+    "id": "MA010001",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Al Hoceima",
+      "en": "Al Hoceima",
+      "slug": "al-hoceima"
+    },
+    "code": {
+      "id": "MA010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.966",
+      "lon": "-4.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010002",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Chefchaouen",
+      "en": "Chefchaouen",
+      "slug": "chefchaouen"
+    },
+    "code": {
+      "id": "MA010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.099",
+      "lon": "-5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Fahs Anjra",
+      "en": "Fahs Anjra",
+      "slug": "fahs-anjra"
+    },
+    "code": {
+      "id": "MA010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.751",
+      "lon": "-5.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010004",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Larache",
+      "en": "Larache",
+      "slug": "larache"
+    },
+    "code": {
+      "id": "MA010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-5.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010005",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "M diq Fnideq",
+      "en": "M diq Fnideq",
+      "slug": "m-diq-fnideq"
+    },
+    "code": {
+      "id": "MA010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.76",
+      "lon": "-5.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010007",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ouezzane",
+      "en": "Ouezzane",
+      "slug": "ouezzane"
+    },
+    "code": {
+      "id": "MA010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.779",
+      "lon": "-5.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010006",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tangier Assilah",
+      "en": "Tangier Assilah",
+      "slug": "tangier-assilah"
+    },
+    "code": {
+      "id": "MA010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.561",
+      "lon": "-5.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010008",
+    "level": 2,
+    "level_name": {
+      "local": "إقليم",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Tetouan",
+      "en": "Tetouan",
+      "slug": "tetouan"
+    },
+    "code": {
+      "id": "MA010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      }
+    ],
+    "children_count": {
+      "localite": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.451",
+      "lon": "-5.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

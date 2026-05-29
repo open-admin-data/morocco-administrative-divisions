@@ -1,0 +1,47 @@
+{
+  "id": "MA007005",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Guercif",
+    "en": "Guercif",
+    "slug": "guercif"
+  },
+  "code": {
+    "id": "MA007005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA007",
+    "level": 1,
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.142",
+    "lon": "-3.451"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,954 @@
+[
+  {
+    "id": "MA007002_ahfir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ahfir",
+      "en": "Ahfir",
+      "slug": "ahfir"
+    },
+    "code": {
+      "id": "MA007002_ahfir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63050"
+    ],
+    "geo": {
+      "lat": "34.954",
+      "lon": "-2.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_ain-erreggada",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Erreggada",
+      "en": "Ain Erreggada",
+      "slug": "ain-erreggada"
+    },
+    "code": {
+      "id": "MA007002_ain-erreggada",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63200"
+    ],
+    "geo": {
+      "lat": "34.934",
+      "lon": "-2.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_aklim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aklim",
+      "en": "Aklim",
+      "slug": "aklim"
+    },
+    "code": {
+      "id": "MA007002_aklim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63250"
+    ],
+    "geo": {
+      "lat": "34.92",
+      "lon": "-2.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_arhbal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arhbal",
+      "en": "Arhbal",
+      "slug": "arhbal"
+    },
+    "code": {
+      "id": "MA007002_arhbal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63072"
+    ],
+    "geo": {
+      "lat": "34.954",
+      "lon": "-2.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_boughriba",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boughriba",
+      "en": "Boughriba",
+      "slug": "boughriba"
+    },
+    "code": {
+      "id": "MA007002_boughriba",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63254"
+    ],
+    "geo": {
+      "lat": "34.856",
+      "lon": "-2.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_chouihia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chouihia",
+      "en": "Chouihia",
+      "slug": "chouihia"
+    },
+    "code": {
+      "id": "MA007002_chouihia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63253"
+    ],
+    "geo": {
+      "lat": "34.856",
+      "lon": "-2.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_fezouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fezouane",
+      "en": "Fezouane",
+      "slug": "fezouane"
+    },
+    "code": {
+      "id": "MA007002_fezouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63053"
+    ],
+    "geo": {
+      "lat": "34.856",
+      "lon": "-2.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_laatamna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laatamna",
+      "en": "Laatamna",
+      "slug": "laatamna"
+    },
+    "code": {
+      "id": "MA007002_laatamna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63054"
+    ],
+    "geo": {
+      "lat": "34.856",
+      "lon": "-2.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_laatmna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laatmna",
+      "en": "Laatmna",
+      "slug": "laatmna"
+    },
+    "code": {
+      "id": "MA007002_laatmna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63324"
+    ],
+    "geo": {
+      "lat": "34.842",
+      "lon": "-2.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_madagh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Madagh",
+      "en": "Madagh",
+      "slug": "madagh"
+    },
+    "code": {
+      "id": "MA007002_madagh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63303"
+    ],
+    "geo": {
+      "lat": "35.01",
+      "lon": "-2.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_rislane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rislane",
+      "en": "Rislane",
+      "slug": "rislane"
+    },
+    "code": {
+      "id": "MA007002_rislane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63672"
+    ],
+    "geo": {
+      "lat": "34.77",
+      "lon": "-2.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_saidia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saidia",
+      "en": "Saidia",
+      "slug": "saidia"
+    },
+    "code": {
+      "id": "MA007002_saidia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63600"
+    ],
+    "geo": {
+      "lat": "35.082",
+      "lon": "-2.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_sidi-bouhouria",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bouhouria",
+      "en": "Sidi Bouhouria",
+      "slug": "sidi-bouhouria"
+    },
+    "code": {
+      "id": "MA007002_sidi-bouhouria",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63652"
+    ],
+    "geo": {
+      "lat": "34.926",
+      "lon": "-2.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_sidi-slimane-echcharraa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Slimane Echcharraa",
+      "en": "Sidi Slimane Echcharraa",
+      "slug": "sidi-slimane-echcharraa"
+    },
+    "code": {
+      "id": "MA007002_sidi-slimane-echcharraa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63255"
+    ],
+    "geo": {
+      "lat": "34.856",
+      "lon": "-2.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_taforhalt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taforhalt",
+      "en": "Taforhalt",
+      "slug": "taforhalt"
+    },
+    "code": {
+      "id": "MA007002_taforhalt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63752"
+    ],
+    "geo": {
+      "lat": "34.808",
+      "lon": "-2.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_zayest",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zayest",
+      "en": "Zayest",
+      "slug": "zayest"
+    },
+    "code": {
+      "id": "MA007002_zayest",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63322"
+    ],
+    "geo": {
+      "lat": "34.842",
+      "lon": "-2.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA007002_zegzel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zegzel",
+      "en": "Zegzel",
+      "slug": "zegzel"
+    },
+    "code": {
+      "id": "MA007002_zegzel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA007002",
+      "level": 2,
+      "name": {
+        "local": "Berkane",
+        "en": "Berkane",
+        "slug": "berkane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA007",
+        "level": 1,
+        "name": {
+          "local": "الجهة الشرقية",
+          "en": "Oriental",
+          "slug": "oriental-ma007"
+        }
+      },
+      {
+        "id": "MA007002",
+        "level": 2,
+        "name": {
+          "local": "Berkane",
+          "en": "Berkane",
+          "slug": "berkane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63323"
+    ],
+    "geo": {
+      "lat": "34.842",
+      "lon": "-2.355"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

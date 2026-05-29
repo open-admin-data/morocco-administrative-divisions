@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MA002004_ben-abid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ben Abid",
+      "en": "Ben Abid",
+      "slug": "ben-abid"
+    },
+    "code": {
+      "id": "MA002004_ben-abid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002004",
+      "level": 2,
+      "name": {
+        "local": "Nouaceur",
+        "en": "Nouaceur",
+        "slug": "nouaceur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002004",
+        "level": 2,
+        "name": {
+          "local": "Nouaceur",
+          "en": "Nouaceur",
+          "slug": "nouaceur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27222"
+    ],
+    "geo": {
+      "lat": "33.515",
+      "lon": "-7.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002004_bouskoura",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouskoura",
+      "en": "Bouskoura",
+      "slug": "bouskoura"
+    },
+    "code": {
+      "id": "MA002004_bouskoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002004",
+      "level": 2,
+      "name": {
+        "local": "Nouaceur",
+        "en": "Nouaceur",
+        "slug": "nouaceur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002004",
+        "level": 2,
+        "name": {
+          "local": "Nouaceur",
+          "en": "Nouaceur",
+          "slug": "nouaceur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27182"
+    ],
+    "geo": {
+      "lat": "33.45",
+      "lon": "-7.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002004_dar-bouazza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Bouazza",
+      "en": "Dar Bouazza",
+      "slug": "dar-bouazza"
+    },
+    "code": {
+      "id": "MA002004_dar-bouazza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002004",
+      "level": 2,
+      "name": {
+        "local": "Nouaceur",
+        "en": "Nouaceur",
+        "slug": "nouaceur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002004",
+        "level": 2,
+        "name": {
+          "local": "Nouaceur",
+          "en": "Nouaceur",
+          "slug": "nouaceur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27223"
+    ],
+    "geo": {
+      "lat": "33.515",
+      "lon": "-7.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002004_nouaceur",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nouaceur",
+      "en": "Nouaceur",
+      "slug": "nouaceur"
+    },
+    "code": {
+      "id": "MA002004_nouaceur",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002004",
+      "level": 2,
+      "name": {
+        "local": "Nouaceur",
+        "en": "Nouaceur",
+        "slug": "nouaceur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002004",
+        "level": 2,
+        "name": {
+          "local": "Nouaceur",
+          "en": "Nouaceur",
+          "slug": "nouaceur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27000"
+    ],
+    "geo": {
+      "lat": "33.409",
+      "lon": "-7.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002004_oulad-azzouz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Azzouz",
+      "en": "Oulad Azzouz",
+      "slug": "oulad-azzouz"
+    },
+    "code": {
+      "id": "MA002004_oulad-azzouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002004",
+      "level": 2,
+      "name": {
+        "local": "Nouaceur",
+        "en": "Nouaceur",
+        "slug": "nouaceur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002004",
+        "level": 2,
+        "name": {
+          "local": "Nouaceur",
+          "en": "Nouaceur",
+          "slug": "nouaceur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25323"
+    ],
+    "geo": {
+      "lat": "32.863",
+      "lon": "-6.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002004_oulad-salah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Salah",
+      "en": "Oulad Salah",
+      "slug": "oulad-salah"
+    },
+    "code": {
+      "id": "MA002004_oulad-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002004",
+      "level": 2,
+      "name": {
+        "local": "Nouaceur",
+        "en": "Nouaceur",
+        "slug": "nouaceur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002004",
+        "level": 2,
+        "name": {
+          "local": "Nouaceur",
+          "en": "Nouaceur",
+          "slug": "nouaceur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27184"
+    ],
+    "geo": {
+      "lat": "33.409",
+      "lon": "-7.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA002004_souk-jemaa-sidi-el-ayachi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk Jemaa Sidi El Ayachi",
+      "en": "Souk Jemaa Sidi El Ayachi",
+      "slug": "souk-jemaa-sidi-el-ayachi"
+    },
+    "code": {
+      "id": "MA002004_souk-jemaa-sidi-el-ayachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA002004",
+      "level": 2,
+      "name": {
+        "local": "Nouaceur",
+        "en": "Nouaceur",
+        "slug": "nouaceur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA002",
+        "level": 1,
+        "name": {
+          "local": "الدار البيضاء - سطات",
+          "en": "Casablanca Settat",
+          "slug": "casablanca-settat-ma002"
+        }
+      },
+      {
+        "id": "MA002004",
+        "level": 2,
+        "name": {
+          "local": "Nouaceur",
+          "en": "Nouaceur",
+          "slug": "nouaceur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27123"
+    ],
+    "geo": {
+      "lat": "33.45",
+      "lon": "-7.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

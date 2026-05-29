@@ -1,0 +1,47 @@
+{
+  "id": "MA004004",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ifrane",
+    "en": "Ifrane",
+    "slug": "ifrane"
+  },
+  "code": {
+    "id": "MA004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA004",
+    "level": 1,
+    "name": {
+      "local": "فاس - مكناس",
+      "en": "Fez Meknes",
+      "slug": "fez-meknes-ma004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA004",
+      "level": 1,
+      "name": {
+        "local": "فاس - مكناس",
+        "en": "Fez Meknes",
+        "slug": "fez-meknes-ma004"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.353",
+    "lon": "-5.251"
+  },
+  "metadata": {},
+  "source": {}
+}

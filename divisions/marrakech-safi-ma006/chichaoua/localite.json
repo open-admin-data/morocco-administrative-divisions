@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "MA006002_adassil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Adassil",
+      "en": "Adassil",
+      "slug": "adassil"
+    },
+    "code": {
+      "id": "MA006002_adassil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41232"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_afalla-issen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Afalla Issen",
+      "en": "Afalla Issen",
+      "slug": "afalla-issen"
+    },
+    "code": {
+      "id": "MA006002_afalla-issen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41084"
+    ],
+    "geo": {
+      "lat": "31.432",
+      "lon": "-8.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_ahdil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ahdil",
+      "en": "Ahdil",
+      "slug": "ahdil"
+    },
+    "code": {
+      "id": "MA006002_ahdil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41025"
+    ],
+    "geo": {
+      "lat": "31.561",
+      "lon": "-8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_ain-tazitounte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Tazitounte",
+      "en": "Ain Tazitounte",
+      "slug": "ain-tazitounte"
+    },
+    "code": {
+      "id": "MA006002_ain-tazitounte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41053"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_ait-haddou-youssef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Haddou Youssef",
+      "en": "Ait Haddou Youssef",
+      "slug": "ait-haddou-youssef"
+    },
+    "code": {
+      "id": "MA006002_ait-haddou-youssef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41054"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_ait-hadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Hadi",
+      "en": "Ait Hadi",
+      "slug": "ait-hadi"
+    },
+    "code": {
+      "id": "MA006002_ait-hadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41102"
+    ],
+    "geo": {
+      "lat": "31.398",
+      "lon": "-8.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_arbaa-douirane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Douirane",
+      "en": "Arbaa Douirane",
+      "slug": "arbaa-douirane"
+    },
+    "code": {
+      "id": "MA006002_arbaa-douirane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41202"
+    ],
+    "geo": {
+      "lat": "31.332",
+      "lon": "-8.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_asserratou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Asserratou",
+      "en": "Asserratou",
+      "slug": "asserratou"
+    },
+    "code": {
+      "id": "MA006002_asserratou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41072"
+    ],
+    "geo": {
+      "lat": "31.253",
+      "lon": "-8.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_assif-el-mal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assif El Mal",
+      "en": "Assif El Mal",
+      "slug": "assif-el-mal"
+    },
+    "code": {
+      "id": "MA006002_assif-el-mal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42123"
+    ],
+    "geo": {
+      "lat": "31.137",
+      "lon": "-8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_bouaboute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bouaboute",
+      "en": "Bouaboute",
+      "slug": "bouaboute"
+    },
+    "code": {
+      "id": "MA006002_bouaboute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41073"
+    ],
+    "geo": {
+      "lat": "31.265",
+      "lon": "-9.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_boulaouane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boulaouane",
+      "en": "Boulaouane",
+      "slug": "boulaouane"
+    },
+    "code": {
+      "id": "MA006002_boulaouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41222"
+    ],
+    "geo": {
+      "lat": "31.332",
+      "lon": "-8.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_chichaoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chichaoua",
+      "en": "Chichaoua",
+      "slug": "chichaoua"
+    },
+    "code": {
+      "id": "MA006002_chichaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41000"
+    ],
+    "geo": {
+      "lat": "31.544",
+      "lon": "-8.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_guemassa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guemassa",
+      "en": "Guemassa",
+      "slug": "guemassa"
+    },
+    "code": {
+      "id": "MA006002_guemassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41223"
+    ],
+    "geo": {
+      "lat": "31.408",
+      "lon": "-8.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_had-mjatt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Mjatt",
+      "en": "Had Mjatt",
+      "slug": "had-mjatt"
+    },
+    "code": {
+      "id": "MA006002_had-mjatt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41224"
+    ],
+    "geo": {
+      "lat": "31.35",
+      "lon": "-8.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_ichamraren",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ichamraren",
+      "en": "Ichamraren",
+      "slug": "ichamraren"
+    },
+    "code": {
+      "id": "MA006002_ichamraren",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41083"
+    ],
+    "geo": {
+      "lat": "31.432",
+      "lon": "-8.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_imindounit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imindounit",
+      "en": "Imindounit",
+      "slug": "imindounit"
+    },
+    "code": {
+      "id": "MA006002_imindounit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41233"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_imintanoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imintanoute",
+      "en": "Imintanoute",
+      "slug": "imintanoute"
+    },
+    "code": {
+      "id": "MA006002_imintanoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41050"
+    ],
+    "geo": {
+      "lat": "31.432",
+      "lon": "-8.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_irohalen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Irohalen",
+      "en": "Irohalen",
+      "slug": "irohalen"
+    },
+    "code": {
+      "id": "MA006002_irohalen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41055"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_kouzemt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kouzemt",
+      "en": "Kouzemt",
+      "slug": "kouzemt"
+    },
+    "code": {
+      "id": "MA006002_kouzemt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41006"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_lalla-aziza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lalla Aziza",
+      "en": "Lalla Aziza",
+      "slug": "lalla-aziza"
+    },
+    "code": {
+      "id": "MA006002_lalla-aziza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41074"
+    ],
+    "geo": {
+      "lat": "31.241",
+      "lon": "-8.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_mzoudia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mzoudia",
+      "en": "Mzoudia",
+      "slug": "mzoudia"
+    },
+    "code": {
+      "id": "MA006002_mzoudia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41022"
+    ],
+    "geo": {
+      "lat": "31.58",
+      "lon": "-8.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_nfifa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nfifa",
+      "en": "Nfifa",
+      "slug": "nfifa"
+    },
+    "code": {
+      "id": "MA006002_nfifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41056"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_ouad-lbour",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouad Lbour",
+      "en": "Ouad Lbour",
+      "slug": "ouad-lbour"
+    },
+    "code": {
+      "id": "MA006002_ouad-lbour",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41082"
+    ],
+    "geo": {
+      "lat": "31.432",
+      "lon": "-8.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_oulad-moumna",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Moumna",
+      "en": "Oulad Moumna",
+      "slug": "oulad-moumna"
+    },
+    "code": {
+      "id": "MA006002_oulad-moumna",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41003"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_rahhala",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rahhala",
+      "en": "Rahhala",
+      "slug": "rahhala"
+    },
+    "code": {
+      "id": "MA006002_rahhala",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41012"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_saidate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saidate",
+      "en": "Saidate",
+      "slug": "saidate"
+    },
+    "code": {
+      "id": "MA006002_saidate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41023"
+    ],
+    "geo": {
+      "lat": "31.344",
+      "lon": "-8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_sebt-mzouda",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Mzouda",
+      "en": "Sebt Mzouda",
+      "slug": "sebt-mzouda"
+    },
+    "code": {
+      "id": "MA006002_sebt-mzouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41225"
+    ],
+    "geo": {
+      "lat": "31.238",
+      "lon": "-8.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_sidi-abdelmoumen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdelmoumen",
+      "en": "Sidi Abdelmoumen",
+      "slug": "sidi-abdelmoumen"
+    },
+    "code": {
+      "id": "MA006002_sidi-abdelmoumen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41013"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_sidi-bouzid-arragragui",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Bouzid Arragragui",
+      "en": "Sidi Bouzid Arragragui",
+      "slug": "sidi-bouzid-arragragui"
+    },
+    "code": {
+      "id": "MA006002_sidi-bouzid-arragragui",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41014"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_sidi-mhamed-dalil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mhamed Dalil",
+      "en": "Sidi Mhamed Dalil",
+      "slug": "sidi-mhamed-dalil"
+    },
+    "code": {
+      "id": "MA006002_sidi-mhamed-dalil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41004"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_sidi-mokhtar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mokhtar",
+      "en": "Sidi Mokhtar",
+      "slug": "sidi-mokhtar"
+    },
+    "code": {
+      "id": "MA006002_sidi-mokhtar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41152"
+    ],
+    "geo": {
+      "lat": "31.577",
+      "lon": "-9.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_taouloukout",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taouloukout",
+      "en": "Taouloukout",
+      "slug": "taouloukout"
+    },
+    "code": {
+      "id": "MA006002_taouloukout",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41075"
+    ],
+    "geo": {
+      "lat": "31.253",
+      "lon": "-8.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_timezguadiouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timezguadiouine",
+      "en": "Timezguadiouine",
+      "slug": "timezguadiouine"
+    },
+    "code": {
+      "id": "MA006002_timezguadiouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41076"
+    ],
+    "geo": {
+      "lat": "31.253",
+      "lon": "-8.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_timlilt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timlilt",
+      "en": "Timlilt",
+      "slug": "timlilt"
+    },
+    "code": {
+      "id": "MA006002_timlilt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41005"
+    ],
+    "geo": {
+      "lat": "31.299",
+      "lon": "-8.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_zaouia-nouaceur",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Nouaceur",
+      "en": "Zaouia Nouaceur",
+      "slug": "zaouia-nouaceur"
+    },
+    "code": {
+      "id": "MA006002_zaouia-nouaceur",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41024"
+    ],
+    "geo": {
+      "lat": "31.486",
+      "lon": "-8.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA006002_zaouiat-annahlia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat Annahlia",
+      "en": "Zaouiat Annahlia",
+      "slug": "zaouiat-annahlia"
+    },
+    "code": {
+      "id": "MA006002_zaouiat-annahlia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA006002",
+      "level": 2,
+      "name": {
+        "local": "Chichaoua",
+        "en": "Chichaoua",
+        "slug": "chichaoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA006",
+        "level": 1,
+        "name": {
+          "local": "مراكش - آسفي",
+          "en": "Marrakech Safi",
+          "slug": "marrakech-safi-ma006"
+        }
+      },
+      {
+        "id": "MA006002",
+        "level": 2,
+        "name": {
+          "local": "Chichaoua",
+          "en": "Chichaoua",
+          "slug": "chichaoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41226"
+    ],
+    "geo": {
+      "lat": "31.332",
+      "lon": "-8.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

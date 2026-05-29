@@ -1,0 +1,30 @@
+{
+  "id": "MA009",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "سوس - ماسة",
+    "en": "Souss Massa",
+    "slug": "souss-massa-ma009"
+  },
+  "code": {
+    "id": "MA009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 6,
+    "localite": 216
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.739",
+    "lon": "-8.153"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MA010005",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "M diq Fnideq",
+    "en": "M diq Fnideq",
+    "slug": "m-diq-fnideq"
+  },
+  "code": {
+    "id": "MA010005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA010",
+    "level": 1,
+    "name": {
+      "local": "طنجة - تطوان - الحسيمة",
+      "en": "Tangier Tetouan Al Hoceima",
+      "slug": "tangier-tetouan-al-hoceima-ma010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.76",
+    "lon": "-5.401"
+  },
+  "metadata": {},
+  "source": {}
+}

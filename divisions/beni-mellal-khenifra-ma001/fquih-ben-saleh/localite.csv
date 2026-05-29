@@ -1,0 +1,15 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+MA001003_al-khalfia,Al Khalfia,Al Khalfia,al-khalfia,MA001003_al-khalfia,23206,32.421,-6.733
+MA001003_bni-oukil,Bni Oukil,Bni Oukil,bni-oukil,MA001003_bni-oukil,23005,32.463,-6.035
+MA001003_dar-ould-zidouh,Dar Ould Zidouh,Dar Ould Zidouh,dar-ould-zidouh,MA001003_dar-ould-zidouh,23102,32.463,-6.035
+MA001003_el-krifate,El Krifate,El Krifate,el-krifate,MA001003_el-krifate,23222,32.509,-6.536
+MA001003_fkih-ben-salah,Fkih Ben Salah,Fkih Ben Salah,fkih-ben-salah,MA001003_fkih-ben-salah,23200,32.441,-6.398
+MA001003_had-bradia,Had Bradia,Had Bradia,had-bradia,MA001003_had-bradia,23302,32.463,-6.035
+MA001003_had-oulad-boumoussa,Had Oulad Boumoussa,Had Oulad Boumoussa,had-oulad-boumoussa,MA001003_had-oulad-boumoussa,23122,32.439,-6.469
+MA001003_hal-el-marbaa,Hal El Marbaa,Hal El Marbaa,hal-el-marbaa,MA001003_hal-el-marbaa,23223,32.509,-6.536
+MA001003_khemis-bni-chagdal,Khemis Bni Chagdal,Khemis Bni Chagdal,khemis-bni-chagdal,MA001003_khemis-bni-chagdal,23224,32.509,-6.536
+MA001003_oulad-ayad,Oulad Ayad,Oulad Ayad,oulad-ayad,MA001003_oulad-ayad,23400,32.463,-6.035
+MA001003_oulad-bourahmoune,Oulad Bourahmoune,Oulad Bourahmoune,oulad-bourahmoune,MA001003_oulad-bourahmoune,23573,33.078,-6.654
+MA001003_ouled-zmam,Ouled Zmam,Ouled Zmam,ouled-zmam,MA001003_ouled-zmam,23575,33.078,-6.654
+MA001003_sebt-oulad-nemma,Sebt Oulad Nemma,Sebt Oulad Nemma,sebt-oulad-nemma,MA001003_sebt-oulad-nemma,23550,32.655,-6.424
+MA001003_sidi-hammadi,Sidi Hammadi,Sidi Hammadi,sidi-hammadi,MA001003_sidi-hammadi,23232,32.421,-6.733

@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA007002,Berkane,Berkane,berkane,MA007002,17,34.856,-2.474
+MA007003,Driouch,Driouch,driouch,MA007003,26,34.915,-3.544
+MA007004,Figuig,Figuig,figuig,MA007004,16,32.704,-2.627
+MA007005,Guercif,Guercif,guercif,MA007005,10,34.142,-3.451
+MA007006,Jerada,Jerada,jerada,MA007006,17,34.11,-2.061
+MA007007,Nador,Nador,nador,MA007007,28,35.052,-2.825
+MA007001,Oujda Angad,Oujda Angad,oujda-angad,MA007001,13,34.668,-2.036
+MA007008,Taourirt,Taourirt,taourirt,MA007008,15,34.045,-2.796

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "MA004004_ain-leuh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ain Leuh",
+      "en": "Ain Leuh",
+      "slug": "ain-leuh"
+    },
+    "code": {
+      "id": "MA004004_ain-leuh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53052"
+    ],
+    "geo": {
+      "lat": "33.29",
+      "lon": "-5.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_ait-hamad-ribaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Hamad Ribaa",
+      "en": "Ait Hamad Ribaa",
+      "slug": "ait-hamad-ribaa"
+    },
+    "code": {
+      "id": "MA004004_ait-hamad-ribaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53022"
+    ],
+    "geo": {
+      "lat": "33.59",
+      "lon": "-4.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_ait-yahia-ou-alla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Yahia Ou Alla",
+      "en": "Ait Yahia Ou Alla",
+      "slug": "ait-yahia-ou-alla"
+    },
+    "code": {
+      "id": "MA004004_ait-yahia-ou-alla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53122"
+    ],
+    "geo": {
+      "lat": "33.418",
+      "lon": "-5.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_azrou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azrou",
+      "en": "Azrou",
+      "slug": "azrou"
+    },
+    "code": {
+      "id": "MA004004_azrou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53100"
+    ],
+    "geo": {
+      "lat": "33.434",
+      "lon": "-5.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_ben-smim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ben Smim",
+      "en": "Ben Smim",
+      "slug": "ben-smim"
+    },
+    "code": {
+      "id": "MA004004_ben-smim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53123"
+    ],
+    "geo": {
+      "lat": "33.418",
+      "lon": "-5.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_dayat-aoua",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dayat Aoua",
+      "en": "Dayat Aoua",
+      "slug": "dayat-aoua"
+    },
+    "code": {
+      "id": "MA004004_dayat-aoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53023"
+    ],
+    "geo": {
+      "lat": "33.59",
+      "lon": "-4.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_ifrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ifrane",
+      "en": "Ifrane",
+      "slug": "ifrane"
+    },
+    "code": {
+      "id": "MA004004_ifrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "33.527",
+      "lon": "-5.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_ougmas",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ougmas",
+      "en": "Ougmas",
+      "slug": "ougmas"
+    },
+    "code": {
+      "id": "MA004004_ougmas",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53124"
+    ],
+    "geo": {
+      "lat": "33.418",
+      "lon": "-5.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_sidi-addi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Addi",
+      "en": "Sidi Addi",
+      "slug": "sidi-addi"
+    },
+    "code": {
+      "id": "MA004004_sidi-addi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53102"
+    ],
+    "geo": {
+      "lat": "33.396",
+      "lon": "-5.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_sidi-el-makhfi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi El Makhfi",
+      "en": "Sidi El Makhfi",
+      "slug": "sidi-el-makhfi"
+    },
+    "code": {
+      "id": "MA004004_sidi-el-makhfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53114"
+    ],
+    "geo": {
+      "lat": "33.353",
+      "lon": "-5.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_souk-el-had-oued-ifrane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk El Had Oued Ifrane",
+      "en": "Souk El Had Oued Ifrane",
+      "slug": "souk-el-had-oued-ifrane"
+    },
+    "code": {
+      "id": "MA004004_souk-el-had-oued-ifrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53103"
+    ],
+    "geo": {
+      "lat": "33.415",
+      "lon": "-5.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_tigrigra",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tigrigra",
+      "en": "Tigrigra",
+      "slug": "tigrigra"
+    },
+    "code": {
+      "id": "MA004004_tigrigra",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53113"
+    ],
+    "geo": {
+      "lat": "33.353",
+      "lon": "-5.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_timahdite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Timahdite",
+      "en": "Timahdite",
+      "slug": "timahdite"
+    },
+    "code": {
+      "id": "MA004004_timahdite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53104"
+    ],
+    "geo": {
+      "lat": "33.415",
+      "lon": "-5.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_tizguite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizguite",
+      "en": "Tizguite",
+      "slug": "tizguite"
+    },
+    "code": {
+      "id": "MA004004_tizguite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53004"
+    ],
+    "geo": {
+      "lat": "33.353",
+      "lon": "-5.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA004004_zaouia-ait-sidi-abdesslam",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Ait Sidi Abdesslam",
+      "en": "Zaouia Ait Sidi Abdesslam",
+      "slug": "zaouia-ait-sidi-abdesslam"
+    },
+    "code": {
+      "id": "MA004004_zaouia-ait-sidi-abdesslam",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA004004",
+      "level": 2,
+      "name": {
+        "local": "Ifrane",
+        "en": "Ifrane",
+        "slug": "ifrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA004",
+        "level": 1,
+        "name": {
+          "local": "فاس - مكناس",
+          "en": "Fez Meknes",
+          "slug": "fez-meknes-ma004"
+        }
+      },
+      {
+        "id": "MA004004",
+        "level": 2,
+        "name": {
+          "local": "Ifrane",
+          "en": "Ifrane",
+          "slug": "ifrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53024"
+    ],
+    "geo": {
+      "lat": "33.59",
+      "lon": "-4.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

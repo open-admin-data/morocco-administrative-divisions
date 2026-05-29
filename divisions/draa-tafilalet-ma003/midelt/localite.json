@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "MA003003_agdal-imilchil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agdal Imilchil",
+      "en": "Agdal Imilchil",
+      "slug": "agdal-imilchil"
+    },
+    "code": {
+      "id": "MA003003_agdal-imilchil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52426"
+    ],
+    "geo": {
+      "lat": "32.315",
+      "lon": "-4.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_aghbalou-nserdane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aghbalou Nserdane",
+      "en": "Aghbalou Nserdane",
+      "slug": "aghbalou-nserdane"
+    },
+    "code": {
+      "id": "MA003003_aghbalou-nserdane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54152"
+    ],
+    "geo": {
+      "lat": "32.724",
+      "lon": "-5.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_agoudim",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agoudim",
+      "en": "Agoudim",
+      "slug": "agoudim"
+    },
+    "code": {
+      "id": "MA003003_agoudim",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54522"
+    ],
+    "geo": {
+      "lat": "32.751",
+      "lon": "-5.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_ait-ayach",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ayach",
+      "en": "Ait Ayach",
+      "slug": "ait-ayach"
+    },
+    "code": {
+      "id": "MA003003_ait-ayach",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "32.491",
+      "lon": "-4.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_ait-ben-yacoub",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Ben Yacoub",
+      "en": "Ait Ben Yacoub",
+      "slug": "ait-ben-yacoub"
+    },
+    "code": {
+      "id": "MA003003_ait-ben-yacoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54364"
+    ],
+    "geo": {
+      "lat": "32.491",
+      "lon": "-4.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_ait-hnini",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Hnini",
+      "en": "Ait Hnini",
+      "slug": "ait-hnini"
+    },
+    "code": {
+      "id": "MA003003_ait-hnini",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54222"
+    ],
+    "geo": {
+      "lat": "32.767",
+      "lon": "-5.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_ait-oufella",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Oufella",
+      "en": "Ait Oufella",
+      "slug": "ait-oufella"
+    },
+    "code": {
+      "id": "MA003003_ait-oufella",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54272"
+    ],
+    "geo": {
+      "lat": "32.767",
+      "lon": "-5.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_ait-oumghar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Oumghar",
+      "en": "Ait Oumghar",
+      "slug": "ait-oumghar"
+    },
+    "code": {
+      "id": "MA003003_ait-oumghar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54372"
+    ],
+    "geo": {
+      "lat": "33.005",
+      "lon": "-5.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_amersid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amersid",
+      "en": "Amersid",
+      "slug": "amersid"
+    },
+    "code": {
+      "id": "MA003003_amersid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54365"
+    ],
+    "geo": {
+      "lat": "32.491",
+      "lon": "-4.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_amouguer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amouguer",
+      "en": "Amouguer",
+      "slug": "amouguer"
+    },
+    "code": {
+      "id": "MA003003_amouguer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52422"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_anemzi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Anemzi",
+      "en": "Anemzi",
+      "slug": "anemzi"
+    },
+    "code": {
+      "id": "MA003003_anemzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54524"
+    ],
+    "geo": {
+      "lat": "32.751",
+      "lon": "-5.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_bou-azmou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bou Azmou",
+      "en": "Bou Azmou",
+      "slug": "bou-azmou"
+    },
+    "code": {
+      "id": "MA003003_bou-azmou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52433"
+    ],
+    "geo": {
+      "lat": "32.141",
+      "lon": "-5.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_boumia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boumia",
+      "en": "Boumia",
+      "slug": "boumia"
+    },
+    "code": {
+      "id": "MA003003_boumia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54154"
+    ],
+    "geo": {
+      "lat": "33.005",
+      "lon": "-5.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_errich",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Errich",
+      "en": "Errich",
+      "slug": "errich"
+    },
+    "code": {
+      "id": "MA003003_errich",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52400"
+    ],
+    "geo": {
+      "lat": "32.153",
+      "lon": "-5.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_gourrama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gourrama",
+      "en": "Gourrama",
+      "slug": "gourrama"
+    },
+    "code": {
+      "id": "MA003003_gourrama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52302"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_guers-tiallaline",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guers Tiallaline",
+      "en": "Guers Tiallaline",
+      "slug": "guers-tiallaline"
+    },
+    "code": {
+      "id": "MA003003_guers-tiallaline",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52402"
+    ],
+    "geo": {
+      "lat": "32.153",
+      "lon": "-5.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_guir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Guir",
+      "en": "Guir",
+      "slug": "guir"
+    },
+    "code": {
+      "id": "MA003003_guir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52405"
+    ],
+    "geo": {
+      "lat": "32.491",
+      "lon": "-4.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_imilchil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imilchil",
+      "en": "Imilchil",
+      "slug": "imilchil"
+    },
+    "code": {
+      "id": "MA003003_imilchil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52403"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_itzer",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Itzer",
+      "en": "Itzer",
+      "slug": "itzer"
+    },
+    "code": {
+      "id": "MA003003_itzer",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54252"
+    ],
+    "geo": {
+      "lat": "33.005",
+      "lon": "-5.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_mibladen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mibladen",
+      "en": "Mibladen",
+      "slug": "mibladen"
+    },
+    "code": {
+      "id": "MA003003_mibladen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54373"
+    ],
+    "geo": {
+      "lat": "32.089",
+      "lon": "-6.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_midelt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Midelt",
+      "en": "Midelt",
+      "slug": "midelt"
+    },
+    "code": {
+      "id": "MA003003_midelt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54350"
+    ],
+    "geo": {
+      "lat": "33.005",
+      "lon": "-5.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_mzizil-tillechte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mzizil Tillechte",
+      "en": "Mzizil Tillechte",
+      "slug": "mzizil-tillechte"
+    },
+    "code": {
+      "id": "MA003003_mzizil-tillechte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52423"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_nzala-ait-izdeg",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nzala Ait Izdeg",
+      "en": "Nzala Ait Izdeg",
+      "slug": "nzala-ait-izdeg"
+    },
+    "code": {
+      "id": "MA003003_nzala-ait-izdeg",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52424"
+    ],
+    "geo": {
+      "lat": "32.315",
+      "lon": "-4.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_outerbat",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Outerbat",
+      "en": "Outerbat",
+      "slug": "outerbat"
+    },
+    "code": {
+      "id": "MA003003_outerbat",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52432"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_sidi-aayad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Aayad",
+      "en": "Sidi Aayad",
+      "slug": "sidi-aayad"
+    },
+    "code": {
+      "id": "MA003003_sidi-aayad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52434"
+    ],
+    "geo": {
+      "lat": "32.141",
+      "lon": "-5.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_sidi-yahia-o-youssef",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Yahia O Youssef",
+      "en": "Sidi Yahia O Youssef",
+      "slug": "sidi-yahia-o-youssef"
+    },
+    "code": {
+      "id": "MA003003_sidi-yahia-o-youssef",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54523"
+    ],
+    "geo": {
+      "lat": "32.751",
+      "lon": "-5.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_taakit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taakit",
+      "en": "Taakit",
+      "slug": "taakit"
+    },
+    "code": {
+      "id": "MA003003_taakit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54374"
+    ],
+    "geo": {
+      "lat": "32.089",
+      "lon": "-6.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_taghzoute-chorafa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taghzoute Chorafa",
+      "en": "Taghzoute Chorafa",
+      "slug": "taghzoute-chorafa"
+    },
+    "code": {
+      "id": "MA003003_taghzoute-chorafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54376"
+    ],
+    "geo": {
+      "lat": "32.089",
+      "lon": "-6.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_tamayouste",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamayouste",
+      "en": "Tamayouste",
+      "slug": "tamayouste"
+    },
+    "code": {
+      "id": "MA003003_tamayouste",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54273"
+    ],
+    "geo": {
+      "lat": "32.767",
+      "lon": "-5.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_tanourdi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanourdi",
+      "en": "Tanourdi",
+      "slug": "tanourdi"
+    },
+    "code": {
+      "id": "MA003003_tanourdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54366"
+    ],
+    "geo": {
+      "lat": "32.491",
+      "lon": "-4.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_tounfite",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tounfite",
+      "en": "Tounfite",
+      "slug": "tounfite"
+    },
+    "code": {
+      "id": "MA003003_tounfite",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54502"
+    ],
+    "geo": {
+      "lat": "32.751",
+      "lon": "-5.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_zaida",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaida",
+      "en": "Zaida",
+      "slug": "zaida"
+    },
+    "code": {
+      "id": "MA003003_zaida",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54375"
+    ],
+    "geo": {
+      "lat": "32.089",
+      "lon": "-6.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA003003_zaouia-sidi-hamza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouia Sidi Hamza",
+      "en": "Zaouia Sidi Hamza",
+      "slug": "zaouia-sidi-hamza"
+    },
+    "code": {
+      "id": "MA003003_zaouia-sidi-hamza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA003003",
+      "level": 2,
+      "name": {
+        "local": "Midelt",
+        "en": "Midelt",
+        "slug": "midelt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA003",
+        "level": 1,
+        "name": {
+          "local": "درعة - تافيلالت",
+          "en": "Draa Tafilalet",
+          "slug": "draa-tafilalet-ma003"
+        }
+      },
+      {
+        "id": "MA003003",
+        "level": 2,
+        "name": {
+          "local": "Midelt",
+          "en": "Midelt",
+          "slug": "midelt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52425"
+    ],
+    "geo": {
+      "lat": "31.345",
+      "lon": "-4.339"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

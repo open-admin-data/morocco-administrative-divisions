@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MA005003_abteh",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abteh",
+      "en": "Abteh",
+      "slug": "abteh"
+    },
+    "code": {
+      "id": "MA005003_abteh",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005003",
+      "level": 2,
+      "name": {
+        "local": "Tan Tan",
+        "en": "Tan Tan",
+        "slug": "tan-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005003",
+        "level": 2,
+        "name": {
+          "local": "Tan Tan",
+          "en": "Tan Tan",
+          "slug": "tan-tan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82022"
+    ],
+    "geo": {
+      "lat": "28.015",
+      "lon": "-10.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005003_ben-khlil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ben Khlil",
+      "en": "Ben Khlil",
+      "slug": "ben-khlil"
+    },
+    "code": {
+      "id": "MA005003_ben-khlil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005003",
+      "level": 2,
+      "name": {
+        "local": "Tan Tan",
+        "en": "Tan Tan",
+        "slug": "tan-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005003",
+        "level": 2,
+        "name": {
+          "local": "Tan Tan",
+          "en": "Tan Tan",
+          "slug": "tan-tan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82012"
+    ],
+    "geo": {
+      "lat": "28.21",
+      "lon": "-11.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005003_chbika",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chbika",
+      "en": "Chbika",
+      "slug": "chbika"
+    },
+    "code": {
+      "id": "MA005003_chbika",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005003",
+      "level": 2,
+      "name": {
+        "local": "Tan Tan",
+        "en": "Tan Tan",
+        "slug": "tan-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005003",
+        "level": 2,
+        "name": {
+          "local": "Tan Tan",
+          "en": "Tan Tan",
+          "slug": "tan-tan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82013"
+    ],
+    "geo": {
+      "lat": "28.21",
+      "lon": "-11.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005003_el-ouatia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Ouatia",
+      "en": "El Ouatia",
+      "slug": "el-ouatia"
+    },
+    "code": {
+      "id": "MA005003_el-ouatia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005003",
+      "level": 2,
+      "name": {
+        "local": "Tan Tan",
+        "en": "Tan Tan",
+        "slug": "tan-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005003",
+        "level": 2,
+        "name": {
+          "local": "Tan Tan",
+          "en": "Tan Tan",
+          "slug": "tan-tan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82010"
+    ],
+    "geo": {
+      "lat": "28.015",
+      "lon": "-10.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005003_msied",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "M'Sied",
+      "en": "M'Sied",
+      "slug": "msied"
+    },
+    "code": {
+      "id": "MA005003_msied",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005003",
+      "level": 2,
+      "name": {
+        "local": "Tan Tan",
+        "en": "Tan Tan",
+        "slug": "tan-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005003",
+        "level": 2,
+        "name": {
+          "local": "Tan Tan",
+          "en": "Tan Tan",
+          "slug": "tan-tan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82023"
+    ],
+    "geo": {
+      "lat": "28.015",
+      "lon": "-10.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005003_tan-tan",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tan Tan",
+      "en": "Tan Tan",
+      "slug": "tan-tan"
+    },
+    "code": {
+      "id": "MA005003_tan-tan",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005003",
+      "level": 2,
+      "name": {
+        "local": "Tan Tan",
+        "en": "Tan Tan",
+        "slug": "tan-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005003",
+        "level": 2,
+        "name": {
+          "local": "Tan Tan",
+          "en": "Tan Tan",
+          "slug": "tan-tan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82000"
+    ],
+    "geo": {
+      "lat": "28.015",
+      "lon": "-10.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA005003_tilemzoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tilemzoun",
+      "en": "Tilemzoun",
+      "slug": "tilemzoun"
+    },
+    "code": {
+      "id": "MA005003_tilemzoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA005003",
+      "level": 2,
+      "name": {
+        "local": "Tan Tan",
+        "en": "Tan Tan",
+        "slug": "tan-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA005",
+        "level": 1,
+        "name": {
+          "local": "كلميم - واد نون",
+          "en": "Guelmim Oued Noun",
+          "slug": "guelmim-oued-noun-ma005"
+        }
+      },
+      {
+        "id": "MA005003",
+        "level": 2,
+        "name": {
+          "local": "Tan Tan",
+          "en": "Tan Tan",
+          "slug": "tan-tan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82014"
+    ],
+    "geo": {
+      "lat": "28.21",
+      "lon": "-11.088"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MA004003",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "El Hajeb",
+    "en": "El Hajeb",
+    "slug": "el-hajeb"
+  },
+  "code": {
+    "id": "MA004003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA004",
+    "level": 1,
+    "name": {
+      "local": "فاس - مكناس",
+      "en": "Fez Meknes",
+      "slug": "fez-meknes-ma004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA004",
+      "level": 1,
+      "name": {
+        "local": "فاس - مكناس",
+        "en": "Fez Meknes",
+        "slug": "fez-meknes-ma004"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.699",
+    "lon": "-5.493"
+  },
+  "metadata": {},
+  "source": {}
+}

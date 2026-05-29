@@ -1,0 +1,47 @@
+{
+  "id": "MA009004",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Taroudant",
+    "en": "Taroudant",
+    "slug": "taroudant"
+  },
+  "code": {
+    "id": "MA009004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA009",
+    "level": 1,
+    "name": {
+      "local": "سوس - ماسة",
+      "en": "Souss Massa",
+      "slug": "souss-massa-ma009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 98
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.446",
+    "lon": "-8.497"
+  },
+  "metadata": {},
+  "source": {}
+}

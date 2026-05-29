@@ -1,0 +1,47 @@
+{
+  "id": "MA010003",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Fahs Anjra",
+    "en": "Fahs Anjra",
+    "slug": "fahs-anjra"
+  },
+  "code": {
+    "id": "MA010003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA010",
+    "level": 1,
+    "name": {
+      "local": "طنجة - تطوان - الحسيمة",
+      "en": "Tangier Tetouan Al Hoceima",
+      "slug": "tangier-tetouan-al-hoceima-ma010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA010",
+      "level": 1,
+      "name": {
+        "local": "طنجة - تطوان - الحسيمة",
+        "en": "Tangier Tetouan Al Hoceima",
+        "slug": "tangier-tetouan-al-hoceima-ma010"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.751",
+    "lon": "-5.603"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MA007007",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Nador",
+    "en": "Nador",
+    "slug": "nador"
+  },
+  "code": {
+    "id": "MA007007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA007",
+    "level": 1,
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.052",
+    "lon": "-2.825"
+  },
+  "metadata": {},
+  "source": {}
+}

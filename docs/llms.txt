@@ -1,0 +1,72 @@
+# Morocco Administrative Divisions
+
+> Open dataset of Morocco's administrative hierarchy:
+> 10 regions, 69 provinces, 1,735 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 10
+- Total provinces: 69
+- Total localitys: 1,735
+- Coordinates: included (all levels)
+- Last updated: 2026-05-29
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/data/all-region.json)
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/data/all-province.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/data/all-localite.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Beni Mellal Khenifra](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/beni-mellal-khenifra-ma001/) — 5 provinces, 161 localitys
+- [Casablanca Settat](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/casablanca-settat-ma002/) — 9 provinces, 180 localitys
+- [Draa Tafilalet](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/draa-tafilalet-ma003/) — 5 provinces, 167 localitys
+- [Fez Meknes](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/fez-meknes-ma004/) — 9 provinces, 255 localitys
+- [Guelmim Oued Noun](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/guelmim-oued-noun-ma005/) — 4 provinces, 59 localitys
+- [Marrakech Safi](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/marrakech-safi-ma006/) — 8 provinces, 271 localitys
+- [Oriental](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/oriental-ma007/) — 8 provinces, 142 localitys
+- [Rabat Sale Kenitra](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/rabat-sale-kenitra-ma008/) — 7 provinces, 115 localitys
+- [Souss Massa](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/souss-massa-ma009/) — 6 provinces, 216 localitys
+- [Tangier Tetouan Al Hoceima](https://github.com/open-admin-data/morocco-administrative-divisions/tree/main/divisions/tangier-tetouan-al-hoceima-ma010/) — 8 provinces, 169 localitys
+
+## Per-Region Full Data
+
+- [Beni Mellal Khenifra](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/beni-mellal-khenifra-ma001.txt)
+- [Casablanca Settat](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/casablanca-settat-ma002.txt)
+- [Draa Tafilalet](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/draa-tafilalet-ma003.txt)
+- [Fez Meknes](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/fez-meknes-ma004.txt)
+- [Guelmim Oued Noun](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/guelmim-oued-noun-ma005.txt)
+- [Marrakech Safi](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/marrakech-safi-ma006.txt)
+- [Oriental](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/oriental-ma007.txt)
+- [Rabat Sale Kenitra](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/rabat-sale-kenitra-ma008.txt)
+- [Souss Massa](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/souss-massa-ma009.txt)
+- [Tangier Tetouan Al Hoceima](https://raw.githubusercontent.com/open-admin-data/morocco-administrative-divisions/main/docs/llms-full/tangier-tetouan-al-hoceima-ma010.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (province), 3 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Morocco Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/morocco-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

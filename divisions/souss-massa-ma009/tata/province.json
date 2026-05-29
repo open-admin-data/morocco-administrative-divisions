@@ -1,0 +1,47 @@
+{
+  "id": "MA009005",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Tata",
+    "en": "Tata",
+    "slug": "tata"
+  },
+  "code": {
+    "id": "MA009005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA009",
+    "level": 1,
+    "name": {
+      "local": "سوس - ماسة",
+      "en": "Souss Massa",
+      "slug": "souss-massa-ma009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA009",
+      "level": 1,
+      "name": {
+        "local": "سوس - ماسة",
+        "en": "Souss Massa",
+        "slug": "souss-massa-ma009"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.386",
+    "lon": "-8.048"
+  },
+  "metadata": {},
+  "source": {}
+}

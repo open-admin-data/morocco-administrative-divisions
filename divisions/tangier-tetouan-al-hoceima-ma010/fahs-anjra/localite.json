@@ -1,0 +1,562 @@
+[
+  {
+    "id": "MA010003_bahraouiyne-tanja",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bahraouiyne Tanja",
+      "en": "Bahraouiyne Tanja",
+      "slug": "bahraouiyne-tanja"
+    },
+    "code": {
+      "id": "MA010003_bahraouiyne-tanja",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94022"
+    ],
+    "geo": {
+      "lat": "35.713",
+      "lon": "-5.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_bahriyne-el-aouama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bahriyne El Aouama",
+      "en": "Bahriyne El Aouama",
+      "slug": "bahriyne-el-aouama"
+    },
+    "code": {
+      "id": "MA010003_bahriyne-el-aouama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94023"
+    ],
+    "geo": {
+      "lat": "35.713",
+      "lon": "-5.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_el-borch",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Borch",
+      "en": "El Borch",
+      "slug": "el-borch"
+    },
+    "code": {
+      "id": "MA010003_el-borch",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94025"
+    ],
+    "geo": {
+      "lat": "35.713",
+      "lon": "-5.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_hakkama",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hakkama",
+      "en": "Hakkama",
+      "slug": "hakkama"
+    },
+    "code": {
+      "id": "MA010003_hakkama",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94031"
+    ],
+    "geo": {
+      "lat": "35.655",
+      "lon": "-5.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_jouamaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jouamaa",
+      "en": "Jouamaa",
+      "slug": "jouamaa"
+    },
+    "code": {
+      "id": "MA010003_jouamaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94032"
+    ],
+    "geo": {
+      "lat": "35.751",
+      "lon": "-5.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_ksar-el-majaz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksar El Majaz",
+      "en": "Ksar El Majaz",
+      "slug": "ksar-el-majaz"
+    },
+    "code": {
+      "id": "MA010003_ksar-el-majaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94033"
+    ],
+    "geo": {
+      "lat": "35.751",
+      "lon": "-5.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_ksar-sghir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksar Sghir",
+      "en": "Ksar Sghir",
+      "slug": "ksar-sghir"
+    },
+    "code": {
+      "id": "MA010003_ksar-sghir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94152"
+    ],
+    "geo": {
+      "lat": "35.842",
+      "lon": "-5.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_melloussa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Melloussa",
+      "en": "Melloussa",
+      "slug": "melloussa"
+    },
+    "code": {
+      "id": "MA010003_melloussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94053"
+    ],
+    "geo": {
+      "lat": "35.737",
+      "lon": "-5.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_tarhremt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tarhremt",
+      "en": "Tarhremt",
+      "slug": "tarhremt"
+    },
+    "code": {
+      "id": "MA010003_tarhremt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94122"
+    ],
+    "geo": {
+      "lat": "35.788",
+      "lon": "-5.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA010003_zoco-jemis-de-anyera",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zoco Jemis De Anyera",
+      "en": "Zoco Jemis De Anyera",
+      "slug": "zoco-jemis-de-anyera"
+    },
+    "code": {
+      "id": "MA010003_zoco-jemis-de-anyera",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA010003",
+      "level": 2,
+      "name": {
+        "local": "Fahs Anjra",
+        "en": "Fahs Anjra",
+        "slug": "fahs-anjra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA010",
+        "level": 1,
+        "name": {
+          "local": "طنجة - تطوان - الحسيمة",
+          "en": "Tangier Tetouan Al Hoceima",
+          "slug": "tangier-tetouan-al-hoceima-ma010"
+        }
+      },
+      {
+        "id": "MA010003",
+        "level": 2,
+        "name": {
+          "local": "Fahs Anjra",
+          "en": "Fahs Anjra",
+          "slug": "fahs-anjra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94026"
+    ],
+    "geo": {
+      "lat": "35.713",
+      "lon": "-5.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

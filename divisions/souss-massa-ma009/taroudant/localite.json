@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "MA009004_agadir-aereport",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agadir Aereport",
+      "en": "Agadir Aereport",
+      "slug": "agadir-aereport"
+    },
+    "code": {
+      "id": "MA009004_agadir-aereport",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86603"
+    ],
+    "geo": {
+      "lat": "30.342",
+      "lon": "-9.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_agadir-melloul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Agadir Melloul",
+      "en": "Agadir Melloul",
+      "slug": "agadir-melloul"
+    },
+    "code": {
+      "id": "MA009004_agadir-melloul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83532"
+    ],
+    "geo": {
+      "lat": "30.225",
+      "lon": "-7.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ahl-tifnoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ahl Tifnoute",
+      "en": "Ahl Tifnoute",
+      "slug": "ahl-tifnoute"
+    },
+    "code": {
+      "id": "MA009004_ahl-tifnoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83172"
+    ],
+    "geo": {
+      "lat": "30.838",
+      "lon": "-7.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ahmar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ahmar",
+      "en": "Ahmar",
+      "slug": "ahmar"
+    },
+    "code": {
+      "id": "MA009004_ahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83022"
+    ],
+    "geo": {
+      "lat": "30.456",
+      "lon": "-8.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ait-abdallah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Abdallah",
+      "en": "Ait Abdallah",
+      "slug": "ait-abdallah"
+    },
+    "code": {
+      "id": "MA009004_ait-abdallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83252"
+    ],
+    "geo": {
+      "lat": "29.814",
+      "lon": "-8.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ait-iaaza",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Iaaza",
+      "en": "Ait Iaaza",
+      "slug": "ait-iaaza"
+    },
+    "code": {
+      "id": "MA009004_ait-iaaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83200"
+    ],
+    "geo": {
+      "lat": "30.155",
+      "lon": "-8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ait-igas",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Igas",
+      "en": "Ait Igas",
+      "slug": "ait-igas"
+    },
+    "code": {
+      "id": "MA009004_ait-igas",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83222"
+    ],
+    "geo": {
+      "lat": "30.28",
+      "lon": "-8.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ait-makhlouf",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Makhlouf",
+      "en": "Ait Makhlouf",
+      "slug": "ait-makhlouf"
+    },
+    "code": {
+      "id": "MA009004_ait-makhlouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83012"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_amalou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amalou",
+      "en": "Amalou",
+      "slug": "amalou"
+    },
+    "code": {
+      "id": "MA009004_amalou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83264"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_aoulouz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Aoulouz",
+      "en": "Aoulouz",
+      "slug": "aoulouz"
+    },
+    "code": {
+      "id": "MA009004_aoulouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83052"
+    ],
+    "geo": {
+      "lat": "30.673",
+      "lon": "-8.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_arbaa-assads",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Assads",
+      "en": "Arbaa Assads",
+      "slug": "arbaa-assads"
+    },
+    "code": {
+      "id": "MA009004_arbaa-assads",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83422"
+    ],
+    "geo": {
+      "lat": "30.416",
+      "lon": "-9.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_arbaa-assais",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Arbaa Assais",
+      "en": "Arbaa Assais",
+      "slug": "arbaa-assais"
+    },
+    "code": {
+      "id": "MA009004_arbaa-assais",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83522"
+    ],
+    "geo": {
+      "lat": "30.377",
+      "lon": "-7.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_argana",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Argana",
+      "en": "Argana",
+      "slug": "argana"
+    },
+    "code": {
+      "id": "MA009004_argana",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83102"
+    ],
+    "geo": {
+      "lat": "30.782",
+      "lon": "-9.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_askaoun",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Askaoun",
+      "en": "Askaoun",
+      "slug": "askaoun"
+    },
+    "code": {
+      "id": "MA009004_askaoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83152"
+    ],
+    "geo": {
+      "lat": "30.871",
+      "lon": "-7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_assaki",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Assaki",
+      "en": "Assaki",
+      "slug": "assaki"
+    },
+    "code": {
+      "id": "MA009004_assaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83523"
+    ],
+    "geo": {
+      "lat": "30.377",
+      "lon": "-7.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_azaghar-nirs",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azaghar Nirs",
+      "en": "Azaghar Nirs",
+      "slug": "azaghar-nirs"
+    },
+    "code": {
+      "id": "MA009004_azaghar-nirs",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83265"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_azrar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Azrar",
+      "en": "Azrar",
+      "slug": "azrar"
+    },
+    "code": {
+      "id": "MA009004_azrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83225"
+    ],
+    "geo": {
+      "lat": "30.171",
+      "lon": "-7.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_bounrar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bounrar",
+      "en": "Bounrar",
+      "slug": "bounrar"
+    },
+    "code": {
+      "id": "MA009004_bounrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83013"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_dar-bahbaz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dar Bahbaz",
+      "en": "Dar Bahbaz",
+      "slug": "dar-bahbaz"
+    },
+    "code": {
+      "id": "MA009004_dar-bahbaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83322"
+    ],
+    "geo": {
+      "lat": "30.556",
+      "lon": "-8.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_eddir",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Eddir",
+      "en": "Eddir",
+      "slug": "eddir"
+    },
+    "code": {
+      "id": "MA009004_eddir",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83353"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_el-faid",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Faid",
+      "en": "El Faid",
+      "slug": "el-faid"
+    },
+    "code": {
+      "id": "MA009004_el-faid",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83072"
+    ],
+    "geo": {
+      "lat": "30.615",
+      "lon": "-8.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_el-koudia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "El Koudia",
+      "en": "El Koudia",
+      "slug": "el-koudia"
+    },
+    "code": {
+      "id": "MA009004_el-koudia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83372"
+    ],
+    "geo": {
+      "lat": "30.48",
+      "lon": "-9.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_freija",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Freija",
+      "en": "Freija",
+      "slug": "freija"
+    },
+    "code": {
+      "id": "MA009004_freija",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83202"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_had-igli",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Igli",
+      "en": "Had Igli",
+      "slug": "had-igli"
+    },
+    "code": {
+      "id": "MA009004_had-igli",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83323"
+    ],
+    "geo": {
+      "lat": "30.556",
+      "lon": "-8.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_had-imaouen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Imaouen",
+      "en": "Had Imaouen",
+      "slug": "had-imaouen"
+    },
+    "code": {
+      "id": "MA009004_had-imaouen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83272"
+    ],
+    "geo": {
+      "lat": "30.247",
+      "lon": "-8.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_had-imoulass",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Imoulass",
+      "en": "Had Imoulass",
+      "slug": "had-imoulass"
+    },
+    "code": {
+      "id": "MA009004_had-imoulass",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83023"
+    ],
+    "geo": {
+      "lat": "30.172",
+      "lon": "-9.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_had-menizla",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Had Menizla",
+      "en": "Had Menizla",
+      "slug": "had-menizla"
+    },
+    "code": {
+      "id": "MA009004_had-menizla",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83032"
+    ],
+    "geo": {
+      "lat": "30.611",
+      "lon": "-9.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ida-ou-moumen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ida Ou Moumen",
+      "en": "Ida Ou Moumen",
+      "slug": "ida-ou-moumen"
+    },
+    "code": {
+      "id": "MA009004_ida-ou-moumen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83034"
+    ],
+    "geo": {
+      "lat": "30.611",
+      "lon": "-9.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ida-ougoummad",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ida Ougoummad",
+      "en": "Ida Ougoummad",
+      "slug": "ida-ougoummad"
+    },
+    "code": {
+      "id": "MA009004_ida-ougoummad",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83303"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_igoudar-mnabha",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Igoudar Mnabha",
+      "en": "Igoudar Mnabha",
+      "slug": "igoudar-mnabha"
+    },
+    "code": {
+      "id": "MA009004_igoudar-mnabha",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83535"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_iguidi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Iguidi",
+      "en": "Iguidi",
+      "slug": "iguidi"
+    },
+    "code": {
+      "id": "MA009004_iguidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83173"
+    ],
+    "geo": {
+      "lat": "30.838",
+      "lon": "-7.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_imi-ntayart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imi Ntayart",
+      "en": "Imi Ntayart",
+      "slug": "imi-ntayart"
+    },
+    "code": {
+      "id": "MA009004_imi-ntayart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83285"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_imilmaiss",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Imilmaiss",
+      "en": "Imilmaiss",
+      "slug": "imilmaiss"
+    },
+    "code": {
+      "id": "MA009004_imilmaiss",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83123"
+    ],
+    "geo": {
+      "lat": "30.831",
+      "lon": "-8.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_iouzioua-ou-neine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Iouzioua Ou Neine",
+      "en": "Iouzioua Ou Neine",
+      "slug": "iouzioua-ou-neine"
+    },
+    "code": {
+      "id": "MA009004_iouzioua-ou-neine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83073"
+    ],
+    "geo": {
+      "lat": "30.615",
+      "lon": "-8.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_irherm",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Irherm",
+      "en": "Irherm",
+      "slug": "irherm"
+    },
+    "code": {
+      "id": "MA009004_irherm",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83250"
+    ],
+    "geo": {
+      "lat": "29.814",
+      "lon": "-8.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_irhil-nourhou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Irhil Nourhou",
+      "en": "Irhil Nourhou",
+      "slug": "irhil-nourhou"
+    },
+    "code": {
+      "id": "MA009004_irhil-nourhou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83524"
+    ],
+    "geo": {
+      "lat": "30.377",
+      "lon": "-7.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_issen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Issen",
+      "en": "Issen",
+      "slug": "issen"
+    },
+    "code": {
+      "id": "MA009004_issen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83374"
+    ],
+    "geo": {
+      "lat": "30.48",
+      "lon": "-9.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_khemis-arazane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Arazane",
+      "en": "Khemis Arazane",
+      "slug": "khemis-arazane"
+    },
+    "code": {
+      "id": "MA009004_khemis-arazane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83324"
+    ],
+    "geo": {
+      "lat": "30.556",
+      "lon": "-8.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_khemis-bigoudine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Bigoudine",
+      "en": "Khemis Bigoudine",
+      "slug": "khemis-bigoudine"
+    },
+    "code": {
+      "id": "MA009004_khemis-bigoudine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83122"
+    ],
+    "geo": {
+      "lat": "30.831",
+      "lon": "-8.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_khemis-talagjount",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khemis Talagjount",
+      "en": "Khemis Talagjount",
+      "slug": "khemis-talagjount"
+    },
+    "code": {
+      "id": "MA009004_khemis-talagjount",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83325"
+    ],
+    "geo": {
+      "lat": "30.556",
+      "lon": "-8.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ksiba-ahl-rmel",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ksiba Ahl Rmel",
+      "en": "Ksiba Ahl Rmel",
+      "slug": "ksiba-ahl-rmel"
+    },
+    "code": {
+      "id": "MA009004_ksiba-ahl-rmel",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83375"
+    ],
+    "geo": {
+      "lat": "30.48",
+      "lon": "-9.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_lakhnafif",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lakhnafif",
+      "en": "Lakhnafif",
+      "slug": "lakhnafif"
+    },
+    "code": {
+      "id": "MA009004_lakhnafif",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83423"
+    ],
+    "geo": {
+      "lat": "30.416",
+      "lon": "-9.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_lamhadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamhadi",
+      "en": "Lamhadi",
+      "slug": "lamhadi"
+    },
+    "code": {
+      "id": "MA009004_lamhadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83424"
+    ],
+    "geo": {
+      "lat": "30.416",
+      "lon": "-9.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_lamhara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lamhara",
+      "en": "Lamhara",
+      "slug": "lamhara"
+    },
+    "code": {
+      "id": "MA009004_lamhara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83304"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_mechraa-el-ain",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mechraa El Ain",
+      "en": "Mechraa El Ain",
+      "slug": "mechraa-el-ain"
+    },
+    "code": {
+      "id": "MA009004_mechraa-el-ain",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83024"
+    ],
+    "geo": {
+      "lat": "30.172",
+      "lon": "-9.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_nouara",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nouara",
+      "en": "Nouara",
+      "slug": "nouara"
+    },
+    "code": {
+      "id": "MA009004_nouara",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83223"
+    ],
+    "geo": {
+      "lat": "30.28",
+      "lon": "-8.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_oulad-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Aissa",
+      "en": "Oulad Aissa",
+      "slug": "oulad-aissa"
+    },
+    "code": {
+      "id": "MA009004_oulad-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83313"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_oulad-berhil",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Berhil",
+      "en": "Oulad Berhil",
+      "slug": "oulad-berhil"
+    },
+    "code": {
+      "id": "MA009004_oulad-berhil",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83300"
+    ],
+    "geo": {
+      "lat": "30.513",
+      "lon": "-8.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_oulad-teima",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulad Teima",
+      "en": "Oulad Teima",
+      "slug": "oulad-teima"
+    },
+    "code": {
+      "id": "MA009004_oulad-teima",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83350"
+    ],
+    "geo": {
+      "lat": "30.395",
+      "lon": "-9.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_oulkadi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Oulkadi",
+      "en": "Oulkadi",
+      "slug": "oulkadi"
+    },
+    "code": {
+      "id": "MA009004_oulkadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83273"
+    ],
+    "geo": {
+      "lat": "30.247",
+      "lon": "-8.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ouneine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouneine",
+      "en": "Ouneine",
+      "slug": "ouneine"
+    },
+    "code": {
+      "id": "MA009004_ouneine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83472"
+    ],
+    "geo": {
+      "lat": "30.591",
+      "lon": "-8.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_ouzoune",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ouzoune",
+      "en": "Ouzoune",
+      "slug": "ouzoune"
+    },
+    "code": {
+      "id": "MA009004_ouzoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83283"
+    ],
+    "geo": {
+      "lat": "30.155",
+      "lon": "-8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sebt-el-guerdane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt El Guerdane",
+      "en": "Sebt El Guerdane",
+      "slug": "sebt-el-guerdane"
+    },
+    "code": {
+      "id": "MA009004_sebt-el-guerdane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83400"
+    ],
+    "geo": {
+      "lat": "30.591",
+      "lon": "-8.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sebt-kfifate",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Kfifate",
+      "en": "Sebt Kfifate",
+      "slug": "sebt-kfifate"
+    },
+    "code": {
+      "id": "MA009004_sebt-kfifate",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83376"
+    ],
+    "geo": {
+      "lat": "30.48",
+      "lon": "-9.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sebt-tataoute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sebt Tataoute",
+      "en": "Sebt Tataoute",
+      "slug": "sebt-tataoute"
+    },
+    "code": {
+      "id": "MA009004_sebt-tataoute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83253"
+    ],
+    "geo": {
+      "lat": "29.814",
+      "lon": "-8.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-abdellah-ou-said",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Abdellah Ou Said",
+      "en": "Sidi Abdellah Ou Said",
+      "slug": "sidi-abdellah-ou-said"
+    },
+    "code": {
+      "id": "MA009004_sidi-abdellah-ou-said",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83305"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-ahmed-ou-abdallah",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed Ou Abdallah",
+      "en": "Sidi Ahmed Ou Abdallah",
+      "slug": "sidi-ahmed-ou-abdallah"
+    },
+    "code": {
+      "id": "MA009004_sidi-ahmed-ou-abdallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83014"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-ahmed-ou-amar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ahmed Ou Amar",
+      "en": "Sidi Ahmed Ou Amar",
+      "slug": "sidi-ahmed-ou-amar"
+    },
+    "code": {
+      "id": "MA009004_sidi-ahmed-ou-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83382"
+    ],
+    "geo": {
+      "lat": "30.621",
+      "lon": "-8.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-boaal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boaal",
+      "en": "Sidi Boaal",
+      "slug": "sidi-boaal"
+    },
+    "code": {
+      "id": "MA009004_sidi-boaal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83255"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-borja",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Borja",
+      "en": "Sidi Borja",
+      "slug": "sidi-borja"
+    },
+    "code": {
+      "id": "MA009004_sidi-borja",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83026"
+    ],
+    "geo": {
+      "lat": "30.172",
+      "lon": "-9.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-boumoussa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Boumoussa",
+      "en": "Sidi Boumoussa",
+      "slug": "sidi-boumoussa"
+    },
+    "code": {
+      "id": "MA009004_sidi-boumoussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83383"
+    ],
+    "geo": {
+      "lat": "30.621",
+      "lon": "-8.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-dahmane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Dahmane",
+      "en": "Sidi Dahmane",
+      "slug": "sidi-dahmane"
+    },
+    "code": {
+      "id": "MA009004_sidi-dahmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83015"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-hsaine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Hsaine",
+      "en": "Sidi Hsaine",
+      "slug": "sidi-hsaine"
+    },
+    "code": {
+      "id": "MA009004_sidi-hsaine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83525"
+    ],
+    "geo": {
+      "lat": "30.377",
+      "lon": "-7.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-hsaine-ou-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Hsaine Ou Ali",
+      "en": "Sidi Hsaine Ou Ali",
+      "slug": "sidi-hsaine-ou-ali"
+    },
+    "code": {
+      "id": "MA009004_sidi-hsaine-ou-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85572"
+    ],
+    "geo": {
+      "lat": "29.668",
+      "lon": "-9.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-moussa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Moussa",
+      "en": "Sidi Moussa",
+      "slug": "sidi-moussa"
+    },
+    "code": {
+      "id": "MA009004_sidi-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83384"
+    ],
+    "geo": {
+      "lat": "30.621",
+      "lon": "-8.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-moussa-lhamri",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Moussa Lhamri",
+      "en": "Sidi Moussa Lhamri",
+      "slug": "sidi-moussa-lhamri"
+    },
+    "code": {
+      "id": "MA009004_sidi-moussa-lhamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83354"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-mzal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Mzal",
+      "en": "Sidi Mzal",
+      "slug": "sidi-mzal"
+    },
+    "code": {
+      "id": "MA009004_sidi-mzal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83256"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_sidi-ouaaziz",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sidi Ouaaziz",
+      "en": "Sidi Ouaaziz",
+      "slug": "sidi-ouaaziz"
+    },
+    "code": {
+      "id": "MA009004_sidi-ouaaziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83334"
+    ],
+    "geo": {
+      "lat": "30.513",
+      "lon": "-8.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tabia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabia",
+      "en": "Tabia",
+      "slug": "tabia"
+    },
+    "code": {
+      "id": "MA009004_tabia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83266"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tafingoult",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafingoult",
+      "en": "Tafingoult",
+      "slug": "tafingoult"
+    },
+    "code": {
+      "id": "MA009004_tafingoult",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83452"
+    ],
+    "geo": {
+      "lat": "30.766",
+      "lon": "-8.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tafraouten",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tafraouten",
+      "en": "Tafraouten",
+      "slug": "tafraouten"
+    },
+    "code": {
+      "id": "MA009004_tafraouten",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83016"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_taliouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taliouine",
+      "en": "Taliouine",
+      "slug": "taliouine"
+    },
+    "code": {
+      "id": "MA009004_taliouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83500"
+    ],
+    "geo": {
+      "lat": "30.529",
+      "lon": "-7.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_talmakante",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Talmakante",
+      "en": "Talmakante",
+      "slug": "talmakante"
+    },
+    "code": {
+      "id": "MA009004_talmakante",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83103"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tamaloukte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tamaloukte",
+      "en": "Tamaloukte",
+      "slug": "tamaloukte"
+    },
+    "code": {
+      "id": "MA009004_tamaloukte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83044"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tantamt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tantamt",
+      "en": "Tantamt",
+      "slug": "tantamt"
+    },
+    "code": {
+      "id": "MA009004_tantamt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83274"
+    ],
+    "geo": {
+      "lat": "30.247",
+      "lon": "-8.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_taouyalte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taouyalte",
+      "en": "Taouyalte",
+      "slug": "taouyalte"
+    },
+    "code": {
+      "id": "MA009004_taouyalte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83174"
+    ],
+    "geo": {
+      "lat": "30.838",
+      "lon": "-7.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_taroudant",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taroudant",
+      "en": "Taroudant",
+      "slug": "taroudant"
+    },
+    "code": {
+      "id": "MA009004_taroudant",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83000"
+    ],
+    "geo": {
+      "lat": "30.47",
+      "lon": "-8.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tassousfi",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tassousfi",
+      "en": "Tassousfi",
+      "slug": "tassousfi"
+    },
+    "code": {
+      "id": "MA009004_tassousfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83526"
+    ],
+    "geo": {
+      "lat": "30.377",
+      "lon": "-7.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tazzemmourte",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tazzemmourte",
+      "en": "Tazzemmourte",
+      "slug": "tazzemmourte"
+    },
+    "code": {
+      "id": "MA009004_tazzemmourte",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83035"
+    ],
+    "geo": {
+      "lat": "30.611",
+      "lon": "-9.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tidsi-nissendalene",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tidsi Nissendalene",
+      "en": "Tidsi Nissendalene",
+      "slug": "tidsi-nissendalene"
+    },
+    "code": {
+      "id": "MA009004_tidsi-nissendalene",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83425"
+    ],
+    "geo": {
+      "lat": "30.416",
+      "lon": "-9.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tindine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tindine",
+      "en": "Tindine",
+      "slug": "tindine"
+    },
+    "code": {
+      "id": "MA009004_tindine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83284"
+    ],
+    "geo": {
+      "lat": "30.155",
+      "lon": "-8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tinzart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tinzart",
+      "en": "Tinzart",
+      "slug": "tinzart"
+    },
+    "code": {
+      "id": "MA009004_tinzart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83306"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tioute",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tioute",
+      "en": "Tioute",
+      "slug": "tioute"
+    },
+    "code": {
+      "id": "MA009004_tioute",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83224"
+    ],
+    "geo": {
+      "lat": "30.389",
+      "lon": "-8.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tisfane",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tisfane",
+      "en": "Tisfane",
+      "slug": "tisfane"
+    },
+    "code": {
+      "id": "MA009004_tisfane",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83262"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tisrasse",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tisrasse",
+      "en": "Tisrasse",
+      "slug": "tisrasse"
+    },
+    "code": {
+      "id": "MA009004_tisrasse",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83074"
+    ],
+    "geo": {
+      "lat": "30.615",
+      "lon": "-8.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tizgzaouine",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizgzaouine",
+      "en": "Tizgzaouine",
+      "slug": "tizgzaouine"
+    },
+    "code": {
+      "id": "MA009004_tizgzaouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83533"
+    ],
+    "geo": {
+      "lat": "30.225",
+      "lon": "-7.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tizi-ntest",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tizi Ntest",
+      "en": "Tizi Ntest",
+      "slug": "tizi-ntest"
+    },
+    "code": {
+      "id": "MA009004_tizi-ntest",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83312"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tlata-ait-taleb",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tlata Ait Taleb",
+      "en": "Tlata Ait Taleb",
+      "slug": "tlata-ait-taleb"
+    },
+    "code": {
+      "id": "MA009004_tlata-ait-taleb",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83036"
+    ],
+    "geo": {
+      "lat": "30.611",
+      "lon": "-9.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tleta-nihit",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tleta Nihit",
+      "en": "Tleta Nihit",
+      "slug": "tleta-nihit"
+    },
+    "code": {
+      "id": "MA009004_tleta-nihit",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83275"
+    ],
+    "geo": {
+      "lat": "30.247",
+      "lon": "-8.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tnine-addar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Addar",
+      "en": "Tnine Addar",
+      "slug": "tnine-addar"
+    },
+    "code": {
+      "id": "MA009004_tnine-addar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83276"
+    ],
+    "geo": {
+      "lat": "30.247",
+      "lon": "-8.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tnine-ida-ou-gailal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Ida Ou Gailal",
+      "en": "Tnine Ida Ou Gailal",
+      "slug": "tnine-ida-ou-gailal"
+    },
+    "code": {
+      "id": "MA009004_tnine-ida-ou-gailal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83326"
+    ],
+    "geo": {
+      "lat": "30.556",
+      "lon": "-8.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tnine-tigouga",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Tigouga",
+      "en": "Tnine Tigouga",
+      "slug": "tnine-tigouga"
+    },
+    "code": {
+      "id": "MA009004_tnine-tigouga",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83332"
+    ],
+    "geo": {
+      "lat": "30.513",
+      "lon": "-8.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_tnine-touflaazt",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tnine Touflaazt",
+      "en": "Tnine Touflaazt",
+      "slug": "tnine-touflaazt"
+    },
+    "code": {
+      "id": "MA009004_tnine-touflaazt",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83282"
+    ],
+    "geo": {
+      "lat": "30.155",
+      "lon": "-8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_toubkal",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Toubkal",
+      "en": "Toubkal",
+      "slug": "toubkal"
+    },
+    "code": {
+      "id": "MA009004_toubkal",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83175"
+    ],
+    "geo": {
+      "lat": "30.838",
+      "lon": "-7.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_toughmart",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Toughmart",
+      "en": "Toughmart",
+      "slug": "toughmart"
+    },
+    "code": {
+      "id": "MA009004_toughmart",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83333"
+    ],
+    "geo": {
+      "lat": "30.513",
+      "lon": "-8.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_toumliline",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Toumliline",
+      "en": "Toumliline",
+      "slug": "toumliline"
+    },
+    "code": {
+      "id": "MA009004_toumliline",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83263"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_zagmouzen",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zagmouzen",
+      "en": "Zagmouzen",
+      "slug": "zagmouzen"
+    },
+    "code": {
+      "id": "MA009004_zagmouzen",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83503"
+    ],
+    "geo": {
+      "lat": "30.446",
+      "lon": "-8.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009004_zaouiat-sidi-tahar",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zaouiat Sidi Tahar",
+      "en": "Zaouiat Sidi Tahar",
+      "slug": "zaouiat-sidi-tahar"
+    },
+    "code": {
+      "id": "MA009004_zaouiat-sidi-tahar",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009004",
+      "level": 2,
+      "name": {
+        "local": "Taroudant",
+        "en": "Taroudant",
+        "slug": "taroudant"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009004",
+        "level": 2,
+        "name": {
+          "local": "Taroudant",
+          "en": "Taroudant",
+          "slug": "taroudant"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83042"
+    ],
+    "geo": {
+      "lat": "30.508",
+      "lon": "-8.766"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

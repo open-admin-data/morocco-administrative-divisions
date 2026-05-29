@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.localite,geo.lat,geo.lon
+MA005001,Assa Zag,Assa Zag,assa-zag,MA005001,7,28.235,-9.537
+MA005002,Guelmim,Guelmim,guelmim,MA005002,29,28.891,-9.991
+MA005004,Sidi Ifni,Sidi Ifni,sidi-ifni,MA005004,16,29.329,-9.759
+MA005003,Tan Tan,Tan Tan,tan-tan,MA005003,7,28.21,-11.088

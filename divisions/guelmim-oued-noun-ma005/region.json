@@ -1,0 +1,30 @@
+{
+  "id": "MA005",
+  "level": 1,
+  "level_name": {
+    "local": "جهة",
+    "en": "Region"
+  },
+  "name": {
+    "local": "كلميم - واد نون",
+    "en": "Guelmim Oued Noun",
+    "slug": "guelmim-oued-noun-ma005"
+  },
+  "code": {
+    "id": "MA005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "province": 4,
+    "localite": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.646",
+    "lon": "-10.068"
+  },
+  "metadata": {},
+  "source": {}
+}

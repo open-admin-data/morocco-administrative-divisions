@@ -1,0 +1,47 @@
+{
+  "id": "MA007001",
+  "level": 2,
+  "level_name": {
+    "local": "إقليم",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Oujda Angad",
+    "en": "Oujda Angad",
+    "slug": "oujda-angad"
+  },
+  "code": {
+    "id": "MA007001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MA007",
+    "level": 1,
+    "name": {
+      "local": "الجهة الشرقية",
+      "en": "Oriental",
+      "slug": "oriental-ma007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MA007",
+      "level": 1,
+      "name": {
+        "local": "الجهة الشرقية",
+        "en": "Oriental",
+        "slug": "oriental-ma007"
+      }
+    }
+  ],
+  "children_count": {
+    "localite": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.668",
+    "lon": "-2.036"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "MA009003_ait-melloul",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ait Melloul",
+      "en": "Ait Melloul",
+      "slug": "ait-melloul"
+    },
+    "code": {
+      "id": "MA009003_ait-melloul",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009003",
+      "level": 2,
+      "name": {
+        "local": "Inezgane Ait Melloul",
+        "en": "Inezgane Ait Melloul",
+        "slug": "inezgane-ait-melloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009003",
+        "level": 2,
+        "name": {
+          "local": "Inezgane Ait Melloul",
+          "en": "Inezgane Ait Melloul",
+          "slug": "inezgane-ait-melloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86150"
+    ],
+    "geo": {
+      "lat": "30.342",
+      "lon": "-9.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009003_lqliaa",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lqliaa",
+      "en": "Lqliaa",
+      "slug": "lqliaa"
+    },
+    "code": {
+      "id": "MA009003_lqliaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009003",
+      "level": 2,
+      "name": {
+        "local": "Inezgane Ait Melloul",
+        "en": "Inezgane Ait Melloul",
+        "slug": "inezgane-ait-melloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009003",
+        "level": 2,
+        "name": {
+          "local": "Inezgane Ait Melloul",
+          "en": "Inezgane Ait Melloul",
+          "slug": "inezgane-ait-melloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86356"
+    ],
+    "geo": {
+      "lat": "30.342",
+      "lon": "-9.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009003_souk-el-had-oulad-dahou",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Souk El Had Oulad Dahou",
+      "en": "Souk El Had Oulad Dahou",
+      "slug": "souk-el-had-oulad-dahou"
+    },
+    "code": {
+      "id": "MA009003_souk-el-had-oulad-dahou",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009003",
+      "level": 2,
+      "name": {
+        "local": "Inezgane Ait Melloul",
+        "en": "Inezgane Ait Melloul",
+        "slug": "inezgane-ait-melloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009003",
+        "level": 2,
+        "name": {
+          "local": "Inezgane Ait Melloul",
+          "en": "Inezgane Ait Melloul",
+          "slug": "inezgane-ait-melloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86622"
+    ],
+    "geo": {
+      "lat": "30.342",
+      "lon": "-9.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MA009003_temsia",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Temsia",
+      "en": "Temsia",
+      "slug": "temsia"
+    },
+    "code": {
+      "id": "MA009003_temsia",
+      "iso": null
+    },
+    "parent": {
+      "id": "MA009003",
+      "level": 2,
+      "name": {
+        "local": "Inezgane Ait Melloul",
+        "en": "Inezgane Ait Melloul",
+        "slug": "inezgane-ait-melloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MA009",
+        "level": 1,
+        "name": {
+          "local": "سوس - ماسة",
+          "en": "Souss Massa",
+          "slug": "souss-massa-ma009"
+        }
+      },
+      {
+        "id": "MA009003",
+        "level": 2,
+        "name": {
+          "local": "Inezgane Ait Melloul",
+          "en": "Inezgane Ait Melloul",
+          "slug": "inezgane-ait-melloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86602"
+    ],
+    "geo": {
+      "lat": "30.342",
+      "lon": "-9.504"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
