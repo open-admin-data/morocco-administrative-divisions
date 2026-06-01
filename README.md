@@ -13,7 +13,7 @@
 | Postal Codes | ✅ Included (locality level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-29 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/ma](https://openadmindata.org/ma/) |
 | API | [openadmindata.org/api/ma](https://openadmindata.org/api/ma/) |
 

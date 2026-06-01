@@ -26,5 +26,9 @@
     "lon": "-2.392"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/oriental-ma007/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

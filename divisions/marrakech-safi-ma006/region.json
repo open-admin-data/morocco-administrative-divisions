@@ -26,5 +26,9 @@
     "lon": "-8.311"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/marrakech-safi-ma006/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

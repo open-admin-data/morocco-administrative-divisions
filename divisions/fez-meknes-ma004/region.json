@@ -26,5 +26,9 @@
     "lon": "-4.847"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/fez-meknes-ma004/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

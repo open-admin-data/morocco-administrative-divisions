@@ -3,7 +3,7 @@
 > 8 provinces, 169 localitys
 > Code: MA010
 > Coordinates: 35.218, -5.435
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

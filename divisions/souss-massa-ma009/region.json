@@ -26,5 +26,9 @@
     "lon": "-8.153"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/souss-massa-ma009/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

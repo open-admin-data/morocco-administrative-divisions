@@ -26,5 +26,9 @@
     "lon": "-10.068"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/guelmim-oued-noun-ma005/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

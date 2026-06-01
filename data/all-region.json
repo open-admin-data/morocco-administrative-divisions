@@ -27,7 +27,11 @@
       "lon": "-6.281"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/beni-mellal-khenifra-ma001/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA002",
@@ -57,7 +61,11 @@
       "lon": "-7.8"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/casablanca-settat-ma002/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA003",
@@ -87,7 +95,11 @@
       "lon": "-5.583"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/draa-tafilalet-ma003/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA004",
@@ -117,7 +129,11 @@
       "lon": "-4.847"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/fez-meknes-ma004/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA005",
@@ -147,7 +163,11 @@
       "lon": "-10.068"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/guelmim-oued-noun-ma005/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA006",
@@ -177,7 +197,11 @@
       "lon": "-8.311"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/marrakech-safi-ma006/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA007",
@@ -207,7 +231,11 @@
       "lon": "-2.392"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/oriental-ma007/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA008",
@@ -237,7 +265,11 @@
       "lon": "-6.329"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/rabat-sale-kenitra-ma008/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA009",
@@ -267,7 +299,11 @@
       "lon": "-8.153"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/souss-massa-ma009/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   },
   {
     "id": "MA010",
@@ -297,6 +333,10 @@
       "lon": "-5.435"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ma/regions/tangier-tetouan-al-hoceima-ma010/",
+      "api": "https://openadmindata.org/api/ma/"
+    }
   }
 ]

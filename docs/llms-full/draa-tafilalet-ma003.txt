@@ -3,7 +3,7 @@
 > 5 provinces, 167 localitys
 > Code: MA003
 > Coordinates: 31.287, -5.583
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

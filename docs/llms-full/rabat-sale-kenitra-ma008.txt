@@ -3,7 +3,7 @@
 > 7 provinces, 115 localitys
 > Code: MA008
 > Coordinates: 34.082, -6.329
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

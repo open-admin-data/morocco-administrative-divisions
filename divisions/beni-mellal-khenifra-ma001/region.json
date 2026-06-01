@@ -26,5 +26,9 @@
     "lon": "-6.281"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/beni-mellal-khenifra-ma001/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

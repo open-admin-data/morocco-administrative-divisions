@@ -26,5 +26,9 @@
     "lon": "-5.583"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/draa-tafilalet-ma003/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

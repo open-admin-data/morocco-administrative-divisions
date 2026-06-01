@@ -3,7 +3,7 @@
 > 8 provinces, 142 localitys
 > Code: MA007
 > Coordinates: 33.579, -2.392
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

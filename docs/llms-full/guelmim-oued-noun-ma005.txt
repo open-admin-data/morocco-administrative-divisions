@@ -3,7 +3,7 @@
 > 4 provinces, 59 localitys
 > Code: MA005
 > Coordinates: 28.646, -10.068
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

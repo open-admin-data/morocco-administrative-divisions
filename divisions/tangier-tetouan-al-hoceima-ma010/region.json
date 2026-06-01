@@ -26,5 +26,9 @@
     "lon": "-5.435"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/tangier-tetouan-al-hoceima-ma010/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

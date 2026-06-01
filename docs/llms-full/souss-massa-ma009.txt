@@ -3,7 +3,7 @@
 > 6 provinces, 216 localitys
 > Code: MA009
 > Coordinates: 29.739, -8.153
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

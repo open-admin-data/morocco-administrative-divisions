@@ -3,7 +3,7 @@
 > 9 provinces, 180 localitys
 > Code: MA002
 > Coordinates: 33.065, -7.8
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

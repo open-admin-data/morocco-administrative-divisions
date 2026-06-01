@@ -26,5 +26,9 @@
     "lon": "-6.329"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/rabat-sale-kenitra-ma008/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }

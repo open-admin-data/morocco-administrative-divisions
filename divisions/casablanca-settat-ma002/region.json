@@ -26,5 +26,9 @@
     "lon": "-7.8"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ma/regions/casablanca-settat-ma002/",
+    "api": "https://openadmindata.org/api/ma/"
+  }
 }
